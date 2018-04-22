@@ -1,0 +1,928 @@
+gamePk,link,gameType,season,gameDate,awayGamePoints,awaywins,awaylosses,awayties,awayid,awayname,awaylink,homeGamePoints,homewins,homelosses,hometies,homeid,homename,homelink
+1986020001,/api/v1/game/1986020001/feed/live,R,19861987,1986-10-10T00:00:00Z,5,1,0,0,20,Calgary Flames,/api/v1/teams/20,3,0,1,0,6,Boston Bruins,/api/v1/teams/6
+1986020003,/api/v1/game/1986020003/feed/live,R,19861987,1986-10-10T00:00:00Z,4,0,1,0,8,Montréal Canadiens,/api/v1/teams/8,7,1,0,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020004,/api/v1/game/1986020004/feed/live,R,19861987,1986-10-10T00:00:00Z,1,0,1,0,17,Detroit Red Wings,/api/v1/teams/17,6,1,0,0,32,Quebec Nordiques,/api/v1/teams/32
+1986020006,/api/v1/game/1986020006/feed/live,R,19861987,1986-10-10T00:00:00Z,5,1,0,0,1,New Jersey Devils,/api/v1/teams/1,3,0,1,0,3,New York Rangers,/api/v1/teams/3
+1986020007,/api/v1/game/1986020007/feed/live,R,19861987,1986-10-10T00:00:00Z,1,0,1,0,22,Edmonton Oilers,/api/v1/teams/22,2,1,0,0,4,Philadelphia Flyers,/api/v1/teams/4
+1986020008,/api/v1/game/1986020008/feed/live,R,19861987,1986-10-10T00:00:00Z,4,0,1,0,15,Washington Capitals,/api/v1/teams/15,5,1,0,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020002,/api/v1/game/1986020002/feed/live,R,19861987,1986-10-10T01:00:00Z,2,0,1,0,7,Buffalo Sabres,/api/v1/teams/7,3,1,0,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020005,/api/v1/game/1986020005/feed/live,R,19861987,1986-10-10T01:00:00Z,2,0,1,0,2,New York Islanders,/api/v1/teams/2,3,1,0,0,16,Chicago Blackhawks,/api/v1/teams/16
+1986020009,/api/v1/game/1986020009/feed/live,R,19861987,1986-10-10T03:00:00Z,4,1,0,0,19,St. Louis Blues,/api/v1/teams/19,3,0,1,0,26,Los Angeles Kings,/api/v1/teams/26
+1986020010,/api/v1/game/1986020010/feed/live,R,19861987,1986-10-12T00:00:00Z,4,0,2,0,6,Boston Bruins,/api/v1/teams/6,5,2,0,0,1,New Jersey Devils,/api/v1/teams/1
+1986020011,/api/v1/game/1986020011/feed/live,R,19861987,1986-10-12T00:00:00Z,5,1,1,0,20,Calgary Flames,/api/v1/teams/20,6,1,0,0,34,Hartford Whalers,/api/v1/teams/34
+1986020012,/api/v1/game/1986020012/feed/live,R,19861987,1986-10-12T00:00:00Z,5,0,1,1,7,Buffalo Sabres,/api/v1/teams/7,5,1,0,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020013,/api/v1/game/1986020013/feed/live,R,19861987,1986-10-12T00:00:00Z,5,1,1,0,22,Edmonton Oilers,/api/v1/teams/22,4,0,1,0,8,Montréal Canadiens,/api/v1/teams/8
+1986020014,/api/v1/game/1986020014/feed/live,R,19861987,1986-10-12T00:00:00Z,4,0,0,1,31,Minnesota North Stars,/api/v1/teams/31,4,1,0,1,32,Quebec Nordiques,/api/v1/teams/32
+1986020016,/api/v1/game/1986020016/feed/live,R,19861987,1986-10-12T00:00:00Z,5,0,1,1,3,New York Rangers,/api/v1/teams/3,6,2,0,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020017,/api/v1/game/1986020017/feed/live,R,19861987,1986-10-12T00:00:00Z,6,2,0,0,4,Philadelphia Flyers,/api/v1/teams/4,1,0,2,0,15,Washington Capitals,/api/v1/teams/15
+1986020018,/api/v1/game/1986020018/feed/live,R,19861987,1986-10-12T00:00:00Z,3,1,1,0,16,Chicago Blackhawks,/api/v1/teams/16,4,1,1,0,17,Detroit Red Wings,/api/v1/teams/17
+1986020015,/api/v1/game/1986020015/feed/live,R,19861987,1986-10-12T03:00:00Z,4,0,2,0,2,New York Islanders,/api/v1/teams/2,5,1,1,0,26,Los Angeles Kings,/api/v1/teams/26
+1986020019,/api/v1/game/1986020019/feed/live,R,19861987,1986-10-12T03:00:00Z,3,1,1,0,19,St. Louis Blues,/api/v1/teams/19,4,1,0,0,23,Vancouver Canucks,/api/v1/teams/23
+1986020020,/api/v1/game/1986020020/feed/live,R,19861987,1986-10-13T00:00:00Z,2,1,1,0,34,Hartford Whalers,/api/v1/teams/34,7,1,2,0,6,Boston Bruins,/api/v1/teams/6
+1986020021,/api/v1/game/1986020021/feed/live,R,19861987,1986-10-13T00:00:00Z,4,2,1,0,20,Calgary Flames,/api/v1/teams/20,2,0,2,0,7,Buffalo Sabres,/api/v1/teams/7
+1986020022,/api/v1/game/1986020022/feed/live,R,19861987,1986-10-13T01:00:00Z,4,3,0,0,5,Pittsburgh Penguins,/api/v1/teams/5,1,1,2,0,16,Chicago Blackhawks,/api/v1/teams/16
+1986020023,/api/v1/game/1986020023/feed/live,R,19861987,1986-10-13T01:00:00Z,3,1,2,0,22,Edmonton Oilers,/api/v1/teams/22,5,2,0,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020024,/api/v1/game/1986020024/feed/live,R,19861987,1986-10-14T00:00:00Z,4,0,1,1,31,Minnesota North Stars,/api/v1/teams/31,6,1,1,1,8,Montréal Canadiens,/api/v1/teams/8
+1986020026,/api/v1/game/1986020026/feed/live,R,19861987,1986-10-14T00:00:00Z,7,1,2,0,15,Washington Capitals,/api/v1/teams/15,6,0,1,0,3,New York Rangers,/api/v1/teams/3
+1986020025,/api/v1/game/1986020025/feed/live,R,19861987,1986-10-14T03:00:00Z,7,2,0,1,32,Quebec Nordiques,/api/v1/teams/32,1,1,1,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020028,/api/v1/game/1986020028/feed/live,R,19861987,1986-10-15T00:00:00Z,3,1,1,1,26,Los Angeles Kings,/api/v1/teams/26,4,4,0,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020029,/api/v1/game/1986020029/feed/live,R,19861987,1986-10-15T00:00:00Z,1,1,1,1,19,St. Louis Blues,/api/v1/teams/19,1,1,0,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020027,/api/v1/game/1986020027/feed/live,R,19861987,1986-10-15T01:00:00Z,2,2,2,0,6,Boston Bruins,/api/v1/teams/6,1,2,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020030,/api/v1/game/1986020030/feed/live,R,19861987,1986-10-16T00:00:00Z,0,1,1,2,8,Montréal Canadiens,/api/v1/teams/8,0,0,2,2,7,Buffalo Sabres,/api/v1/teams/7
+1986020033,/api/v1/game/1986020033/feed/live,R,19861987,1986-10-16T00:00:00Z,2,1,2,0,23,Vancouver Canucks,/api/v1/teams/23,3,3,0,0,1,New Jersey Devils,/api/v1/teams/1
+1986020034,/api/v1/game/1986020034/feed/live,R,19861987,1986-10-16T00:00:00Z,4,2,1,1,26,Los Angeles Kings,/api/v1/teams/26,3,1,1,1,17,Detroit Red Wings,/api/v1/teams/17
+1986020032,/api/v1/game/1986020032/feed/live,R,19861987,1986-10-16T01:00:00Z,5,0,1,3,3,New York Rangers,/api/v1/teams/3,5,1,2,3,16,Chicago Blackhawks,/api/v1/teams/16
+1986020031,/api/v1/game/1986020031/feed/live,R,19861987,1986-10-16T02:00:00Z,2,2,1,1,32,Quebec Nordiques,/api/v1/teams/32,5,2,2,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020036,/api/v1/game/1986020036/feed/live,R,19861987,1986-10-17T00:00:00Z,4,2,1,1,33,Winnipeg Jets (1979),/api/v1/teams/33,4,1,1,1,34,Hartford Whalers,/api/v1/teams/34
+1986020038,/api/v1/game/1986020038/feed/live,R,19861987,1986-10-17T00:00:00Z,4,1,3,0,15,Washington Capitals,/api/v1/teams/15,7,1,2,0,2,New York Islanders,/api/v1/teams/2
+1986020039,/api/v1/game/1986020039/feed/live,R,19861987,1986-10-17T00:00:00Z,2,1,3,0,23,Vancouver Canucks,/api/v1/teams/23,6,3,0,0,4,Philadelphia Flyers,/api/v1/teams/4
+1986020035,/api/v1/game/1986020035/feed/live,R,19861987,1986-10-17T01:00:00Z,5,3,2,0,6,Boston Bruins,/api/v1/teams/6,3,0,2,0,31,Minnesota North Stars,/api/v1/teams/31
+1986020037,/api/v1/game/1986020037/feed/live,R,19861987,1986-10-17T02:00:00Z,4,3,1,1,32,Quebec Nordiques,/api/v1/teams/32,2,2,2,1,20,Calgary Flames,/api/v1/teams/20
+1986020040,/api/v1/game/1986020040/feed/live,R,19861987,1986-10-18T00:00:00Z,7,5,0,0,5,Pittsburgh Penguins,/api/v1/teams/5,3,0,3,0,7,Buffalo Sabres,/api/v1/teams/7
+1986020041,/api/v1/game/1986020041/feed/live,R,19861987,1986-10-18T00:00:00Z,3,2,0,2,10,Toronto Maple Leafs,/api/v1/teams/10,2,3,1,2,1,New Jersey Devils,/api/v1/teams/1
+1986020042,/api/v1/game/1986020042/feed/live,R,19861987,1986-10-18T02:00:00Z,3,1,2,1,17,Detroit Red Wings,/api/v1/teams/17,4,3,2,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020044,/api/v1/game/1986020044/feed/live,R,19861987,1986-10-19T00:00:00Z,6,4,0,0,4,Philadelphia Flyers,/api/v1/teams/4,3,1,2,0,34,Hartford Whalers,/api/v1/teams/34
+1986020045,/api/v1/game/1986020045/feed/live,R,19861987,1986-10-19T00:00:00Z,4,1,3,2,7,Buffalo Sabres,/api/v1/teams/7,2,1,4,2,15,Washington Capitals,/api/v1/teams/15
+1986020046,/api/v1/game/1986020046/feed/live,R,19861987,1986-10-19T00:00:00Z,3,2,2,1,33,Winnipeg Jets (1979),/api/v1/teams/33,5,2,1,1,8,Montréal Canadiens,/api/v1/teams/8
+1986020048,/api/v1/game/1986020048/feed/live,R,19861987,1986-10-19T00:00:00Z,3,1,1,3,3,New York Rangers,/api/v1/teams/3,2,1,3,3,2,New York Islanders,/api/v1/teams/2
+1986020049,/api/v1/game/1986020049/feed/live,R,19861987,1986-10-19T00:00:00Z,4,3,2,0,1,New Jersey Devils,/api/v1/teams/1,8,6,0,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020050,/api/v1/game/1986020050/feed/live,R,19861987,1986-10-19T00:00:00Z,2,1,3,1,16,Chicago Blackhawks,/api/v1/teams/16,3,3,0,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020047,/api/v1/game/1986020047/feed/live,R,19861987,1986-10-19T01:00:00Z,3,3,2,1,32,Quebec Nordiques,/api/v1/teams/32,4,2,1,1,19,St. Louis Blues,/api/v1/teams/19
+1986020052,/api/v1/game/1986020052/feed/live,R,19861987,1986-10-19T01:00:00Z,1,1,4,0,23,Vancouver Canucks,/api/v1/teams/23,4,1,2,0,31,Minnesota North Stars,/api/v1/teams/31
+1986020051,/api/v1/game/1986020051/feed/live,R,19861987,1986-10-19T02:00:00Z,5,2,2,1,17,Detroit Red Wings,/api/v1/teams/17,3,2,3,1,20,Calgary Flames,/api/v1/teams/20
+1986020043,/api/v1/game/1986020043/feed/live,R,19861987,1986-10-19T03:00:00Z,4,4,2,0,6,Boston Bruins,/api/v1/teams/6,1,2,2,0,26,Los Angeles Kings,/api/v1/teams/26
+1986020053,/api/v1/game/1986020053/feed/live,R,19861987,1986-10-20T00:00:00Z,2,1,3,1,2,New York Islanders,/api/v1/teams/2,2,1,1,1,3,New York Rangers,/api/v1/teams/3
+1986020054,/api/v1/game/1986020054/feed/live,R,19861987,1986-10-20T00:00:00Z,1,2,3,1,33,Winnipeg Jets (1979),/api/v1/teams/33,3,5,0,1,4,Philadelphia Flyers,/api/v1/teams/4
+1986020055,/api/v1/game/1986020055/feed/live,R,19861987,1986-10-20T01:00:00Z,8,2,2,1,31,Minnesota North Stars,/api/v1/teams/31,5,1,4,1,16,Chicago Blackhawks,/api/v1/teams/16
+1986020056,/api/v1/game/1986020056/feed/live,R,19861987,1986-10-20T03:00:00Z,6,3,3,0,22,Edmonton Oilers,/api/v1/teams/22,7,3,2,0,26,Los Angeles Kings,/api/v1/teams/26
+1986020057,/api/v1/game/1986020057/feed/live,R,19861987,1986-10-21T00:00:00Z,5,2,4,0,15,Washington Capitals,/api/v1/teams/15,4,2,2,0,8,Montréal Canadiens,/api/v1/teams/8
+1986020058,/api/v1/game/1986020058/feed/live,R,19861987,1986-10-22T00:00:00Z,4,2,4,1,15,Washington Capitals,/api/v1/teams/15,4,3,2,1,32,Quebec Nordiques,/api/v1/teams/32
+1986020059,/api/v1/game/1986020059/feed/live,R,19861987,1986-10-22T00:00:00Z,3,3,3,0,1,New Jersey Devils,/api/v1/teams/1,6,2,3,0,2,New York Islanders,/api/v1/teams/2
+1986020060,/api/v1/game/1986020060/feed/live,R,19861987,1986-10-22T02:00:00Z,1,1,5,1,16,Chicago Blackhawks,/api/v1/teams/16,9,4,3,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020062,/api/v1/game/1986020062/feed/live,R,19861987,1986-10-23T00:00:00Z,4,1,3,3,7,Buffalo Sabres,/api/v1/teams/7,5,7,0,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020063,/api/v1/game/1986020063/feed/live,R,19861987,1986-10-23T00:00:00Z,4,3,2,2,8,Montréal Canadiens,/api/v1/teams/8,3,2,3,2,17,Detroit Red Wings,/api/v1/teams/17
+1986020064,/api/v1/game/1986020064/feed/live,R,19861987,1986-10-23T00:00:00Z,7,4,2,2,32,Quebec Nordiques,/api/v1/teams/32,1,3,1,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020065,/api/v1/game/1986020065/feed/live,R,19861987,1986-10-23T00:00:00Z,4,3,2,2,26,Los Angeles Kings,/api/v1/teams/26,5,2,1,2,3,New York Rangers,/api/v1/teams/3
+1986020066,/api/v1/game/1986020066/feed/live,R,19861987,1986-10-23T01:00:00Z,8,3,2,1,31,Minnesota North Stars,/api/v1/teams/31,3,2,2,1,19,St. Louis Blues,/api/v1/teams/19
+1986020067,/api/v1/game/1986020067/feed/live,R,19861987,1986-10-23T02:00:00Z,3,4,4,0,22,Edmonton Oilers,/api/v1/teams/22,6,3,3,0,20,Calgary Flames,/api/v1/teams/20
+1986020061,/api/v1/game/1986020061/feed/live,R,19861987,1986-10-23T03:00:00Z,1,4,3,0,6,Boston Bruins,/api/v1/teams/6,5,2,4,0,23,Vancouver Canucks,/api/v1/teams/23
+1986020068,/api/v1/game/1986020068/feed/live,R,19861987,1986-10-24T00:00:00Z,3,3,3,2,26,Los Angeles Kings,/api/v1/teams/26,5,4,3,2,1,New Jersey Devils,/api/v1/teams/1
+1986020069,/api/v1/game/1986020069/feed/live,R,19861987,1986-10-24T00:00:00Z,3,7,1,0,5,Pittsburgh Penguins,/api/v1/teams/5,5,6,0,0,4,Philadelphia Flyers,/api/v1/teams/4
+1986020071,/api/v1/game/1986020071/feed/live,R,19861987,1986-10-25T00:00:00Z,5,2,2,1,34,Hartford Whalers,/api/v1/teams/34,4,1,4,1,7,Buffalo Sabres,/api/v1/teams/7
+1986020072,/api/v1/game/1986020072/feed/live,R,19861987,1986-10-25T00:00:00Z,2,3,3,1,31,Minnesota North Stars,/api/v1/teams/31,8,3,4,1,15,Washington Capitals,/api/v1/teams/15
+1986020073,/api/v1/game/1986020073/feed/live,R,19861987,1986-10-25T00:00:00Z,1,2,2,2,19,St. Louis Blues,/api/v1/teams/19,1,2,3,2,17,Detroit Red Wings,/api/v1/teams/17
+1986020075,/api/v1/game/1986020075/feed/live,R,19861987,1986-10-25T01:00:00Z,2,3,4,0,20,Calgary Flames,/api/v1/teams/20,5,3,3,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020070,/api/v1/game/1986020070/feed/live,R,19861987,1986-10-25T02:00:00Z,2,4,4,0,6,Boston Bruins,/api/v1/teams/6,6,5,4,0,22,Edmonton Oilers,/api/v1/teams/22
+1986020074,/api/v1/game/1986020074/feed/live,R,19861987,1986-10-25T03:00:00Z,2,1,5,2,16,Chicago Blackhawks,/api/v1/teams/16,2,2,4,2,23,Vancouver Canucks,/api/v1/teams/23
+1986020076,/api/v1/game/1986020076/feed/live,R,19861987,1986-10-26T00:00:00Z,2,1,5,3,7,Buffalo Sabres,/api/v1/teams/7,3,3,2,3,34,Hartford Whalers,/api/v1/teams/34
+1986020077,/api/v1/game/1986020077/feed/live,R,19861987,1986-10-26T00:00:00Z,3,2,1,5,3,New York Rangers,/api/v1/teams/3,3,3,2,5,8,Montréal Canadiens,/api/v1/teams/8
+1986020078,/api/v1/game/1986020078/feed/live,R,19861987,1986-10-26T00:00:00Z,3,3,2,2,10,Toronto Maple Leafs,/api/v1/teams/10,4,5,2,2,32,Quebec Nordiques,/api/v1/teams/32
+1986020079,/api/v1/game/1986020079/feed/live,R,19861987,1986-10-26T00:00:00Z,3,3,4,2,26,Los Angeles Kings,/api/v1/teams/26,4,3,3,2,2,New York Islanders,/api/v1/teams/2
+1986020080,/api/v1/game/1986020080/feed/live,R,19861987,1986-10-26T00:00:00Z,1,4,4,0,1,New Jersey Devils,/api/v1/teams/1,2,4,4,0,15,Washington Capitals,/api/v1/teams/15
+1986020081,/api/v1/game/1986020081/feed/live,R,19861987,1986-10-26T00:00:00Z,2,6,1,0,4,Philadelphia Flyers,/api/v1/teams/4,4,8,1,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020082,/api/v1/game/1986020082/feed/live,R,19861987,1986-10-26T01:00:00Z,3,3,3,2,17,Detroit Red Wings,/api/v1/teams/17,1,2,3,2,19,St. Louis Blues,/api/v1/teams/19
+1986020084,/api/v1/game/1986020084/feed/live,R,19861987,1986-10-27T01:00:00Z,3,3,2,3,10,Toronto Maple Leafs,/api/v1/teams/10,3,2,1,3,3,New York Rangers,/api/v1/teams/3
+1986020085,/api/v1/game/1986020085/feed/live,R,19861987,1986-10-27T01:00:00Z,1,3,4,1,31,Minnesota North Stars,/api/v1/teams/31,4,7,1,1,4,Philadelphia Flyers,/api/v1/teams/4
+1986020086,/api/v1/game/1986020086/feed/live,R,19861987,1986-10-27T02:00:00Z,8,2,5,2,16,Chicago Blackhawks,/api/v1/teams/16,4,3,4,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020083,/api/v1/game/1986020083/feed/live,R,19861987,1986-10-27T03:00:00Z,6,5,4,0,6,Boston Bruins,/api/v1/teams/6,0,3,5,0,20,Calgary Flames,/api/v1/teams/20
+1986020087,/api/v1/game/1986020087/feed/live,R,19861987,1986-10-27T03:00:00Z,2,2,5,1,23,Vancouver Canucks,/api/v1/teams/23,3,6,4,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020088,/api/v1/game/1986020088/feed/live,R,19861987,1986-10-28T01:00:00Z,5,3,5,2,26,Los Angeles Kings,/api/v1/teams/26,6,4,2,2,8,Montréal Canadiens,/api/v1/teams/8
+1986020089,/api/v1/game/1986020089/feed/live,R,19861987,1986-10-29T01:00:00Z,2,8,2,0,5,Pittsburgh Penguins,/api/v1/teams/5,5,4,2,0,34,Hartford Whalers,/api/v1/teams/34
+1986020090,/api/v1/game/1986020090/feed/live,R,19861987,1986-10-29T01:00:00Z,2,3,6,2,26,Los Angeles Kings,/api/v1/teams/26,6,6,2,2,32,Quebec Nordiques,/api/v1/teams/32
+1986020091,/api/v1/game/1986020091/feed/live,R,19861987,1986-10-29T01:00:00Z,1,7,2,0,4,Philadelphia Flyers,/api/v1/teams/4,2,4,3,0,2,New York Islanders,/api/v1/teams/2
+1986020093,/api/v1/game/1986020093/feed/live,R,19861987,1986-10-29T01:00:00Z,1,2,6,2,16,Chicago Blackhawks,/api/v1/teams/16,2,4,2,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020094,/api/v1/game/1986020094/feed/live,R,19861987,1986-10-29T02:00:00Z,4,3,6,0,20,Calgary Flames,/api/v1/teams/20,7,4,4,0,31,Minnesota North Stars,/api/v1/teams/31
+1986020092,/api/v1/game/1986020092/feed/live,R,19861987,1986-10-29T04:00:00Z,5,5,4,1,15,Washington Capitals,/api/v1/teams/15,2,2,6,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020095,/api/v1/game/1986020095/feed/live,R,19861987,1986-10-30T01:00:00Z,2,1,6,3,7,Buffalo Sabres,/api/v1/teams/7,5,5,2,3,8,Montréal Canadiens,/api/v1/teams/8
+1986020097,/api/v1/game/1986020097/feed/live,R,19861987,1986-10-30T01:00:00Z,8,5,4,0,1,New Jersey Devils,/api/v1/teams/1,6,8,3,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020099,/api/v1/game/1986020099/feed/live,R,19861987,1986-10-30T01:00:00Z,2,2,7,2,16,Chicago Blackhawks,/api/v1/teams/16,5,4,3,2,17,Detroit Red Wings,/api/v1/teams/17
+1986020096,/api/v1/game/1986020096/feed/live,R,19861987,1986-10-30T02:00:00Z,2,2,2,6,3,New York Rangers,/api/v1/teams/3,7,3,3,6,19,St. Louis Blues,/api/v1/teams/19
+1986020100,/api/v1/game/1986020100/feed/live,R,19861987,1986-10-30T02:00:00Z,2,3,7,0,20,Calgary Flames,/api/v1/teams/20,6,4,4,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020098,/api/v1/game/1986020098/feed/live,R,19861987,1986-10-30T03:00:00Z,3,5,5,1,15,Washington Capitals,/api/v1/teams/15,6,7,4,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020101,/api/v1/game/1986020101/feed/live,R,19861987,1986-10-31T01:00:00Z,3,5,2,4,8,Montréal Canadiens,/api/v1/teams/8,3,5,4,4,6,Boston Bruins,/api/v1/teams/6
+1986020102,/api/v1/game/1986020102/feed/live,R,19861987,1986-10-31T01:00:00Z,2,4,3,1,34,Hartford Whalers,/api/v1/teams/34,6,5,2,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020103,/api/v1/game/1986020103/feed/live,R,19861987,1986-10-31T01:00:00Z,3,6,3,2,32,Quebec Nordiques,/api/v1/teams/32,6,8,2,2,4,Philadelphia Flyers,/api/v1/teams/4
+1986020104,/api/v1/game/1986020104/feed/live,R,19861987,1986-10-31T01:00:00Z,6,4,3,2,2,New York Islanders,/api/v1/teams/2,7,6,4,2,1,New Jersey Devils,/api/v1/teams/1
+1986020105,/api/v1/game/1986020105/feed/live,R,19861987,1986-10-31T02:00:00Z,3,5,3,2,17,Detroit Red Wings,/api/v1/teams/17,1,4,5,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020106,/api/v1/game/1986020106/feed/live,R,19861987,1986-11-01T04:00:00Z,6,8,4,0,22,Edmonton Oilers,/api/v1/teams/22,2,2,7,0,23,Vancouver Canucks,/api/v1/teams/23
+1986020107,/api/v1/game/1986020107/feed/live,R,19861987,1986-11-02T01:00:00Z,2,5,5,1,6,Boston Bruins,/api/v1/teams/6,4,9,2,1,4,Philadelphia Flyers,/api/v1/teams/4
+1986020108,/api/v1/game/1986020108/feed/live,R,19861987,1986-11-02T01:00:00Z,2,6,3,3,32,Quebec Nordiques,/api/v1/teams/32,2,4,3,3,34,Hartford Whalers,/api/v1/teams/34
+1986020109,/api/v1/game/1986020109/feed/live,R,19861987,1986-11-02T01:00:00Z,3,2,6,3,7,Buffalo Sabres,/api/v1/teams/7,1,6,5,3,1,New Jersey Devils,/api/v1/teams/1
+1986020110,/api/v1/game/1986020110/feed/live,R,19861987,1986-11-02T01:00:00Z,4,4,5,1,33,Winnipeg Jets (1979),/api/v1/teams/33,7,5,3,1,2,New York Islanders,/api/v1/teams/2
+1986020113,/api/v1/game/1986020113/feed/live,R,19861987,1986-11-02T01:00:00Z,0,5,4,2,17,Detroit Red Wings,/api/v1/teams/17,2,6,2,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020111,/api/v1/game/1986020111/feed/live,R,19861987,1986-11-02T02:00:00Z,3,8,3,1,5,Pittsburgh Penguins,/api/v1/teams/5,3,3,3,1,19,St. Louis Blues,/api/v1/teams/19
+1986020114,/api/v1/game/1986020114/feed/live,R,19861987,1986-11-02T02:00:00Z,6,3,7,2,16,Chicago Blackhawks,/api/v1/teams/16,5,4,6,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020112,/api/v1/game/1986020112/feed/live,R,19861987,1986-11-02T03:00:00Z,1,5,6,1,15,Washington Capitals,/api/v1/teams/15,4,4,7,1,20,Calgary Flames,/api/v1/teams/20
+1986020115,/api/v1/game/1986020115/feed/live,R,19861987,1986-11-03T01:00:00Z,7,3,6,3,7,Buffalo Sabres,/api/v1/teams/7,1,5,6,3,6,Boston Bruins,/api/v1/teams/6
+1986020116,/api/v1/game/1986020116/feed/live,R,19861987,1986-11-03T01:00:00Z,3,4,3,3,34,Hartford Whalers,/api/v1/teams/34,3,6,3,3,32,Quebec Nordiques,/api/v1/teams/32
+1986020118,/api/v1/game/1986020118/feed/live,R,19861987,1986-11-03T01:00:00Z,5,5,5,1,33,Winnipeg Jets (1979),/api/v1/teams/33,4,2,2,1,3,New York Rangers,/api/v1/teams/3
+1986020119,/api/v1/game/1986020119/feed/live,R,19861987,1986-11-03T02:00:00Z,3,3,8,2,16,Chicago Blackhawks,/api/v1/teams/16,7,4,3,2,19,St. Louis Blues,/api/v1/teams/19
+1986020120,/api/v1/game/1986020120/feed/live,R,19861987,1986-11-03T03:00:00Z,5,3,6,3,26,Los Angeles Kings,/api/v1/teams/26,5,8,4,3,22,Edmonton Oilers,/api/v1/teams/22
+1986020117,/api/v1/game/1986020117/feed/live,R,19861987,1986-11-03T04:00:00Z,5,6,2,4,8,Montréal Canadiens,/api/v1/teams/8,3,2,8,4,23,Vancouver Canucks,/api/v1/teams/23
+1986020121,/api/v1/game/1986020121/feed/live,R,19861987,1986-11-04T03:00:00Z,2,3,7,3,26,Los Angeles Kings,/api/v1/teams/26,4,5,7,3,20,Calgary Flames,/api/v1/teams/20
+1986020122,/api/v1/game/1986020122/feed/live,R,19861987,1986-11-05T01:00:00Z,6,6,5,1,33,Winnipeg Jets (1979),/api/v1/teams/33,3,6,4,1,32,Quebec Nordiques,/api/v1/teams/32
+1986020123,/api/v1/game/1986020123/feed/live,R,19861987,1986-11-05T01:00:00Z,1,5,7,1,15,Washington Capitals,/api/v1/teams/15,7,6,3,1,2,New York Islanders,/api/v1/teams/2
+1986020124,/api/v1/game/1986020124/feed/live,R,19861987,1986-11-05T01:00:00Z,1,6,6,0,1,New Jersey Devils,/api/v1/teams/1,7,10,2,0,4,Philadelphia Flyers,/api/v1/teams/4
+1986020125,/api/v1/game/1986020125/feed/live,R,19861987,1986-11-05T01:00:00Z,2,2,8,2,23,Vancouver Canucks,/api/v1/teams/23,2,8,3,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020126,/api/v1/game/1986020126/feed/live,R,19861987,1986-11-06T01:00:00Z,3,5,7,1,6,Boston Bruins,/api/v1/teams/6,8,4,6,1,7,Buffalo Sabres,/api/v1/teams/7
+1986020127,/api/v1/game/1986020127/feed/live,R,19861987,1986-11-06T01:00:00Z,2,6,4,2,2,New York Islanders,/api/v1/teams/2,3,5,3,2,34,Hartford Whalers,/api/v1/teams/34
+1986020128,/api/v1/game/1986020128/feed/live,R,19861987,1986-11-06T01:00:00Z,4,2,2,8,3,New York Rangers,/api/v1/teams/3,5,6,4,8,17,Detroit Red Wings,/api/v1/teams/17
+1986020129,/api/v1/game/1986020129/feed/live,R,19861987,1986-11-06T01:00:00Z,2,2,9,2,23,Vancouver Canucks,/api/v1/teams/23,3,6,7,2,15,Washington Capitals,/api/v1/teams/15
+1986020130,/api/v1/game/1986020130/feed/live,R,19861987,1986-11-06T01:00:00Z,4,4,4,3,19,St. Louis Blues,/api/v1/teams/19,6,7,2,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020131,/api/v1/game/1986020131/feed/live,R,19861987,1986-11-06T02:00:00Z,2,4,7,1,31,Minnesota North Stars,/api/v1/teams/31,4,4,8,1,16,Chicago Blackhawks,/api/v1/teams/16
+1986020132,/api/v1/game/1986020132/feed/live,R,19861987,1986-11-06T03:00:00Z,3,6,7,0,20,Calgary Flames,/api/v1/teams/20,1,8,5,0,22,Edmonton Oilers,/api/v1/teams/22
+1986020134,/api/v1/game/1986020134/feed/live,R,19861987,1986-11-07T01:00:00Z,5,10,2,1,4,Philadelphia Flyers,/api/v1/teams/4,5,6,6,1,1,New Jersey Devils,/api/v1/teams/1
+1986020135,/api/v1/game/1986020135/feed/live,R,19861987,1986-11-07T02:00:00Z,1,7,3,3,10,Toronto Maple Leafs,/api/v1/teams/10,4,5,7,3,31,Minnesota North Stars,/api/v1/teams/31
+1986020133,/api/v1/game/1986020133/feed/live,R,19861987,1986-11-07T04:00:00Z,6,7,2,4,8,Montréal Canadiens,/api/v1/teams/8,4,3,8,4,26,Los Angeles Kings,/api/v1/teams/26
+1986020136,/api/v1/game/1986020136/feed/live,R,19861987,1986-11-08T01:00:00Z,7,3,9,2,23,Vancouver Canucks,/api/v1/teams/23,6,4,7,2,7,Buffalo Sabres,/api/v1/teams/7
+1986020137,/api/v1/game/1986020137/feed/live,R,19861987,1986-11-08T02:00:00Z,0,4,5,3,19,St. Louis Blues,/api/v1/teams/19,2,7,5,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020138,/api/v1/game/1986020138/feed/live,R,19861987,1986-11-08T03:00:00Z,4,8,6,1,22,Edmonton Oilers,/api/v1/teams/22,6,7,7,1,20,Calgary Flames,/api/v1/teams/20
+1986020139,/api/v1/game/1986020139/feed/live,R,19861987,1986-11-09T01:00:00Z,5,6,7,1,6,Boston Bruins,/api/v1/teams/6,1,6,5,1,32,Quebec Nordiques,/api/v1/teams/32
+1986020142,/api/v1/game/1986020142/feed/live,R,19861987,1986-11-09T01:00:00Z,1,6,4,3,17,Detroit Red Wings,/api/v1/teams/17,2,7,4,3,2,New York Islanders,/api/v1/teams/2
+1986020143,/api/v1/game/1986020143/feed/live,R,19861987,1986-11-09T01:00:00Z,3,3,2,8,3,New York Rangers,/api/v1/teams/3,2,10,3,8,4,Philadelphia Flyers,/api/v1/teams/4
+1986020145,/api/v1/game/1986020145/feed/live,R,19861987,1986-11-09T01:00:00Z,2,4,9,2,16,Chicago Blackhawks,/api/v1/teams/16,3,7,7,2,15,Washington Capitals,/api/v1/teams/15
+1986020146,/api/v1/game/1986020146/feed/live,R,19861987,1986-11-09T01:00:00Z,5,4,9,2,23,Vancouver Canucks,/api/v1/teams/23,3,7,4,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020144,/api/v1/game/1986020144/feed/live,R,19861987,1986-11-09T02:00:00Z,4,9,3,2,5,Pittsburgh Penguins,/api/v1/teams/5,2,5,8,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020141,/api/v1/game/1986020141/feed/live,R,19861987,1986-11-09T03:00:00Z,3,7,3,4,8,Montréal Canadiens,/api/v1/teams/8,4,9,6,4,22,Edmonton Oilers,/api/v1/teams/22
+1986020140,/api/v1/game/1986020140/feed/live,R,19861987,1986-11-09T04:00:00Z,3,5,4,3,34,Hartford Whalers,/api/v1/teams/34,4,4,8,3,26,Los Angeles Kings,/api/v1/teams/26
+1986020147,/api/v1/game/1986020147/feed/live,R,19861987,1986-11-10T01:00:00Z,4,8,4,2,2,New York Islanders,/api/v1/teams/2,3,4,8,2,7,Buffalo Sabres,/api/v1/teams/7
+1986020149,/api/v1/game/1986020149/feed/live,R,19861987,1986-11-10T01:00:00Z,5,3,3,8,3,New York Rangers,/api/v1/teams/3,6,7,5,8,32,Quebec Nordiques,/api/v1/teams/32
+1986020151,/api/v1/game/1986020151/feed/live,R,19861987,1986-11-10T01:00:00Z,1,9,4,2,5,Pittsburgh Penguins,/api/v1/teams/5,2,7,4,2,17,Detroit Red Wings,/api/v1/teams/17
+1986020150,/api/v1/game/1986020150/feed/live,R,19861987,1986-11-10T02:00:00Z,1,6,7,1,1,New Jersey Devils,/api/v1/teams/1,8,8,5,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020152,/api/v1/game/1986020152/feed/live,R,19861987,1986-11-10T02:00:00Z,4,4,5,4,19,St. Louis Blues,/api/v1/teams/19,4,4,9,4,16,Chicago Blackhawks,/api/v1/teams/16
+1986020148,/api/v1/game/1986020148/feed/live,R,19861987,1986-11-10T03:00:00Z,0,7,4,4,8,Montréal Canadiens,/api/v1/teams/8,3,8,7,4,20,Calgary Flames,/api/v1/teams/20
+1986020153,/api/v1/game/1986020153/feed/live,R,19861987,1986-11-12T01:00:00Z,3,10,6,1,22,Edmonton Oilers,/api/v1/teams/22,2,8,4,1,2,New York Islanders,/api/v1/teams/2
+1986020154,/api/v1/game/1986020154/feed/live,R,19861987,1986-11-12T02:00:00Z,2,7,7,2,15,Washington Capitals,/api/v1/teams/15,2,5,8,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020156,/api/v1/game/1986020156/feed/live,R,19861987,1986-11-12T03:00:00Z,3,4,10,2,23,Vancouver Canucks,/api/v1/teams/23,5,9,7,2,20,Calgary Flames,/api/v1/teams/20
+1986020155,/api/v1/game/1986020155/feed/live,R,19861987,1986-11-12T04:00:00Z,3,8,6,1,33,Winnipeg Jets (1979),/api/v1/teams/33,4,5,8,1,26,Los Angeles Kings,/api/v1/teams/26
+1986020157,/api/v1/game/1986020157/feed/live,R,19861987,1986-11-13T01:00:00Z,1,6,8,1,6,Boston Bruins,/api/v1/teams/6,2,10,4,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020159,/api/v1/game/1986020159/feed/live,R,19861987,1986-11-13T01:00:00Z,1,4,8,4,7,Buffalo Sabres,/api/v1/teams/7,2,4,3,4,3,New York Rangers,/api/v1/teams/3
+1986020160,/api/v1/game/1986020160/feed/live,R,19861987,1986-11-13T01:00:00Z,3,7,6,4,32,Quebec Nordiques,/api/v1/teams/32,4,8,4,4,8,Montréal Canadiens,/api/v1/teams/8
+1986020161,/api/v1/game/1986020161/feed/live,R,19861987,1986-11-13T01:00:00Z,3,7,5,3,17,Detroit Red Wings,/api/v1/teams/17,5,7,7,3,1,New Jersey Devils,/api/v1/teams/1
+1986020162,/api/v1/game/1986020162/feed/live,R,19861987,1986-11-13T02:00:00Z,2,7,7,3,15,Washington Capitals,/api/v1/teams/15,2,4,9,3,16,Chicago Blackhawks,/api/v1/teams/16
+1986020163,/api/v1/game/1986020163/feed/live,R,19861987,1986-11-13T02:00:00Z,2,7,5,3,10,Toronto Maple Leafs,/api/v1/teams/10,4,5,5,3,19,St. Louis Blues,/api/v1/teams/19
+1986020158,/api/v1/game/1986020158/feed/live,R,19861987,1986-11-13T04:00:00Z,4,6,4,3,34,Hartford Whalers,/api/v1/teams/34,3,4,11,3,23,Vancouver Canucks,/api/v1/teams/23
+1986020164,/api/v1/game/1986020164/feed/live,R,19861987,1986-11-14T01:00:00Z,3,10,6,2,22,Edmonton Oilers,/api/v1/teams/22,4,7,8,2,6,Boston Bruins,/api/v1/teams/6
+1986020166,/api/v1/game/1986020166/feed/live,R,19861987,1986-11-14T01:00:00Z,5,7,6,3,17,Detroit Red Wings,/api/v1/teams/17,7,11,3,3,4,Philadelphia Flyers,/api/v1/teams/4
+1986020165,/api/v1/game/1986020165/feed/live,R,19861987,1986-11-14T03:00:00Z,3,6,5,3,34,Hartford Whalers,/api/v1/teams/34,4,10,7,3,20,Calgary Flames,/api/v1/teams/20
+1986020167,/api/v1/game/1986020167/feed/live,R,19861987,1986-11-14T04:00:00Z,6,9,6,1,33,Winnipeg Jets (1979),/api/v1/teams/33,5,5,9,1,26,Los Angeles Kings,/api/v1/teams/26
+1986020168,/api/v1/game/1986020168/feed/live,R,19861987,1986-11-15T01:00:00Z,4,8,6,4,32,Quebec Nordiques,/api/v1/teams/32,1,7,8,4,15,Washington Capitals,/api/v1/teams/15
+1986020169,/api/v1/game/1986020169/feed/live,R,19861987,1986-11-15T01:00:00Z,1,11,4,1,4,Philadelphia Flyers,/api/v1/teams/4,2,5,3,1,3,New York Rangers,/api/v1/teams/3
+1986020170,/api/v1/game/1986020170/feed/live,R,19861987,1986-11-15T01:00:00Z,4,10,5,2,5,Pittsburgh Penguins,/api/v1/teams/5,5,8,7,2,1,New Jersey Devils,/api/v1/teams/1
+1986020171,/api/v1/game/1986020171/feed/live,R,19861987,1986-11-15T04:00:00Z,3,10,6,1,33,Winnipeg Jets (1979),/api/v1/teams/33,2,4,12,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020172,/api/v1/game/1986020172/feed/live,R,19861987,1986-11-16T01:00:00Z,5,8,7,2,1,New Jersey Devils,/api/v1/teams/1,5,7,8,2,6,Boston Bruins,/api/v1/teams/6
+1986020173,/api/v1/game/1986020173/feed/live,R,19861987,1986-11-16T01:00:00Z,2,10,7,2,22,Edmonton Oilers,/api/v1/teams/22,6,7,5,2,34,Hartford Whalers,/api/v1/teams/34
+1986020174,/api/v1/game/1986020174/feed/live,R,19861987,1986-11-16T01:00:00Z,2,4,9,4,7,Buffalo Sabres,/api/v1/teams/7,4,9,4,4,8,Montréal Canadiens,/api/v1/teams/8
+1986020175,/api/v1/game/1986020175/feed/live,R,19861987,1986-11-16T01:00:00Z,2,8,7,4,32,Quebec Nordiques,/api/v1/teams/32,5,11,5,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020177,/api/v1/game/1986020177/feed/live,R,19861987,1986-11-16T01:00:00Z,0,7,7,3,17,Detroit Red Wings,/api/v1/teams/17,6,8,5,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020176,/api/v1/game/1986020176/feed/live,R,19861987,1986-11-16T02:00:00Z,7,9,4,3,2,New York Islanders,/api/v1/teams/2,3,5,9,3,31,Minnesota North Stars,/api/v1/teams/31
+1986020178,/api/v1/game/1986020178/feed/live,R,19861987,1986-11-16T02:00:00Z,3,4,10,4,16,Chicago Blackhawks,/api/v1/teams/16,4,6,5,4,19,St. Louis Blues,/api/v1/teams/19
+1986020179,/api/v1/game/1986020179/feed/live,R,19861987,1986-11-16T04:00:00Z,1,10,8,0,20,Calgary Flames,/api/v1/teams/20,4,6,9,0,26,Los Angeles Kings,/api/v1/teams/26
+1986020181,/api/v1/game/1986020181/feed/live,R,19861987,1986-11-17T01:00:00Z,8,11,7,2,22,Edmonton Oilers,/api/v1/teams/22,6,5,4,2,3,New York Rangers,/api/v1/teams/3
+1986020182,/api/v1/game/1986020182/feed/live,R,19861987,1986-11-17T01:00:00Z,2,7,9,3,15,Washington Capitals,/api/v1/teams/15,6,12,4,3,4,Philadelphia Flyers,/api/v1/teams/4
+1986020180,/api/v1/game/1986020180/feed/live,R,19861987,1986-11-17T02:00:00Z,1,9,5,3,2,New York Islanders,/api/v1/teams/2,3,11,6,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020183,/api/v1/game/1986020183/feed/live,R,19861987,1986-11-17T02:00:00Z,7,9,5,3,10,Toronto Maple Leafs,/api/v1/teams/10,3,4,11,3,16,Chicago Blackhawks,/api/v1/teams/16
+1986020184,/api/v1/game/1986020184/feed/live,R,19861987,1986-11-18T01:00:00Z,2,7,8,3,6,Boston Bruins,/api/v1/teams/6,3,10,4,3,8,Montréal Canadiens,/api/v1/teams/8
+1986020185,/api/v1/game/1986020185/feed/live,R,19861987,1986-11-18T01:00:00Z,2,5,5,8,3,New York Rangers,/api/v1/teams/3,3,9,7,8,1,New Jersey Devils,/api/v1/teams/1
+1986020186,/api/v1/game/1986020186/feed/live,R,19861987,1986-11-19T01:00:00Z,4,10,5,3,2,New York Islanders,/api/v1/teams/2,3,8,7,3,32,Quebec Nordiques,/api/v1/teams/32
+1986020188,/api/v1/game/1986020188/feed/live,R,19861987,1986-11-19T01:00:00Z,6,7,9,3,26,Los Angeles Kings,/api/v1/teams/26,5,7,10,3,15,Washington Capitals,/api/v1/teams/15
+1986020187,/api/v1/game/1986020187/feed/live,R,19861987,1986-11-19T02:00:00Z,1,11,6,2,5,Pittsburgh Penguins,/api/v1/teams/5,3,12,6,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020189,/api/v1/game/1986020189/feed/live,R,19861987,1986-11-19T02:00:00Z,4,7,5,4,19,St. Louis Blues,/api/v1/teams/19,3,5,10,4,31,Minnesota North Stars,/api/v1/teams/31
+1986020190,/api/v1/game/1986020190/feed/live,R,19861987,1986-11-19T04:00:00Z,0,10,9,0,20,Calgary Flames,/api/v1/teams/20,5,5,12,0,23,Vancouver Canucks,/api/v1/teams/23
+1986020191,/api/v1/game/1986020191/feed/live,R,19861987,1986-11-20T01:00:00Z,4,7,8,4,6,Boston Bruins,/api/v1/teams/6,4,4,9,4,7,Buffalo Sabres,/api/v1/teams/7
+1986020192,/api/v1/game/1986020192/feed/live,R,19861987,1986-11-20T01:00:00Z,4,11,4,4,8,Montréal Canadiens,/api/v1/teams/8,1,7,6,4,34,Hartford Whalers,/api/v1/teams/34
+1986020194,/api/v1/game/1986020194/feed/live,R,19861987,1986-11-20T01:00:00Z,4,10,7,2,1,New Jersey Devils,/api/v1/teams/1,3,7,8,2,17,Detroit Red Wings,/api/v1/teams/17
+1986020195,/api/v1/game/1986020195/feed/live,R,19861987,1986-11-20T01:00:00Z,2,12,4,2,4,Philadelphia Flyers,/api/v1/teams/4,2,9,5,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020196,/api/v1/game/1986020196/feed/live,R,19861987,1986-11-20T02:00:00Z,4,7,9,4,26,Los Angeles Kings,/api/v1/teams/26,4,4,11,4,16,Chicago Blackhawks,/api/v1/teams/16
+1986020197,/api/v1/game/1986020197/feed/live,R,19861987,1986-11-20T02:00:00Z,5,5,11,2,31,Minnesota North Stars,/api/v1/teams/31,7,8,5,2,19,St. Louis Blues,/api/v1/teams/19
+1986020193,/api/v1/game/1986020193/feed/live,R,19861987,1986-11-20T03:00:00Z,4,5,5,9,3,New York Rangers,/api/v1/teams/3,5,12,7,9,22,Edmonton Oilers,/api/v1/teams/22
+1986020198,/api/v1/game/1986020198/feed/live,R,19861987,1986-11-21T01:00:00Z,3,12,4,4,8,Montréal Canadiens,/api/v1/teams/8,1,7,9,4,6,Boston Bruins,/api/v1/teams/6
+1986020199,/api/v1/game/1986020199/feed/live,R,19861987,1986-11-21T01:00:00Z,4,9,6,4,10,Toronto Maple Leafs,/api/v1/teams/10,6,11,5,4,2,New York Islanders,/api/v1/teams/2
+1986020200,/api/v1/game/1986020200/feed/live,R,19861987,1986-11-21T01:00:00Z,1,4,12,5,16,Chicago Blackhawks,/api/v1/teams/16,5,13,4,5,4,Philadelphia Flyers,/api/v1/teams/4
+1986020201,/api/v1/game/1986020201/feed/live,R,19861987,1986-11-21T03:00:00Z,5,12,6,2,5,Pittsburgh Penguins,/api/v1/teams/5,2,10,10,2,20,Calgary Flames,/api/v1/teams/20
+1986020202,/api/v1/game/1986020202/feed/live,R,19861987,1986-11-22T01:00:00Z,0,8,6,4,19,St. Louis Blues,/api/v1/teams/19,4,8,6,4,34,Hartford Whalers,/api/v1/teams/34
+1986020203,/api/v1/game/1986020203/feed/live,R,19861987,1986-11-22T01:00:00Z,6,9,7,5,32,Quebec Nordiques,/api/v1/teams/32,1,4,10,5,7,Buffalo Sabres,/api/v1/teams/7
+1986020205,/api/v1/game/1986020205/feed/live,R,19861987,1986-11-22T01:00:00Z,3,7,10,4,15,Washington Capitals,/api/v1/teams/15,3,7,8,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020206,/api/v1/game/1986020206/feed/live,R,19861987,1986-11-22T02:00:00Z,4,8,9,4,26,Los Angeles Kings,/api/v1/teams/26,1,12,7,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020204,/api/v1/game/1986020204/feed/live,R,19861987,1986-11-22T04:00:00Z,8,6,5,9,3,New York Rangers,/api/v1/teams/3,5,5,13,9,23,Vancouver Canucks,/api/v1/teams/23
+1986020207,/api/v1/game/1986020207/feed/live,R,19861987,1986-11-23T01:00:00Z,5,8,7,4,19,St. Louis Blues,/api/v1/teams/19,6,8,9,4,6,Boston Bruins,/api/v1/teams/6
+1986020208,/api/v1/game/1986020208/feed/live,R,19861987,1986-11-23T01:00:00Z,6,9,6,3,34,Hartford Whalers,/api/v1/teams/34,3,11,6,3,2,New York Islanders,/api/v1/teams/2
+1986020209,/api/v1/game/1986020209/feed/live,R,19861987,1986-11-23T01:00:00Z,1,4,11,5,7,Buffalo Sabres,/api/v1/teams/7,3,10,7,5,32,Quebec Nordiques,/api/v1/teams/32
+1986020210,/api/v1/game/1986020210/feed/live,R,19861987,1986-11-23T01:00:00Z,4,8,8,4,17,Detroit Red Wings,/api/v1/teams/17,3,12,5,4,8,Montréal Canadiens,/api/v1/teams/8
+1986020213,/api/v1/game/1986020213/feed/live,R,19861987,1986-11-23T01:00:00Z,1,9,7,4,10,Toronto Maple Leafs,/api/v1/teams/10,6,14,4,4,4,Philadelphia Flyers,/api/v1/teams/4
+1986020214,/api/v1/game/1986020214/feed/live,R,19861987,1986-11-23T01:00:00Z,5,13,6,2,5,Pittsburgh Penguins,/api/v1/teams/5,4,7,11,2,15,Washington Capitals,/api/v1/teams/15
+1986020212,/api/v1/game/1986020212/feed/live,R,19861987,1986-11-23T02:00:00Z,2,10,8,2,1,New Jersey Devils,/api/v1/teams/1,6,6,11,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020211,/api/v1/game/1986020211/feed/live,R,19861987,1986-11-23T03:00:00Z,5,6,6,9,3,New York Rangers,/api/v1/teams/3,8,11,10,9,20,Calgary Flames,/api/v1/teams/20
+1986020215,/api/v1/game/1986020215/feed/live,R,19861987,1986-11-23T03:00:00Z,2,5,14,2,23,Vancouver Canucks,/api/v1/teams/23,5,13,7,2,22,Edmonton Oilers,/api/v1/teams/22
+1986020216,/api/v1/game/1986020216/feed/live,R,19861987,1986-11-24T02:00:00Z,3,10,9,2,1,New Jersey Devils,/api/v1/teams/1,5,5,12,2,16,Chicago Blackhawks,/api/v1/teams/16
+1986020217,/api/v1/game/1986020217/feed/live,R,19861987,1986-11-24T02:00:00Z,2,8,10,4,26,Los Angeles Kings,/api/v1/teams/26,3,13,7,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020218,/api/v1/game/1986020218/feed/live,R,19861987,1986-11-25T01:00:00Z,3,9,9,4,6,Boston Bruins,/api/v1/teams/6,2,9,8,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020219,/api/v1/game/1986020219/feed/live,R,19861987,1986-11-25T03:00:00Z,5,13,8,2,22,Edmonton Oilers,/api/v1/teams/22,6,12,10,2,20,Calgary Flames,/api/v1/teams/20
+1986020220,/api/v1/game/1986020220/feed/live,R,19861987,1986-11-26T01:00:00Z,1,12,6,4,8,Montréal Canadiens,/api/v1/teams/8,2,11,7,4,32,Quebec Nordiques,/api/v1/teams/32
+1986020221,/api/v1/game/1986020221/feed/live,R,19861987,1986-11-26T01:00:00Z,1,13,7,2,5,Pittsburgh Penguins,/api/v1/teams/5,5,12,6,2,2,New York Islanders,/api/v1/teams/2
+1986020222,/api/v1/game/1986020222/feed/live,R,19861987,1986-11-26T04:00:00Z,5,8,11,4,26,Los Angeles Kings,/api/v1/teams/26,11,6,14,4,23,Vancouver Canucks,/api/v1/teams/23
+1986020223,/api/v1/game/1986020223/feed/live,R,19861987,1986-11-27T01:00:00Z,2,9,9,5,6,Boston Bruins,/api/v1/teams/6,2,7,11,5,15,Washington Capitals,/api/v1/teams/15
+1986020224,/api/v1/game/1986020224/feed/live,R,19861987,1986-11-27T01:00:00Z,0,4,12,5,7,Buffalo Sabres,/api/v1/teams/7,3,10,6,5,34,Hartford Whalers,/api/v1/teams/34
+1986020225,/api/v1/game/1986020225/feed/live,R,19861987,1986-11-27T01:00:00Z,2,12,7,4,8,Montréal Canadiens,/api/v1/teams/8,4,15,4,4,4,Philadelphia Flyers,/api/v1/teams/4
+1986020226,/api/v1/game/1986020226/feed/live,R,19861987,1986-11-27T01:00:00Z,2,11,8,5,32,Quebec Nordiques,/api/v1/teams/32,4,7,6,5,3,New York Rangers,/api/v1/teams/3
+1986020227,/api/v1/game/1986020227/feed/live,R,19861987,1986-11-27T01:00:00Z,3,13,6,3,2,New York Islanders,/api/v1/teams/2,2,13,8,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020229,/api/v1/game/1986020229/feed/live,R,19861987,1986-11-27T01:00:00Z,3,10,8,4,10,Toronto Maple Leafs,/api/v1/teams/10,1,8,9,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020228,/api/v1/game/1986020228/feed/live,R,19861987,1986-11-27T02:00:00Z,5,11,9,2,1,New Jersey Devils,/api/v1/teams/1,1,8,8,2,19,St. Louis Blues,/api/v1/teams/19
+1986020230,/api/v1/game/1986020230/feed/live,R,19861987,1986-11-27T02:00:00Z,2,5,13,5,16,Chicago Blackhawks,/api/v1/teams/16,5,7,11,5,31,Minnesota North Stars,/api/v1/teams/31
+1986020231,/api/v1/game/1986020231/feed/live,R,19861987,1986-11-27T03:00:00Z,3,13,8,1,33,Winnipeg Jets (1979),/api/v1/teams/33,4,14,8,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020232,/api/v1/game/1986020232/feed/live,R,19861987,1986-11-27T04:00:00Z,5,7,14,2,23,Vancouver Canucks,/api/v1/teams/23,3,8,12,2,26,Los Angeles Kings,/api/v1/teams/26
+1986020233,/api/v1/game/1986020233/feed/live,R,19861987,1986-11-28T03:00:00Z,4,14,8,1,33,Winnipeg Jets (1979),/api/v1/teams/33,3,12,11,1,20,Calgary Flames,/api/v1/teams/20
+1986020234,/api/v1/game/1986020234/feed/live,R,19861987,1986-11-29T01:00:00Z,3,9,10,5,6,Boston Bruins,/api/v1/teams/6,4,5,12,5,7,Buffalo Sabres,/api/v1/teams/7
+1986020235,/api/v1/game/1986020235/feed/live,R,19861987,1986-11-29T01:00:00Z,4,16,4,2,4,Philadelphia Flyers,/api/v1/teams/4,2,7,12,2,15,Washington Capitals,/api/v1/teams/15
+1986020237,/api/v1/game/1986020237/feed/live,R,19861987,1986-11-29T01:00:00Z,2,9,8,4,19,St. Louis Blues,/api/v1/teams/19,1,8,9,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020236,/api/v1/game/1986020236/feed/live,R,19861987,1986-11-29T02:00:00Z,3,10,9,4,10,Toronto Maple Leafs,/api/v1/teams/10,6,8,11,4,31,Minnesota North Stars,/api/v1/teams/31
+1986020238,/api/v1/game/1986020238/feed/live,R,19861987,1986-11-29T03:00:00Z,6,6,13,5,16,Chicago Blackhawks,/api/v1/teams/16,5,14,8,5,22,Edmonton Oilers,/api/v1/teams/22
+1986020239,/api/v1/game/1986020239/feed/live,R,19861987,1986-11-30T01:00:00Z,2,5,13,5,7,Buffalo Sabres,/api/v1/teams/7,6,10,10,5,6,Boston Bruins,/api/v1/teams/6
+1986020240,/api/v1/game/1986020240/feed/live,R,19861987,1986-11-30T01:00:00Z,7,11,6,3,34,Hartford Whalers,/api/v1/teams/34,5,12,8,3,8,Montréal Canadiens,/api/v1/teams/8
+1986020241,/api/v1/game/1986020241/feed/live,R,19861987,1986-11-30T01:00:00Z,3,7,13,5,15,Washington Capitals,/api/v1/teams/15,4,12,8,5,32,Quebec Nordiques,/api/v1/teams/32
+1986020242,/api/v1/game/1986020242/feed/live,R,19861987,1986-11-30T01:00:00Z,6,17,4,2,4,Philadelphia Flyers,/api/v1/teams/4,5,13,7,2,2,New York Islanders,/api/v1/teams/2
+1986020243,/api/v1/game/1986020243/feed/live,R,19861987,1986-11-30T01:00:00Z,5,7,6,10,3,New York Rangers,/api/v1/teams/3,5,13,8,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020245,/api/v1/game/1986020245/feed/live,R,19861987,1986-11-30T01:00:00Z,7,9,11,2,31,Minnesota North Stars,/api/v1/teams/31,2,10,10,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020246,/api/v1/game/1986020246/feed/live,R,19861987,1986-11-30T02:00:00Z,4,9,9,5,17,Detroit Red Wings,/api/v1/teams/17,2,9,9,5,19,St. Louis Blues,/api/v1/teams/19
+1986020247,/api/v1/game/1986020247/feed/live,R,19861987,1986-11-30T03:00:00Z,4,6,14,5,16,Chicago Blackhawks,/api/v1/teams/16,5,13,11,5,20,Calgary Flames,/api/v1/teams/20
+1986020244,/api/v1/game/1986020244/feed/live,R,19861987,1986-11-30T04:00:00Z,6,11,10,2,1,New Jersey Devils,/api/v1/teams/1,9,9,12,2,26,Los Angeles Kings,/api/v1/teams/26
+1986020248,/api/v1/game/1986020248/feed/live,R,19861987,1986-11-30T04:00:00Z,6,15,8,1,33,Winnipeg Jets (1979),/api/v1/teams/33,3,7,15,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020249,/api/v1/game/1986020249/feed/live,R,19861987,1986-12-01T01:00:00Z,2,13,8,4,5,Pittsburgh Penguins,/api/v1/teams/5,2,7,6,4,3,New York Rangers,/api/v1/teams/3
+1986020250,/api/v1/game/1986020250/feed/live,R,19861987,1986-12-02T01:00:00Z,1,11,7,3,34,Hartford Whalers,/api/v1/teams/34,4,13,8,3,32,Quebec Nordiques,/api/v1/teams/32
+1986020251,/api/v1/game/1986020251/feed/live,R,19861987,1986-12-02T01:00:00Z,2,8,13,5,15,Washington Capitals,/api/v1/teams/15,1,12,8,5,8,Montréal Canadiens,/api/v1/teams/8
+1986020252,/api/v1/game/1986020252/feed/live,R,19861987,1986-12-03T01:00:00Z,5,10,11,2,31,Minnesota North Stars,/api/v1/teams/31,4,5,14,2,7,Buffalo Sabres,/api/v1/teams/7
+1986020254,/api/v1/game/1986020254/feed/live,R,19861987,1986-12-03T01:00:00Z,5,7,7,11,3,New York Rangers,/api/v1/teams/3,8,12,10,11,1,New Jersey Devils,/api/v1/teams/1
+1986020255,/api/v1/game/1986020255/feed/live,R,19861987,1986-12-03T01:00:00Z,1,9,10,4,19,St. Louis Blues,/api/v1/teams/19,7,18,4,4,4,Philadelphia Flyers,/api/v1/teams/4
+1986020253,/api/v1/game/1986020253/feed/live,R,19861987,1986-12-03T03:00:00Z,3,13,7,4,2,New York Islanders,/api/v1/teams/2,3,13,11,4,20,Calgary Flames,/api/v1/teams/20
+1986020256,/api/v1/game/1986020256/feed/live,R,19861987,1986-12-03T04:00:00Z,4,9,10,5,17,Detroit Red Wings,/api/v1/teams/17,5,10,12,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020257,/api/v1/game/1986020257/feed/live,R,19861987,1986-12-03T04:00:00Z,4,7,14,5,16,Chicago Blackhawks,/api/v1/teams/16,2,7,16,5,23,Vancouver Canucks,/api/v1/teams/23
+1986020258,/api/v1/game/1986020258/feed/live,R,19861987,1986-12-04T01:00:00Z,1,13,9,5,32,Quebec Nordiques,/api/v1/teams/32,2,12,7,5,34,Hartford Whalers,/api/v1/teams/34
+1986020259,/api/v1/game/1986020259/feed/live,R,19861987,1986-12-04T01:00:00Z,3,9,10,5,19,St. Louis Blues,/api/v1/teams/19,4,13,8,5,8,Montréal Canadiens,/api/v1/teams/8
+1986020261,/api/v1/game/1986020261/feed/live,R,19861987,1986-12-04T02:00:00Z,3,8,13,6,15,Washington Capitals,/api/v1/teams/15,3,15,8,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020260,/api/v1/game/1986020260/feed/live,R,19861987,1986-12-04T03:00:00Z,1,13,8,4,2,New York Islanders,/api/v1/teams/2,7,15,8,4,22,Edmonton Oilers,/api/v1/teams/22
+1986020262,/api/v1/game/1986020262/feed/live,R,19861987,1986-12-05T01:00:00Z,2,13,10,5,32,Quebec Nordiques,/api/v1/teams/32,3,11,10,5,6,Boston Bruins,/api/v1/teams/6
+1986020263,/api/v1/game/1986020263/feed/live,R,19861987,1986-12-05T01:00:00Z,2,13,7,3,34,Hartford Whalers,/api/v1/teams/34,1,18,5,3,4,Philadelphia Flyers,/api/v1/teams/4
+1986020264,/api/v1/game/1986020264/feed/live,R,19861987,1986-12-05T01:00:00Z,5,11,11,2,31,Minnesota North Stars,/api/v1/teams/31,3,12,11,2,1,New Jersey Devils,/api/v1/teams/1
+1986020266,/api/v1/game/1986020266/feed/live,R,19861987,1986-12-05T03:00:00Z,1,7,15,5,16,Chicago Blackhawks,/api/v1/teams/16,4,14,11,5,20,Calgary Flames,/api/v1/teams/20
+1986020265,/api/v1/game/1986020265/feed/live,R,19861987,1986-12-05T04:00:00Z,3,10,11,4,10,Toronto Maple Leafs,/api/v1/teams/10,4,11,12,4,26,Los Angeles Kings,/api/v1/teams/26
+1986020267,/api/v1/game/1986020267/feed/live,R,19861987,1986-12-06T01:00:00Z,6,10,10,5,19,St. Louis Blues,/api/v1/teams/19,5,5,15,5,7,Buffalo Sabres,/api/v1/teams/7
+1986020268,/api/v1/game/1986020268/feed/live,R,19861987,1986-12-06T01:00:00Z,3,13,8,6,8,Montréal Canadiens,/api/v1/teams/8,3,9,10,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020271,/api/v1/game/1986020271/feed/live,R,19861987,1986-12-06T01:00:00Z,4,16,8,3,22,Edmonton Oilers,/api/v1/teams/22,2,13,9,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020270,/api/v1/game/1986020270/feed/live,R,19861987,1986-12-06T02:00:00Z,6,8,7,11,3,New York Rangers,/api/v1/teams/3,3,15,9,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020269,/api/v1/game/1986020269/feed/live,R,19861987,1986-12-06T04:00:00Z,4,14,8,4,2,New York Islanders,/api/v1/teams/2,3,7,17,4,23,Vancouver Canucks,/api/v1/teams/23
+1986020272,/api/v1/game/1986020272/feed/live,R,19861987,1986-12-07T01:00:00Z,0,18,6,2,4,Philadelphia Flyers,/api/v1/teams/4,5,12,10,2,6,Boston Bruins,/api/v1/teams/6
+1986020273,/api/v1/game/1986020273/feed/live,R,19861987,1986-12-07T01:00:00Z,4,10,10,6,17,Detroit Red Wings,/api/v1/teams/17,1,13,8,6,34,Hartford Whalers,/api/v1/teams/34
+1986020274,/api/v1/game/1986020274/feed/live,R,19861987,1986-12-07T01:00:00Z,3,5,16,5,7,Buffalo Sabres,/api/v1/teams/7,4,13,11,5,1,New Jersey Devils,/api/v1/teams/1
+1986020275,/api/v1/game/1986020275/feed/live,R,19861987,1986-12-07T01:00:00Z,1,13,9,6,8,Montréal Canadiens,/api/v1/teams/8,3,9,13,6,15,Washington Capitals,/api/v1/teams/15
+1986020276,/api/v1/game/1986020276/feed/live,R,19861987,1986-12-07T01:00:00Z,3,15,11,1,20,Calgary Flames,/api/v1/teams/20,2,13,11,1,32,Quebec Nordiques,/api/v1/teams/32
+1986020277,/api/v1/game/1986020277/feed/live,R,19861987,1986-12-07T01:00:00Z,2,11,12,2,31,Minnesota North Stars,/api/v1/teams/31,5,14,9,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020278,/api/v1/game/1986020278/feed/live,R,19861987,1986-12-07T04:00:00Z,2,7,16,5,16,Chicago Blackhawks,/api/v1/teams/16,7,12,12,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020279,/api/v1/game/1986020279/feed/live,R,19861987,1986-12-08T01:00:00Z,1,14,9,4,2,New York Islanders,/api/v1/teams/2,3,13,10,4,6,Boston Bruins,/api/v1/teams/6
+1986020280,/api/v1/game/1986020280/feed/live,R,19861987,1986-12-08T01:00:00Z,2,16,9,3,22,Edmonton Oilers,/api/v1/teams/22,5,19,6,3,4,Philadelphia Flyers,/api/v1/teams/4
+1986020281,/api/v1/game/1986020281/feed/live,R,19861987,1986-12-08T02:00:00Z,3,10,12,4,10,Toronto Maple Leafs,/api/v1/teams/10,5,11,10,4,19,St. Louis Blues,/api/v1/teams/19
+1986020282,/api/v1/game/1986020282/feed/live,R,19861987,1986-12-08T02:00:00Z,3,8,17,2,23,Vancouver Canucks,/api/v1/teams/23,1,15,10,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020283,/api/v1/game/1986020283/feed/live,R,19861987,1986-12-09T01:00:00Z,3,15,12,1,20,Calgary Flames,/api/v1/teams/20,5,14,9,1,8,Montréal Canadiens,/api/v1/teams/8
+1986020284,/api/v1/game/1986020284/feed/live,R,19861987,1986-12-10T01:00:00Z,5,5,16,6,7,Buffalo Sabres,/api/v1/teams/7,5,10,10,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020285,/api/v1/game/1986020285/feed/live,R,19861987,1986-12-10T01:00:00Z,4,12,10,5,19,St. Louis Blues,/api/v1/teams/19,1,13,12,5,32,Quebec Nordiques,/api/v1/teams/32
+1986020286,/api/v1/game/1986020286/feed/live,R,19861987,1986-12-10T01:00:00Z,7,13,12,4,26,Los Angeles Kings,/api/v1/teams/26,2,14,10,4,2,New York Islanders,/api/v1/teams/2
+1986020287,/api/v1/game/1986020287/feed/live,R,19861987,1986-12-10T01:00:00Z,2,13,12,2,1,New Jersey Devils,/api/v1/teams/1,4,10,13,2,15,Washington Capitals,/api/v1/teams/15
+1986020288,/api/v1/game/1986020288/feed/live,R,19861987,1986-12-10T01:00:00Z,3,8,18,2,23,Vancouver Canucks,/api/v1/teams/23,6,20,6,2,4,Philadelphia Flyers,/api/v1/teams/4
+1986020289,/api/v1/game/1986020289/feed/live,R,19861987,1986-12-10T02:00:00Z,3,17,9,3,22,Edmonton Oilers,/api/v1/teams/22,2,11,13,3,31,Minnesota North Stars,/api/v1/teams/31
+1986020290,/api/v1/game/1986020290/feed/live,R,19861987,1986-12-11T01:00:00Z,2,12,11,5,19,St. Louis Blues,/api/v1/teams/19,6,14,8,5,34,Hartford Whalers,/api/v1/teams/34
+1986020292,/api/v1/game/1986020292/feed/live,R,19861987,1986-12-11T01:00:00Z,4,13,13,4,26,Los Angeles Kings,/api/v1/teams/26,5,9,7,4,3,New York Rangers,/api/v1/teams/3
+1986020293,/api/v1/game/1986020293/feed/live,R,19861987,1986-12-11T01:00:00Z,6,16,12,1,20,Calgary Flames,/api/v1/teams/20,4,14,10,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020294,/api/v1/game/1986020294/feed/live,R,19861987,1986-12-11T01:00:00Z,2,10,14,6,15,Washington Capitals,/api/v1/teams/15,8,11,12,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020291,/api/v1/game/1986020291/feed/live,R,19861987,1986-12-11T02:00:00Z,3,5,17,6,7,Buffalo Sabres,/api/v1/teams/7,6,8,16,6,16,Chicago Blackhawks,/api/v1/teams/16
+1986020295,/api/v1/game/1986020295/feed/live,R,19861987,1986-12-11T02:00:00Z,7,18,9,3,22,Edmonton Oilers,/api/v1/teams/22,4,15,11,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020296,/api/v1/game/1986020296/feed/live,R,19861987,1986-12-12T01:00:00Z,2,8,19,2,23,Vancouver Canucks,/api/v1/teams/23,4,14,10,2,6,Boston Bruins,/api/v1/teams/6
+1986020297,/api/v1/game/1986020297/feed/live,R,19861987,1986-12-12T01:00:00Z,2,9,8,11,3,New York Rangers,/api/v1/teams/3,6,15,9,11,8,Montréal Canadiens,/api/v1/teams/8
+1986020298,/api/v1/game/1986020298/feed/live,R,19861987,1986-12-12T01:00:00Z,8,15,10,4,2,New York Islanders,/api/v1/teams/2,4,13,13,4,1,New Jersey Devils,/api/v1/teams/1
+1986020299,/api/v1/game/1986020299/feed/live,R,19861987,1986-12-12T01:00:00Z,3,16,13,1,20,Calgary Flames,/api/v1/teams/20,5,21,6,1,4,Philadelphia Flyers,/api/v1/teams/4
+1986020300,/api/v1/game/1986020300/feed/live,R,19861987,1986-12-12T01:00:00Z,6,11,13,3,31,Minnesota North Stars,/api/v1/teams/31,6,10,10,3,17,Detroit Red Wings,/api/v1/teams/17
+1986020301,/api/v1/game/1986020301/feed/live,R,19861987,1986-12-13T01:00:00Z,3,11,13,4,10,Toronto Maple Leafs,/api/v1/teams/10,8,15,10,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020302,/api/v1/game/1986020302/feed/live,R,19861987,1986-12-13T03:00:00Z,1,15,12,2,33,Winnipeg Jets (1979),/api/v1/teams/33,6,19,9,2,22,Edmonton Oilers,/api/v1/teams/22
+1986020303,/api/v1/game/1986020303/feed/live,R,19861987,1986-12-14T01:00:00Z,4,15,10,5,6,Boston Bruins,/api/v1/teams/6,2,15,10,5,8,Montréal Canadiens,/api/v1/teams/8
+1986020304,/api/v1/game/1986020304/feed/live,R,19861987,1986-12-14T01:00:00Z,2,8,19,3,23,Vancouver Canucks,/api/v1/teams/23,2,14,8,3,34,Hartford Whalers,/api/v1/teams/34
+1986020305,/api/v1/game/1986020305/feed/live,R,19861987,1986-12-14T01:00:00Z,0,5,18,6,7,Buffalo Sabres,/api/v1/teams/7,7,14,12,6,32,Quebec Nordiques,/api/v1/teams/32
+1986020306,/api/v1/game/1986020306/feed/live,R,19861987,1986-12-14T01:00:00Z,2,13,14,2,1,New Jersey Devils,/api/v1/teams/1,4,16,10,2,2,New York Islanders,/api/v1/teams/2
+1986020308,/api/v1/game/1986020308/feed/live,R,19861987,1986-12-14T01:00:00Z,2,15,10,5,5,Pittsburgh Penguins,/api/v1/teams/5,3,12,13,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020307,/api/v1/game/1986020307/feed/live,R,19861987,1986-12-14T02:00:00Z,4,21,7,2,4,Philadelphia Flyers,/api/v1/teams/4,5,12,13,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020309,/api/v1/game/1986020309/feed/live,R,19861987,1986-12-14T02:00:00Z,4,8,16,6,16,Chicago Blackhawks,/api/v1/teams/16,4,12,11,6,19,St. Louis Blues,/api/v1/teams/19
+1986020310,/api/v1/game/1986020310/feed/live,R,19861987,1986-12-14T04:00:00Z,6,17,13,1,20,Calgary Flames,/api/v1/teams/20,3,13,14,1,26,Los Angeles Kings,/api/v1/teams/26
+1986020311,/api/v1/game/1986020311/feed/live,R,19861987,1986-12-15T01:00:00Z,6,16,10,5,6,Boston Bruins,/api/v1/teams/6,2,14,13,5,32,Quebec Nordiques,/api/v1/teams/32
+1986020312,/api/v1/game/1986020312/feed/live,R,19861987,1986-12-15T01:00:00Z,3,14,9,4,34,Hartford Whalers,/api/v1/teams/34,4,6,18,4,7,Buffalo Sabres,/api/v1/teams/7
+1986020313,/api/v1/game/1986020313/feed/live,R,19861987,1986-12-15T01:00:00Z,2,15,11,6,8,Montréal Canadiens,/api/v1/teams/8,4,14,14,6,1,New Jersey Devils,/api/v1/teams/1
+1986020314,/api/v1/game/1986020314/feed/live,R,19861987,1986-12-15T01:00:00Z,3,10,8,11,3,New York Rangers,/api/v1/teams/3,1,10,15,11,15,Washington Capitals,/api/v1/teams/15
+1986020315,/api/v1/game/1986020315/feed/live,R,19861987,1986-12-15T02:00:00Z,7,9,19,3,23,Vancouver Canucks,/api/v1/teams/23,3,8,17,3,16,Chicago Blackhawks,/api/v1/teams/16
+1986020316,/api/v1/game/1986020316/feed/live,R,19861987,1986-12-15T02:00:00Z,4,22,7,2,4,Philadelphia Flyers,/api/v1/teams/4,1,15,13,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020317,/api/v1/game/1986020317/feed/live,R,19861987,1986-12-15T04:00:00Z,4,20,9,3,22,Edmonton Oilers,/api/v1/teams/22,2,13,15,3,26,Los Angeles Kings,/api/v1/teams/26
+1986020318,/api/v1/game/1986020318/feed/live,R,19861987,1986-12-16T01:00:00Z,4,13,13,3,31,Minnesota North Stars,/api/v1/teams/31,3,10,9,3,3,New York Rangers,/api/v1/teams/3
+1986020320,/api/v1/game/1986020320/feed/live,R,19861987,1986-12-17T01:00:00Z,2,13,14,3,31,Minnesota North Stars,/api/v1/teams/31,4,17,10,3,2,New York Islanders,/api/v1/teams/2
+1986020319,/api/v1/game/1986020319/feed/live,R,19861987,1986-12-17T02:00:00Z,4,16,11,6,8,Montréal Canadiens,/api/v1/teams/8,2,12,12,6,19,St. Louis Blues,/api/v1/teams/19
+1986020321,/api/v1/game/1986020321/feed/live,R,19861987,1986-12-17T03:00:00Z,3,10,11,8,17,Detroit Red Wings,/api/v1/teams/17,8,18,13,8,20,Calgary Flames,/api/v1/teams/20
+1986020322,/api/v1/game/1986020322/feed/live,R,19861987,1986-12-18T01:00:00Z,3,6,19,6,7,Buffalo Sabres,/api/v1/teams/7,4,15,9,6,34,Hartford Whalers,/api/v1/teams/34
+1986020324,/api/v1/game/1986020324/feed/live,R,19861987,1986-12-18T01:00:00Z,1,10,16,6,15,Washington Capitals,/api/v1/teams/15,6,11,9,6,3,New York Rangers,/api/v1/teams/3
+1986020325,/api/v1/game/1986020325/feed/live,R,19861987,1986-12-18T01:00:00Z,2,12,13,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,15,14,5,1,New Jersey Devils,/api/v1/teams/1
+1986020328,/api/v1/game/1986020328/feed/live,R,19861987,1986-12-18T02:00:00Z,1,15,14,2,33,Winnipeg Jets (1979),/api/v1/teams/33,5,9,17,2,16,Chicago Blackhawks,/api/v1/teams/16
+1986020323,/api/v1/game/1986020323/feed/live,R,19861987,1986-12-18T03:00:00Z,3,14,14,5,32,Quebec Nordiques,/api/v1/teams/32,5,21,9,5,22,Edmonton Oilers,/api/v1/teams/22
+1986020326,/api/v1/game/1986020326/feed/live,R,19861987,1986-12-18T04:00:00Z,0,15,11,5,5,Pittsburgh Penguins,/api/v1/teams/5,3,14,15,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020327,/api/v1/game/1986020327/feed/live,R,19861987,1986-12-18T04:00:00Z,5,11,11,8,17,Detroit Red Wings,/api/v1/teams/17,4,9,20,8,23,Vancouver Canucks,/api/v1/teams/23
+1986020329,/api/v1/game/1986020329/feed/live,R,19861987,1986-12-19T01:00:00Z,6,16,9,4,34,Hartford Whalers,/api/v1/teams/34,5,16,11,4,6,Boston Bruins,/api/v1/teams/6
+1986020331,/api/v1/game/1986020331/feed/live,R,19861987,1986-12-19T01:00:00Z,4,17,11,4,2,New York Islanders,/api/v1/teams/2,9,23,7,4,4,Philadelphia Flyers,/api/v1/teams/4
+1986020332,/api/v1/game/1986020332/feed/live,R,19861987,1986-12-19T01:00:00Z,6,14,14,3,31,Minnesota North Stars,/api/v1/teams/31,5,12,13,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020333,/api/v1/game/1986020333/feed/live,R,19861987,1986-12-19T02:00:00Z,3,15,14,3,33,Winnipeg Jets (1979),/api/v1/teams/33,3,12,12,3,19,St. Louis Blues,/api/v1/teams/19
+1986020330,/api/v1/game/1986020330/feed/live,R,19861987,1986-12-19T03:00:00Z,2,14,15,5,32,Quebec Nordiques,/api/v1/teams/32,6,19,13,5,20,Calgary Flames,/api/v1/teams/20
+1986020334,/api/v1/game/1986020334/feed/live,R,19861987,1986-12-20T01:00:00Z,2,16,12,6,8,Montréal Canadiens,/api/v1/teams/8,3,7,19,6,7,Buffalo Sabres,/api/v1/teams/7
+1986020335,/api/v1/game/1986020335/feed/live,R,19861987,1986-12-20T01:00:00Z,4,10,17,6,15,Washington Capitals,/api/v1/teams/15,6,16,14,6,1,New Jersey Devils,/api/v1/teams/1
+1986020336,/api/v1/game/1986020336/feed/live,R,19861987,1986-12-20T03:00:00Z,2,9,21,3,23,Vancouver Canucks,/api/v1/teams/23,4,22,9,3,22,Edmonton Oilers,/api/v1/teams/22
+1986020337,/api/v1/game/1986020337/feed/live,R,19861987,1986-12-21T01:00:00Z,6,10,17,6,16,Chicago Blackhawks,/api/v1/teams/16,2,16,12,6,6,Boston Bruins,/api/v1/teams/6
+1986020338,/api/v1/game/1986020338/feed/live,R,19861987,1986-12-21T01:00:00Z,2,16,9,5,34,Hartford Whalers,/api/v1/teams/34,2,11,11,5,17,Detroit Red Wings,/api/v1/teams/17
+1986020339,/api/v1/game/1986020339/feed/live,R,19861987,1986-12-21T01:00:00Z,4,7,19,7,7,Buffalo Sabres,/api/v1/teams/7,5,13,13,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020340,/api/v1/game/1986020340/feed/live,R,19861987,1986-12-21T01:00:00Z,2,16,15,2,1,New Jersey Devils,/api/v1/teams/1,5,17,12,2,8,Montréal Canadiens,/api/v1/teams/8
+1986020342,/api/v1/game/1986020342/feed/live,R,19861987,1986-12-21T01:00:00Z,2,11,10,11,3,New York Rangers,/api/v1/teams/3,5,18,11,11,2,New York Islanders,/api/v1/teams/2
+1986020343,/api/v1/game/1986020343/feed/live,R,19861987,1986-12-21T01:00:00Z,6,24,7,2,4,Philadelphia Flyers,/api/v1/teams/4,4,15,12,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020344,/api/v1/game/1986020344/feed/live,R,19861987,1986-12-21T01:00:00Z,3,12,13,7,19,St. Louis Blues,/api/v1/teams/19,5,11,17,7,15,Washington Capitals,/api/v1/teams/15
+1986020341,/api/v1/game/1986020341/feed/live,R,19861987,1986-12-21T02:00:00Z,4,15,15,5,32,Quebec Nordiques,/api/v1/teams/32,1,14,15,5,31,Minnesota North Stars,/api/v1/teams/31
+1986020346,/api/v1/game/1986020346/feed/live,R,19861987,1986-12-21T03:00:00Z,8,14,15,5,26,Los Angeles Kings,/api/v1/teams/26,8,22,9,5,22,Edmonton Oilers,/api/v1/teams/22
+1986020345,/api/v1/game/1986020345/feed/live,R,19861987,1986-12-21T04:00:00Z,5,20,13,1,20,Calgary Flames,/api/v1/teams/20,3,9,22,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020347,/api/v1/game/1986020347/feed/live,R,19861987,1986-12-22T01:00:00Z,4,17,9,5,34,Hartford Whalers,/api/v1/teams/34,3,11,10,5,3,New York Rangers,/api/v1/teams/3
+1986020349,/api/v1/game/1986020349/feed/live,R,19861987,1986-12-22T01:00:00Z,6,12,14,7,19,St. Louis Blues,/api/v1/teams/19,7,25,7,7,4,Philadelphia Flyers,/api/v1/teams/4
+1986020348,/api/v1/game/1986020348/feed/live,R,19861987,1986-12-22T02:00:00Z,4,15,15,6,32,Quebec Nordiques,/api/v1/teams/32,4,15,14,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020350,/api/v1/game/1986020350/feed/live,R,19861987,1986-12-22T02:00:00Z,4,11,12,9,17,Detroit Red Wings,/api/v1/teams/17,7,11,17,9,16,Chicago Blackhawks,/api/v1/teams/16
+1986020351,/api/v1/game/1986020351/feed/live,R,19861987,1986-12-23T01:00:00Z,4,15,12,6,5,Pittsburgh Penguins,/api/v1/teams/5,4,17,12,6,8,Montréal Canadiens,/api/v1/teams/8
+1986020352,/api/v1/game/1986020352/feed/live,R,19861987,1986-12-23T03:00:00Z,5,15,15,5,26,Los Angeles Kings,/api/v1/teams/26,3,20,14,5,20,Calgary Flames,/api/v1/teams/20
+1986020353,/api/v1/game/1986020353/feed/live,R,19861987,1986-12-24T01:00:00Z,0,16,13,5,6,Boston Bruins,/api/v1/teams/6,2,18,9,5,34,Hartford Whalers,/api/v1/teams/34
+1986020354,/api/v1/game/1986020354/feed/live,R,19861987,1986-12-24T01:00:00Z,1,25,8,2,4,Philadelphia Flyers,/api/v1/teams/4,2,8,19,2,7,Buffalo Sabres,/api/v1/teams/7
+1986020355,/api/v1/game/1986020355/feed/live,R,19861987,1986-12-24T01:00:00Z,3,15,12,7,5,Pittsburgh Penguins,/api/v1/teams/5,4,19,11,7,2,New York Islanders,/api/v1/teams/2
+1986020356,/api/v1/game/1986020356/feed/live,R,19861987,1986-12-24T01:00:00Z,5,16,16,2,1,New Jersey Devils,/api/v1/teams/1,8,12,10,2,3,New York Rangers,/api/v1/teams/3
+1986020358,/api/v1/game/1986020358/feed/live,R,19861987,1986-12-24T01:00:00Z,1,11,18,6,16,Chicago Blackhawks,/api/v1/teams/16,3,12,12,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020357,/api/v1/game/1986020357/feed/live,R,19861987,1986-12-24T02:00:00Z,4,14,13,6,10,Toronto Maple Leafs,/api/v1/teams/10,3,14,15,6,31,Minnesota North Stars,/api/v1/teams/31
+1986020359,/api/v1/game/1986020359/feed/live,R,19861987,1986-12-24T03:00:00Z,2,16,14,4,33,Winnipeg Jets (1979),/api/v1/teams/33,1,22,10,4,22,Edmonton Oilers,/api/v1/teams/22
+1986020360,/api/v1/game/1986020360/feed/live,R,19861987,1986-12-24T04:00:00Z,4,15,16,5,26,Los Angeles Kings,/api/v1/teams/26,6,10,22,5,23,Vancouver Canucks,/api/v1/teams/23
+1986020361,/api/v1/game/1986020361/feed/live,R,19861987,1986-12-27T01:00:00Z,1,17,12,8,8,Montréal Canadiens,/api/v1/teams/8,1,18,9,8,34,Hartford Whalers,/api/v1/teams/34
+1986020362,/api/v1/game/1986020362/feed/live,R,19861987,1986-12-27T01:00:00Z,3,15,12,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,8,19,8,7,Buffalo Sabres,/api/v1/teams/7
+1986020363,/api/v1/game/1986020363/feed/live,R,19861987,1986-12-27T01:00:00Z,1,19,12,4,2,New York Islanders,/api/v1/teams/2,2,12,17,4,15,Washington Capitals,/api/v1/teams/15
+1986020364,/api/v1/game/1986020364/feed/live,R,19861987,1986-12-27T01:00:00Z,7,13,10,12,3,New York Rangers,/api/v1/teams/3,4,16,17,12,1,New Jersey Devils,/api/v1/teams/1
+1986020365,/api/v1/game/1986020365/feed/live,R,19861987,1986-12-27T01:00:00Z,2,14,14,6,10,Toronto Maple Leafs,/api/v1/teams/10,4,13,12,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020366,/api/v1/game/1986020366/feed/live,R,19861987,1986-12-27T02:00:00Z,6,12,15,7,19,St. Louis Blues,/api/v1/teams/19,8,12,18,7,16,Chicago Blackhawks,/api/v1/teams/16
+1986020367,/api/v1/game/1986020367/feed/live,R,19861987,1986-12-27T02:00:00Z,2,16,15,4,33,Winnipeg Jets (1979),/api/v1/teams/33,4,15,15,4,31,Minnesota North Stars,/api/v1/teams/31
+1986020369,/api/v1/game/1986020369/feed/live,R,19861987,1986-12-28T01:00:00Z,2,18,10,6,34,Hartford Whalers,/api/v1/teams/34,6,18,12,6,8,Montréal Canadiens,/api/v1/teams/8
+1986020370,/api/v1/game/1986020370/feed/live,R,19861987,1986-12-28T01:00:00Z,2,16,17,3,1,New Jersey Devils,/api/v1/teams/1,2,15,15,3,32,Quebec Nordiques,/api/v1/teams/32
+1986020371,/api/v1/game/1986020371/feed/live,R,19861987,1986-12-28T01:00:00Z,3,19,12,5,2,New York Islanders,/api/v1/teams/2,3,15,12,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020374,/api/v1/game/1986020374/feed/live,R,19861987,1986-12-28T01:00:00Z,5,13,12,10,17,Detroit Red Wings,/api/v1/teams/17,5,14,14,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020372,/api/v1/game/1986020372/feed/live,R,19861987,1986-12-28T02:00:00Z,2,13,11,12,3,New York Rangers,/api/v1/teams/3,3,13,15,12,19,St. Louis Blues,/api/v1/teams/19
+1986020368,/api/v1/game/1986020368/feed/live,R,19861987,1986-12-28T04:00:00Z,1,16,13,6,6,Boston Bruins,/api/v1/teams/6,2,16,16,6,26,Los Angeles Kings,/api/v1/teams/26
+1986020373,/api/v1/game/1986020373/feed/live,R,19861987,1986-12-28T04:00:00Z,2,25,9,2,4,Philadelphia Flyers,/api/v1/teams/4,4,11,22,2,23,Vancouver Canucks,/api/v1/teams/23
+1986020375,/api/v1/game/1986020375/feed/live,R,19861987,1986-12-29T01:00:00Z,4,21,14,1,20,Calgary Flames,/api/v1/teams/20,1,8,20,1,7,Buffalo Sabres,/api/v1/teams/7
+1986020377,/api/v1/game/1986020377/feed/live,R,19861987,1986-12-29T02:00:00Z,5,12,18,6,15,Washington Capitals,/api/v1/teams/15,7,13,18,6,16,Chicago Blackhawks,/api/v1/teams/16
+1986020378,/api/v1/game/1986020378/feed/live,R,19861987,1986-12-29T02:00:00Z,4,15,16,4,31,Minnesota North Stars,/api/v1/teams/31,5,17,15,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020376,/api/v1/game/1986020376/feed/live,R,19861987,1986-12-29T03:00:00Z,4,25,10,2,4,Philadelphia Flyers,/api/v1/teams/4,6,23,10,2,22,Edmonton Oilers,/api/v1/teams/22
+1986020380,/api/v1/game/1986020380/feed/live,R,19861987,1986-12-31T01:00:00Z,3,19,10,6,34,Hartford Whalers,/api/v1/teams/34,1,12,19,6,15,Washington Capitals,/api/v1/teams/15
+1986020381,/api/v1/game/1986020381/feed/live,R,19861987,1986-12-31T01:00:00Z,3,18,13,8,8,Montréal Canadiens,/api/v1/teams/8,6,16,15,8,32,Quebec Nordiques,/api/v1/teams/32
+1986020382,/api/v1/game/1986020382/feed/live,R,19861987,1986-12-31T01:00:00Z,5,14,18,6,16,Chicago Blackhawks,/api/v1/teams/16,3,19,13,6,2,New York Islanders,/api/v1/teams/2
+1986020383,/api/v1/game/1986020383/feed/live,R,19861987,1986-12-31T01:00:00Z,5,14,11,12,3,New York Rangers,/api/v1/teams/3,3,15,13,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020384,/api/v1/game/1986020384/feed/live,R,19861987,1986-12-31T01:00:00Z,4,22,14,1,20,Calgary Flames,/api/v1/teams/20,3,16,18,1,1,New Jersey Devils,/api/v1/teams/1
+1986020379,/api/v1/game/1986020379/feed/live,R,19861987,1986-12-31T02:00:00Z,3,16,14,6,6,Boston Bruins,/api/v1/teams/6,4,14,15,6,19,St. Louis Blues,/api/v1/teams/19
+1986020385,/api/v1/game/1986020385/feed/live,R,19861987,1986-12-31T04:00:00Z,1,25,11,2,4,Philadelphia Flyers,/api/v1/teams/4,4,17,16,2,26,Los Angeles Kings,/api/v1/teams/26
+1986020386,/api/v1/game/1986020386/feed/live,R,19861987,1986-12-31T04:00:00Z,7,24,10,4,22,Edmonton Oilers,/api/v1/teams/22,3,11,23,4,23,Vancouver Canucks,/api/v1/teams/23
+1986020388,/api/v1/game/1986020388/feed/live,R,19861987,1987-01-01T01:00:00Z,2,14,19,6,16,Chicago Blackhawks,/api/v1/teams/16,5,9,20,6,7,Buffalo Sabres,/api/v1/teams/7
+1986020389,/api/v1/game/1986020389/feed/live,R,19861987,1987-01-01T01:00:00Z,1,16,16,7,32,Quebec Nordiques,/api/v1/teams/32,4,19,13,7,8,Montréal Canadiens,/api/v1/teams/8
+1986020390,/api/v1/game/1986020390/feed/live,R,19861987,1987-01-01T01:00:00Z,3,19,13,6,2,New York Islanders,/api/v1/teams/2,4,15,11,6,3,New York Rangers,/api/v1/teams/3
+1986020391,/api/v1/game/1986020391/feed/live,R,19861987,1987-01-01T01:00:00Z,1,17,16,4,33,Winnipeg Jets (1979),/api/v1/teams/33,6,15,14,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020392,/api/v1/game/1986020392/feed/live,R,19861987,1987-01-01T01:00:00Z,4,22,15,1,20,Calgary Flames,/api/v1/teams/20,6,14,12,1,17,Detroit Red Wings,/api/v1/teams/17
+1986020387,/api/v1/game/1986020387/feed/live,R,19861987,1987-01-01T02:00:00Z,2,19,11,6,34,Hartford Whalers,/api/v1/teams/34,5,16,16,6,31,Minnesota North Stars,/api/v1/teams/31
+1986020393,/api/v1/game/1986020393/feed/live,R,19861987,1987-01-02T01:00:00Z,3,15,13,10,5,Pittsburgh Penguins,/api/v1/teams/5,4,13,19,10,15,Washington Capitals,/api/v1/teams/15
+1986020394,/api/v1/game/1986020394/feed/live,R,19861987,1987-01-03T01:00:00Z,7,17,14,6,6,Boston Bruins,/api/v1/teams/6,2,16,19,6,1,New Jersey Devils,/api/v1/teams/1
+1986020395,/api/v1/game/1986020395/feed/live,R,19861987,1987-01-03T01:00:00Z,6,18,16,4,33,Winnipeg Jets (1979),/api/v1/teams/33,3,9,21,4,7,Buffalo Sabres,/api/v1/teams/7
+1986020396,/api/v1/game/1986020396/feed/live,R,19861987,1987-01-03T01:00:00Z,1,16,17,4,31,Minnesota North Stars,/api/v1/teams/31,2,15,12,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020397,/api/v1/game/1986020397/feed/live,R,19861987,1987-01-03T04:00:00Z,3,17,16,6,26,Los Angeles Kings,/api/v1/teams/26,3,11,23,6,23,Vancouver Canucks,/api/v1/teams/23
+1986020398,/api/v1/game/1986020398/feed/live,R,19861987,1987-01-04T01:00:00Z,5,18,14,6,6,Boston Bruins,/api/v1/teams/6,4,19,14,6,2,New York Islanders,/api/v1/teams/2
+1986020399,/api/v1/game/1986020399/feed/live,R,19861987,1987-01-04T01:00:00Z,3,15,19,6,16,Chicago Blackhawks,/api/v1/teams/16,2,19,12,6,34,Hartford Whalers,/api/v1/teams/34
+1986020400,/api/v1/game/1986020400/feed/live,R,19861987,1987-01-04T01:00:00Z,3,19,14,8,8,Montréal Canadiens,/api/v1/teams/8,6,16,13,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020401,/api/v1/game/1986020401/feed/live,R,19861987,1987-01-04T01:00:00Z,5,16,11,12,3,New York Rangers,/api/v1/teams/3,2,16,17,12,32,Quebec Nordiques,/api/v1/teams/32
+1986020402,/api/v1/game/1986020402/feed/live,R,19861987,1987-01-04T01:00:00Z,2,16,20,3,1,New Jersey Devils,/api/v1/teams/1,7,16,14,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020403,/api/v1/game/1986020403/feed/live,R,19861987,1987-01-04T01:00:00Z,4,26,11,2,4,Philadelphia Flyers,/api/v1/teams/4,1,13,20,2,15,Washington Capitals,/api/v1/teams/15
+1986020404,/api/v1/game/1986020404/feed/live,R,19861987,1987-01-04T02:00:00Z,3,16,12,10,17,Detroit Red Wings,/api/v1/teams/17,2,16,18,10,31,Minnesota North Stars,/api/v1/teams/31
+1986020405,/api/v1/game/1986020405/feed/live,R,19861987,1987-01-04T02:00:00Z,4,22,16,1,20,Calgary Flames,/api/v1/teams/20,7,15,15,1,19,St. Louis Blues,/api/v1/teams/19
+1986020406,/api/v1/game/1986020406/feed/live,R,19861987,1987-01-04T04:00:00Z,8,25,10,4,22,Edmonton Oilers,/api/v1/teams/22,1,17,17,4,26,Los Angeles Kings,/api/v1/teams/26
+1986020407,/api/v1/game/1986020407/feed/live,R,19861987,1987-01-05T01:00:00Z,3,16,15,7,10,Toronto Maple Leafs,/api/v1/teams/10,8,20,12,7,34,Hartford Whalers,/api/v1/teams/34
+1986020408,/api/v1/game/1986020408/feed/live,R,19861987,1987-01-05T01:00:00Z,2,16,18,7,32,Quebec Nordiques,/api/v1/teams/32,7,10,21,7,7,Buffalo Sabres,/api/v1/teams/7
+1986020409,/api/v1/game/1986020409/feed/live,R,19861987,1987-01-05T02:00:00Z,4,23,16,1,20,Calgary Flames,/api/v1/teams/20,1,15,20,1,16,Chicago Blackhawks,/api/v1/teams/16
+1986020410,/api/v1/game/1986020410/feed/live,R,19861987,1987-01-05T02:00:00Z,2,11,24,4,23,Vancouver Canucks,/api/v1/teams/23,4,19,16,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020411,/api/v1/game/1986020411/feed/live,R,19861987,1987-01-06T01:00:00Z,2,20,14,8,8,Montréal Canadiens,/api/v1/teams/8,1,18,15,8,6,Boston Bruins,/api/v1/teams/6
+1986020412,/api/v1/game/1986020412/feed/live,R,19861987,1987-01-06T01:00:00Z,3,16,18,5,31,Minnesota North Stars,/api/v1/teams/31,3,16,11,5,3,New York Rangers,/api/v1/teams/3
+1986020413,/api/v1/game/1986020413/feed/live,R,19861987,1987-01-06T02:00:00Z,6,14,20,6,15,Washington Capitals,/api/v1/teams/15,4,15,16,6,19,St. Louis Blues,/api/v1/teams/19
+1986020414,/api/v1/game/1986020414/feed/live,R,19861987,1987-01-07T01:00:00Z,2,11,25,4,23,Vancouver Canucks,/api/v1/teams/23,3,17,18,4,32,Quebec Nordiques,/api/v1/teams/32
+1986020415,/api/v1/game/1986020415/feed/live,R,19861987,1987-01-07T01:00:00Z,3,16,19,5,31,Minnesota North Stars,/api/v1/teams/31,5,20,14,5,2,New York Islanders,/api/v1/teams/2
+1986020416,/api/v1/game/1986020416/feed/live,R,19861987,1987-01-07T01:00:00Z,0,16,21,3,1,New Jersey Devils,/api/v1/teams/1,4,27,11,3,4,Philadelphia Flyers,/api/v1/teams/4
+1986020417,/api/v1/game/1986020417/feed/live,R,19861987,1987-01-07T01:00:00Z,3,17,15,7,10,Toronto Maple Leafs,/api/v1/teams/10,1,16,13,7,17,Detroit Red Wings,/api/v1/teams/17
+1986020420,/api/v1/game/1986020420/feed/live,R,19861987,1987-01-08T01:00:00Z,3,12,25,4,23,Vancouver Canucks,/api/v1/teams/23,2,20,14,4,8,Montréal Canadiens,/api/v1/teams/8
+1986020421,/api/v1/game/1986020421/feed/live,R,19861987,1987-01-08T01:00:00Z,6,28,11,2,4,Philadelphia Flyers,/api/v1/teams/4,3,16,12,2,3,New York Rangers,/api/v1/teams/3
+1986020422,/api/v1/game/1986020422/feed/live,R,19861987,1987-01-08T01:00:00Z,2,14,21,6,15,Washington Capitals,/api/v1/teams/15,5,17,13,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020418,/api/v1/game/1986020418/feed/live,R,19861987,1987-01-08T02:00:00Z,3,20,13,6,34,Hartford Whalers,/api/v1/teams/34,6,16,16,6,19,St. Louis Blues,/api/v1/teams/19
+1986020419,/api/v1/game/1986020419/feed/live,R,19861987,1987-01-08T02:00:00Z,4,11,21,8,7,Buffalo Sabres,/api/v1/teams/7,2,19,17,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020423,/api/v1/game/1986020423/feed/live,R,19861987,1987-01-08T02:00:00Z,4,17,16,7,10,Toronto Maple Leafs,/api/v1/teams/10,6,16,20,7,16,Chicago Blackhawks,/api/v1/teams/16
+1986020424,/api/v1/game/1986020424/feed/live,R,19861987,1987-01-08T03:00:00Z,6,18,17,6,26,Los Angeles Kings,/api/v1/teams/26,1,25,11,6,22,Edmonton Oilers,/api/v1/teams/22
+1986020425,/api/v1/game/1986020425/feed/live,R,19861987,1987-01-09T01:00:00Z,4,16,13,11,17,Detroit Red Wings,/api/v1/teams/17,4,18,15,11,6,Boston Bruins,/api/v1/teams/6
+1986020427,/api/v1/game/1986020427/feed/live,R,19861987,1987-01-09T01:00:00Z,4,17,18,8,32,Quebec Nordiques,/api/v1/teams/32,4,16,21,8,1,New Jersey Devils,/api/v1/teams/1
+1986020426,/api/v1/game/1986020426/feed/live,R,19861987,1987-01-09T02:00:00Z,4,11,21,9,7,Buffalo Sabres,/api/v1/teams/7,5,17,19,9,31,Minnesota North Stars,/api/v1/teams/31
+1986020428,/api/v1/game/1986020428/feed/live,R,19861987,1987-01-09T03:00:00Z,4,18,18,6,26,Los Angeles Kings,/api/v1/teams/26,5,24,16,6,20,Calgary Flames,/api/v1/teams/20
+1986020430,/api/v1/game/1986020430/feed/live,R,19861987,1987-01-10T01:00:00Z,2,21,14,6,2,New York Islanders,/api/v1/teams/2,1,16,13,6,3,New York Rangers,/api/v1/teams/3
+1986020431,/api/v1/game/1986020431/feed/live,R,19861987,1987-01-10T01:00:00Z,2,17,14,10,5,Pittsburgh Penguins,/api/v1/teams/5,3,15,21,10,15,Washington Capitals,/api/v1/teams/15
+1986020429,/api/v1/game/1986020429/feed/live,R,19861987,1987-01-10T02:00:00Z,0,20,14,6,34,Hartford Whalers,/api/v1/teams/34,3,20,17,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020432,/api/v1/game/1986020432/feed/live,R,19861987,1987-01-10T03:00:00Z,1,16,17,7,19,St. Louis Blues,/api/v1/teams/19,5,26,11,7,22,Edmonton Oilers,/api/v1/teams/22
+1986020433,/api/v1/game/1986020433/feed/live,R,19861987,1987-01-11T01:00:00Z,5,29,11,2,4,Philadelphia Flyers,/api/v1/teams/4,4,18,16,2,6,Boston Bruins,/api/v1/teams/6
+1986020436,/api/v1/game/1986020436/feed/live,R,19861987,1987-01-11T01:00:00Z,2,17,19,8,32,Quebec Nordiques,/api/v1/teams/32,5,21,14,8,8,Montréal Canadiens,/api/v1/teams/8
+1986020437,/api/v1/game/1986020437/feed/live,R,19861987,1987-01-11T01:00:00Z,2,17,17,7,10,Toronto Maple Leafs,/api/v1/teams/10,3,22,14,7,2,New York Islanders,/api/v1/teams/2
+1986020438,/api/v1/game/1986020438/feed/live,R,19861987,1987-01-11T01:00:00Z,2,12,25,5,23,Vancouver Canucks,/api/v1/teams/23,2,16,21,5,1,New Jersey Devils,/api/v1/teams/1
+1986020439,/api/v1/game/1986020439/feed/live,R,19861987,1987-01-11T01:00:00Z,5,21,17,4,33,Winnipeg Jets (1979),/api/v1/teams/33,2,16,14,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020434,/api/v1/game/1986020434/feed/live,R,19861987,1987-01-11T02:00:00Z,3,20,15,6,34,Hartford Whalers,/api/v1/teams/34,4,18,19,6,31,Minnesota North Stars,/api/v1/teams/31
+1986020440,/api/v1/game/1986020440/feed/live,R,19861987,1987-01-11T03:00:00Z,2,16,18,7,19,St. Louis Blues,/api/v1/teams/19,5,25,16,7,20,Calgary Flames,/api/v1/teams/20
+1986020435,/api/v1/game/1986020435/feed/live,R,19861987,1987-01-11T04:00:00Z,8,12,21,9,7,Buffalo Sabres,/api/v1/teams/7,5,18,19,9,26,Los Angeles Kings,/api/v1/teams/26
+1986020441,/api/v1/game/1986020441/feed/live,R,19861987,1987-01-12T01:00:00Z,3,12,26,5,23,Vancouver Canucks,/api/v1/teams/23,8,17,13,5,3,New York Rangers,/api/v1/teams/3
+1986020442,/api/v1/game/1986020442/feed/live,R,19861987,1987-01-12T01:00:00Z,2,15,21,7,15,Washington Capitals,/api/v1/teams/15,2,29,11,7,4,Philadelphia Flyers,/api/v1/teams/4
+1986020443,/api/v1/game/1986020443/feed/live,R,19861987,1987-01-12T02:00:00Z,3,16,15,11,17,Detroit Red Wings,/api/v1/teams/17,5,17,20,11,16,Chicago Blackhawks,/api/v1/teams/16
+1986020444,/api/v1/game/1986020444/feed/live,R,19861987,1987-01-12T03:00:00Z,3,25,17,1,20,Calgary Flames,/api/v1/teams/20,5,27,11,1,22,Edmonton Oilers,/api/v1/teams/22
+1986020445,/api/v1/game/1986020445/feed/live,R,19861987,1987-01-13T01:00:00Z,1,17,14,13,3,New York Rangers,/api/v1/teams/3,4,19,16,13,6,Boston Bruins,/api/v1/teams/6
+1986020446,/api/v1/game/1986020446/feed/live,R,19861987,1987-01-13T01:00:00Z,5,20,16,6,34,Hartford Whalers,/api/v1/teams/34,7,17,21,6,1,New Jersey Devils,/api/v1/teams/1
+1986020447,/api/v1/game/1986020447/feed/live,R,19861987,1987-01-13T01:00:00Z,1,17,18,7,10,Toronto Maple Leafs,/api/v1/teams/10,2,22,14,7,8,Montréal Canadiens,/api/v1/teams/8
+1986020448,/api/v1/game/1986020448/feed/live,R,19861987,1987-01-13T02:00:00Z,4,16,18,8,19,St. Louis Blues,/api/v1/teams/19,4,18,19,8,31,Minnesota North Stars,/api/v1/teams/31
+1986020449,/api/v1/game/1986020449/feed/live,R,19861987,1987-01-14T01:00:00Z,3,17,14,11,5,Pittsburgh Penguins,/api/v1/teams/5,3,22,14,11,2,New York Islanders,/api/v1/teams/2
+1986020450,/api/v1/game/1986020450/feed/live,R,19861987,1987-01-14T01:00:00Z,3,22,17,4,33,Winnipeg Jets (1979),/api/v1/teams/33,2,15,22,4,15,Washington Capitals,/api/v1/teams/15
+1986020451,/api/v1/game/1986020451/feed/live,R,19861987,1987-01-14T01:00:00Z,5,28,11,4,22,Edmonton Oilers,/api/v1/teams/22,3,16,16,4,17,Detroit Red Wings,/api/v1/teams/17
+1986020452,/api/v1/game/1986020452/feed/live,R,19861987,1987-01-15T01:00:00Z,1,19,17,7,6,Boston Bruins,/api/v1/teams/6,3,21,16,7,34,Hartford Whalers,/api/v1/teams/34
+1986020453,/api/v1/game/1986020453/feed/live,R,19861987,1987-01-15T01:00:00Z,3,22,14,10,8,Montréal Canadiens,/api/v1/teams/8,3,12,21,10,7,Buffalo Sabres,/api/v1/teams/7
+1986020456,/api/v1/game/1986020456/feed/live,R,19861987,1987-01-15T01:00:00Z,4,23,17,4,33,Winnipeg Jets (1979),/api/v1/teams/33,3,17,15,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020457,/api/v1/game/1986020457/feed/live,R,19861987,1987-01-15T01:00:00Z,3,19,19,6,31,Minnesota North Stars,/api/v1/teams/31,2,17,19,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020455,/api/v1/game/1986020455/feed/live,R,19861987,1987-01-15T02:00:00Z,3,18,21,5,1,New Jersey Devils,/api/v1/teams/1,1,17,21,5,16,Chicago Blackhawks,/api/v1/teams/16
+1986020454,/api/v1/game/1986020454/feed/live,R,19861987,1987-01-15T03:00:00Z,8,18,14,13,3,New York Rangers,/api/v1/teams/3,5,25,18,13,20,Calgary Flames,/api/v1/teams/20
+1986020458,/api/v1/game/1986020458/feed/live,R,19861987,1987-01-15T04:00:00Z,0,12,27,5,23,Vancouver Canucks,/api/v1/teams/23,4,19,19,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020459,/api/v1/game/1986020459/feed/live,R,19861987,1987-01-16T01:00:00Z,4,21,17,6,34,Hartford Whalers,/api/v1/teams/34,6,20,17,6,6,Boston Bruins,/api/v1/teams/6
+1986020460,/api/v1/game/1986020460/feed/live,R,19861987,1987-01-16T01:00:00Z,3,22,15,10,8,Montréal Canadiens,/api/v1/teams/8,6,30,11,10,4,Philadelphia Flyers,/api/v1/teams/4
+1986020461,/api/v1/game/1986020461/feed/live,R,19861987,1987-01-16T01:00:00Z,4,29,11,4,22,Edmonton Oilers,/api/v1/teams/22,1,17,20,4,32,Quebec Nordiques,/api/v1/teams/32
+1986020462,/api/v1/game/1986020462/feed/live,R,19861987,1987-01-16T01:00:00Z,3,16,22,7,15,Washington Capitals,/api/v1/teams/15,2,22,15,7,2,New York Islanders,/api/v1/teams/2
+1986020463,/api/v1/game/1986020463/feed/live,R,19861987,1987-01-16T01:00:00Z,3,18,19,7,10,Toronto Maple Leafs,/api/v1/teams/10,1,16,17,7,17,Detroit Red Wings,/api/v1/teams/17
+1986020464,/api/v1/game/1986020464/feed/live,R,19861987,1987-01-17T01:00:00Z,5,24,17,4,33,Winnipeg Jets (1979),/api/v1/teams/33,4,18,22,4,1,New Jersey Devils,/api/v1/teams/1
+1986020465,/api/v1/game/1986020465/feed/live,R,19861987,1987-01-17T02:00:00Z,5,20,19,6,26,Los Angeles Kings,/api/v1/teams/26,3,16,19,6,19,St. Louis Blues,/api/v1/teams/19
+1986020466,/api/v1/game/1986020466/feed/live,R,19861987,1987-01-17T04:00:00Z,5,25,19,1,20,Calgary Flames,/api/v1/teams/20,9,13,27,1,23,Vancouver Canucks,/api/v1/teams/23
+1986020467,/api/v1/game/1986020467/feed/live,R,19861987,1987-01-18T01:00:00Z,2,17,16,11,5,Pittsburgh Penguins,/api/v1/teams/5,4,21,17,11,6,Boston Bruins,/api/v1/teams/6
+1986020468,/api/v1/game/1986020468/feed/live,R,19861987,1987-01-18T01:00:00Z,6,17,22,7,15,Washington Capitals,/api/v1/teams/15,1,21,18,7,34,Hartford Whalers,/api/v1/teams/34
+1986020469,/api/v1/game/1986020469/feed/live,R,19861987,1987-01-18T01:00:00Z,2,12,22,10,7,Buffalo Sabres,/api/v1/teams/7,4,23,15,10,8,Montréal Canadiens,/api/v1/teams/8
+1986020470,/api/v1/game/1986020470/feed/live,R,19861987,1987-01-18T01:00:00Z,2,17,21,8,32,Quebec Nordiques,/api/v1/teams/32,3,17,17,8,17,Detroit Red Wings,/api/v1/teams/17
+1986020471,/api/v1/game/1986020471/feed/live,R,19861987,1987-01-18T01:00:00Z,4,31,11,3,4,Philadelphia Flyers,/api/v1/teams/4,2,22,16,3,2,New York Islanders,/api/v1/teams/2
+1986020472,/api/v1/game/1986020472/feed/live,R,19861987,1987-01-18T01:00:00Z,7,30,11,4,22,Edmonton Oilers,/api/v1/teams/22,4,18,20,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020473,/api/v1/game/1986020473/feed/live,R,19861987,1987-01-18T02:00:00Z,2,17,22,6,16,Chicago Blackhawks,/api/v1/teams/16,3,20,19,6,31,Minnesota North Stars,/api/v1/teams/31
+1986020474,/api/v1/game/1986020474/feed/live,R,19861987,1987-01-18T02:00:00Z,4,20,19,7,26,Los Angeles Kings,/api/v1/teams/26,4,16,19,7,19,St. Louis Blues,/api/v1/teams/19
+1986020475,/api/v1/game/1986020475/feed/live,R,19861987,1987-01-18T03:00:00Z,4,14,27,5,23,Vancouver Canucks,/api/v1/teams/23,3,25,20,5,20,Calgary Flames,/api/v1/teams/20
+1986020476,/api/v1/game/1986020476/feed/live,R,19861987,1987-01-19T01:00:00Z,5,30,11,5,22,Edmonton Oilers,/api/v1/teams/22,6,13,22,5,7,Buffalo Sabres,/api/v1/teams/7
+1986020478,/api/v1/game/1986020478/feed/live,R,19861987,1987-01-19T01:00:00Z,3,23,16,7,2,New York Islanders,/api/v1/teams/2,1,31,12,7,4,Philadelphia Flyers,/api/v1/teams/4
+1986020479,/api/v1/game/1986020479/feed/live,R,19861987,1987-01-19T01:00:00Z,6,18,22,7,15,Washington Capitals,/api/v1/teams/15,1,18,23,7,1,New Jersey Devils,/api/v1/teams/1
+1986020480,/api/v1/game/1986020480/feed/live,R,19861987,1987-01-19T01:00:00Z,1,18,17,11,17,Detroit Red Wings,/api/v1/teams/17,0,17,17,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020477,/api/v1/game/1986020477/feed/live,R,19861987,1987-01-19T02:00:00Z,5,18,21,8,32,Quebec Nordiques,/api/v1/teams/32,3,17,23,8,16,Chicago Blackhawks,/api/v1/teams/16
+1986020481,/api/v1/game/1986020481/feed/live,R,19861987,1987-01-19T02:00:00Z,3,20,20,6,31,Minnesota North Stars,/api/v1/teams/31,5,25,17,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020482,/api/v1/game/1986020482/feed/live,R,19861987,1987-01-20T01:00:00Z,5,22,18,6,34,Hartford Whalers,/api/v1/teams/34,4,23,15,6,8,Montréal Canadiens,/api/v1/teams/8
+1986020484,/api/v1/game/1986020484/feed/live,R,19861987,1987-01-20T02:00:00Z,4,14,28,5,23,Vancouver Canucks,/api/v1/teams/23,5,26,17,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020483,/api/v1/game/1986020483/feed/live,R,19861987,1987-01-20T04:00:00Z,2,18,14,14,3,New York Rangers,/api/v1/teams/3,2,20,19,14,26,Los Angeles Kings,/api/v1/teams/26
+1986020485,/api/v1/game/1986020485/feed/live,R,19861987,1987-01-21T01:00:00Z,5,22,17,7,6,Boston Bruins,/api/v1/teams/6,3,18,22,7,32,Quebec Nordiques,/api/v1/teams/32
+1986020487,/api/v1/game/1986020487/feed/live,R,19861987,1987-01-21T01:00:00Z,3,26,20,1,20,Calgary Flames,/api/v1/teams/20,1,23,17,1,2,New York Islanders,/api/v1/teams/2
+1986020488,/api/v1/game/1986020488/feed/live,R,19861987,1987-01-21T01:00:00Z,3,18,24,5,1,New Jersey Devils,/api/v1/teams/1,6,19,22,5,15,Washington Capitals,/api/v1/teams/15
+1986020486,/api/v1/game/1986020486/feed/live,R,19861987,1987-01-21T02:00:00Z,0,13,23,10,7,Buffalo Sabres,/api/v1/teams/7,5,21,20,10,31,Minnesota North Stars,/api/v1/teams/31
+1986020489,/api/v1/game/1986020489/feed/live,R,19861987,1987-01-22T01:00:00Z,1,23,16,11,8,Montréal Canadiens,/api/v1/teams/8,3,23,18,11,34,Hartford Whalers,/api/v1/teams/34
+1986020490,/api/v1/game/1986020490/feed/live,R,19861987,1987-01-22T01:00:00Z,5,23,18,7,2,New York Islanders,/api/v1/teams/2,8,19,17,7,17,Detroit Red Wings,/api/v1/teams/17
+1986020494,/api/v1/game/1986020494/feed/live,R,19861987,1987-01-22T01:00:00Z,2,16,20,9,19,St. Louis Blues,/api/v1/teams/19,4,19,20,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020492,/api/v1/game/1986020492/feed/live,R,19861987,1987-01-22T02:00:00Z,5,31,12,4,4,Philadelphia Flyers,/api/v1/teams/4,5,17,23,4,16,Chicago Blackhawks,/api/v1/teams/16
+1986020495,/api/v1/game/1986020495/feed/live,R,19861987,1987-01-22T02:00:00Z,5,31,11,5,22,Edmonton Oilers,/api/v1/teams/22,3,26,18,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020491,/api/v1/game/1986020491/feed/live,R,19861987,1987-01-22T04:00:00Z,3,18,15,14,3,New York Rangers,/api/v1/teams/3,5,15,28,14,23,Vancouver Canucks,/api/v1/teams/23
+1986020493,/api/v1/game/1986020493/feed/live,R,19861987,1987-01-22T04:00:00Z,5,17,18,11,5,Pittsburgh Penguins,/api/v1/teams/5,10,21,19,11,26,Los Angeles Kings,/api/v1/teams/26
+1986020496,/api/v1/game/1986020496/feed/live,R,19861987,1987-01-23T01:00:00Z,3,23,17,11,8,Montréal Canadiens,/api/v1/teams/8,7,23,17,11,6,Boston Bruins,/api/v1/teams/6
+1986020497,/api/v1/game/1986020497/feed/live,R,19861987,1987-01-23T01:00:00Z,5,26,21,1,20,Calgary Flames,/api/v1/teams/20,7,19,24,1,1,New Jersey Devils,/api/v1/teams/1
+1986020498,/api/v1/game/1986020498/feed/live,R,19861987,1987-01-24T01:00:00Z,2,18,23,8,32,Quebec Nordiques,/api/v1/teams/32,3,24,18,8,34,Hartford Whalers,/api/v1/teams/34
+1986020499,/api/v1/game/1986020499/feed/live,R,19861987,1987-01-24T01:00:00Z,3,20,22,7,15,Washington Capitals,/api/v1/teams/15,2,13,24,7,7,Buffalo Sabres,/api/v1/teams/7
+1986020501,/api/v1/game/1986020501/feed/live,R,19861987,1987-01-24T01:00:00Z,3,17,24,7,16,Chicago Blackhawks,/api/v1/teams/16,4,32,12,7,4,Philadelphia Flyers,/api/v1/teams/4
+1986020504,/api/v1/game/1986020504/feed/live,R,19861987,1987-01-24T01:00:00Z,3,16,21,9,19,St. Louis Blues,/api/v1/teams/19,4,20,17,9,17,Detroit Red Wings,/api/v1/teams/17
+1986020503,/api/v1/game/1986020503/feed/live,R,19861987,1987-01-24T02:00:00Z,5,19,21,7,10,Toronto Maple Leafs,/api/v1/teams/10,7,27,18,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020500,/api/v1/game/1986020500/feed/live,R,19861987,1987-01-24T03:00:00Z,4,18,16,14,3,New York Rangers,/api/v1/teams/3,7,32,11,14,22,Edmonton Oilers,/api/v1/teams/22
+1986020502,/api/v1/game/1986020502/feed/live,R,19861987,1987-01-24T04:00:00Z,6,18,18,11,5,Pittsburgh Penguins,/api/v1/teams/5,0,15,29,11,23,Vancouver Canucks,/api/v1/teams/23
+1986020505,/api/v1/game/1986020505/feed/live,R,19861987,1987-01-24T04:00:00Z,6,22,20,6,31,Minnesota North Stars,/api/v1/teams/31,3,21,20,6,26,Los Angeles Kings,/api/v1/teams/26
+1986020506,/api/v1/game/1986020506/feed/live,R,19861987,1987-01-25T01:00:00Z,3,26,22,1,20,Calgary Flames,/api/v1/teams/20,5,24,17,1,6,Boston Bruins,/api/v1/teams/6
+1986020507,/api/v1/game/1986020507/feed/live,R,19861987,1987-01-25T01:00:00Z,3,25,18,6,34,Hartford Whalers,/api/v1/teams/34,0,19,22,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020508,/api/v1/game/1986020508/feed/live,R,19861987,1987-01-25T01:00:00Z,6,14,24,10,7,Buffalo Sabres,/api/v1/teams/7,3,20,23,10,15,Washington Capitals,/api/v1/teams/15
+1986020509,/api/v1/game/1986020509/feed/live,R,19861987,1987-01-25T01:00:00Z,1,17,25,7,16,Chicago Blackhawks,/api/v1/teams/16,3,24,17,7,8,Montréal Canadiens,/api/v1/teams/8
+1986020510,/api/v1/game/1986020510/feed/live,R,19861987,1987-01-25T01:00:00Z,2,24,18,7,2,New York Islanders,/api/v1/teams/2,1,18,23,7,32,Quebec Nordiques,/api/v1/teams/32
+1986020511,/api/v1/game/1986020511/feed/live,R,19861987,1987-01-25T01:00:00Z,3,32,13,4,4,Philadelphia Flyers,/api/v1/teams/4,4,20,24,4,1,New Jersey Devils,/api/v1/teams/1
+1986020513,/api/v1/game/1986020513/feed/live,R,19861987,1987-01-25T02:00:00Z,3,20,18,11,17,Detroit Red Wings,/api/v1/teams/17,5,17,21,11,19,St. Louis Blues,/api/v1/teams/19
+1986020512,/api/v1/game/1986020512/feed/live,R,19861987,1987-01-25T03:00:00Z,2,18,19,11,5,Pittsburgh Penguins,/api/v1/teams/5,4,33,11,11,22,Edmonton Oilers,/api/v1/teams/22
+1986020514,/api/v1/game/1986020514/feed/live,R,19861987,1987-01-27T01:00:00Z,2,14,25,10,7,Buffalo Sabres,/api/v1/teams/7,6,25,17,10,6,Boston Bruins,/api/v1/teams/6
+1986020516,/api/v1/game/1986020516/feed/live,R,19861987,1987-01-27T01:00:00Z,3,20,25,5,1,New Jersey Devils,/api/v1/teams/1,6,19,16,5,3,New York Rangers,/api/v1/teams/3
+1986020517,/api/v1/game/1986020517/feed/live,R,19861987,1987-01-27T01:00:00Z,6,27,22,1,20,Calgary Flames,/api/v1/teams/20,5,19,22,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020515,/api/v1/game/1986020515/feed/live,R,19861987,1987-01-27T02:00:00Z,3,25,17,11,8,Montréal Canadiens,/api/v1/teams/8,2,17,26,11,16,Chicago Blackhawks,/api/v1/teams/16
+1986020518,/api/v1/game/1986020518/feed/live,R,19861987,1987-01-28T01:00:00Z,2,25,19,6,34,Hartford Whalers,/api/v1/teams/34,4,19,23,6,32,Quebec Nordiques,/api/v1/teams/32
+1986020520,/api/v1/game/1986020520/feed/live,R,19861987,1987-01-28T01:00:00Z,2,27,18,5,33,Winnipeg Jets (1979),/api/v1/teams/33,2,24,18,5,2,New York Islanders,/api/v1/teams/2
+1986020521,/api/v1/game/1986020521/feed/live,R,19861987,1987-01-28T01:00:00Z,5,20,24,7,15,Washington Capitals,/api/v1/teams/15,7,19,19,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020519,/api/v1/game/1986020519/feed/live,R,19861987,1987-01-28T02:00:00Z,1,25,18,11,8,Montréal Canadiens,/api/v1/teams/8,2,18,21,11,19,St. Louis Blues,/api/v1/teams/19
+1986020522,/api/v1/game/1986020522/feed/live,R,19861987,1987-01-28T04:00:00Z,4,33,11,6,22,Edmonton Oilers,/api/v1/teams/22,4,15,29,6,23,Vancouver Canucks,/api/v1/teams/23
+1986020523,/api/v1/game/1986020523/feed/live,R,19861987,1987-01-29T01:00:00Z,7,33,13,4,4,Philadelphia Flyers,/api/v1/teams/4,4,14,26,4,7,Buffalo Sabres,/api/v1/teams/7
+1986020524,/api/v1/game/1986020524/feed/live,R,19861987,1987-01-29T01:00:00Z,2,28,18,5,33,Winnipeg Jets (1979),/api/v1/teams/33,1,19,17,5,3,New York Rangers,/api/v1/teams/3
+1986020526,/api/v1/game/1986020526/feed/live,R,19861987,1987-01-29T01:00:00Z,2,21,24,7,15,Washington Capitals,/api/v1/teams/15,1,20,19,7,17,Detroit Red Wings,/api/v1/teams/17
+1986020527,/api/v1/game/1986020527/feed/live,R,19861987,1987-01-29T02:00:00Z,0,19,23,8,10,Toronto Maple Leafs,/api/v1/teams/10,5,18,26,8,16,Chicago Blackhawks,/api/v1/teams/16
+1986020528,/api/v1/game/1986020528/feed/live,R,19861987,1987-01-29T03:00:00Z,3,15,30,6,23,Vancouver Canucks,/api/v1/teams/23,7,34,11,6,22,Edmonton Oilers,/api/v1/teams/22
+1986020525,/api/v1/game/1986020525/feed/live,R,19861987,1987-01-29T04:00:00Z,2,20,26,5,1,New Jersey Devils,/api/v1/teams/1,6,22,20,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020529,/api/v1/game/1986020529/feed/live,R,19861987,1987-01-30T01:00:00Z,6,26,19,6,34,Hartford Whalers,/api/v1/teams/34,3,25,18,6,6,Boston Bruins,/api/v1/teams/6
+1986020530,/api/v1/game/1986020530/feed/live,R,19861987,1987-01-30T01:00:00Z,3,19,20,11,5,Pittsburgh Penguins,/api/v1/teams/5,5,34,13,11,4,Philadelphia Flyers,/api/v1/teams/4
+1986020531,/api/v1/game/1986020531/feed/live,R,19861987,1987-01-30T02:00:00Z,2,19,24,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,19,21,8,19,St. Louis Blues,/api/v1/teams/19
+1986020532,/api/v1/game/1986020532/feed/live,R,19861987,1987-01-30T03:00:00Z,3,22,20,7,31,Minnesota North Stars,/api/v1/teams/31,3,27,22,7,20,Calgary Flames,/api/v1/teams/20
+1986020533,/api/v1/game/1986020533/feed/live,R,19861987,1987-01-31T01:00:00Z,1,19,24,9,32,Quebec Nordiques,/api/v1/teams/32,3,15,26,9,7,Buffalo Sabres,/api/v1/teams/7
+1986020534,/api/v1/game/1986020534/feed/live,R,19861987,1987-01-31T01:00:00Z,3,24,18,9,2,New York Islanders,/api/v1/teams/2,3,21,24,9,15,Washington Capitals,/api/v1/teams/15
+1986020536,/api/v1/game/1986020536/feed/live,R,19861987,1987-01-31T03:00:00Z,2,22,20,8,31,Minnesota North Stars,/api/v1/teams/31,2,34,11,8,22,Edmonton Oilers,/api/v1/teams/22
+1986020535,/api/v1/game/1986020535/feed/live,R,19861987,1987-01-31T04:00:00Z,4,21,26,5,1,New Jersey Devils,/api/v1/teams/1,3,15,31,5,23,Vancouver Canucks,/api/v1/teams/23
+1986020537,/api/v1/game/1986020537/feed/live,R,19861987,1987-02-01T01:00:00Z,3,28,19,5,33,Winnipeg Jets (1979),/api/v1/teams/33,6,26,18,5,6,Boston Bruins,/api/v1/teams/6
+1986020538,/api/v1/game/1986020538/feed/live,R,19861987,1987-02-01T01:00:00Z,2,26,20,6,34,Hartford Whalers,/api/v1/teams/34,4,25,18,6,2,New York Islanders,/api/v1/teams/2
+1986020539,/api/v1/game/1986020539/feed/live,R,19861987,1987-02-01T01:00:00Z,3,22,21,8,26,Los Angeles Kings,/api/v1/teams/26,5,26,18,8,8,Montréal Canadiens,/api/v1/teams/8
+1986020540,/api/v1/game/1986020540/feed/live,R,19861987,1987-02-01T01:00:00Z,3,20,17,14,3,New York Rangers,/api/v1/teams/3,1,34,14,14,4,Philadelphia Flyers,/api/v1/teams/4
+1986020542,/api/v1/game/1986020542/feed/live,R,19861987,1987-02-01T01:00:00Z,4,21,19,11,17,Detroit Red Wings,/api/v1/teams/17,2,19,25,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020543,/api/v1/game/1986020543/feed/live,R,19861987,1987-02-01T02:00:00Z,4,18,26,8,16,Chicago Blackhawks,/api/v1/teams/16,4,19,21,8,19,St. Louis Blues,/api/v1/teams/19
+1986020541,/api/v1/game/1986020541/feed/live,R,19861987,1987-02-01T03:00:00Z,3,21,27,5,1,New Jersey Devils,/api/v1/teams/1,5,28,22,5,20,Calgary Flames,/api/v1/teams/20
+1986020544,/api/v1/game/1986020544/feed/live,R,19861987,1987-02-02T01:00:00Z,4,26,19,7,6,Boston Bruins,/api/v1/teams/6,5,21,17,7,3,New York Rangers,/api/v1/teams/3
+1986020545,/api/v1/game/1986020545/feed/live,R,19861987,1987-02-02T01:00:00Z,8,27,20,6,34,Hartford Whalers,/api/v1/teams/34,6,19,21,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020546,/api/v1/game/1986020546/feed/live,R,19861987,1987-02-02T01:00:00Z,1,21,20,11,17,Detroit Red Wings,/api/v1/teams/17,6,16,26,11,7,Buffalo Sabres,/api/v1/teams/7
+1986020547,/api/v1/game/1986020547/feed/live,R,19861987,1987-02-02T01:00:00Z,2,22,22,8,26,Los Angeles Kings,/api/v1/teams/26,3,20,24,8,32,Quebec Nordiques,/api/v1/teams/32
+1986020548,/api/v1/game/1986020548/feed/live,R,19861987,1987-02-02T01:00:00Z,4,28,20,5,33,Winnipeg Jets (1979),/api/v1/teams/33,6,22,24,5,15,Washington Capitals,/api/v1/teams/15
+1986020549,/api/v1/game/1986020549/feed/live,R,19861987,1987-02-02T02:00:00Z,4,34,12,7,22,Edmonton Oilers,/api/v1/teams/22,6,19,26,7,16,Chicago Blackhawks,/api/v1/teams/16
+1986020550,/api/v1/game/1986020550/feed/live,R,19861987,1987-02-02T04:00:00Z,4,23,20,8,31,Minnesota North Stars,/api/v1/teams/31,3,15,32,8,23,Vancouver Canucks,/api/v1/teams/23
+1986020551,/api/v1/game/1986020551/feed/live,R,19861987,1987-02-03T01:00:00Z,4,34,15,4,4,Philadelphia Flyers,/api/v1/teams/4,8,20,25,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020552,/api/v1/game/1986020552/feed/live,R,19861987,1987-02-04T01:00:00Z,1,26,19,11,8,Montréal Canadiens,/api/v1/teams/8,4,21,24,11,32,Quebec Nordiques,/api/v1/teams/32
+1986020553,/api/v1/game/1986020553/feed/live,R,19861987,1987-02-04T02:00:00Z,4,35,12,7,22,Edmonton Oilers,/api/v1/teams/22,2,19,22,7,19,St. Louis Blues,/api/v1/teams/19
+1986020554,/api/v1/game/1986020554/feed/live,R,19861987,1987-02-04T03:00:00Z,4,16,32,6,23,Vancouver Canucks,/api/v1/teams/23,2,28,23,6,20,Calgary Flames,/api/v1/teams/20
+1986020555,/api/v1/game/1986020555/feed/live,R,19861987,1987-02-05T01:00:00Z,3,17,26,10,7,Buffalo Sabres,/api/v1/teams/7,1,27,21,10,34,Hartford Whalers,/api/v1/teams/34
+1986020556,/api/v1/game/1986020556/feed/live,R,19861987,1987-02-05T01:00:00Z,3,21,25,9,32,Quebec Nordiques,/api/v1/teams/32,4,27,19,9,8,Montréal Canadiens,/api/v1/teams/8
+1986020558,/api/v1/game/1986020558/feed/live,R,19861987,1987-02-05T01:00:00Z,2,22,25,8,15,Washington Capitals,/api/v1/teams/15,3,22,17,8,3,New York Rangers,/api/v1/teams/3
+1986020560,/api/v1/game/1986020560/feed/live,R,19861987,1987-02-05T01:00:00Z,4,22,23,8,26,Los Angeles Kings,/api/v1/teams/26,5,21,25,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020559,/api/v1/game/1986020559/feed/live,R,19861987,1987-02-05T02:00:00Z,3,34,16,4,4,Philadelphia Flyers,/api/v1/teams/4,5,29,20,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020561,/api/v1/game/1986020561/feed/live,R,19861987,1987-02-05T02:00:00Z,4,21,21,11,17,Detroit Red Wings,/api/v1/teams/17,5,20,26,11,16,Chicago Blackhawks,/api/v1/teams/16
+1986020562,/api/v1/game/1986020562/feed/live,R,19861987,1987-02-05T02:00:00Z,6,36,12,7,22,Edmonton Oilers,/api/v1/teams/22,5,23,20,7,31,Minnesota North Stars,/api/v1/teams/31
+1986020557,/api/v1/game/1986020557/feed/live,R,19861987,1987-02-05T04:00:00Z,1,25,19,9,2,New York Islanders,/api/v1/teams/2,4,17,32,9,23,Vancouver Canucks,/api/v1/teams/23
+1986020563,/api/v1/game/1986020563/feed/live,R,19861987,1987-02-06T01:00:00Z,5,19,22,11,5,Pittsburgh Penguins,/api/v1/teams/5,6,27,19,11,6,Boston Bruins,/api/v1/teams/6
+1986020564,/api/v1/game/1986020564/feed/live,R,19861987,1987-02-06T03:00:00Z,2,20,22,10,19,St. Louis Blues,/api/v1/teams/19,1,28,24,10,20,Calgary Flames,/api/v1/teams/20
+1986020565,/api/v1/game/1986020565/feed/live,R,19861987,1987-02-07T01:00:00Z,5,28,21,6,34,Hartford Whalers,/api/v1/teams/34,2,22,26,6,15,Washington Capitals,/api/v1/teams/15
+1986020567,/api/v1/game/1986020567/feed/live,R,19861987,1987-02-07T01:00:00Z,4,23,21,9,31,Minnesota North Stars,/api/v1/teams/31,6,22,21,9,17,Detroit Red Wings,/api/v1/teams/17
+1986020569,/api/v1/game/1986020569/feed/live,R,19861987,1987-02-07T02:00:00Z,1,22,24,8,26,Los Angeles Kings,/api/v1/teams/26,6,30,20,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020566,/api/v1/game/1986020566/feed/live,R,19861987,1987-02-07T03:00:00Z,3,25,19,10,2,New York Islanders,/api/v1/teams/2,3,36,12,10,22,Edmonton Oilers,/api/v1/teams/22
+1986020568,/api/v1/game/1986020568/feed/live,R,19861987,1987-02-07T04:00:00Z,2,20,22,11,19,St. Louis Blues,/api/v1/teams/19,2,17,32,11,23,Vancouver Canucks,/api/v1/teams/23
+1986020570,/api/v1/game/1986020570/feed/live,R,19861987,1987-02-08T01:00:00Z,5,21,26,8,10,Toronto Maple Leafs,/api/v1/teams/10,8,28,19,8,6,Boston Bruins,/api/v1/teams/6
+1986020571,/api/v1/game/1986020571/feed/live,R,19861987,1987-02-08T01:00:00Z,1,27,20,11,8,Montréal Canadiens,/api/v1/teams/8,3,29,21,11,34,Hartford Whalers,/api/v1/teams/34
+1986020572,/api/v1/game/1986020572/feed/live,R,19861987,1987-02-08T01:00:00Z,2,17,27,10,7,Buffalo Sabres,/api/v1/teams/7,5,22,25,10,32,Quebec Nordiques,/api/v1/teams/32
+1986020574,/api/v1/game/1986020574/feed/live,R,19861987,1987-02-08T01:00:00Z,5,23,17,14,3,New York Rangers,/api/v1/teams/3,4,22,26,14,15,Washington Capitals,/api/v1/teams/15
+1986020575,/api/v1/game/1986020575/feed/live,R,19861987,1987-02-08T01:00:00Z,2,34,17,4,4,Philadelphia Flyers,/api/v1/teams/4,3,22,27,4,1,New Jersey Devils,/api/v1/teams/1
+1986020576,/api/v1/game/1986020576/feed/live,R,19861987,1987-02-08T01:00:00Z,1,20,27,8,16,Chicago Blackhawks,/api/v1/teams/16,4,20,22,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020577,/api/v1/game/1986020577/feed/live,R,19861987,1987-02-08T02:00:00Z,5,23,21,11,17,Detroit Red Wings,/api/v1/teams/17,3,23,22,11,31,Minnesota North Stars,/api/v1/teams/31
+1986020573,/api/v1/game/1986020573/feed/live,R,19861987,1987-02-08T03:00:00Z,1,25,20,10,2,New York Islanders,/api/v1/teams/2,4,29,24,10,20,Calgary Flames,/api/v1/teams/20
+1986020578,/api/v1/game/1986020578/feed/live,R,19861987,1987-02-09T01:00:00Z,2,23,25,9,32,Quebec Nordiques,/api/v1/teams/32,1,28,20,9,6,Boston Bruins,/api/v1/teams/6
+1986020579,/api/v1/game/1986020579/feed/live,R,19861987,1987-02-09T01:00:00Z,4,20,28,8,16,Chicago Blackhawks,/api/v1/teams/16,7,18,27,8,7,Buffalo Sabres,/api/v1/teams/7
+1986020580,/api/v1/game/1986020580/feed/live,R,19861987,1987-02-09T01:00:00Z,5,22,26,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,23,18,8,3,New York Rangers,/api/v1/teams/3
+1986020581,/api/v1/game/1986020581/feed/live,R,19861987,1987-02-09T01:00:00Z,2,21,22,11,5,Pittsburgh Penguins,/api/v1/teams/5,1,22,27,11,1,New Jersey Devils,/api/v1/teams/1
+1986020583,/api/v1/game/1986020583/feed/live,R,19861987,1987-02-09T02:00:00Z,1,22,25,8,26,Los Angeles Kings,/api/v1/teams/26,3,31,20,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020582,/api/v1/game/1986020582/feed/live,R,19861987,1987-02-09T03:00:00Z,2,20,23,11,19,St. Louis Blues,/api/v1/teams/19,6,37,12,11,22,Edmonton Oilers,/api/v1/teams/22
+1986020584,/api/v1/game/1986020584/feed/live,R,19861987,1987-02-09T04:00:00Z,3,30,24,2,20,Calgary Flames,/api/v1/teams/20,2,17,33,2,23,Vancouver Canucks,/api/v1/teams/23
+1986020585,/api/v1/game/1986020585/feed/live,R,19861987,1987-02-15T01:00:00Z,4,28,21,7,6,Boston Bruins,/api/v1/teams/6,5,23,26,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020587,/api/v1/game/1986020587/feed/live,R,19861987,1987-02-15T01:00:00Z,5,19,27,10,7,Buffalo Sabres,/api/v1/teams/7,1,25,21,10,2,New York Islanders,/api/v1/teams/2
+1986020588,/api/v1/game/1986020588/feed/live,R,19861987,1987-02-15T01:00:00Z,2,31,21,5,33,Winnipeg Jets (1979),/api/v1/teams/33,5,28,20,5,8,Montréal Canadiens,/api/v1/teams/8
+1986020589,/api/v1/game/1986020589/feed/live,R,19861987,1987-02-15T01:00:00Z,1,22,28,6,1,New Jersey Devils,/api/v1/teams/1,5,24,21,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020591,/api/v1/game/1986020591/feed/live,R,19861987,1987-02-15T01:00:00Z,3,17,33,8,23,Vancouver Canucks,/api/v1/teams/23,3,21,22,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020590,/api/v1/game/1986020590/feed/live,R,19861987,1987-02-15T02:00:00Z,4,35,17,4,4,Philadelphia Flyers,/api/v1/teams/4,2,20,24,4,19,St. Louis Blues,/api/v1/teams/19
+1986020592,/api/v1/game/1986020592/feed/live,R,19861987,1987-02-15T02:00:00Z,3,31,24,2,20,Calgary Flames,/api/v1/teams/20,2,23,23,2,31,Minnesota North Stars,/api/v1/teams/31
+1986020586,/api/v1/game/1986020586/feed/live,R,19861987,1987-02-15T04:00:00Z,2,29,22,6,34,Hartford Whalers,/api/v1/teams/34,5,23,25,6,26,Los Angeles Kings,/api/v1/teams/26
+1986020594,/api/v1/game/1986020594/feed/live,R,19861987,1987-02-16T01:00:00Z,1,21,23,12,5,Pittsburgh Penguins,/api/v1/teams/5,4,24,18,12,3,New York Rangers,/api/v1/teams/3
+1986020593,/api/v1/game/1986020593/feed/live,R,19861987,1987-02-16T02:00:00Z,4,23,26,9,32,Quebec Nordiques,/api/v1/teams/32,6,21,28,9,16,Chicago Blackhawks,/api/v1/teams/16
+1986020596,/api/v1/game/1986020596/feed/live,R,19861987,1987-02-16T02:00:00Z,2,20,25,11,19,St. Louis Blues,/api/v1/teams/19,3,24,23,11,31,Minnesota North Stars,/api/v1/teams/31
+1986020595,/api/v1/game/1986020595/feed/live,R,19861987,1987-02-16T03:00:00Z,5,23,26,9,15,Washington Capitals,/api/v1/teams/15,3,37,13,9,22,Edmonton Oilers,/api/v1/teams/22
+1986020597,/api/v1/game/1986020597/feed/live,R,19861987,1987-02-17T01:00:00Z,3,28,22,7,6,Boston Bruins,/api/v1/teams/6,7,29,20,7,8,Montréal Canadiens,/api/v1/teams/8
+1986020598,/api/v1/game/1986020598/feed/live,R,19861987,1987-02-17T01:00:00Z,5,32,24,2,20,Calgary Flames,/api/v1/teams/20,0,35,18,2,4,Philadelphia Flyers,/api/v1/teams/4
+1986020599,/api/v1/game/1986020599/feed/live,R,19861987,1987-02-17T04:00:00Z,1,23,26,9,10,Toronto Maple Leafs,/api/v1/teams/10,1,23,25,9,26,Los Angeles Kings,/api/v1/teams/26
+1986020601,/api/v1/game/1986020601/feed/live,R,19861987,1987-02-18T01:00:00Z,3,31,21,6,33,Winnipeg Jets (1979),/api/v1/teams/33,3,23,26,6,32,Quebec Nordiques,/api/v1/teams/32
+1986020602,/api/v1/game/1986020602/feed/live,R,19861987,1987-02-18T01:00:00Z,3,36,18,4,4,Philadelphia Flyers,/api/v1/teams/4,2,25,22,4,2,New York Islanders,/api/v1/teams/2
+1986020603,/api/v1/game/1986020603/feed/live,R,19861987,1987-02-18T01:00:00Z,2,24,22,11,17,Detroit Red Wings,/api/v1/teams/17,6,25,18,11,3,New York Rangers,/api/v1/teams/3
+1986020604,/api/v1/game/1986020604/feed/live,R,19861987,1987-02-18T01:00:00Z,3,33,24,2,20,Calgary Flames,/api/v1/teams/20,1,21,24,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020600,/api/v1/game/1986020600/feed/live,R,19861987,1987-02-18T02:00:00Z,5,30,22,6,34,Hartford Whalers,/api/v1/teams/34,4,21,29,6,16,Chicago Blackhawks,/api/v1/teams/16
+1986020605,/api/v1/game/1986020605/feed/live,R,19861987,1987-02-18T02:00:00Z,4,18,33,8,23,Vancouver Canucks,/api/v1/teams/23,3,20,26,8,19,St. Louis Blues,/api/v1/teams/19
+1986020606,/api/v1/game/1986020606/feed/live,R,19861987,1987-02-19T01:00:00Z,3,28,23,7,6,Boston Bruins,/api/v1/teams/6,4,20,27,7,7,Buffalo Sabres,/api/v1/teams/7
+1986020607,/api/v1/game/1986020607/feed/live,R,19861987,1987-02-19T01:00:00Z,6,31,22,6,34,Hartford Whalers,/api/v1/teams/34,3,22,29,6,1,New Jersey Devils,/api/v1/teams/1
+1986020608,/api/v1/game/1986020608/feed/live,R,19861987,1987-02-19T01:00:00Z,1,25,22,11,2,New York Islanders,/api/v1/teams/2,1,29,20,11,8,Montréal Canadiens,/api/v1/teams/8
+1986020611,/api/v1/game/1986020611/feed/live,R,19861987,1987-02-19T01:00:00Z,2,31,22,6,33,Winnipeg Jets (1979),/api/v1/teams/33,5,25,22,6,17,Detroit Red Wings,/api/v1/teams/17
+1986020612,/api/v1/game/1986020612/feed/live,R,19861987,1987-02-19T02:00:00Z,3,18,34,8,23,Vancouver Canucks,/api/v1/teams/23,7,25,23,8,31,Minnesota North Stars,/api/v1/teams/31
+1986020610,/api/v1/game/1986020610/feed/live,R,19861987,1987-02-19T03:00:00Z,2,23,27,9,10,Toronto Maple Leafs,/api/v1/teams/10,9,38,13,9,22,Edmonton Oilers,/api/v1/teams/22
+1986020609,/api/v1/game/1986020609/feed/live,R,19861987,1987-02-19T04:00:00Z,4,23,27,9,15,Washington Capitals,/api/v1/teams/15,7,24,25,9,26,Los Angeles Kings,/api/v1/teams/26
+1986020614,/api/v1/game/1986020614/feed/live,R,19861987,1987-02-20T01:00:00Z,4,21,24,13,5,Pittsburgh Penguins,/api/v1/teams/5,4,36,18,13,4,Philadelphia Flyers,/api/v1/teams/4
+1986020613,/api/v1/game/1986020613/feed/live,R,19861987,1987-02-20T02:00:00Z,2,25,19,14,3,New York Rangers,/api/v1/teams/3,5,22,29,14,16,Chicago Blackhawks,/api/v1/teams/16
+1986020615,/api/v1/game/1986020615/feed/live,R,19861987,1987-02-20T02:00:00Z,2,25,24,9,31,Minnesota North Stars,/api/v1/teams/31,6,21,26,9,19,St. Louis Blues,/api/v1/teams/19
+1986020617,/api/v1/game/1986020617/feed/live,R,19861987,1987-02-21T01:00:00Z,6,21,27,10,7,Buffalo Sabres,/api/v1/teams/7,3,25,20,10,3,New York Rangers,/api/v1/teams/3
+1986020618,/api/v1/game/1986020618/feed/live,R,19861987,1987-02-21T01:00:00Z,3,23,27,10,32,Quebec Nordiques,/api/v1/teams/32,6,26,22,10,17,Detroit Red Wings,/api/v1/teams/17
+1986020616,/api/v1/game/1986020616/feed/live,R,19861987,1987-02-21T02:00:00Z,2,28,24,7,6,Boston Bruins,/api/v1/teams/6,6,32,22,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020620,/api/v1/game/1986020620/feed/live,R,19861987,1987-02-21T03:00:00Z,2,23,28,9,10,Toronto Maple Leafs,/api/v1/teams/10,7,34,24,9,20,Calgary Flames,/api/v1/teams/20
+1986020619,/api/v1/game/1986020619/feed/live,R,19861987,1987-02-21T04:00:00Z,6,24,27,9,15,Washington Capitals,/api/v1/teams/15,3,18,35,9,23,Vancouver Canucks,/api/v1/teams/23
+1986020622,/api/v1/game/1986020622/feed/live,R,19861987,1987-02-22T01:00:00Z,6,23,29,8,16,Chicago Blackhawks,/api/v1/teams/16,3,31,23,8,34,Hartford Whalers,/api/v1/teams/34
+1986020623,/api/v1/game/1986020623/feed/live,R,19861987,1987-02-22T01:00:00Z,5,29,21,12,8,Montréal Canadiens,/api/v1/teams/8,6,26,22,12,2,New York Islanders,/api/v1/teams/2
+1986020625,/api/v1/game/1986020625/feed/live,R,19861987,1987-02-22T01:00:00Z,6,23,29,6,1,New Jersey Devils,/api/v1/teams/1,5,21,25,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020621,/api/v1/game/1986020621/feed/live,R,19861987,1987-02-22T02:00:00Z,1,29,24,7,6,Boston Bruins,/api/v1/teams/6,0,25,25,7,31,Minnesota North Stars,/api/v1/teams/31
+1986020624,/api/v1/game/1986020624/feed/live,R,19861987,1987-02-22T02:00:00Z,3,23,27,11,32,Quebec Nordiques,/api/v1/teams/32,4,22,26,11,19,St. Louis Blues,/api/v1/teams/19
+1986020626,/api/v1/game/1986020626/feed/live,R,19861987,1987-02-22T04:00:00Z,4,37,18,5,4,Philadelphia Flyers,/api/v1/teams/4,2,24,26,5,26,Los Angeles Kings,/api/v1/teams/26
+1986020627,/api/v1/game/1986020627/feed/live,R,19861987,1987-02-23T01:00:00Z,3,31,24,6,34,Hartford Whalers,/api/v1/teams/34,5,22,27,6,7,Buffalo Sabres,/api/v1/teams/7
+1986020628,/api/v1/game/1986020628/feed/live,R,19861987,1987-02-23T01:00:00Z,7,27,22,11,2,New York Islanders,/api/v1/teams/2,0,23,30,11,1,New Jersey Devils,/api/v1/teams/1
+1986020629,/api/v1/game/1986020629/feed/live,R,19861987,1987-02-23T01:00:00Z,4,22,25,13,5,Pittsburgh Penguins,/api/v1/teams/5,2,25,21,13,3,New York Rangers,/api/v1/teams/3
+1986020632,/api/v1/game/1986020632/feed/live,R,19861987,1987-02-23T02:00:00Z,2,26,22,12,17,Detroit Red Wings,/api/v1/teams/17,2,23,29,12,16,Chicago Blackhawks,/api/v1/teams/16
+1986020633,/api/v1/game/1986020633/feed/live,R,19861987,1987-02-23T02:00:00Z,2,38,14,8,22,Edmonton Oilers,/api/v1/teams/22,5,33,22,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020630,/api/v1/game/1986020630/feed/live,R,19861987,1987-02-23T03:00:00Z,5,25,27,9,15,Washington Capitals,/api/v1/teams/15,2,34,25,9,20,Calgary Flames,/api/v1/teams/20
+1986020631,/api/v1/game/1986020631/feed/live,R,19861987,1987-02-23T04:00:00Z,2,23,29,9,10,Toronto Maple Leafs,/api/v1/teams/10,3,19,35,9,23,Vancouver Canucks,/api/v1/teams/23
+1986020634,/api/v1/game/1986020634/feed/live,R,19861987,1987-02-24T01:00:00Z,4,26,25,9,31,Minnesota North Stars,/api/v1/teams/31,3,29,22,9,8,Montréal Canadiens,/api/v1/teams/8
+1986020635,/api/v1/game/1986020635/feed/live,R,19861987,1987-02-25T01:00:00Z,6,26,21,14,3,New York Rangers,/api/v1/teams/3,3,22,28,14,7,Buffalo Sabres,/api/v1/teams/7
+1986020636,/api/v1/game/1986020636/feed/live,R,19861987,1987-02-25T01:00:00Z,4,26,26,9,31,Minnesota North Stars,/api/v1/teams/31,5,24,27,9,32,Quebec Nordiques,/api/v1/teams/32
+1986020638,/api/v1/game/1986020638/feed/live,R,19861987,1987-02-25T01:00:00Z,2,38,15,8,22,Edmonton Oilers,/api/v1/teams/22,5,23,25,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020639,/api/v1/game/1986020639/feed/live,R,19861987,1987-02-25T01:00:00Z,2,26,23,12,17,Detroit Red Wings,/api/v1/teams/17,8,26,27,12,15,Washington Capitals,/api/v1/teams/15
+1986020637,/api/v1/game/1986020637/feed/live,R,19861987,1987-02-25T02:00:00Z,2,27,23,11,2,New York Islanders,/api/v1/teams/2,3,23,26,11,19,St. Louis Blues,/api/v1/teams/19
+1986020641,/api/v1/game/1986020641/feed/live,R,19861987,1987-02-25T03:00:00Z,0,19,36,8,23,Vancouver Canucks,/api/v1/teams/23,2,35,25,8,20,Calgary Flames,/api/v1/teams/20
+1986020640,/api/v1/game/1986020640/feed/live,R,19861987,1987-02-25T04:00:00Z,3,33,23,6,33,Winnipeg Jets (1979),/api/v1/teams/33,8,25,26,6,26,Los Angeles Kings,/api/v1/teams/26
+1986020642,/api/v1/game/1986020642/feed/live,R,19861987,1987-02-26T01:00:00Z,4,29,25,7,6,Boston Bruins,/api/v1/teams/6,6,32,24,7,34,Hartford Whalers,/api/v1/teams/34
+1986020644,/api/v1/game/1986020644/feed/live,R,19861987,1987-02-26T01:00:00Z,4,27,21,14,3,New York Rangers,/api/v1/teams/3,2,23,30,14,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020645,/api/v1/game/1986020645/feed/live,R,19861987,1987-02-26T01:00:00Z,2,38,16,8,22,Edmonton Oilers,/api/v1/teams/22,4,24,30,8,1,New Jersey Devils,/api/v1/teams/1
+1986020643,/api/v1/game/1986020643/feed/live,R,19861987,1987-02-26T02:00:00Z,3,29,22,13,8,Montréal Canadiens,/api/v1/teams/8,3,23,29,13,16,Chicago Blackhawks,/api/v1/teams/16
+1986020646,/api/v1/game/1986020646/feed/live,R,19861987,1987-02-27T01:00:00Z,2,24,28,11,32,Quebec Nordiques,/api/v1/teams/32,6,30,25,11,6,Boston Bruins,/api/v1/teams/6
+1986020647,/api/v1/game/1986020647/feed/live,R,19861987,1987-02-27T01:00:00Z,3,23,27,11,19,St. Louis Blues,/api/v1/teams/19,4,23,28,11,7,Buffalo Sabres,/api/v1/teams/7
+1986020648,/api/v1/game/1986020648/feed/live,R,19861987,1987-02-27T01:00:00Z,4,23,26,13,5,Pittsburgh Penguins,/api/v1/teams/5,5,28,23,13,2,New York Islanders,/api/v1/teams/2
+1986020650,/api/v1/game/1986020650/feed/live,R,19861987,1987-02-27T01:00:00Z,4,19,37,8,23,Vancouver Canucks,/api/v1/teams/23,5,27,23,8,17,Detroit Red Wings,/api/v1/teams/17
+1986020649,/api/v1/game/1986020649/feed/live,R,19861987,1987-02-27T03:00:00Z,3,37,19,5,4,Philadelphia Flyers,/api/v1/teams/4,4,36,25,5,20,Calgary Flames,/api/v1/teams/20
+1986020651,/api/v1/game/1986020651/feed/live,R,19861987,1987-02-27T04:00:00Z,4,34,23,6,33,Winnipeg Jets (1979),/api/v1/teams/33,3,25,27,6,26,Los Angeles Kings,/api/v1/teams/26
+1986020652,/api/v1/game/1986020652/feed/live,R,19861987,1987-02-28T01:00:00Z,2,38,17,8,22,Edmonton Oilers,/api/v1/teams/22,5,27,27,8,15,Washington Capitals,/api/v1/teams/15
+1986020653,/api/v1/game/1986020653/feed/live,R,19861987,1987-03-01T01:00:00Z,1,23,29,10,7,Buffalo Sabres,/api/v1/teams/7,5,31,25,10,6,Boston Bruins,/api/v1/teams/6
+1986020654,/api/v1/game/1986020654/feed/live,R,19861987,1987-03-01T01:00:00Z,1,24,29,11,32,Quebec Nordiques,/api/v1/teams/32,2,33,24,11,34,Hartford Whalers,/api/v1/teams/34
+1986020655,/api/v1/game/1986020655/feed/live,R,19861987,1987-03-01T01:00:00Z,2,24,31,6,1,New Jersey Devils,/api/v1/teams/1,3,30,22,6,8,Montréal Canadiens,/api/v1/teams/8
+1986020656,/api/v1/game/1986020656/feed/live,R,19861987,1987-03-01T01:00:00Z,3,23,27,12,19,St. Louis Blues,/api/v1/teams/19,3,28,23,12,2,New York Islanders,/api/v1/teams/2
+1986020657,/api/v1/game/1986020657/feed/live,R,19861987,1987-03-01T01:00:00Z,1,27,22,14,3,New York Rangers,/api/v1/teams/3,4,28,23,14,17,Detroit Red Wings,/api/v1/teams/17
+1986020658,/api/v1/game/1986020658/feed/live,R,19861987,1987-03-01T01:00:00Z,2,24,29,10,16,Chicago Blackhawks,/api/v1/teams/16,1,23,27,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020659,/api/v1/game/1986020659/feed/live,R,19861987,1987-03-01T01:00:00Z,6,19,38,8,23,Vancouver Canucks,/api/v1/teams/23,8,24,30,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020660,/api/v1/game/1986020660/feed/live,R,19861987,1987-03-01T02:00:00Z,3,25,28,9,26,Los Angeles Kings,/api/v1/teams/26,6,27,26,9,31,Minnesota North Stars,/api/v1/teams/31
+1986020661,/api/v1/game/1986020661/feed/live,R,19861987,1987-03-01T03:00:00Z,3,34,24,6,33,Winnipeg Jets (1979),/api/v1/teams/33,5,37,25,6,20,Calgary Flames,/api/v1/teams/20
+1986020662,/api/v1/game/1986020662/feed/live,R,19861987,1987-03-02T01:00:00Z,5,24,31,7,1,New Jersey Devils,/api/v1/teams/1,5,33,24,7,34,Hartford Whalers,/api/v1/teams/34
+1986020663,/api/v1/game/1986020663/feed/live,R,19861987,1987-03-02T01:00:00Z,4,20,38,8,23,Vancouver Canucks,/api/v1/teams/23,2,23,30,8,7,Buffalo Sabres,/api/v1/teams/7
+1986020664,/api/v1/game/1986020664/feed/live,R,19861987,1987-03-02T01:00:00Z,3,27,23,14,3,New York Rangers,/api/v1/teams/3,7,28,27,14,15,Washington Capitals,/api/v1/teams/15
+1986020666,/api/v1/game/1986020666/feed/live,R,19861987,1987-03-02T01:00:00Z,5,23,27,13,19,St. Louis Blues,/api/v1/teams/19,5,23,27,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020665,/api/v1/game/1986020665/feed/live,R,19861987,1987-03-02T02:00:00Z,4,37,20,5,4,Philadelphia Flyers,/api/v1/teams/4,5,28,26,5,31,Minnesota North Stars,/api/v1/teams/31
+1986020667,/api/v1/game/1986020667/feed/live,R,19861987,1987-03-02T02:00:00Z,1,25,29,9,26,Los Angeles Kings,/api/v1/teams/26,6,25,29,9,16,Chicago Blackhawks,/api/v1/teams/16
+1986020668,/api/v1/game/1986020668/feed/live,R,19861987,1987-03-02T02:00:00Z,3,37,26,2,20,Calgary Flames,/api/v1/teams/20,6,35,24,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020669,/api/v1/game/1986020669/feed/live,R,19861987,1987-03-03T01:00:00Z,4,29,23,12,17,Detroit Red Wings,/api/v1/teams/17,3,31,25,12,6,Boston Bruins,/api/v1/teams/6
+1986020670,/api/v1/game/1986020670/feed/live,R,19861987,1987-03-04T01:00:00Z,4,31,25,9,6,Boston Bruins,/api/v1/teams/6,4,28,23,9,2,New York Islanders,/api/v1/teams/2
+1986020671,/api/v1/game/1986020671/feed/live,R,19861987,1987-03-04T01:00:00Z,3,29,24,12,17,Detroit Red Wings,/api/v1/teams/17,5,34,24,12,34,Hartford Whalers,/api/v1/teams/34
+1986020672,/api/v1/game/1986020672/feed/live,R,19861987,1987-03-04T01:00:00Z,2,23,31,10,7,Buffalo Sabres,/api/v1/teams/7,4,38,20,10,4,Philadelphia Flyers,/api/v1/teams/4
+1986020674,/api/v1/game/1986020674/feed/live,R,19861987,1987-03-04T01:00:00Z,8,24,27,14,5,Pittsburgh Penguins,/api/v1/teams/5,1,24,30,14,32,Quebec Nordiques,/api/v1/teams/32
+1986020675,/api/v1/game/1986020675/feed/live,R,19861987,1987-03-04T01:00:00Z,2,24,32,7,1,New Jersey Devils,/api/v1/teams/1,3,29,27,7,15,Washington Capitals,/api/v1/teams/15
+1986020676,/api/v1/game/1986020676/feed/live,R,19861987,1987-03-04T01:00:00Z,4,24,27,13,19,St. Louis Blues,/api/v1/teams/19,3,24,31,13,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020673,/api/v1/game/1986020673/feed/live,R,19861987,1987-03-04T03:00:00Z,4,31,22,13,8,Montréal Canadiens,/api/v1/teams/8,2,37,27,13,20,Calgary Flames,/api/v1/teams/20
+1986020677,/api/v1/game/1986020677/feed/live,R,19861987,1987-03-04T04:00:00Z,4,28,26,10,31,Minnesota North Stars,/api/v1/teams/31,4,25,29,10,26,Los Angeles Kings,/api/v1/teams/26
+1986020678,/api/v1/game/1986020678/feed/live,R,19861987,1987-03-05T01:00:00Z,5,28,24,13,2,New York Islanders,/api/v1/teams/2,7,28,23,13,3,New York Rangers,/api/v1/teams/3
+1986020679,/api/v1/game/1986020679/feed/live,R,19861987,1987-03-05T02:00:00Z,2,35,25,6,33,Winnipeg Jets (1979),/api/v1/teams/33,3,26,29,6,16,Chicago Blackhawks,/api/v1/teams/16
+1986020680,/api/v1/game/1986020680/feed/live,R,19861987,1987-03-05T04:00:00Z,8,39,17,8,22,Edmonton Oilers,/api/v1/teams/22,5,20,39,8,23,Vancouver Canucks,/api/v1/teams/23
+1986020681,/api/v1/game/1986020681/feed/live,R,19861987,1987-03-06T01:00:00Z,2,31,26,9,6,Boston Bruins,/api/v1/teams/6,10,35,24,9,34,Hartford Whalers,/api/v1/teams/34
+1986020682,/api/v1/game/1986020682/feed/live,R,19861987,1987-03-06T01:00:00Z,4,24,33,7,1,New Jersey Devils,/api/v1/teams/1,6,24,31,7,7,Buffalo Sabres,/api/v1/teams/7
+1986020683,/api/v1/game/1986020683/feed/live,R,19861987,1987-03-06T01:00:00Z,2,29,28,9,15,Washington Capitals,/api/v1/teams/15,4,39,20,9,4,Philadelphia Flyers,/api/v1/teams/4
+1986020684,/api/v1/game/1986020684/feed/live,R,19861987,1987-03-06T01:00:00Z,2,24,28,14,5,Pittsburgh Penguins,/api/v1/teams/5,7,25,31,14,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020685,/api/v1/game/1986020685/feed/live,R,19861987,1987-03-06T01:00:00Z,3,28,27,10,31,Minnesota North Stars,/api/v1/teams/31,9,30,24,10,17,Detroit Red Wings,/api/v1/teams/17
+1986020686,/api/v1/game/1986020686/feed/live,R,19861987,1987-03-06T02:00:00Z,1,35,25,7,33,Winnipeg Jets (1979),/api/v1/teams/33,1,24,27,7,19,St. Louis Blues,/api/v1/teams/19
+1986020687,/api/v1/game/1986020687/feed/live,R,19861987,1987-03-06T03:00:00Z,2,25,30,10,26,Los Angeles Kings,/api/v1/teams/26,7,38,27,10,20,Calgary Flames,/api/v1/teams/20
+1986020689,/api/v1/game/1986020689/feed/live,R,19861987,1987-03-07T03:00:00Z,3,25,31,10,26,Los Angeles Kings,/api/v1/teams/26,9,40,17,10,22,Edmonton Oilers,/api/v1/teams/22
+1986020688,/api/v1/game/1986020688/feed/live,R,19861987,1987-03-07T04:00:00Z,1,31,23,13,8,Montréal Canadiens,/api/v1/teams/8,4,21,39,13,23,Vancouver Canucks,/api/v1/teams/23
+1986020690,/api/v1/game/1986020690/feed/live,R,19861987,1987-03-08T01:00:00Z,2,29,28,10,15,Washington Capitals,/api/v1/teams/15,3,32,26,10,6,Boston Bruins,/api/v1/teams/6
+1986020691,/api/v1/game/1986020691/feed/live,R,19861987,1987-03-08T01:00:00Z,3,39,21,5,4,Philadelphia Flyers,/api/v1/teams/4,5,36,24,5,34,Hartford Whalers,/api/v1/teams/34
+1986020692,/api/v1/game/1986020692/feed/live,R,19861987,1987-03-08T01:00:00Z,5,24,31,11,7,Buffalo Sabres,/api/v1/teams/7,5,24,30,11,32,Quebec Nordiques,/api/v1/teams/32
+1986020694,/api/v1/game/1986020694/feed/live,R,19861987,1987-03-08T01:00:00Z,2,28,25,13,2,New York Islanders,/api/v1/teams/2,7,26,31,13,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020695,/api/v1/game/1986020695/feed/live,R,19861987,1987-03-08T01:00:00Z,4,27,29,10,16,Chicago Blackhawks,/api/v1/teams/16,3,24,34,10,1,New Jersey Devils,/api/v1/teams/1
+1986020696,/api/v1/game/1986020696/feed/live,R,19861987,1987-03-08T02:00:00Z,7,25,28,14,5,Pittsburgh Penguins,/api/v1/teams/5,3,28,28,14,31,Minnesota North Stars,/api/v1/teams/31
+1986020697,/api/v1/game/1986020697/feed/live,R,19861987,1987-03-08T02:00:00Z,3,30,25,12,17,Detroit Red Wings,/api/v1/teams/17,5,25,27,12,19,St. Louis Blues,/api/v1/teams/19
+1986020693,/api/v1/game/1986020693/feed/live,R,19861987,1987-03-08T03:00:00Z,3,31,24,13,8,Montréal Canadiens,/api/v1/teams/8,5,41,17,13,22,Edmonton Oilers,/api/v1/teams/22
+1986020698,/api/v1/game/1986020698/feed/live,R,19861987,1987-03-09T01:00:00Z,1,24,31,12,32,Quebec Nordiques,/api/v1/teams/32,5,25,31,12,7,Buffalo Sabres,/api/v1/teams/7
+1986020700,/api/v1/game/1986020700/feed/live,R,19861987,1987-03-09T01:00:00Z,7,39,27,2,20,Calgary Flames,/api/v1/teams/20,4,28,24,2,3,New York Rangers,/api/v1/teams/3
+1986020701,/api/v1/game/1986020701/feed/live,R,19861987,1987-03-09T01:00:00Z,3,24,35,7,1,New Jersey Devils,/api/v1/teams/1,7,40,21,7,4,Philadelphia Flyers,/api/v1/teams/4
+1986020699,/api/v1/game/1986020699/feed/live,R,19861987,1987-03-09T02:00:00Z,6,29,25,13,2,New York Islanders,/api/v1/teams/2,5,27,30,13,16,Chicago Blackhawks,/api/v1/teams/16
+1986020702,/api/v1/game/1986020702/feed/live,R,19861987,1987-03-09T02:00:00Z,5,26,28,14,5,Pittsburgh Penguins,/api/v1/teams/5,3,35,26,14,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020703,/api/v1/game/1986020703/feed/live,R,19861987,1987-03-09T04:00:00Z,2,21,40,8,23,Vancouver Canucks,/api/v1/teams/23,5,26,31,8,26,Los Angeles Kings,/api/v1/teams/26
+1986020704,/api/v1/game/1986020704/feed/live,R,19861987,1987-03-10T02:00:00Z,5,32,24,13,8,Montréal Canadiens,/api/v1/teams/8,4,28,29,13,31,Minnesota North Stars,/api/v1/teams/31
+1986020705,/api/v1/game/1986020705/feed/live,R,19861987,1987-03-10T02:00:00Z,2,26,31,10,10,Toronto Maple Leafs,/api/v1/teams/10,3,26,27,10,19,St. Louis Blues,/api/v1/teams/19
+1986020706,/api/v1/game/1986020706/feed/live,R,19861987,1987-03-11T01:00:00Z,4,36,25,7,34,Hartford Whalers,/api/v1/teams/34,6,25,31,7,32,Quebec Nordiques,/api/v1/teams/32
+1986020707,/api/v1/game/1986020707/feed/live,R,19861987,1987-03-11T01:00:00Z,6,30,25,13,2,New York Islanders,/api/v1/teams/2,3,26,29,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020708,/api/v1/game/1986020708/feed/live,R,19861987,1987-03-11T01:00:00Z,6,40,27,2,20,Calgary Flames,/api/v1/teams/20,3,29,29,2,15,Washington Capitals,/api/v1/teams/15
+1986020709,/api/v1/game/1986020709/feed/live,R,19861987,1987-03-11T04:00:00Z,4,30,26,12,17,Detroit Red Wings,/api/v1/teams/17,7,22,40,12,23,Vancouver Canucks,/api/v1/teams/23
+1986020710,/api/v1/game/1986020710/feed/live,R,19861987,1987-03-12T01:00:00Z,2,32,27,9,6,Boston Bruins,/api/v1/teams/6,3,29,24,9,3,New York Rangers,/api/v1/teams/3
+1986020711,/api/v1/game/1986020711/feed/live,R,19861987,1987-03-12T01:00:00Z,6,41,27,2,20,Calgary Flames,/api/v1/teams/20,1,36,26,2,34,Hartford Whalers,/api/v1/teams/34
+1986020714,/api/v1/game/1986020714/feed/live,R,19861987,1987-03-12T01:00:00Z,6,41,21,5,4,Philadelphia Flyers,/api/v1/teams/4,4,24,36,5,1,New Jersey Devils,/api/v1/teams/1
+1986020713,/api/v1/game/1986020713/feed/live,R,19861987,1987-03-12T02:00:00Z,1,32,25,13,8,Montréal Canadiens,/api/v1/teams/8,2,36,26,13,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020715,/api/v1/game/1986020715/feed/live,R,19861987,1987-03-12T02:00:00Z,4,27,31,10,10,Toronto Maple Leafs,/api/v1/teams/10,2,28,30,10,31,Minnesota North Stars,/api/v1/teams/31
+1986020717,/api/v1/game/1986020717/feed/live,R,19861987,1987-03-12T02:00:00Z,3,27,27,14,19,St. Louis Blues,/api/v1/teams/19,2,27,31,14,16,Chicago Blackhawks,/api/v1/teams/16
+1986020716,/api/v1/game/1986020716/feed/live,R,19861987,1987-03-12T03:00:00Z,3,30,27,12,17,Detroit Red Wings,/api/v1/teams/17,6,42,17,12,22,Edmonton Oilers,/api/v1/teams/22
+1986020712,/api/v1/game/1986020712/feed/live,R,19861987,1987-03-12T04:00:00Z,3,26,31,11,7,Buffalo Sabres,/api/v1/teams/7,2,26,32,11,26,Los Angeles Kings,/api/v1/teams/26
+1986020718,/api/v1/game/1986020718/feed/live,R,19861987,1987-03-13T01:00:00Z,4,27,28,14,19,St. Louis Blues,/api/v1/teams/19,6,33,27,14,6,Boston Bruins,/api/v1/teams/6
+1986020719,/api/v1/game/1986020719/feed/live,R,19861987,1987-03-13T01:00:00Z,3,25,32,12,32,Quebec Nordiques,/api/v1/teams/32,6,27,29,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020720,/api/v1/game/1986020720/feed/live,R,19861987,1987-03-13T01:00:00Z,6,30,24,14,3,New York Rangers,/api/v1/teams/3,1,41,22,14,4,Philadelphia Flyers,/api/v1/teams/4
+1986020723,/api/v1/game/1986020723/feed/live,R,19861987,1987-03-14T01:00:00Z,1,30,26,13,2,New York Islanders,/api/v1/teams/2,4,25,36,13,1,New Jersey Devils,/api/v1/teams/1
+1986020724,/api/v1/game/1986020724/feed/live,R,19861987,1987-03-14T01:00:00Z,2,27,32,10,10,Toronto Maple Leafs,/api/v1/teams/10,10,30,29,10,15,Washington Capitals,/api/v1/teams/15
+1986020721,/api/v1/game/1986020721/feed/live,R,19861987,1987-03-14T02:00:00Z,3,37,26,7,34,Hartford Whalers,/api/v1/teams/34,0,36,27,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020722,/api/v1/game/1986020722/feed/live,R,19861987,1987-03-14T04:00:00Z,4,26,32,11,7,Buffalo Sabres,/api/v1/teams/7,6,23,40,11,23,Vancouver Canucks,/api/v1/teams/23
+1986020725,/api/v1/game/1986020725/feed/live,R,19861987,1987-03-15T01:00:00Z,4,27,31,11,16,Chicago Blackhawks,/api/v1/teams/16,4,33,27,11,6,Boston Bruins,/api/v1/teams/6
+1986020727,/api/v1/game/1986020727/feed/live,R,19861987,1987-03-15T01:00:00Z,3,41,22,6,4,Philadelphia Flyers,/api/v1/teams/4,3,32,25,6,8,Montréal Canadiens,/api/v1/teams/8
+1986020729,/api/v1/game/1986020729/feed/live,R,19861987,1987-03-15T01:00:00Z,6,25,36,8,1,New Jersey Devils,/api/v1/teams/1,7,31,26,8,2,New York Islanders,/api/v1/teams/2
+1986020730,/api/v1/game/1986020730/feed/live,R,19861987,1987-03-15T01:00:00Z,3,31,24,14,3,New York Rangers,/api/v1/teams/3,2,27,29,14,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020732,/api/v1/game/1986020732/feed/live,R,19861987,1987-03-15T01:00:00Z,4,41,28,2,20,Calgary Flames,/api/v1/teams/20,6,28,32,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020731,/api/v1/game/1986020731/feed/live,R,19861987,1987-03-15T02:00:00Z,3,30,29,11,15,Washington Capitals,/api/v1/teams/15,3,27,28,11,19,St. Louis Blues,/api/v1/teams/19
+1986020733,/api/v1/game/1986020733/feed/live,R,19861987,1987-03-15T02:00:00Z,4,31,27,12,17,Detroit Red Wings,/api/v1/teams/17,3,28,31,12,31,Minnesota North Stars,/api/v1/teams/31
+1986020726,/api/v1/game/1986020726/feed/live,R,19861987,1987-03-15T03:00:00Z,3,26,33,11,7,Buffalo Sabres,/api/v1/teams/7,5,43,17,11,22,Edmonton Oilers,/api/v1/teams/22
+1986020728,/api/v1/game/1986020728/feed/live,R,19861987,1987-03-15T04:00:00Z,6,26,32,12,32,Quebec Nordiques,/api/v1/teams/32,3,26,33,12,26,Los Angeles Kings,/api/v1/teams/26
+1986020735,/api/v1/game/1986020735/feed/live,R,19861987,1987-03-16T01:00:00Z,5,42,22,6,4,Philadelphia Flyers,/api/v1/teams/4,2,31,25,6,3,New York Rangers,/api/v1/teams/3
+1986020736,/api/v1/game/1986020736/feed/live,R,19861987,1987-03-16T02:00:00Z,1,31,27,13,17,Detroit Red Wings,/api/v1/teams/17,1,36,27,13,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020737,/api/v1/game/1986020737/feed/live,R,19861987,1987-03-16T02:00:00Z,4,29,31,10,31,Minnesota North Stars,/api/v1/teams/31,2,27,32,10,16,Chicago Blackhawks,/api/v1/teams/16
+1986020734,/api/v1/game/1986020734/feed/live,R,19861987,1987-03-16T03:00:00Z,1,37,27,7,34,Hartford Whalers,/api/v1/teams/34,4,44,17,7,22,Edmonton Oilers,/api/v1/teams/22
+1986020738,/api/v1/game/1986020738/feed/live,R,19861987,1987-03-17T01:00:00Z,0,31,27,13,2,New York Islanders,/api/v1/teams/2,3,33,25,13,8,Montréal Canadiens,/api/v1/teams/8
+1986020739,/api/v1/game/1986020739/feed/live,R,19861987,1987-03-18T01:00:00Z,1,33,28,10,6,Boston Bruins,/api/v1/teams/6,3,32,27,10,17,Detroit Red Wings,/api/v1/teams/17
+1986020742,/api/v1/game/1986020742/feed/live,R,19861987,1987-03-18T01:00:00Z,1,31,26,14,3,New York Rangers,/api/v1/teams/3,4,43,22,14,4,Philadelphia Flyers,/api/v1/teams/4
+1986020744,/api/v1/game/1986020744/feed/live,R,19861987,1987-03-18T01:00:00Z,5,27,33,10,26,Los Angeles Kings,/api/v1/teams/26,4,30,30,10,15,Washington Capitals,/api/v1/teams/15
+1986020745,/api/v1/game/1986020745/feed/live,R,19861987,1987-03-18T02:00:00Z,3,27,32,12,16,Chicago Blackhawks,/api/v1/teams/16,3,29,31,12,31,Minnesota North Stars,/api/v1/teams/31
+1986020740,/api/v1/game/1986020740/feed/live,R,19861987,1987-03-18T03:00:00Z,2,26,34,11,7,Buffalo Sabres,/api/v1/teams/7,6,42,28,11,20,Calgary Flames,/api/v1/teams/20
+1986020743,/api/v1/game/1986020743/feed/live,R,19861987,1987-03-18T03:00:00Z,4,25,37,8,1,New Jersey Devils,/api/v1/teams/1,7,45,17,8,22,Edmonton Oilers,/api/v1/teams/22
+1986020741,/api/v1/game/1986020741/feed/live,R,19861987,1987-03-18T04:00:00Z,2,26,33,12,32,Quebec Nordiques,/api/v1/teams/32,4,24,40,12,23,Vancouver Canucks,/api/v1/teams/23
+1986020746,/api/v1/game/1986020746/feed/live,R,19861987,1987-03-19T01:00:00Z,5,38,27,7,34,Hartford Whalers,/api/v1/teams/34,3,31,27,7,3,New York Rangers,/api/v1/teams/3
+1986020748,/api/v1/game/1986020748/feed/live,R,19861987,1987-03-19T01:00:00Z,4,27,29,15,19,St. Louis Blues,/api/v1/teams/19,5,28,29,15,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020749,/api/v1/game/1986020749/feed/live,R,19861987,1987-03-19T01:00:00Z,6,28,32,12,16,Chicago Blackhawks,/api/v1/teams/16,3,28,33,12,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020747,/api/v1/game/1986020747/feed/live,R,19861987,1987-03-19T02:00:00Z,3,25,37,9,1,New Jersey Devils,/api/v1/teams/1,4,37,27,9,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020750,/api/v1/game/1986020750/feed/live,R,19861987,1987-03-20T01:00:00Z,2,29,32,11,31,Minnesota North Stars,/api/v1/teams/31,6,34,28,11,6,Boston Bruins,/api/v1/teams/6
+1986020751,/api/v1/game/1986020751/feed/live,R,19861987,1987-03-20T01:00:00Z,3,32,27,13,2,New York Islanders,/api/v1/teams/2,2,32,28,13,17,Detroit Red Wings,/api/v1/teams/17
+1986020752,/api/v1/game/1986020752/feed/live,R,19861987,1987-03-20T01:00:00Z,5,28,33,10,26,Los Angeles Kings,/api/v1/teams/26,2,43,23,10,4,Philadelphia Flyers,/api/v1/teams/4
+1986020753,/api/v1/game/1986020753/feed/live,R,19861987,1987-03-20T03:00:00Z,4,45,18,8,22,Edmonton Oilers,/api/v1/teams/22,5,43,28,8,20,Calgary Flames,/api/v1/teams/20
+1986020754,/api/v1/game/1986020754/feed/live,R,19861987,1987-03-21T01:00:00Z,3,34,25,14,8,Montréal Canadiens,/api/v1/teams/8,2,26,35,14,7,Buffalo Sabres,/api/v1/teams/7
+1986020755,/api/v1/game/1986020755/feed/live,R,19861987,1987-03-21T01:00:00Z,4,28,34,10,10,Toronto Maple Leafs,/api/v1/teams/10,5,27,33,10,32,Quebec Nordiques,/api/v1/teams/32
+1986020756,/api/v1/game/1986020756/feed/live,R,19861987,1987-03-21T01:00:00Z,3,28,30,15,5,Pittsburgh Penguins,/api/v1/teams/5,4,31,30,15,15,Washington Capitals,/api/v1/teams/15
+1986020758,/api/v1/game/1986020758/feed/live,R,19861987,1987-03-21T03:00:00Z,6,44,28,2,20,Calgary Flames,/api/v1/teams/20,3,45,19,2,22,Edmonton Oilers,/api/v1/teams/22
+1986020757,/api/v1/game/1986020757/feed/live,R,19861987,1987-03-21T04:00:00Z,5,37,27,9,33,Winnipeg Jets (1979),/api/v1/teams/33,6,25,40,9,23,Vancouver Canucks,/api/v1/teams/23
+1986020759,/api/v1/game/1986020759/feed/live,R,19861987,1987-03-22T01:00:00Z,6,28,34,10,26,Los Angeles Kings,/api/v1/teams/26,8,35,28,10,6,Boston Bruins,/api/v1/teams/6
+1986020760,/api/v1/game/1986020760/feed/live,R,19861987,1987-03-22T01:00:00Z,1,29,33,11,31,Minnesota North Stars,/api/v1/teams/31,5,39,27,11,34,Hartford Whalers,/api/v1/teams/34
+1986020761,/api/v1/game/1986020761/feed/live,R,19861987,1987-03-22T01:00:00Z,4,28,35,10,10,Toronto Maple Leafs,/api/v1/teams/10,9,35,25,10,8,Montréal Canadiens,/api/v1/teams/8
+1986020762,/api/v1/game/1986020762/feed/live,R,19861987,1987-03-22T01:00:00Z,2,43,23,7,4,Philadelphia Flyers,/api/v1/teams/4,2,27,33,7,32,Quebec Nordiques,/api/v1/teams/32
+1986020763,/api/v1/game/1986020763/feed/live,R,19861987,1987-03-22T01:00:00Z,3,31,28,14,3,New York Rangers,/api/v1/teams/3,4,33,27,14,2,New York Islanders,/api/v1/teams/2
+1986020765,/api/v1/game/1986020765/feed/live,R,19861987,1987-03-22T01:00:00Z,0,28,33,12,16,Chicago Blackhawks,/api/v1/teams/16,3,33,28,12,17,Detroit Red Wings,/api/v1/teams/17
+1986020764,/api/v1/game/1986020764/feed/live,R,19861987,1987-03-22T02:00:00Z,7,26,37,9,1,New Jersey Devils,/api/v1/teams/1,6,27,29,9,19,St. Louis Blues,/api/v1/teams/19
+1986020766,/api/v1/game/1986020766/feed/live,R,19861987,1987-03-23T01:00:00Z,3,35,29,10,6,Boston Bruins,/api/v1/teams/6,4,32,30,10,15,Washington Capitals,/api/v1/teams/15
+1986020767,/api/v1/game/1986020767/feed/live,R,19861987,1987-03-23T01:00:00Z,3,28,35,10,26,Los Angeles Kings,/api/v1/teams/26,6,40,27,10,34,Hartford Whalers,/api/v1/teams/34
+1986020768,/api/v1/game/1986020768/feed/live,R,19861987,1987-03-23T01:00:00Z,2,33,29,13,17,Detroit Red Wings,/api/v1/teams/17,3,27,35,13,7,Buffalo Sabres,/api/v1/teams/7
+1986020769,/api/v1/game/1986020769/feed/live,R,19861987,1987-03-23T01:00:00Z,3,28,34,12,16,Chicago Blackhawks,/api/v1/teams/16,5,32,28,12,3,New York Rangers,/api/v1/teams/3
+1986020770,/api/v1/game/1986020770/feed/live,R,19861987,1987-03-23T01:00:00Z,1,28,31,15,5,Pittsburgh Penguins,/api/v1/teams/5,3,44,23,15,4,Philadelphia Flyers,/api/v1/teams/4
+1986020771,/api/v1/game/1986020771/feed/live,R,19861987,1987-03-23T02:00:00Z,2,25,41,8,23,Vancouver Canucks,/api/v1/teams/23,3,38,27,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020772,/api/v1/game/1986020772/feed/live,R,19861987,1987-03-24T01:00:00Z,7,46,19,8,22,Edmonton Oilers,/api/v1/teams/22,6,26,38,8,1,New Jersey Devils,/api/v1/teams/1
+1986020773,/api/v1/game/1986020773/feed/live,R,19861987,1987-03-24T02:00:00Z,8,28,29,16,19,St. Louis Blues,/api/v1/teams/19,5,29,34,16,31,Minnesota North Stars,/api/v1/teams/31
+1986020774,/api/v1/game/1986020774/feed/live,R,19861987,1987-03-25T01:00:00Z,6,29,35,10,10,Toronto Maple Leafs,/api/v1/teams/10,5,27,36,10,7,Buffalo Sabres,/api/v1/teams/7
+1986020775,/api/v1/game/1986020775/feed/live,R,19861987,1987-03-25T01:00:00Z,4,36,25,14,8,Montréal Canadiens,/api/v1/teams/8,3,27,34,14,32,Quebec Nordiques,/api/v1/teams/32
+1986020776,/api/v1/game/1986020776/feed/live,R,19861987,1987-03-25T01:00:00Z,3,33,30,11,15,Washington Capitals,/api/v1/teams/15,1,33,28,11,2,New York Islanders,/api/v1/teams/2
+1986020777,/api/v1/game/1986020777/feed/live,R,19861987,1987-03-25T01:00:00Z,3,44,23,8,4,Philadelphia Flyers,/api/v1/teams/4,3,28,31,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020778,/api/v1/game/1986020778/feed/live,R,19861987,1987-03-26T01:00:00Z,5,47,19,8,22,Edmonton Oilers,/api/v1/teams/22,3,40,28,8,34,Hartford Whalers,/api/v1/teams/34
+1986020779,/api/v1/game/1986020779/feed/live,R,19861987,1987-03-26T01:00:00Z,8,27,38,9,1,New Jersey Devils,/api/v1/teams/1,2,32,29,9,3,New York Rangers,/api/v1/teams/3
+1986020780,/api/v1/game/1986020780/feed/live,R,19861987,1987-03-26T01:00:00Z,6,30,34,11,31,Minnesota North Stars,/api/v1/teams/31,2,29,36,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020781,/api/v1/game/1986020781/feed/live,R,19861987,1987-03-26T01:00:00Z,6,29,35,10,26,Los Angeles Kings,/api/v1/teams/26,1,33,30,10,17,Detroit Red Wings,/api/v1/teams/17
+1986020782,/api/v1/game/1986020782/feed/live,R,19861987,1987-03-26T02:00:00Z,4,28,29,17,19,St. Louis Blues,/api/v1/teams/19,4,28,34,17,16,Chicago Blackhawks,/api/v1/teams/16
+1986020783,/api/v1/game/1986020783/feed/live,R,19861987,1987-03-26T02:00:00Z,1,44,29,2,20,Calgary Flames,/api/v1/teams/20,10,39,27,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020784,/api/v1/game/1986020784/feed/live,R,19861987,1987-03-27T01:00:00Z,1,47,20,8,22,Edmonton Oilers,/api/v1/teams/22,4,36,29,8,6,Boston Bruins,/api/v1/teams/6
+1986020785,/api/v1/game/1986020785/feed/live,R,19861987,1987-03-27T01:00:00Z,5,30,35,10,26,Los Angeles Kings,/api/v1/teams/26,3,27,37,10,7,Buffalo Sabres,/api/v1/teams/7
+1986020786,/api/v1/game/1986020786/feed/live,R,19861987,1987-03-27T01:00:00Z,2,27,34,14,32,Quebec Nordiques,/api/v1/teams/32,3,45,23,14,4,Philadelphia Flyers,/api/v1/teams/4
+1986020787,/api/v1/game/1986020787/feed/live,R,19861987,1987-03-27T01:00:00Z,5,26,41,8,23,Vancouver Canucks,/api/v1/teams/23,2,33,29,8,2,New York Islanders,/api/v1/teams/2
+1986020788,/api/v1/game/1986020788/feed/live,R,19861987,1987-03-27T03:00:00Z,1,39,28,9,33,Winnipeg Jets (1979),/api/v1/teams/33,3,45,29,9,20,Calgary Flames,/api/v1/teams/20
+1986020789,/api/v1/game/1986020789/feed/live,R,19861987,1987-03-28T01:00:00Z,2,33,29,14,2,New York Islanders,/api/v1/teams/2,2,33,30,14,15,Washington Capitals,/api/v1/teams/15
+1986020790,/api/v1/game/1986020790/feed/live,R,19861987,1987-03-28T01:00:00Z,4,28,30,17,19,St. Louis Blues,/api/v1/teams/19,6,33,29,17,3,New York Rangers,/api/v1/teams/3
+1986020791,/api/v1/game/1986020791/feed/live,R,19861987,1987-03-28T01:00:00Z,2,30,35,11,31,Minnesota North Stars,/api/v1/teams/31,5,28,38,11,1,New Jersey Devils,/api/v1/teams/1
+1986020792,/api/v1/game/1986020792/feed/live,R,19861987,1987-03-29T01:00:00Z,1,26,42,8,23,Vancouver Canucks,/api/v1/teams/23,2,37,29,8,6,Boston Bruins,/api/v1/teams/6
+1986020793,/api/v1/game/1986020793/feed/live,R,19861987,1987-03-29T01:00:00Z,4,28,32,16,5,Pittsburgh Penguins,/api/v1/teams/5,5,41,28,16,34,Hartford Whalers,/api/v1/teams/34
+1986020794,/api/v1/game/1986020794/feed/live,R,19861987,1987-03-29T01:00:00Z,3,27,38,11,7,Buffalo Sabres,/api/v1/teams/7,6,37,25,11,8,Montréal Canadiens,/api/v1/teams/8
+1986020795,/api/v1/game/1986020795/feed/live,R,19861987,1987-03-29T01:00:00Z,4,28,35,13,16,Chicago Blackhawks,/api/v1/teams/16,5,28,34,13,32,Quebec Nordiques,/api/v1/teams/32
+1986020796,/api/v1/game/1986020796/feed/live,R,19861987,1987-03-29T01:00:00Z,5,34,30,13,17,Detroit Red Wings,/api/v1/teams/17,1,45,24,13,4,Philadelphia Flyers,/api/v1/teams/4
+1986020797,/api/v1/game/1986020797/feed/live,R,19861987,1987-03-29T01:00:00Z,2,47,21,8,22,Edmonton Oilers,/api/v1/teams/22,4,30,36,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020798,/api/v1/game/1986020798/feed/live,R,19861987,1987-03-29T04:00:00Z,4,46,29,2,20,Calgary Flames,/api/v1/teams/20,3,30,36,2,26,Los Angeles Kings,/api/v1/teams/26
+1986020800,/api/v1/game/1986020800/feed/live,R,19861987,1987-03-30T01:00:00Z,4,26,43,8,23,Vancouver Canucks,/api/v1/teams/23,7,42,28,8,34,Hartford Whalers,/api/v1/teams/34
+1986020801,/api/v1/game/1986020801/feed/live,R,19861987,1987-03-30T01:00:00Z,3,48,21,8,22,Edmonton Oilers,/api/v1/teams/22,2,27,39,8,7,Buffalo Sabres,/api/v1/teams/7
+1986020802,/api/v1/game/1986020802/feed/live,R,19861987,1987-03-30T01:00:00Z,4,38,25,14,8,Montréal Canadiens,/api/v1/teams/8,1,28,33,14,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020803,/api/v1/game/1986020803/feed/live,R,19861987,1987-03-30T01:00:00Z,4,29,30,17,19,St. Louis Blues,/api/v1/teams/19,1,28,39,17,1,New Jersey Devils,/api/v1/teams/1
+1986020804,/api/v1/game/1986020804/feed/live,R,19861987,1987-03-30T01:00:00Z,2,30,36,11,31,Minnesota North Stars,/api/v1/teams/31,4,34,30,11,15,Washington Capitals,/api/v1/teams/15
+1986020799,/api/v1/game/1986020799/feed/live,R,19861987,1987-03-30T02:00:00Z,8,38,29,10,6,Boston Bruins,/api/v1/teams/6,6,28,36,10,16,Chicago Blackhawks,/api/v1/teams/16
+1986020805,/api/v1/game/1986020805/feed/live,R,19861987,1987-03-30T02:00:00Z,6,31,36,10,10,Toronto Maple Leafs,/api/v1/teams/10,2,39,29,10,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986020806,/api/v1/game/1986020806/feed/live,R,19861987,1987-03-31T02:00:00Z,6,34,29,14,3,New York Rangers,/api/v1/teams/3,5,30,37,14,31,Minnesota North Stars,/api/v1/teams/31
+1986020807,/api/v1/game/1986020807/feed/live,R,19861987,1987-03-31T04:00:00Z,4,46,30,2,20,Calgary Flames,/api/v1/teams/20,5,31,36,2,26,Los Angeles Kings,/api/v1/teams/26
+1986020808,/api/v1/game/1986020808/feed/live,R,19861987,1987-04-01T01:00:00Z,4,39,29,10,6,Boston Bruins,/api/v1/teams/6,3,28,35,10,32,Quebec Nordiques,/api/v1/teams/32
+1986020810,/api/v1/game/1986020810/feed/live,R,19861987,1987-04-01T01:00:00Z,3,28,34,16,5,Pittsburgh Penguins,/api/v1/teams/5,5,29,39,16,1,New Jersey Devils,/api/v1/teams/1
+1986020811,/api/v1/game/1986020811/feed/live,R,19861987,1987-04-01T01:00:00Z,2,31,37,10,10,Toronto Maple Leafs,/api/v1/teams/10,4,35,30,10,15,Washington Capitals,/api/v1/teams/15
+1986020809,/api/v1/game/1986020809/feed/live,R,19861987,1987-04-01T02:00:00Z,4,34,29,14,2,New York Islanders,/api/v1/teams/2,3,29,31,14,19,St. Louis Blues,/api/v1/teams/19
+1986020812,/api/v1/game/1986020812/feed/live,R,19861987,1987-04-01T03:00:00Z,4,39,29,10,33,Winnipeg Jets (1979),/api/v1/teams/33,5,49,21,10,22,Edmonton Oilers,/api/v1/teams/22
+1986020813,/api/v1/game/1986020813/feed/live,R,19861987,1987-04-02T01:00:00Z,2,42,29,7,34,Hartford Whalers,/api/v1/teams/34,3,39,25,7,8,Montréal Canadiens,/api/v1/teams/8
+1986020814,/api/v1/game/1986020814/feed/live,R,19861987,1987-04-02T01:00:00Z,5,36,30,12,15,Washington Capitals,/api/v1/teams/15,1,34,30,12,3,New York Rangers,/api/v1/teams/3
+1986020815,/api/v1/game/1986020815/feed/live,R,19861987,1987-04-02T01:00:00Z,2,46,24,8,4,Philadelphia Flyers,/api/v1/teams/4,1,34,31,8,17,Detroit Red Wings,/api/v1/teams/17
+1986020816,/api/v1/game/1986020816/feed/live,R,19861987,1987-04-02T02:00:00Z,4,30,37,12,31,Minnesota North Stars,/api/v1/teams/31,4,28,36,12,16,Chicago Blackhawks,/api/v1/teams/16
+1986020817,/api/v1/game/1986020817/feed/live,R,19861987,1987-04-02T04:00:00Z,8,27,43,8,23,Vancouver Canucks,/api/v1/teams/23,3,31,37,8,26,Los Angeles Kings,/api/v1/teams/26
+1986020819,/api/v1/game/1986020819/feed/live,R,19861987,1987-04-03T01:00:00Z,4,29,35,14,32,Quebec Nordiques,/api/v1/teams/32,1,34,30,14,2,New York Islanders,/api/v1/teams/2
+1986020820,/api/v1/game/1986020820/feed/live,R,19861987,1987-04-03T01:00:00Z,2,29,40,9,1,New Jersey Devils,/api/v1/teams/1,6,29,34,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020818,/api/v1/game/1986020818/feed/live,R,19861987,1987-04-03T02:00:00Z,3,27,40,11,7,Buffalo Sabres,/api/v1/teams/7,5,30,31,11,19,St. Louis Blues,/api/v1/teams/19
+1986020821,/api/v1/game/1986020821/feed/live,R,19861987,1987-04-03T03:00:00Z,4,46,30,3,20,Calgary Flames,/api/v1/teams/20,4,49,21,3,22,Edmonton Oilers,/api/v1/teams/22
+1986020822,/api/v1/game/1986020822/feed/live,R,19861987,1987-04-04T04:00:00Z,4,39,30,10,33,Winnipeg Jets (1979),/api/v1/teams/33,6,28,43,10,23,Vancouver Canucks,/api/v1/teams/23
+1986020823,/api/v1/game/1986020823/feed/live,R,19861987,1987-04-05T01:00:00Z,1,39,30,10,6,Boston Bruins,/api/v1/teams/6,3,40,25,10,8,Montréal Canadiens,/api/v1/teams/8
+1986020824,/api/v1/game/1986020824/feed/live,R,19861987,1987-04-05T01:00:00Z,3,34,31,14,3,New York Rangers,/api/v1/teams/3,5,43,29,14,34,Hartford Whalers,/api/v1/teams/34
+1986020825,/api/v1/game/1986020825/feed/live,R,19861987,1987-04-05T01:00:00Z,6,27,40,12,7,Buffalo Sabres,/api/v1/teams/7,6,34,30,12,2,New York Islanders,/api/v1/teams/2
+1986020826,/api/v1/game/1986020826/feed/live,R,19861987,1987-04-05T01:00:00Z,4,29,41,9,1,New Jersey Devils,/api/v1/teams/1,8,30,35,9,32,Quebec Nordiques,/api/v1/teams/32
+1986020827,/api/v1/game/1986020827/feed/live,R,19861987,1987-04-05T01:00:00Z,2,46,24,9,4,Philadelphia Flyers,/api/v1/teams/4,3,37,30,9,15,Washington Capitals,/api/v1/teams/15
+1986020828,/api/v1/game/1986020828/feed/live,R,19861987,1987-04-05T01:00:00Z,3,34,31,14,17,Detroit Red Wings,/api/v1/teams/17,4,30,34,14,5,Pittsburgh Penguins,/api/v1/teams/5
+1986020829,/api/v1/game/1986020829/feed/live,R,19861987,1987-04-05T01:00:00Z,1,28,37,14,16,Chicago Blackhawks,/api/v1/teams/16,3,32,37,14,10,Toronto Maple Leafs,/api/v1/teams/10
+1986020830,/api/v1/game/1986020830/feed/live,R,19861987,1987-04-05T02:00:00Z,1,30,38,12,31,Minnesota North Stars,/api/v1/teams/31,4,31,31,12,19,St. Louis Blues,/api/v1/teams/19
+1986020831,/api/v1/game/1986020831/feed/live,R,19861987,1987-04-05T04:00:00Z,7,50,21,9,22,Edmonton Oilers,/api/v1/teams/22,3,31,38,9,26,Los Angeles Kings,/api/v1/teams/26
+1986020832,/api/v1/game/1986020832/feed/live,R,19861987,1987-04-06T00:00:00Z,6,31,35,14,32,Quebec Nordiques,/api/v1/teams/32,4,39,31,14,6,Boston Bruins,/api/v1/teams/6
+1986020833,/api/v1/game/1986020833/feed/live,R,19861987,1987-04-06T00:00:00Z,0,43,30,7,34,Hartford Whalers,/api/v1/teams/34,6,28,40,7,7,Buffalo Sabres,/api/v1/teams/7
+1986020834,/api/v1/game/1986020834/feed/live,R,19861987,1987-04-06T00:00:00Z,8,41,25,14,8,Montréal Canadiens,/api/v1/teams/8,2,34,32,14,3,New York Rangers,/api/v1/teams/3
+1986020835,/api/v1/game/1986020835/feed/live,R,19861987,1987-04-06T00:00:00Z,9,35,30,15,2,New York Islanders,/api/v1/teams/2,5,46,25,15,4,Philadelphia Flyers,/api/v1/teams/4
+1986020836,/api/v1/game/1986020836/feed/live,R,19861987,1987-04-06T00:00:00Z,6,38,30,12,15,Washington Capitals,/api/v1/teams/15,5,29,41,12,1,New Jersey Devils,/api/v1/teams/1
+1986020838,/api/v1/game/1986020838/feed/live,R,19861987,1987-04-06T00:00:00Z,3,32,31,17,19,St. Louis Blues,/api/v1/teams/19,2,34,31,17,17,Detroit Red Wings,/api/v1/teams/17
+1986020837,/api/v1/game/1986020837/feed/live,R,19861987,1987-04-06T01:00:00Z,2,32,38,10,10,Toronto Maple Leafs,/api/v1/teams/10,5,29,37,10,16,Chicago Blackhawks,/api/v1/teams/16
+1986020839,/api/v1/game/1986020839/feed/live,R,19861987,1987-04-06T02:00:00Z,3,40,30,10,33,Winnipeg Jets (1979),/api/v1/teams/33,1,46,31,10,20,Calgary Flames,/api/v1/teams/20
+1986020840,/api/v1/game/1986020840/feed/live,R,19861987,1987-04-06T03:00:00Z,2,31,39,10,26,Los Angeles Kings,/api/v1/teams/26,5,29,43,10,23,Vancouver Canucks,/api/v1/teams/23
+1986030111,/api/v1/game/1986030111/feed/live,P,19861987,1987-04-09T00:00:00Z,2,0,1,,32,Quebec Nordiques,/api/v1/teams/32,3,1,0,,34,Hartford Whalers,/api/v1/teams/34
+1986030121,/api/v1/game/1986030121/feed/live,P,19861987,1987-04-09T00:00:00Z,2,0,1,,6,Boston Bruins,/api/v1/teams/6,6,1,0,,8,Montréal Canadiens,/api/v1/teams/8
+1986030131,/api/v1/game/1986030131/feed/live,P,19861987,1987-04-09T00:00:00Z,3,1,0,,3,New York Rangers,/api/v1/teams/3,0,0,1,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030141,/api/v1/game/1986030141/feed/live,P,19861987,1987-04-09T00:00:00Z,3,0,1,,2,New York Islanders,/api/v1/teams/2,4,1,0,,15,Washington Capitals,/api/v1/teams/15
+1986030161,/api/v1/game/1986030161/feed/live,P,19861987,1987-04-09T00:00:00Z,1,0,1,,16,Chicago Blackhawks,/api/v1/teams/16,3,1,0,,17,Detroit Red Wings,/api/v1/teams/17
+1986030151,/api/v1/game/1986030151/feed/live,P,19861987,1987-04-09T01:00:00Z,1,0,1,,10,Toronto Maple Leafs,/api/v1/teams/10,3,1,0,,19,St. Louis Blues,/api/v1/teams/19
+1986030171,/api/v1/game/1986030171/feed/live,P,19861987,1987-04-09T02:00:00Z,5,1,0,,26,Los Angeles Kings,/api/v1/teams/26,2,0,1,,22,Edmonton Oilers,/api/v1/teams/22
+1986030181,/api/v1/game/1986030181/feed/live,P,19861987,1987-04-09T02:00:00Z,4,1,0,,33,Winnipeg Jets (1979),/api/v1/teams/33,2,0,1,,20,Calgary Flames,/api/v1/teams/20
+1986030112,/api/v1/game/1986030112/feed/live,P,19861987,1987-04-10T00:00:00Z,4,0,2,,32,Quebec Nordiques,/api/v1/teams/32,5,2,0,,34,Hartford Whalers,/api/v1/teams/34
+1986030122,/api/v1/game/1986030122/feed/live,P,19861987,1987-04-10T00:00:00Z,3,0,2,,6,Boston Bruins,/api/v1/teams/6,4,2,0,,8,Montréal Canadiens,/api/v1/teams/8
+1986030132,/api/v1/game/1986030132/feed/live,P,19861987,1987-04-10T00:00:00Z,3,1,1,,3,New York Rangers,/api/v1/teams/3,8,1,1,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030142,/api/v1/game/1986030142/feed/live,P,19861987,1987-04-10T00:00:00Z,3,1,1,,2,New York Islanders,/api/v1/teams/2,1,1,1,,15,Washington Capitals,/api/v1/teams/15
+1986030162,/api/v1/game/1986030162/feed/live,P,19861987,1987-04-10T00:00:00Z,1,0,2,,16,Chicago Blackhawks,/api/v1/teams/16,5,2,0,,17,Detroit Red Wings,/api/v1/teams/17
+1986030152,/api/v1/game/1986030152/feed/live,P,19861987,1987-04-10T01:00:00Z,3,1,1,,10,Toronto Maple Leafs,/api/v1/teams/10,2,1,1,,19,St. Louis Blues,/api/v1/teams/19
+1986030172,/api/v1/game/1986030172/feed/live,P,19861987,1987-04-10T02:00:00Z,3,1,1,,26,Los Angeles Kings,/api/v1/teams/26,13,1,1,,22,Edmonton Oilers,/api/v1/teams/22
+1986030182,/api/v1/game/1986030182/feed/live,P,19861987,1987-04-10T02:00:00Z,3,2,0,,33,Winnipeg Jets (1979),/api/v1/teams/33,2,0,2,,20,Calgary Flames,/api/v1/teams/20
+1986030113,/api/v1/game/1986030113/feed/live,P,19861987,1987-04-12T00:00:00Z,1,2,1,,34,Hartford Whalers,/api/v1/teams/34,5,1,2,,32,Quebec Nordiques,/api/v1/teams/32
+1986030123,/api/v1/game/1986030123/feed/live,P,19861987,1987-04-12T00:00:00Z,5,3,0,,8,Montréal Canadiens,/api/v1/teams/8,4,0,3,,6,Boston Bruins,/api/v1/teams/6
+1986030133,/api/v1/game/1986030133/feed/live,P,19861987,1987-04-12T00:00:00Z,3,2,1,,4,Philadelphia Flyers,/api/v1/teams/4,0,1,2,,3,New York Rangers,/api/v1/teams/3
+1986030143,/api/v1/game/1986030143/feed/live,P,19861987,1987-04-12T00:00:00Z,2,2,1,,15,Washington Capitals,/api/v1/teams/15,0,1,2,,2,New York Islanders,/api/v1/teams/2
+1986030153,/api/v1/game/1986030153/feed/live,P,19861987,1987-04-12T00:00:00Z,5,2,1,,19,St. Louis Blues,/api/v1/teams/19,3,1,2,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030163,/api/v1/game/1986030163/feed/live,P,19861987,1987-04-12T01:00:00Z,4,3,0,,17,Detroit Red Wings,/api/v1/teams/17,3,0,3,,16,Chicago Blackhawks,/api/v1/teams/16
+1986030183,/api/v1/game/1986030183/feed/live,P,19861987,1987-04-12T01:00:00Z,3,1,2,,20,Calgary Flames,/api/v1/teams/20,2,2,1,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986030173,/api/v1/game/1986030173/feed/live,P,19861987,1987-04-12T03:00:00Z,6,2,1,,22,Edmonton Oilers,/api/v1/teams/22,5,1,2,,26,Los Angeles Kings,/api/v1/teams/26
+1986030114,/api/v1/game/1986030114/feed/live,P,19861987,1987-04-13T00:00:00Z,1,2,2,,34,Hartford Whalers,/api/v1/teams/34,4,2,2,,32,Quebec Nordiques,/api/v1/teams/32
+1986030124,/api/v1/game/1986030124/feed/live,P,19861987,1987-04-13T00:00:00Z,4,4,0,,8,Montréal Canadiens,/api/v1/teams/8,2,0,4,,6,Boston Bruins,/api/v1/teams/6
+1986030134,/api/v1/game/1986030134/feed/live,P,19861987,1987-04-13T00:00:00Z,3,2,2,,4,Philadelphia Flyers,/api/v1/teams/4,6,2,2,,3,New York Rangers,/api/v1/teams/3
+1986030144,/api/v1/game/1986030144/feed/live,P,19861987,1987-04-13T00:00:00Z,4,3,1,,15,Washington Capitals,/api/v1/teams/15,1,1,3,,2,New York Islanders,/api/v1/teams/2
+1986030154,/api/v1/game/1986030154/feed/live,P,19861987,1987-04-13T00:00:00Z,1,2,2,,19,St. Louis Blues,/api/v1/teams/19,2,2,2,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030164,/api/v1/game/1986030164/feed/live,P,19861987,1987-04-13T01:00:00Z,3,4,0,,17,Detroit Red Wings,/api/v1/teams/17,1,0,4,,16,Chicago Blackhawks,/api/v1/teams/16
+1986030184,/api/v1/game/1986030184/feed/live,P,19861987,1987-04-13T01:00:00Z,3,1,3,,20,Calgary Flames,/api/v1/teams/20,4,3,1,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986030174,/api/v1/game/1986030174/feed/live,P,19861987,1987-04-13T03:00:00Z,6,3,1,,22,Edmonton Oilers,/api/v1/teams/22,3,1,3,,26,Los Angeles Kings,/api/v1/teams/26
+1986030115,/api/v1/game/1986030115/feed/live,P,19861987,1987-04-15T00:00:00Z,7,3,2,,32,Quebec Nordiques,/api/v1/teams/32,5,2,3,,34,Hartford Whalers,/api/v1/teams/34
+1986030135,/api/v1/game/1986030135/feed/live,P,19861987,1987-04-15T00:00:00Z,1,2,3,,3,New York Rangers,/api/v1/teams/3,3,3,2,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030145,/api/v1/game/1986030145/feed/live,P,19861987,1987-04-15T00:00:00Z,4,2,3,,2,New York Islanders,/api/v1/teams/2,2,3,2,,15,Washington Capitals,/api/v1/teams/15
+1986030155,/api/v1/game/1986030155/feed/live,P,19861987,1987-04-15T01:00:00Z,2,3,2,,10,Toronto Maple Leafs,/api/v1/teams/10,1,2,3,,19,St. Louis Blues,/api/v1/teams/19
+1986030175,/api/v1/game/1986030175/feed/live,P,19861987,1987-04-15T02:00:00Z,4,1,4,,26,Los Angeles Kings,/api/v1/teams/26,5,4,1,,22,Edmonton Oilers,/api/v1/teams/22
+1986030185,/api/v1/game/1986030185/feed/live,P,19861987,1987-04-15T02:00:00Z,3,3,2,,33,Winnipeg Jets (1979),/api/v1/teams/33,4,2,3,,20,Calgary Flames,/api/v1/teams/20
+1986030116,/api/v1/game/1986030116/feed/live,P,19861987,1987-04-17T00:00:00Z,4,2,4,,34,Hartford Whalers,/api/v1/teams/34,5,4,2,,32,Quebec Nordiques,/api/v1/teams/32
+1986030136,/api/v1/game/1986030136/feed/live,P,19861987,1987-04-17T00:00:00Z,5,4,2,,4,Philadelphia Flyers,/api/v1/teams/4,0,2,4,,3,New York Rangers,/api/v1/teams/3
+1986030146,/api/v1/game/1986030146/feed/live,P,19861987,1987-04-17T00:00:00Z,4,3,3,,15,Washington Capitals,/api/v1/teams/15,5,3,3,,2,New York Islanders,/api/v1/teams/2
+1986030156,/api/v1/game/1986030156/feed/live,P,19861987,1987-04-17T00:00:00Z,0,2,4,,19,St. Louis Blues,/api/v1/teams/19,4,4,2,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030186,/api/v1/game/1986030186/feed/live,P,19861987,1987-04-17T01:00:00Z,1,2,4,,20,Calgary Flames,/api/v1/teams/20,6,4,2,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986030147,/api/v1/game/1986030147/feed/live,P,19861987,1987-04-19T00:00:00Z,3,4,3,,2,New York Islanders,/api/v1/teams/2,2,3,4,,15,Washington Capitals,/api/v1/teams/15
+1986030211,/api/v1/game/1986030211/feed/live,P,19861987,1987-04-21T00:00:00Z,7,5,2,,32,Quebec Nordiques,/api/v1/teams/32,5,4,1,,8,Montréal Canadiens,/api/v1/teams/8
+1986030221,/api/v1/game/1986030221/feed/live,P,19861987,1987-04-21T00:00:00Z,2,4,4,,2,New York Islanders,/api/v1/teams/2,4,5,2,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030231,/api/v1/game/1986030231/feed/live,P,19861987,1987-04-22T00:00:00Z,4,5,2,,10,Toronto Maple Leafs,/api/v1/teams/10,2,4,1,,17,Detroit Red Wings,/api/v1/teams/17
+1986030241,/api/v1/game/1986030241/feed/live,P,19861987,1987-04-22T02:00:00Z,2,4,3,,33,Winnipeg Jets (1979),/api/v1/teams/33,3,5,1,,22,Edmonton Oilers,/api/v1/teams/22
+1986030212,/api/v1/game/1986030212/feed/live,P,19861987,1987-04-23T00:00:00Z,2,6,2,,32,Quebec Nordiques,/api/v1/teams/32,1,4,2,,8,Montréal Canadiens,/api/v1/teams/8
+1986030222,/api/v1/game/1986030222/feed/live,P,19861987,1987-04-23T00:00:00Z,2,5,4,,2,New York Islanders,/api/v1/teams/2,1,5,3,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030232,/api/v1/game/1986030232/feed/live,P,19861987,1987-04-24T00:00:00Z,7,6,2,,10,Toronto Maple Leafs,/api/v1/teams/10,2,4,2,,17,Detroit Red Wings,/api/v1/teams/17
+1986030242,/api/v1/game/1986030242/feed/live,P,19861987,1987-04-24T02:00:00Z,3,4,4,,33,Winnipeg Jets (1979),/api/v1/teams/33,5,6,1,,22,Edmonton Oilers,/api/v1/teams/22
+1986030213,/api/v1/game/1986030213/feed/live,P,19861987,1987-04-25T00:00:00Z,7,5,2,,8,Montréal Canadiens,/api/v1/teams/8,2,6,3,,32,Quebec Nordiques,/api/v1/teams/32
+1986030223,/api/v1/game/1986030223/feed/live,P,19861987,1987-04-25T00:00:00Z,4,6,3,,4,Philadelphia Flyers,/api/v1/teams/4,1,5,5,,2,New York Islanders,/api/v1/teams/2
+1986030233,/api/v1/game/1986030233/feed/live,P,19861987,1987-04-26T00:00:00Z,4,5,2,,17,Detroit Red Wings,/api/v1/teams/17,2,6,3,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030243,/api/v1/game/1986030243/feed/live,P,19861987,1987-04-26T01:00:00Z,5,7,1,,22,Edmonton Oilers,/api/v1/teams/22,2,4,5,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986030214,/api/v1/game/1986030214/feed/live,P,19861987,1987-04-27T00:00:00Z,3,6,2,,8,Montréal Canadiens,/api/v1/teams/8,2,6,4,,32,Quebec Nordiques,/api/v1/teams/32
+1986030224,/api/v1/game/1986030224/feed/live,P,19861987,1987-04-27T00:00:00Z,6,7,3,,4,Philadelphia Flyers,/api/v1/teams/4,4,5,6,,2,New York Islanders,/api/v1/teams/2
+1986030234,/api/v1/game/1986030234/feed/live,P,19861987,1987-04-28T00:00:00Z,2,5,3,,17,Detroit Red Wings,/api/v1/teams/17,3,7,3,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030244,/api/v1/game/1986030244/feed/live,P,19861987,1987-04-28T01:00:00Z,4,8,1,,22,Edmonton Oilers,/api/v1/teams/22,2,4,6,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1986030215,/api/v1/game/1986030215/feed/live,P,19861987,1987-04-29T00:00:00Z,2,6,5,,32,Quebec Nordiques,/api/v1/teams/32,3,7,2,,8,Montréal Canadiens,/api/v1/teams/8
+1986030225,/api/v1/game/1986030225/feed/live,P,19861987,1987-04-29T00:00:00Z,2,6,6,,2,New York Islanders,/api/v1/teams/2,1,7,4,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030235,/api/v1/game/1986030235/feed/live,P,19861987,1987-04-30T00:00:00Z,0,7,4,,10,Toronto Maple Leafs,/api/v1/teams/10,3,6,3,,17,Detroit Red Wings,/api/v1/teams/17
+1986030216,/api/v1/game/1986030216/feed/live,P,19861987,1987-05-01T00:00:00Z,2,7,3,,8,Montréal Canadiens,/api/v1/teams/8,3,7,5,,32,Quebec Nordiques,/api/v1/teams/32
+1986030226,/api/v1/game/1986030226/feed/live,P,19861987,1987-05-01T00:00:00Z,2,7,5,,4,Philadelphia Flyers,/api/v1/teams/4,4,7,6,,2,New York Islanders,/api/v1/teams/2
+1986030236,/api/v1/game/1986030236/feed/live,P,19861987,1987-05-02T00:00:00Z,4,7,3,,17,Detroit Red Wings,/api/v1/teams/17,2,7,5,,10,Toronto Maple Leafs,/api/v1/teams/10
+1986030217,/api/v1/game/1986030217/feed/live,P,19861987,1987-05-03T00:00:00Z,3,7,6,,32,Quebec Nordiques,/api/v1/teams/32,5,8,3,,8,Montréal Canadiens,/api/v1/teams/8
+1986030227,/api/v1/game/1986030227/feed/live,P,19861987,1987-05-03T00:00:00Z,1,7,7,,2,New York Islanders,/api/v1/teams/2,5,8,5,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030237,/api/v1/game/1986030237/feed/live,P,19861987,1987-05-04T00:00:00Z,0,7,6,,10,Toronto Maple Leafs,/api/v1/teams/10,3,8,3,,17,Detroit Red Wings,/api/v1/teams/17
+1986030311,/api/v1/game/1986030311/feed/live,P,19861987,1987-05-05T00:00:00Z,3,8,4,,8,Montréal Canadiens,/api/v1/teams/8,4,9,5,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030321,/api/v1/game/1986030321/feed/live,P,19861987,1987-05-06T02:00:00Z,3,9,3,,17,Detroit Red Wings,/api/v1/teams/17,1,8,2,,22,Edmonton Oilers,/api/v1/teams/22
+1986030312,/api/v1/game/1986030312/feed/live,P,19861987,1987-05-07T00:00:00Z,5,9,4,,8,Montréal Canadiens,/api/v1/teams/8,2,9,6,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030322,/api/v1/game/1986030322/feed/live,P,19861987,1987-05-08T02:00:00Z,1,9,4,,17,Detroit Red Wings,/api/v1/teams/17,4,9,2,,22,Edmonton Oilers,/api/v1/teams/22
+1986030313,/api/v1/game/1986030313/feed/live,P,19861987,1987-05-09T00:00:00Z,4,10,6,,4,Philadelphia Flyers,/api/v1/teams/4,3,9,5,,8,Montréal Canadiens,/api/v1/teams/8
+1986030323,/api/v1/game/1986030323/feed/live,P,19861987,1987-05-10T00:00:00Z,2,10,2,,22,Edmonton Oilers,/api/v1/teams/22,1,9,5,,17,Detroit Red Wings,/api/v1/teams/17
+1986030314,/api/v1/game/1986030314/feed/live,P,19861987,1987-05-11T00:00:00Z,6,11,6,,4,Philadelphia Flyers,/api/v1/teams/4,3,9,6,,8,Montréal Canadiens,/api/v1/teams/8
+1986030324,/api/v1/game/1986030324/feed/live,P,19861987,1987-05-12T00:00:00Z,3,11,2,,22,Edmonton Oilers,/api/v1/teams/22,2,9,6,,17,Detroit Red Wings,/api/v1/teams/17
+1986030315,/api/v1/game/1986030315/feed/live,P,19861987,1987-05-13T00:00:00Z,5,10,6,,8,Montréal Canadiens,/api/v1/teams/8,2,11,7,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030325,/api/v1/game/1986030325/feed/live,P,19861987,1987-05-14T02:00:00Z,3,9,7,,17,Detroit Red Wings,/api/v1/teams/17,6,12,2,,22,Edmonton Oilers,/api/v1/teams/22
+1986030316,/api/v1/game/1986030316/feed/live,P,19861987,1987-05-15T00:00:00Z,4,12,7,,4,Philadelphia Flyers,/api/v1/teams/4,3,10,7,,8,Montréal Canadiens,/api/v1/teams/8
+1986030411,/api/v1/game/1986030411/feed/live,P,19861987,1987-05-18T02:00:00Z,2,12,8,,4,Philadelphia Flyers,/api/v1/teams/4,4,13,2,,22,Edmonton Oilers,/api/v1/teams/22
+1986030412,/api/v1/game/1986030412/feed/live,P,19861987,1987-05-21T02:00:00Z,2,12,9,,4,Philadelphia Flyers,/api/v1/teams/4,3,14,2,,22,Edmonton Oilers,/api/v1/teams/22
+1986030413,/api/v1/game/1986030413/feed/live,P,19861987,1987-05-23T00:00:00Z,3,14,3,,22,Edmonton Oilers,/api/v1/teams/22,5,13,9,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030414,/api/v1/game/1986030414/feed/live,P,19861987,1987-05-25T00:00:00Z,4,15,3,,22,Edmonton Oilers,/api/v1/teams/22,1,13,10,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030415,/api/v1/game/1986030415/feed/live,P,19861987,1987-05-27T02:00:00Z,4,14,10,,4,Philadelphia Flyers,/api/v1/teams/4,3,15,4,,22,Edmonton Oilers,/api/v1/teams/22
+1986030416,/api/v1/game/1986030416/feed/live,P,19861987,1987-05-29T00:00:00Z,2,15,5,,22,Edmonton Oilers,/api/v1/teams/22,3,15,10,,4,Philadelphia Flyers,/api/v1/teams/4
+1986030417,/api/v1/game/1986030417/feed/live,P,19861987,1987-06-01T02:00:00Z,1,15,11,,4,Philadelphia Flyers,/api/v1/teams/4,3,16,5,,22,Edmonton Oilers,/api/v1/teams/22

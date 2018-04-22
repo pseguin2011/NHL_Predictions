@@ -1,0 +1,907 @@
+gamePk,link,gameType,season,gameDate,awayGamePoints,awaywins,awaylosses,awayties,awayid,awayname,awaylink,homeGamePoints,homewins,homelosses,hometies,homeid,homename,homelink
+1982020002,/api/v1/game/1982020002/feed/live,R,19821983,1982-10-06T00:00:00Z,3,0,0,1,5,Pittsburgh Penguins,/api/v1/teams/5,3,0,0,1,1,New Jersey Devils,/api/v1/teams/1
+1982020003,/api/v1/game/1982020003/feed/live,R,19821983,1982-10-06T02:00:00Z,5,0,1,0,20,Calgary Flames,/api/v1/teams/20,7,1,0,0,22,Edmonton Oilers,/api/v1/teams/22
+1982020001,/api/v1/game/1982020001/feed/live,R,19821983,1982-10-06T03:00:00Z,1,0,1,0,2,New York Islanders,/api/v1/teams/2,2,1,0,0,23,Vancouver Canucks,/api/v1/teams/23
+1982020004,/api/v1/game/1982020004/feed/live,R,19821983,1982-10-07T00:00:00Z,1,0,1,0,34,Hartford Whalers,/api/v1/teams/34,2,1,0,0,8,Montréal Canadiens,/api/v1/teams/8
+1982020005,/api/v1/game/1982020005/feed/live,R,19821983,1982-10-07T00:00:00Z,6,1,0,0,32,Quebec Nordiques,/api/v1/teams/32,4,0,1,0,7,Buffalo Sabres,/api/v1/teams/7
+1982020006,/api/v1/game/1982020006/feed/live,R,19821983,1982-10-07T00:00:00Z,5,1,0,0,15,Washington Capitals,/api/v1/teams/15,4,0,1,0,3,New York Rangers,/api/v1/teams/3
+1982020008,/api/v1/game/1982020008/feed/live,R,19821983,1982-10-07T00:00:00Z,2,1,0,0,19,St. Louis Blues,/api/v1/teams/19,1,0,1,0,17,Detroit Red Wings,/api/v1/teams/17
+1982020007,/api/v1/game/1982020007/feed/live,R,19821983,1982-10-07T01:00:00Z,3,0,0,1,10,Toronto Maple Leafs,/api/v1/teams/10,3,0,0,1,16,Chicago Blackhawks,/api/v1/teams/16
+1982020009,/api/v1/game/1982020009/feed/live,R,19821983,1982-10-07T01:00:00Z,5,1,0,0,31,Minnesota North Stars,/api/v1/teams/31,4,0,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020010,/api/v1/game/1982020010/feed/live,R,19821983,1982-10-07T03:00:00Z,3,1,0,1,23,Vancouver Canucks,/api/v1/teams/23,3,0,0,1,26,Los Angeles Kings,/api/v1/teams/26
+1982020011,/api/v1/game/1982020011/feed/live,R,19821983,1982-10-08T00:00:00Z,5,2,0,0,8,Montréal Canadiens,/api/v1/teams/8,1,0,1,0,6,Boston Bruins,/api/v1/teams/6
+1982020012,/api/v1/game/1982020012/feed/live,R,19821983,1982-10-08T00:00:00Z,5,1,1,0,32,Quebec Nordiques,/api/v1/teams/32,9,1,0,0,4,Philadelphia Flyers,/api/v1/teams/4
+1982020014,/api/v1/game/1982020014/feed/live,R,19821983,1982-10-08T01:00:00Z,2,0,1,1,10,Toronto Maple Leafs,/api/v1/teams/10,3,2,0,1,19,St. Louis Blues,/api/v1/teams/19
+1982020013,/api/v1/game/1982020013/feed/live,R,19821983,1982-10-08T02:00:00Z,5,1,1,0,2,New York Islanders,/api/v1/teams/2,4,0,2,0,20,Calgary Flames,/api/v1/teams/20
+1982020016,/api/v1/game/1982020016/feed/live,R,19821983,1982-10-09T00:00:00Z,2,0,2,0,3,New York Rangers,/api/v1/teams/3,3,1,0,0,1,New Jersey Devils,/api/v1/teams/1
+1982020017,/api/v1/game/1982020017/feed/live,R,19821983,1982-10-09T01:00:00Z,3,0,1,1,17,Detroit Red Wings,/api/v1/teams/17,3,1,0,1,31,Minnesota North Stars,/api/v1/teams/31
+1982020015,/api/v1/game/1982020015/feed/live,R,19821983,1982-10-09T02:00:00Z,6,2,1,0,2,New York Islanders,/api/v1/teams/2,4,1,1,0,22,Edmonton Oilers,/api/v1/teams/22
+1982020018,/api/v1/game/1982020018/feed/live,R,19821983,1982-10-10T00:00:00Z,5,1,1,0,6,Boston Bruins,/api/v1/teams/6,4,0,2,0,34,Hartford Whalers,/api/v1/teams/34
+1982020019,/api/v1/game/1982020019/feed/live,R,19821983,1982-10-10T00:00:00Z,4,0,2,0,7,Buffalo Sabres,/api/v1/teams/7,6,2,1,0,32,Quebec Nordiques,/api/v1/teams/32
+1982020020,/api/v1/game/1982020020/feed/live,R,19821983,1982-10-10T00:00:00Z,8,1,0,1,16,Chicago Blackhawks,/api/v1/teams/16,7,2,1,1,8,Montréal Canadiens,/api/v1/teams/8
+1982020021,/api/v1/game/1982020021/feed/live,R,19821983,1982-10-10T00:00:00Z,5,1,2,0,3,New York Rangers,/api/v1/teams/3,3,0,1,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020022,/api/v1/game/1982020022/feed/live,R,19821983,1982-10-10T00:00:00Z,3,2,0,0,4,Philadelphia Flyers,/api/v1/teams/4,2,1,1,0,15,Washington Capitals,/api/v1/teams/15
+1982020023,/api/v1/game/1982020023/feed/live,R,19821983,1982-10-10T00:00:00Z,5,1,0,2,1,New Jersey Devils,/api/v1/teams/1,5,0,1,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020024,/api/v1/game/1982020024/feed/live,R,19821983,1982-10-10T00:00:00Z,8,1,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33,0,0,2,0,17,Detroit Red Wings,/api/v1/teams/17
+1982020025,/api/v1/game/1982020025/feed/live,R,19821983,1982-10-10T01:00:00Z,6,2,0,1,31,Minnesota North Stars,/api/v1/teams/31,3,2,1,1,19,St. Louis Blues,/api/v1/teams/19
+1982020026,/api/v1/game/1982020026/feed/live,R,19821983,1982-10-10T03:00:00Z,1,0,3,0,20,Calgary Flames,/api/v1/teams/20,3,1,0,0,26,Los Angeles Kings,/api/v1/teams/26
+1982020027,/api/v1/game/1982020027/feed/live,R,19821983,1982-10-10T03:00:00Z,6,2,1,0,22,Edmonton Oilers,/api/v1/teams/22,3,1,1,0,23,Vancouver Canucks,/api/v1/teams/23
+1982020028,/api/v1/game/1982020028/feed/live,R,19821983,1982-10-11T00:00:00Z,3,0,2,1,5,Pittsburgh Penguins,/api/v1/teams/5,4,2,1,1,6,Boston Bruins,/api/v1/teams/6
+1982020029,/api/v1/game/1982020029/feed/live,R,19821983,1982-10-11T00:00:00Z,4,0,2,1,34,Hartford Whalers,/api/v1/teams/34,4,0,2,1,7,Buffalo Sabres,/api/v1/teams/7
+1982020030,/api/v1/game/1982020030/feed/live,R,19821983,1982-10-11T00:00:00Z,4,1,2,0,15,Washington Capitals,/api/v1/teams/15,6,3,0,0,4,Philadelphia Flyers,/api/v1/teams/4
+1982020031,/api/v1/game/1982020031/feed/live,R,19821983,1982-10-11T01:00:00Z,5,2,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33,3,1,1,0,16,Chicago Blackhawks,/api/v1/teams/16
+1982020032,/api/v1/game/1982020032/feed/live,R,19821983,1982-10-12T00:00:00Z,4,3,1,0,8,Montréal Canadiens,/api/v1/teams/8,3,2,2,0,32,Quebec Nordiques,/api/v1/teams/32
+1982020033,/api/v1/game/1982020033/feed/live,R,19821983,1982-10-12T00:00:00Z,4,3,1,0,2,New York Islanders,/api/v1/teams/2,3,1,3,0,3,New York Rangers,/api/v1/teams/3
+1982020034,/api/v1/game/1982020034/feed/live,R,19821983,1982-10-13T00:00:00Z,2,2,1,1,6,Boston Bruins,/api/v1/teams/6,2,1,0,1,1,New Jersey Devils,/api/v1/teams/1
+1982020035,/api/v1/game/1982020035/feed/live,R,19821983,1982-10-13T00:00:00Z,4,1,2,1,23,Vancouver Canucks,/api/v1/teams/23,5,1,2,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020036,/api/v1/game/1982020036/feed/live,R,19821983,1982-10-13T01:00:00Z,5,2,0,1,26,Los Angeles Kings,/api/v1/teams/26,3,2,2,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020037,/api/v1/game/1982020037/feed/live,R,19821983,1982-10-13T02:00:00Z,4,2,2,0,22,Edmonton Oilers,/api/v1/teams/22,9,1,3,0,20,Calgary Flames,/api/v1/teams/20
+1982020038,/api/v1/game/1982020038/feed/live,R,19821983,1982-10-14T00:00:00Z,2,3,1,0,4,Philadelphia Flyers,/api/v1/teams/4,5,2,3,0,3,New York Rangers,/api/v1/teams/3
+1982020039,/api/v1/game/1982020039/feed/live,R,19821983,1982-10-14T00:00:00Z,5,2,2,0,15,Washington Capitals,/api/v1/teams/15,3,0,2,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020040,/api/v1/game/1982020040/feed/live,R,19821983,1982-10-14T01:00:00Z,4,2,2,0,19,St. Louis Blues,/api/v1/teams/19,6,2,1,0,16,Chicago Blackhawks,/api/v1/teams/16
+1982020041,/api/v1/game/1982020041/feed/live,R,19821983,1982-10-15T00:00:00Z,1,1,3,1,23,Vancouver Canucks,/api/v1/teams/23,2,3,1,1,6,Boston Bruins,/api/v1/teams/6
+1982020042,/api/v1/game/1982020042/feed/live,R,19821983,1982-10-15T00:00:00Z,4,2,2,1,22,Edmonton Oilers,/api/v1/teams/22,4,0,2,1,34,Hartford Whalers,/api/v1/teams/34
+1982020043,/api/v1/game/1982020043/feed/live,R,19821983,1982-10-15T00:00:00Z,2,0,3,1,7,Buffalo Sabres,/api/v1/teams/7,4,4,1,1,4,Philadelphia Flyers,/api/v1/teams/4
+1982020044,/api/v1/game/1982020044/feed/live,R,19821983,1982-10-15T00:00:00Z,5,4,1,0,8,Montréal Canadiens,/api/v1/teams/8,3,1,1,0,1,New Jersey Devils,/api/v1/teams/1
+1982020045,/api/v1/game/1982020045/feed/live,R,19821983,1982-10-15T00:00:00Z,4,2,0,2,26,Los Angeles Kings,/api/v1/teams/26,4,2,2,2,32,Quebec Nordiques,/api/v1/teams/32
+1982020046,/api/v1/game/1982020046/feed/live,R,19821983,1982-10-15T00:00:00Z,0,1,3,1,5,Pittsburgh Penguins,/api/v1/teams/5,9,4,1,1,2,New York Islanders,/api/v1/teams/2
+1982020047,/api/v1/game/1982020047/feed/live,R,19821983,1982-10-15T01:00:00Z,2,0,3,2,10,Toronto Maple Leafs,/api/v1/teams/10,6,3,0,2,31,Minnesota North Stars,/api/v1/teams/31
+1982020049,/api/v1/game/1982020049/feed/live,R,19821983,1982-10-15T01:00:00Z,5,3,2,0,33,Winnipeg Jets (1979),/api/v1/teams/33,2,2,3,0,19,St. Louis Blues,/api/v1/teams/19
+1982020048,/api/v1/game/1982020048/feed/live,R,19821983,1982-10-15T02:00:00Z,4,0,3,1,17,Detroit Red Wings,/api/v1/teams/17,6,2,3,1,20,Calgary Flames,/api/v1/teams/20
+1982020050,/api/v1/game/1982020050/feed/live,R,19821983,1982-10-17T00:00:00Z,6,2,2,2,22,Edmonton Oilers,/api/v1/teams/22,6,3,1,2,6,Boston Bruins,/api/v1/teams/6
+1982020051,/api/v1/game/1982020051/feed/live,R,19821983,1982-10-17T00:00:00Z,5,1,4,1,23,Vancouver Canucks,/api/v1/teams/23,6,1,2,1,34,Hartford Whalers,/api/v1/teams/34
+1982020052,/api/v1/game/1982020052/feed/live,R,19821983,1982-10-17T00:00:00Z,9,1,3,1,7,Buffalo Sabres,/api/v1/teams/7,2,2,3,1,15,Washington Capitals,/api/v1/teams/15
+1982020053,/api/v1/game/1982020053/feed/live,R,19821983,1982-10-17T00:00:00Z,2,2,4,0,3,New York Rangers,/api/v1/teams/3,8,5,1,0,8,Montréal Canadiens,/api/v1/teams/8
+1982020054,/api/v1/game/1982020054/feed/live,R,19821983,1982-10-17T00:00:00Z,4,5,1,0,4,Philadelphia Flyers,/api/v1/teams/4,3,2,3,0,32,Quebec Nordiques,/api/v1/teams/32
+1982020055,/api/v1/game/1982020055/feed/live,R,19821983,1982-10-17T00:00:00Z,1,2,1,2,26,Los Angeles Kings,/api/v1/teams/26,4,5,1,2,2,New York Islanders,/api/v1/teams/2
+1982020056,/api/v1/game/1982020056/feed/live,R,19821983,1982-10-17T00:00:00Z,6,2,1,3,1,New Jersey Devils,/api/v1/teams/1,5,1,4,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020057,/api/v1/game/1982020057/feed/live,R,19821983,1982-10-17T00:00:00Z,3,3,1,1,16,Chicago Blackhawks,/api/v1/teams/16,2,0,4,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020058,/api/v1/game/1982020058/feed/live,R,19821983,1982-10-17T01:00:00Z,0,0,4,1,17,Detroit Red Wings,/api/v1/teams/17,6,3,3,1,19,St. Louis Blues,/api/v1/teams/19
+1982020059,/api/v1/game/1982020059/feed/live,R,19821983,1982-10-17T01:00:00Z,4,2,4,0,20,Calgary Flames,/api/v1/teams/20,8,4,0,0,31,Minnesota North Stars,/api/v1/teams/31
+1982020060,/api/v1/game/1982020060/feed/live,R,19821983,1982-10-18T00:00:00Z,4,2,3,2,22,Edmonton Oilers,/api/v1/teams/22,6,2,3,2,7,Buffalo Sabres,/api/v1/teams/7
+1982020061,/api/v1/game/1982020061/feed/live,R,19821983,1982-10-18T00:00:00Z,5,3,1,2,26,Los Angeles Kings,/api/v1/teams/26,3,2,5,2,3,New York Rangers,/api/v1/teams/3
+1982020062,/api/v1/game/1982020062/feed/live,R,19821983,1982-10-18T01:00:00Z,4,0,5,1,17,Detroit Red Wings,/api/v1/teams/17,6,4,1,1,16,Chicago Blackhawks,/api/v1/teams/16
+1982020063,/api/v1/game/1982020063/feed/live,R,19821983,1982-10-18T01:00:00Z,5,2,4,1,20,Calgary Flames,/api/v1/teams/20,5,3,2,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020064,/api/v1/game/1982020064/feed/live,R,19821983,1982-10-19T00:00:00Z,1,5,2,0,4,Philadelphia Flyers,/api/v1/teams/4,3,3,1,0,1,New Jersey Devils,/api/v1/teams/1
+1982020065,/api/v1/game/1982020065/feed/live,R,19821983,1982-10-19T01:00:00Z,3,3,4,0,19,St. Louis Blues,/api/v1/teams/19,4,5,0,0,31,Minnesota North Stars,/api/v1/teams/31
+1982020067,/api/v1/game/1982020067/feed/live,R,19821983,1982-10-20T00:00:00Z,4,1,5,1,23,Vancouver Canucks,/api/v1/teams/23,5,6,1,1,2,New York Islanders,/api/v1/teams/2
+1982020066,/api/v1/game/1982020066/feed/live,R,19821983,1982-10-20T02:00:00Z,3,4,1,2,6,Boston Bruins,/api/v1/teams/6,1,2,5,2,20,Calgary Flames,/api/v1/teams/20
+1982020070,/api/v1/game/1982020070/feed/live,R,19821983,1982-10-21T00:00:00Z,3,5,1,1,8,Montréal Canadiens,/api/v1/teams/8,3,2,3,1,15,Washington Capitals,/api/v1/teams/15
+1982020071,/api/v1/game/1982020071/feed/live,R,19821983,1982-10-21T00:00:00Z,5,3,3,1,32,Quebec Nordiques,/api/v1/teams/32,3,0,6,1,17,Detroit Red Wings,/api/v1/teams/17
+1982020072,/api/v1/game/1982020072/feed/live,R,19821983,1982-10-21T00:00:00Z,5,1,6,1,23,Vancouver Canucks,/api/v1/teams/23,6,3,5,1,3,New York Rangers,/api/v1/teams/3
+1982020073,/api/v1/game/1982020073/feed/live,R,19821983,1982-10-21T00:00:00Z,5,4,4,0,19,St. Louis Blues,/api/v1/teams/19,3,1,5,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020075,/api/v1/game/1982020075/feed/live,R,19821983,1982-10-21T00:00:00Z,2,5,1,1,31,Minnesota North Stars,/api/v1/teams/31,5,1,4,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020069,/api/v1/game/1982020069/feed/live,R,19821983,1982-10-21T01:00:00Z,0,2,4,1,7,Buffalo Sabres,/api/v1/teams/7,4,5,1,1,16,Chicago Blackhawks,/api/v1/teams/16
+1982020068,/api/v1/game/1982020068/feed/live,R,19821983,1982-10-21T02:00:00Z,2,1,3,2,34,Hartford Whalers,/api/v1/teams/34,4,3,3,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020074,/api/v1/game/1982020074/feed/live,R,19821983,1982-10-21T03:00:00Z,4,3,2,3,1,New Jersey Devils,/api/v1/teams/1,7,4,1,3,26,Los Angeles Kings,/api/v1/teams/26
+1982020078,/api/v1/game/1982020078/feed/live,R,19821983,1982-10-22T00:00:00Z,2,6,1,1,8,Montréal Canadiens,/api/v1/teams/8,1,5,3,1,4,Philadelphia Flyers,/api/v1/teams/4
+1982020079,/api/v1/game/1982020079/feed/live,R,19821983,1982-10-22T00:00:00Z,4,1,6,1,5,Pittsburgh Penguins,/api/v1/teams/5,8,4,3,1,32,Quebec Nordiques,/api/v1/teams/32
+1982020080,/api/v1/game/1982020080/feed/live,R,19821983,1982-10-22T00:00:00Z,3,2,4,1,15,Washington Capitals,/api/v1/teams/15,6,7,1,1,2,New York Islanders,/api/v1/teams/2
+1982020076,/api/v1/game/1982020076/feed/live,R,19821983,1982-10-22T02:00:00Z,5,5,1,2,6,Boston Bruins,/api/v1/teams/6,3,3,4,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020077,/api/v1/game/1982020077/feed/live,R,19821983,1982-10-22T02:00:00Z,3,1,4,2,34,Hartford Whalers,/api/v1/teams/34,10,3,5,2,20,Calgary Flames,/api/v1/teams/20
+1982020081,/api/v1/game/1982020081/feed/live,R,19821983,1982-10-23T01:00:00Z,1,3,3,3,1,New Jersey Devils,/api/v1/teams/1,3,4,2,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020084,/api/v1/game/1982020084/feed/live,R,19821983,1982-10-24T00:00:00Z,2,2,5,1,7,Buffalo Sabres,/api/v1/teams/7,6,1,6,1,17,Detroit Red Wings,/api/v1/teams/17
+1982020085,/api/v1/game/1982020085/feed/live,R,19821983,1982-10-24T00:00:00Z,5,4,4,1,32,Quebec Nordiques,/api/v1/teams/32,9,7,1,1,8,Montréal Canadiens,/api/v1/teams/8
+1982020086,/api/v1/game/1982020086/feed/live,R,19821983,1982-10-24T00:00:00Z,2,3,6,0,3,New York Rangers,/api/v1/teams/3,5,8,1,0,2,New York Islanders,/api/v1/teams/2
+1982020087,/api/v1/game/1982020087/feed/live,R,19821983,1982-10-24T00:00:00Z,2,5,4,0,4,Philadelphia Flyers,/api/v1/teams/4,4,2,6,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020088,/api/v1/game/1982020088/feed/live,R,19821983,1982-10-24T00:00:00Z,3,6,1,1,31,Minnesota North Stars,/api/v1/teams/31,1,2,5,1,15,Washington Capitals,/api/v1/teams/15
+1982020089,/api/v1/game/1982020089/feed/live,R,19821983,1982-10-24T00:00:00Z,5,3,5,2,20,Calgary Flames,/api/v1/teams/20,5,1,4,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020090,/api/v1/game/1982020090/feed/live,R,19821983,1982-10-24T01:00:00Z,4,5,2,1,16,Chicago Blackhawks,/api/v1/teams/16,5,5,4,1,19,St. Louis Blues,/api/v1/teams/19
+1982020082,/api/v1/game/1982020082/feed/live,R,19821983,1982-10-24T03:00:00Z,2,5,2,2,6,Boston Bruins,/api/v1/teams/6,3,2,6,2,23,Vancouver Canucks,/api/v1/teams/23
+1982020083,/api/v1/game/1982020083/feed/live,R,19821983,1982-10-24T03:00:00Z,5,2,4,2,34,Hartford Whalers,/api/v1/teams/34,3,4,2,2,26,Los Angeles Kings,/api/v1/teams/26
+1982020092,/api/v1/game/1982020092/feed/live,R,19821983,1982-10-25T00:00:00Z,2,5,5,0,19,St. Louis Blues,/api/v1/teams/19,6,3,5,0,7,Buffalo Sabres,/api/v1/teams/7
+1982020094,/api/v1/game/1982020094/feed/live,R,19821983,1982-10-25T00:00:00Z,2,6,2,1,31,Minnesota North Stars,/api/v1/teams/31,4,4,6,1,3,New York Rangers,/api/v1/teams/3
+1982020095,/api/v1/game/1982020095/feed/live,R,19821983,1982-10-25T00:00:00Z,4,1,7,1,17,Detroit Red Wings,/api/v1/teams/17,7,6,4,1,4,Philadelphia Flyers,/api/v1/teams/4
+1982020093,/api/v1/game/1982020093/feed/live,R,19821983,1982-10-25T01:00:00Z,2,8,2,0,2,New York Islanders,/api/v1/teams/2,4,6,2,0,16,Chicago Blackhawks,/api/v1/teams/16
+1982020096,/api/v1/game/1982020096/feed/live,R,19821983,1982-10-25T01:00:00Z,5,3,5,2,22,Edmonton Oilers,/api/v1/teams/22,9,5,2,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020091,/api/v1/game/1982020091/feed/live,R,19821983,1982-10-25T03:00:00Z,4,5,3,2,6,Boston Bruins,/api/v1/teams/6,5,5,2,2,26,Los Angeles Kings,/api/v1/teams/26
+1982020098,/api/v1/game/1982020098/feed/live,R,19821983,1982-10-27T00:00:00Z,7,3,5,2,7,Buffalo Sabres,/api/v1/teams/7,7,7,1,2,8,Montréal Canadiens,/api/v1/teams/8
+1982020099,/api/v1/game/1982020099/feed/live,R,19821983,1982-10-27T00:00:00Z,4,1,5,3,10,Toronto Maple Leafs,/api/v1/teams/10,9,5,4,3,32,Quebec Nordiques,/api/v1/teams/32
+1982020100,/api/v1/game/1982020100/feed/live,R,19821983,1982-10-27T00:00:00Z,2,3,6,2,20,Calgary Flames,/api/v1/teams/20,7,9,2,2,2,New York Islanders,/api/v1/teams/2
+1982020101,/api/v1/game/1982020101/feed/live,R,19821983,1982-10-27T00:00:00Z,5,7,2,1,31,Minnesota North Stars,/api/v1/teams/31,3,3,4,1,1,New Jersey Devils,/api/v1/teams/1
+1982020097,/api/v1/game/1982020097/feed/live,R,19821983,1982-10-27T03:00:00Z,1,2,5,2,34,Hartford Whalers,/api/v1/teams/34,8,3,6,2,23,Vancouver Canucks,/api/v1/teams/23
+1982020102,/api/v1/game/1982020102/feed/live,R,19821983,1982-10-28T00:00:00Z,1,5,4,2,6,Boston Bruins,/api/v1/teams/6,4,2,5,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020103,/api/v1/game/1982020103/feed/live,R,19821983,1982-10-28T00:00:00Z,4,3,7,2,20,Calgary Flames,/api/v1/teams/20,7,5,6,2,3,New York Rangers,/api/v1/teams/3
+1982020104,/api/v1/game/1982020104/feed/live,R,19821983,1982-10-28T00:00:00Z,5,2,6,1,15,Washington Capitals,/api/v1/teams/15,7,3,6,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020105,/api/v1/game/1982020105/feed/live,R,19821983,1982-10-28T00:00:00Z,4,5,6,0,19,St. Louis Blues,/api/v1/teams/19,5,2,7,0,17,Detroit Red Wings,/api/v1/teams/17
+1982020107,/api/v1/game/1982020107/feed/live,R,19821983,1982-10-28T01:00:00Z,3,5,3,2,26,Los Angeles Kings,/api/v1/teams/26,7,6,2,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020106,/api/v1/game/1982020106/feed/live,R,19821983,1982-10-28T02:00:00Z,4,6,2,2,16,Chicago Blackhawks,/api/v1/teams/16,4,3,5,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020108,/api/v1/game/1982020108/feed/live,R,19821983,1982-10-29T00:00:00Z,4,10,2,0,2,New York Islanders,/api/v1/teams/2,2,3,5,0,1,New Jersey Devils,/api/v1/teams/1
+1982020109,/api/v1/game/1982020109/feed/live,R,19821983,1982-10-29T00:00:00Z,2,3,7,1,5,Pittsburgh Penguins,/api/v1/teams/5,9,7,4,1,4,Philadelphia Flyers,/api/v1/teams/4
+1982020110,/api/v1/game/1982020110/feed/live,R,19821983,1982-10-29T01:00:00Z,3,2,8,1,17,Detroit Red Wings,/api/v1/teams/17,7,8,2,1,31,Minnesota North Stars,/api/v1/teams/31
+1982020112,/api/v1/game/1982020112/feed/live,R,19821983,1982-10-30T02:00:00Z,3,5,4,2,26,Los Angeles Kings,/api/v1/teams/26,6,4,5,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020111,/api/v1/game/1982020111/feed/live,R,19821983,1982-10-30T03:00:00Z,2,6,2,3,16,Chicago Blackhawks,/api/v1/teams/16,2,3,6,3,23,Vancouver Canucks,/api/v1/teams/23
+1982020113,/api/v1/game/1982020113/feed/live,R,19821983,1982-10-31T00:00:00Z,4,5,4,3,6,Boston Bruins,/api/v1/teams/6,4,7,1,3,8,Montréal Canadiens,/api/v1/teams/8
+1982020114,/api/v1/game/1982020114/feed/live,R,19821983,1982-10-31T00:00:00Z,4,3,8,1,17,Detroit Red Wings,/api/v1/teams/17,2,2,6,1,34,Hartford Whalers,/api/v1/teams/34
+1982020115,/api/v1/game/1982020115/feed/live,R,19821983,1982-10-31T00:00:00Z,3,3,5,3,7,Buffalo Sabres,/api/v1/teams/7,3,2,5,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020116,/api/v1/game/1982020116/feed/live,R,19821983,1982-10-31T00:00:00Z,4,5,7,0,3,New York Rangers,/api/v1/teams/3,5,6,4,0,32,Quebec Nordiques,/api/v1/teams/32
+1982020117,/api/v1/game/1982020117/feed/live,R,19821983,1982-10-31T00:00:00Z,5,3,6,3,1,New Jersey Devils,/api/v1/teams/1,8,11,2,3,2,New York Islanders,/api/v1/teams/2
+1982020119,/api/v1/game/1982020119/feed/live,R,19821983,1982-10-31T00:00:00Z,4,4,7,2,20,Calgary Flames,/api/v1/teams/20,1,3,8,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020118,/api/v1/game/1982020118/feed/live,R,19821983,1982-10-31T01:00:00Z,2,7,5,0,4,Philadelphia Flyers,/api/v1/teams/4,3,9,2,0,31,Minnesota North Stars,/api/v1/teams/31
+1982020120,/api/v1/game/1982020120/feed/live,R,19821983,1982-10-31T01:00:00Z,6,3,6,1,15,Washington Capitals,/api/v1/teams/15,5,5,7,1,19,St. Louis Blues,/api/v1/teams/19
+1982020121,/api/v1/game/1982020121/feed/live,R,19821983,1982-10-31T03:00:00Z,5,6,2,4,16,Chicago Blackhawks,/api/v1/teams/16,5,5,4,4,26,Los Angeles Kings,/api/v1/teams/26
+1982020122,/api/v1/game/1982020122/feed/live,R,19821983,1982-11-01T01:00:00Z,1,7,2,3,8,Montréal Canadiens,/api/v1/teams/8,3,4,5,3,7,Buffalo Sabres,/api/v1/teams/7
+1982020123,/api/v1/game/1982020123/feed/live,R,19821983,1982-11-01T01:00:00Z,2,3,9,1,5,Pittsburgh Penguins,/api/v1/teams/5,6,6,7,1,3,New York Rangers,/api/v1/teams/3
+1982020124,/api/v1/game/1982020124/feed/live,R,19821983,1982-11-01T02:00:00Z,3,8,5,0,4,Philadelphia Flyers,/api/v1/teams/4,2,6,3,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020125,/api/v1/game/1982020125/feed/live,R,19821983,1982-11-01T03:00:00Z,3,4,6,2,23,Vancouver Canucks,/api/v1/teams/23,2,4,6,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020126,/api/v1/game/1982020126/feed/live,R,19821983,1982-11-02T01:00:00Z,6,5,7,2,20,Calgary Flames,/api/v1/teams/20,3,3,7,2,1,New Jersey Devils,/api/v1/teams/1
+1982020127,/api/v1/game/1982020127/feed/live,R,19821983,1982-11-03T01:00:00Z,7,10,2,1,31,Minnesota North Stars,/api/v1/teams/31,6,2,7,1,34,Hartford Whalers,/api/v1/teams/34
+1982020128,/api/v1/game/1982020128/feed/live,R,19821983,1982-11-03T01:00:00Z,4,3,8,3,1,New Jersey Devils,/api/v1/teams/1,5,8,2,3,8,Montréal Canadiens,/api/v1/teams/8
+1982020129,/api/v1/game/1982020129/feed/live,R,19821983,1982-11-03T01:00:00Z,5,5,6,2,23,Vancouver Canucks,/api/v1/teams/23,2,6,5,2,32,Quebec Nordiques,/api/v1/teams/32
+1982020130,/api/v1/game/1982020130/feed/live,R,19821983,1982-11-03T01:00:00Z,3,4,9,1,5,Pittsburgh Penguins,/api/v1/teams/5,1,11,3,1,2,New York Islanders,/api/v1/teams/2
+1982020131,/api/v1/game/1982020131/feed/live,R,19821983,1982-11-03T02:00:00Z,2,3,9,1,17,Detroit Red Wings,/api/v1/teams/17,4,6,7,1,19,St. Louis Blues,/api/v1/teams/19
+1982020132,/api/v1/game/1982020132/feed/live,R,19821983,1982-11-04T01:00:00Z,3,6,4,3,6,Boston Bruins,/api/v1/teams/6,2,4,6,3,7,Buffalo Sabres,/api/v1/teams/7
+1982020133,/api/v1/game/1982020133/feed/live,R,19821983,1982-11-04T01:00:00Z,3,11,3,1,2,New York Islanders,/api/v1/teams/2,3,3,9,1,17,Detroit Red Wings,/api/v1/teams/17
+1982020134,/api/v1/game/1982020134/feed/live,R,19821983,1982-11-04T02:00:00Z,3,3,6,2,15,Washington Capitals,/api/v1/teams/15,3,6,2,2,16,Chicago Blackhawks,/api/v1/teams/16
+1982020136,/api/v1/game/1982020136/feed/live,R,19821983,1982-11-04T03:00:00Z,2,6,4,1,33,Winnipeg Jets (1979),/api/v1/teams/33,7,5,6,1,22,Edmonton Oilers,/api/v1/teams/22
+1982020135,/api/v1/game/1982020135/feed/live,R,19821983,1982-11-04T04:00:00Z,2,2,6,4,10,Toronto Maple Leafs,/api/v1/teams/10,6,6,4,4,26,Los Angeles Kings,/api/v1/teams/26
+1982020137,/api/v1/game/1982020137/feed/live,R,19821983,1982-11-05T01:00:00Z,5,3,7,2,34,Hartford Whalers,/api/v1/teams/34,2,6,5,2,6,Boston Bruins,/api/v1/teams/6
+1982020138,/api/v1/game/1982020138/feed/live,R,19821983,1982-11-05T01:00:00Z,3,10,3,1,31,Minnesota North Stars,/api/v1/teams/31,8,9,2,1,8,Montréal Canadiens,/api/v1/teams/8
+1982020139,/api/v1/game/1982020139/feed/live,R,19821983,1982-11-05T01:00:00Z,4,6,6,2,23,Vancouver Canucks,/api/v1/teams/23,3,8,6,2,4,Philadelphia Flyers,/api/v1/teams/4
+1982020140,/api/v1/game/1982020140/feed/live,R,19821983,1982-11-05T01:00:00Z,4,4,9,2,5,Pittsburgh Penguins,/api/v1/teams/5,4,3,8,2,1,New Jersey Devils,/api/v1/teams/1
+1982020141,/api/v1/game/1982020141/feed/live,R,19821983,1982-11-05T03:00:00Z,5,6,5,1,33,Winnipeg Jets (1979),/api/v1/teams/33,7,6,7,1,20,Calgary Flames,/api/v1/teams/20
+1982020143,/api/v1/game/1982020143/feed/live,R,19821983,1982-11-06T01:00:00Z,4,7,7,0,19,St. Louis Blues,/api/v1/teams/19,3,3,7,0,15,Washington Capitals,/api/v1/teams/15
+1982020142,/api/v1/game/1982020142/feed/live,R,19821983,1982-11-06T03:00:00Z,1,6,8,0,3,New York Rangers,/api/v1/teams/3,5,6,6,0,22,Edmonton Oilers,/api/v1/teams/22
+1982020144,/api/v1/game/1982020144/feed/live,R,19821983,1982-11-07T01:00:00Z,5,5,6,3,7,Buffalo Sabres,/api/v1/teams/7,2,3,8,3,34,Hartford Whalers,/api/v1/teams/34
+1982020145,/api/v1/game/1982020145/feed/live,R,19821983,1982-11-07T01:00:00Z,2,6,7,2,23,Vancouver Canucks,/api/v1/teams/23,4,10,2,2,8,Montréal Canadiens,/api/v1/teams/8
+1982020146,/api/v1/game/1982020146/feed/live,R,19821983,1982-11-07T01:00:00Z,1,10,4,1,31,Minnesota North Stars,/api/v1/teams/31,4,7,5,1,32,Quebec Nordiques,/api/v1/teams/32
+1982020147,/api/v1/game/1982020147/feed/live,R,19821983,1982-11-07T01:00:00Z,6,9,6,0,4,Philadelphia Flyers,/api/v1/teams/4,3,11,4,0,2,New York Islanders,/api/v1/teams/2
+1982020150,/api/v1/game/1982020150/feed/live,R,19821983,1982-11-07T01:00:00Z,1,3,8,5,1,New Jersey Devils,/api/v1/teams/1,1,3,9,5,17,Detroit Red Wings,/api/v1/teams/17
+1982020151,/api/v1/game/1982020151/feed/live,R,19821983,1982-11-07T02:00:00Z,3,2,6,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,7,7,5,19,St. Louis Blues,/api/v1/teams/19
+1982020148,/api/v1/game/1982020148/feed/live,R,19821983,1982-11-07T03:00:00Z,2,6,8,1,3,New York Rangers,/api/v1/teams/3,2,6,7,1,20,Calgary Flames,/api/v1/teams/20
+1982020149,/api/v1/game/1982020149/feed/live,R,19821983,1982-11-07T04:00:00Z,2,4,10,2,5,Pittsburgh Penguins,/api/v1/teams/5,6,7,4,2,26,Los Angeles Kings,/api/v1/teams/26
+1982020152,/api/v1/game/1982020152/feed/live,R,19821983,1982-11-08T01:00:00Z,0,3,10,3,17,Detroit Red Wings,/api/v1/teams/17,7,7,5,3,6,Boston Bruins,/api/v1/teams/6
+1982020153,/api/v1/game/1982020153/feed/live,R,19821983,1982-11-08T01:00:00Z,2,3,9,2,34,Hartford Whalers,/api/v1/teams/34,6,4,7,2,15,Washington Capitals,/api/v1/teams/15
+1982020154,/api/v1/game/1982020154/feed/live,R,19821983,1982-11-08T01:00:00Z,1,6,8,2,23,Vancouver Canucks,/api/v1/teams/23,3,6,6,2,7,Buffalo Sabres,/api/v1/teams/7
+1982020155,/api/v1/game/1982020155/feed/live,R,19821983,1982-11-08T01:00:00Z,2,11,4,2,2,New York Islanders,/api/v1/teams/2,2,9,6,2,4,Philadelphia Flyers,/api/v1/teams/4
+1982020156,/api/v1/game/1982020156/feed/live,R,19821983,1982-11-08T02:00:00Z,3,2,7,5,10,Toronto Maple Leafs,/api/v1/teams/10,7,7,2,5,16,Chicago Blackhawks,/api/v1/teams/16
+1982020157,/api/v1/game/1982020157/feed/live,R,19821983,1982-11-08T02:00:00Z,2,6,8,3,20,Calgary Flames,/api/v1/teams/20,5,7,5,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020158,/api/v1/game/1982020158/feed/live,R,19821983,1982-11-09T01:00:00Z,5,6,6,4,22,Edmonton Oilers,/api/v1/teams/22,5,7,5,4,32,Quebec Nordiques,/api/v1/teams/32
+1982020159,/api/v1/game/1982020159/feed/live,R,19821983,1982-11-09T01:00:00Z,2,4,7,3,15,Washington Capitals,/api/v1/teams/15,2,3,8,3,1,New Jersey Devils,/api/v1/teams/1
+1982020161,/api/v1/game/1982020161/feed/live,R,19821983,1982-11-10T01:00:00Z,1,7,8,1,19,St. Louis Blues,/api/v1/teams/19,4,12,4,1,2,New York Islanders,/api/v1/teams/2
+1982020160,/api/v1/game/1982020160/feed/live,R,19821983,1982-11-10T02:00:00Z,3,11,2,3,8,Montréal Canadiens,/api/v1/teams/8,2,10,5,3,31,Minnesota North Stars,/api/v1/teams/31
+1982020162,/api/v1/game/1982020162/feed/live,R,19821983,1982-11-10T03:00:00Z,4,7,5,3,26,Los Angeles Kings,/api/v1/teams/26,5,7,8,3,20,Calgary Flames,/api/v1/teams/20
+1982020163,/api/v1/game/1982020163/feed/live,R,19821983,1982-11-11T01:00:00Z,5,7,6,2,32,Quebec Nordiques,/api/v1/teams/32,7,4,9,2,34,Hartford Whalers,/api/v1/teams/34
+1982020164,/api/v1/game/1982020164/feed/live,R,19821983,1982-11-11T01:00:00Z,2,9,7,1,4,Philadelphia Flyers,/api/v1/teams/4,7,7,6,1,7,Buffalo Sabres,/api/v1/teams/7
+1982020166,/api/v1/game/1982020166/feed/live,R,19821983,1982-11-11T01:00:00Z,4,7,9,1,19,St. Louis Blues,/api/v1/teams/19,5,7,8,1,3,New York Rangers,/api/v1/teams/3
+1982020167,/api/v1/game/1982020167/feed/live,R,19821983,1982-11-11T01:00:00Z,4,6,7,4,22,Edmonton Oilers,/api/v1/teams/22,5,5,10,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020168,/api/v1/game/1982020168/feed/live,R,19821983,1982-11-11T01:00:00Z,0,3,9,6,1,New Jersey Devils,/api/v1/teams/1,3,5,7,6,15,Washington Capitals,/api/v1/teams/15
+1982020169,/api/v1/game/1982020169/feed/live,R,19821983,1982-11-11T01:00:00Z,2,3,11,3,17,Detroit Red Wings,/api/v1/teams/17,8,3,7,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020165,/api/v1/game/1982020165/feed/live,R,19821983,1982-11-11T02:00:00Z,3,11,3,3,8,Montréal Canadiens,/api/v1/teams/8,6,8,2,3,16,Chicago Blackhawks,/api/v1/teams/16
+1982020170,/api/v1/game/1982020170/feed/live,R,19821983,1982-11-11T04:00:00Z,2,7,6,3,26,Los Angeles Kings,/api/v1/teams/26,4,7,8,3,23,Vancouver Canucks,/api/v1/teams/23
+1982020171,/api/v1/game/1982020171/feed/live,R,19821983,1982-11-12T01:00:00Z,3,8,6,2,32,Quebec Nordiques,/api/v1/teams/32,2,7,6,2,6,Boston Bruins,/api/v1/teams/6
+1982020173,/api/v1/game/1982020173/feed/live,R,19821983,1982-11-12T01:00:00Z,3,7,9,1,3,New York Rangers,/api/v1/teams/3,7,10,7,1,4,Philadelphia Flyers,/api/v1/teams/4
+1982020174,/api/v1/game/1982020174/feed/live,R,19821983,1982-11-12T01:00:00Z,5,7,7,4,22,Edmonton Oilers,/api/v1/teams/22,1,3,10,4,1,New Jersey Devils,/api/v1/teams/1
+1982020172,/api/v1/game/1982020172/feed/live,R,19821983,1982-11-12T02:00:00Z,0,12,5,2,2,New York Islanders,/api/v1/teams/2,2,11,5,2,31,Minnesota North Stars,/api/v1/teams/31
+1982020175,/api/v1/game/1982020175/feed/live,R,19821983,1982-11-14T01:00:00Z,2,7,7,3,7,Buffalo Sabres,/api/v1/teams/7,3,8,6,3,6,Boston Bruins,/api/v1/teams/6
+1982020176,/api/v1/game/1982020176/feed/live,R,19821983,1982-11-14T01:00:00Z,2,7,10,1,19,St. Louis Blues,/api/v1/teams/19,5,5,9,1,34,Hartford Whalers,/api/v1/teams/34
+1982020178,/api/v1/game/1982020178/feed/live,R,19821983,1982-11-14T01:00:00Z,2,3,11,6,1,New Jersey Devils,/api/v1/teams/1,7,9,6,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020179,/api/v1/game/1982020179/feed/live,R,19821983,1982-11-14T01:00:00Z,1,12,6,2,2,New York Islanders,/api/v1/teams/2,3,6,7,2,15,Washington Capitals,/api/v1/teams/15
+1982020180,/api/v1/game/1982020180/feed/live,R,19821983,1982-11-14T01:00:00Z,4,8,7,4,22,Edmonton Oilers,/api/v1/teams/22,3,10,8,4,4,Philadelphia Flyers,/api/v1/teams/4
+1982020181,/api/v1/game/1982020181/feed/live,R,19821983,1982-11-14T01:00:00Z,3,8,8,3,20,Calgary Flames,/api/v1/teams/20,1,5,11,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020182,/api/v1/game/1982020182/feed/live,R,19821983,1982-11-14T01:00:00Z,3,11,6,1,31,Minnesota North Stars,/api/v1/teams/31,4,4,7,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020183,/api/v1/game/1982020183/feed/live,R,19821983,1982-11-14T01:00:00Z,3,9,2,5,16,Chicago Blackhawks,/api/v1/teams/16,2,3,12,5,17,Detroit Red Wings,/api/v1/teams/17
+1982020184,/api/v1/game/1982020184/feed/live,R,19821983,1982-11-14T02:00:00Z,2,7,9,2,23,Vancouver Canucks,/api/v1/teams/23,3,8,5,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020177,/api/v1/game/1982020177/feed/live,R,19821983,1982-11-14T04:00:00Z,1,11,4,3,8,Montréal Canadiens,/api/v1/teams/8,2,8,6,3,26,Los Angeles Kings,/api/v1/teams/26
+1982020185,/api/v1/game/1982020185/feed/live,R,19821983,1982-11-15T01:00:00Z,3,7,11,1,19,St. Louis Blues,/api/v1/teams/19,7,9,6,1,6,Boston Bruins,/api/v1/teams/6
+1982020186,/api/v1/game/1982020186/feed/live,R,19821983,1982-11-15T01:00:00Z,6,5,11,3,5,Pittsburgh Penguins,/api/v1/teams/5,6,7,7,3,7,Buffalo Sabres,/api/v1/teams/7
+1982020187,/api/v1/game/1982020187/feed/live,R,19821983,1982-11-15T01:00:00Z,7,9,7,4,22,Edmonton Oilers,/api/v1/teams/22,2,7,10,4,3,New York Rangers,/api/v1/teams/3
+1982020188,/api/v1/game/1982020188/feed/live,R,19821983,1982-11-15T02:00:00Z,4,11,7,1,31,Minnesota North Stars,/api/v1/teams/31,5,10,2,1,16,Chicago Blackhawks,/api/v1/teams/16
+1982020189,/api/v1/game/1982020189/feed/live,R,19821983,1982-11-15T02:00:00Z,5,7,10,2,23,Vancouver Canucks,/api/v1/teams/23,6,9,5,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020190,/api/v1/game/1982020190/feed/live,R,19821983,1982-11-17T01:00:00Z,7,10,6,3,6,Boston Bruins,/api/v1/teams/6,4,9,7,3,32,Quebec Nordiques,/api/v1/teams/32
+1982020191,/api/v1/game/1982020191/feed/live,R,19821983,1982-11-17T01:00:00Z,7,12,4,3,8,Montréal Canadiens,/api/v1/teams/8,1,5,10,3,34,Hartford Whalers,/api/v1/teams/34
+1982020192,/api/v1/game/1982020192/feed/live,R,19821983,1982-11-17T01:00:00Z,2,9,8,4,22,Edmonton Oilers,/api/v1/teams/22,4,13,6,4,2,New York Islanders,/api/v1/teams/2
+1982020193,/api/v1/game/1982020193/feed/live,R,19821983,1982-11-17T01:00:00Z,3,8,9,3,20,Calgary Flames,/api/v1/teams/20,5,7,7,3,15,Washington Capitals,/api/v1/teams/15
+1982020194,/api/v1/game/1982020194/feed/live,R,19821983,1982-11-17T02:00:00Z,2,3,12,6,1,New Jersey Devils,/api/v1/teams/1,7,8,11,6,19,St. Louis Blues,/api/v1/teams/19
+1982020195,/api/v1/game/1982020195/feed/live,R,19821983,1982-11-17T04:00:00Z,4,3,12,4,17,Detroit Red Wings,/api/v1/teams/17,4,7,10,4,23,Vancouver Canucks,/api/v1/teams/23
+1982020196,/api/v1/game/1982020196/feed/live,R,19821983,1982-11-17T04:00:00Z,8,12,7,1,31,Minnesota North Stars,/api/v1/teams/31,3,8,7,1,26,Los Angeles Kings,/api/v1/teams/26
+1982020197,/api/v1/game/1982020197/feed/live,R,19821983,1982-11-18T01:00:00Z,3,5,11,2,34,Hartford Whalers,/api/v1/teams/34,4,6,11,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020199,/api/v1/game/1982020199/feed/live,R,19821983,1982-11-18T01:00:00Z,1,4,8,5,10,Toronto Maple Leafs,/api/v1/teams/10,6,8,10,5,3,New York Rangers,/api/v1/teams/3
+1982020198,/api/v1/game/1982020198/feed/live,R,19821983,1982-11-18T02:00:00Z,7,8,7,4,7,Buffalo Sabres,/api/v1/teams/7,2,9,6,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020200,/api/v1/game/1982020200/feed/live,R,19821983,1982-11-18T02:00:00Z,3,3,13,6,1,New Jersey Devils,/api/v1/teams/1,5,11,2,6,16,Chicago Blackhawks,/api/v1/teams/16
+1982020201,/api/v1/game/1982020201/feed/live,R,19821983,1982-11-19T01:00:00Z,3,11,6,3,6,Boston Bruins,/api/v1/teams/6,1,13,7,3,2,New York Islanders,/api/v1/teams/2
+1982020203,/api/v1/game/1982020203/feed/live,R,19821983,1982-11-19T01:00:00Z,4,9,8,2,32,Quebec Nordiques,/api/v1/teams/32,7,13,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1982020204,/api/v1/game/1982020204/feed/live,R,19821983,1982-11-19T01:00:00Z,2,8,10,3,20,Calgary Flames,/api/v1/teams/20,3,11,8,3,4,Philadelphia Flyers,/api/v1/teams/4
+1982020202,/api/v1/game/1982020202/feed/live,R,19821983,1982-11-19T02:00:00Z,1,8,8,4,7,Buffalo Sabres,/api/v1/teams/7,2,13,7,4,31,Minnesota North Stars,/api/v1/teams/31
+1982020205,/api/v1/game/1982020205/feed/live,R,19821983,1982-11-19T04:00:00Z,1,3,13,4,17,Detroit Red Wings,/api/v1/teams/17,4,9,7,4,26,Los Angeles Kings,/api/v1/teams/26
+1982020206,/api/v1/game/1982020206/feed/live,R,19821983,1982-11-20T02:00:00Z,3,7,7,4,15,Washington Capitals,/api/v1/teams/15,3,9,6,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020207,/api/v1/game/1982020207/feed/live,R,19821983,1982-11-21T01:00:00Z,3,11,7,3,6,Boston Bruins,/api/v1/teams/6,4,7,11,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020208,/api/v1/game/1982020208/feed/live,R,19821983,1982-11-21T01:00:00Z,4,8,10,4,20,Calgary Flames,/api/v1/teams/20,4,5,11,4,34,Hartford Whalers,/api/v1/teams/34
+1982020210,/api/v1/game/1982020210/feed/live,R,19821983,1982-11-21T01:00:00Z,4,11,9,1,4,Philadelphia Flyers,/api/v1/teams/4,6,14,4,1,8,Montréal Canadiens,/api/v1/teams/8
+1982020211,/api/v1/game/1982020211/feed/live,R,19821983,1982-11-21T01:00:00Z,4,11,3,5,16,Chicago Blackhawks,/api/v1/teams/16,5,14,7,5,2,New York Islanders,/api/v1/teams/2
+1982020212,/api/v1/game/1982020212/feed/live,R,19821983,1982-11-21T01:00:00Z,6,9,10,1,3,New York Rangers,/api/v1/teams/3,3,4,9,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020213,/api/v1/game/1982020213/feed/live,R,19821983,1982-11-21T02:00:00Z,1,3,14,6,1,New Jersey Devils,/api/v1/teams/1,5,14,7,6,31,Minnesota North Stars,/api/v1/teams/31
+1982020214,/api/v1/game/1982020214/feed/live,R,19821983,1982-11-21T02:00:00Z,2,3,13,5,17,Detroit Red Wings,/api/v1/teams/17,2,8,11,5,19,St. Louis Blues,/api/v1/teams/19
+1982020215,/api/v1/game/1982020215/feed/live,R,19821983,1982-11-21T03:00:00Z,3,7,10,4,23,Vancouver Canucks,/api/v1/teams/23,3,9,8,4,22,Edmonton Oilers,/api/v1/teams/22
+1982020209,/api/v1/game/1982020209/feed/live,R,19821983,1982-11-21T04:00:00Z,5,9,8,4,7,Buffalo Sabres,/api/v1/teams/7,2,9,8,4,26,Los Angeles Kings,/api/v1/teams/26
+1982020216,/api/v1/game/1982020216/feed/live,R,19821983,1982-11-22T01:00:00Z,1,8,11,4,20,Calgary Flames,/api/v1/teams/20,2,12,7,4,6,Boston Bruins,/api/v1/teams/6
+1982020218,/api/v1/game/1982020218/feed/live,R,19821983,1982-11-22T01:00:00Z,3,14,8,2,2,New York Islanders,/api/v1/teams/2,7,10,10,2,3,New York Rangers,/api/v1/teams/3
+1982020219,/api/v1/game/1982020219/feed/live,R,19821983,1982-11-22T01:00:00Z,1,8,12,2,19,St. Louis Blues,/api/v1/teams/19,3,12,9,2,4,Philadelphia Flyers,/api/v1/teams/4
+1982020221,/api/v1/game/1982020221/feed/live,R,19821983,1982-11-22T02:00:00Z,0,3,14,5,17,Detroit Red Wings,/api/v1/teams/17,3,12,3,5,16,Chicago Blackhawks,/api/v1/teams/16
+1982020217,/api/v1/game/1982020217/feed/live,R,19821983,1982-11-22T03:00:00Z,9,10,8,2,32,Quebec Nordiques,/api/v1/teams/32,7,9,9,2,22,Edmonton Oilers,/api/v1/teams/22
+1982020220,/api/v1/game/1982020220/feed/live,R,19821983,1982-11-22T04:00:00Z,3,7,8,4,15,Washington Capitals,/api/v1/teams/15,5,8,10,4,23,Vancouver Canucks,/api/v1/teams/23
+1982020224,/api/v1/game/1982020224/feed/live,R,19821983,1982-11-24T01:00:00Z,8,14,7,2,31,Minnesota North Stars,/api/v1/teams/31,8,14,8,2,2,New York Islanders,/api/v1/teams/2
+1982020222,/api/v1/game/1982020222/feed/live,R,19821983,1982-11-24T02:00:00Z,1,14,4,4,8,Montréal Canadiens,/api/v1/teams/8,1,8,12,4,19,St. Louis Blues,/api/v1/teams/19
+1982020225,/api/v1/game/1982020225/feed/live,R,19821983,1982-11-24T03:00:00Z,3,7,9,4,15,Washington Capitals,/api/v1/teams/15,6,9,11,4,20,Calgary Flames,/api/v1/teams/20
+1982020223,/api/v1/game/1982020223/feed/live,R,19821983,1982-11-24T04:00:00Z,2,10,9,2,32,Quebec Nordiques,/api/v1/teams/32,5,9,10,2,23,Vancouver Canucks,/api/v1/teams/23
+1982020226,/api/v1/game/1982020226/feed/live,R,19821983,1982-11-25T01:00:00Z,4,12,7,4,6,Boston Bruins,/api/v1/teams/6,4,12,9,4,4,Philadelphia Flyers,/api/v1/teams/4
+1982020227,/api/v1/game/1982020227/feed/live,R,19821983,1982-11-25T01:00:00Z,4,10,8,4,7,Buffalo Sabres,/api/v1/teams/7,2,5,12,4,34,Hartford Whalers,/api/v1/teams/34
+1982020228,/api/v1/game/1982020228/feed/live,R,19821983,1982-11-25T01:00:00Z,4,15,4,4,8,Montréal Canadiens,/api/v1/teams/8,2,3,15,4,17,Detroit Red Wings,/api/v1/teams/17
+1982020229,/api/v1/game/1982020229/feed/live,R,19821983,1982-11-25T01:00:00Z,5,14,8,2,31,Minnesota North Stars,/api/v1/teams/31,8,11,10,2,3,New York Rangers,/api/v1/teams/3
+1982020230,/api/v1/game/1982020230/feed/live,R,19821983,1982-11-25T01:00:00Z,3,4,10,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,8,11,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020233,/api/v1/game/1982020233/feed/live,R,19821983,1982-11-25T02:00:00Z,7,13,3,5,16,Chicago Blackhawks,/api/v1/teams/16,5,9,7,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020231,/api/v1/game/1982020231/feed/live,R,19821983,1982-11-25T03:00:00Z,3,7,9,5,15,Washington Capitals,/api/v1/teams/15,3,9,9,5,22,Edmonton Oilers,/api/v1/teams/22
+1982020232,/api/v1/game/1982020232/feed/live,R,19821983,1982-11-25T04:00:00Z,0,3,15,6,1,New Jersey Devils,/api/v1/teams/1,3,10,8,6,26,Los Angeles Kings,/api/v1/teams/26
+1982020234,/api/v1/game/1982020234/feed/live,R,19821983,1982-11-26T01:00:00Z,1,14,8,4,2,New York Islanders,/api/v1/teams/2,1,12,7,4,6,Boston Bruins,/api/v1/teams/6
+1982020235,/api/v1/game/1982020235/feed/live,R,19821983,1982-11-26T03:00:00Z,3,11,9,2,32,Quebec Nordiques,/api/v1/teams/32,2,9,12,2,20,Calgary Flames,/api/v1/teams/20
+1982020236,/api/v1/game/1982020236/feed/live,R,19821983,1982-11-27T01:00:00Z,4,14,3,5,16,Chicago Blackhawks,/api/v1/teams/16,3,5,13,5,34,Hartford Whalers,/api/v1/teams/34
+1982020237,/api/v1/game/1982020237/feed/live,R,19821983,1982-11-27T01:00:00Z,6,8,13,3,19,St. Louis Blues,/api/v1/teams/19,8,11,8,3,7,Buffalo Sabres,/api/v1/teams/7
+1982020239,/api/v1/game/1982020239/feed/live,R,19821983,1982-11-27T01:00:00Z,3,4,11,5,10,Toronto Maple Leafs,/api/v1/teams/10,5,8,9,5,15,Washington Capitals,/api/v1/teams/15
+1982020238,/api/v1/game/1982020238/feed/live,R,19821983,1982-11-27T02:00:00Z,6,8,11,4,5,Pittsburgh Penguins,/api/v1/teams/5,6,14,8,4,31,Minnesota North Stars,/api/v1/teams/31
+1982020241,/api/v1/game/1982020241/feed/live,R,19821983,1982-11-27T02:00:00Z,6,10,9,6,22,Edmonton Oilers,/api/v1/teams/22,5,9,8,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020240,/api/v1/game/1982020240/feed/live,R,19821983,1982-11-27T04:00:00Z,4,3,15,7,1,New Jersey Devils,/api/v1/teams/1,4,9,10,7,23,Vancouver Canucks,/api/v1/teams/23
+1982020242,/api/v1/game/1982020242/feed/live,R,19821983,1982-11-28T01:00:00Z,0,5,14,3,34,Hartford Whalers,/api/v1/teams/34,8,13,7,3,6,Boston Bruins,/api/v1/teams/6
+1982020243,/api/v1/game/1982020243/feed/live,R,19821983,1982-11-28T01:00:00Z,5,3,15,6,17,Detroit Red Wings,/api/v1/teams/17,5,15,4,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020244,/api/v1/game/1982020244/feed/live,R,19821983,1982-11-28T01:00:00Z,3,15,3,5,16,Chicago Blackhawks,/api/v1/teams/16,1,11,10,5,32,Quebec Nordiques,/api/v1/teams/32
+1982020245,/api/v1/game/1982020245/feed/live,R,19821983,1982-11-28T01:00:00Z,3,12,10,1,3,New York Rangers,/api/v1/teams/3,0,14,9,1,2,New York Islanders,/api/v1/teams/2
+1982020249,/api/v1/game/1982020249/feed/live,R,19821983,1982-11-28T01:00:00Z,6,10,8,2,33,Winnipeg Jets (1979),/api/v1/teams/33,3,4,12,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020247,/api/v1/game/1982020247/feed/live,R,19821983,1982-11-28T02:00:00Z,3,8,12,4,5,Pittsburgh Penguins,/api/v1/teams/5,5,9,13,4,19,St. Louis Blues,/api/v1/teams/19
+1982020248,/api/v1/game/1982020248/feed/live,R,19821983,1982-11-28T03:00:00Z,4,4,15,7,1,New Jersey Devils,/api/v1/teams/1,3,9,13,7,20,Calgary Flames,/api/v1/teams/20
+1982020246,/api/v1/game/1982020246/feed/live,R,19821983,1982-11-28T04:00:00Z,4,13,9,2,4,Philadelphia Flyers,/api/v1/teams/4,0,10,9,2,26,Los Angeles Kings,/api/v1/teams/26
+1982020250,/api/v1/game/1982020250/feed/live,R,19821983,1982-11-29T01:00:00Z,3,12,11,1,3,New York Rangers,/api/v1/teams/3,7,12,8,1,7,Buffalo Sabres,/api/v1/teams/7
+1982020251,/api/v1/game/1982020251/feed/live,R,19821983,1982-11-29T01:00:00Z,3,14,9,5,2,New York Islanders,/api/v1/teams/2,3,8,9,5,15,Washington Capitals,/api/v1/teams/15
+1982020253,/api/v1/game/1982020253/feed/live,R,19821983,1982-11-29T01:00:00Z,7,11,9,6,22,Edmonton Oilers,/api/v1/teams/22,5,3,16,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020252,/api/v1/game/1982020252/feed/live,R,19821983,1982-11-29T04:00:00Z,5,13,9,3,4,Philadelphia Flyers,/api/v1/teams/4,5,9,10,3,23,Vancouver Canucks,/api/v1/teams/23
+1982020254,/api/v1/game/1982020254/feed/live,R,19821983,1982-11-30T01:00:00Z,4,10,9,2,33,Winnipeg Jets (1979),/api/v1/teams/33,9,16,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1982020255,/api/v1/game/1982020255/feed/live,R,19821983,1982-11-30T01:00:00Z,3,16,3,5,16,Chicago Blackhawks,/api/v1/teams/16,1,4,16,5,1,New Jersey Devils,/api/v1/teams/1
+1982020256,/api/v1/game/1982020256/feed/live,R,19821983,1982-11-30T02:00:00Z,3,9,13,5,20,Calgary Flames,/api/v1/teams/20,3,14,8,5,31,Minnesota North Stars,/api/v1/teams/31
+1982020257,/api/v1/game/1982020257/feed/live,R,19821983,1982-12-01T01:00:00Z,6,10,10,2,33,Winnipeg Jets (1979),/api/v1/teams/33,8,12,10,2,32,Quebec Nordiques,/api/v1/teams/32
+1982020258,/api/v1/game/1982020258/feed/live,R,19821983,1982-12-01T02:00:00Z,3,15,9,5,2,New York Islanders,/api/v1/teams/2,2,9,14,5,19,St. Louis Blues,/api/v1/teams/19
+1982020259,/api/v1/game/1982020259/feed/live,R,19821983,1982-12-01T04:00:00Z,5,11,9,3,26,Los Angeles Kings,/api/v1/teams/26,2,9,11,3,23,Vancouver Canucks,/api/v1/teams/23
+1982020260,/api/v1/game/1982020260/feed/live,R,19821983,1982-12-02T01:00:00Z,1,5,15,3,34,Hartford Whalers,/api/v1/teams/34,6,13,11,3,3,New York Rangers,/api/v1/teams/3
+1982020261,/api/v1/game/1982020261/feed/live,R,19821983,1982-12-02T01:00:00Z,2,16,4,6,8,Montréal Canadiens,/api/v1/teams/8,2,12,8,6,7,Buffalo Sabres,/api/v1/teams/7
+1982020263,/api/v1/game/1982020263/feed/live,R,19821983,1982-12-02T01:00:00Z,4,17,3,5,16,Chicago Blackhawks,/api/v1/teams/16,2,8,13,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020264,/api/v1/game/1982020264/feed/live,R,19821983,1982-12-02T01:00:00Z,3,4,13,5,10,Toronto Maple Leafs,/api/v1/teams/10,7,5,16,5,1,New Jersey Devils,/api/v1/teams/1
+1982020265,/api/v1/game/1982020265/feed/live,R,19821983,1982-12-02T01:00:00Z,4,15,8,4,31,Minnesota North Stars,/api/v1/teams/31,1,3,17,4,17,Detroit Red Wings,/api/v1/teams/17
+1982020262,/api/v1/game/1982020262/feed/live,R,19821983,1982-12-02T03:00:00Z,4,14,9,3,4,Philadelphia Flyers,/api/v1/teams/4,2,11,10,3,22,Edmonton Oilers,/api/v1/teams/22
+1982020266,/api/v1/game/1982020266/feed/live,R,19821983,1982-12-02T04:00:00Z,1,9,14,5,20,Calgary Flames,/api/v1/teams/20,4,12,9,5,26,Los Angeles Kings,/api/v1/teams/26
+1982020267,/api/v1/game/1982020267/feed/live,R,19821983,1982-12-03T01:00:00Z,3,12,10,3,32,Quebec Nordiques,/api/v1/teams/32,3,13,7,3,6,Boston Bruins,/api/v1/teams/6
+1982020268,/api/v1/game/1982020268/feed/live,R,19821983,1982-12-03T01:00:00Z,4,8,14,4,5,Pittsburgh Penguins,/api/v1/teams/5,5,9,9,4,15,Washington Capitals,/api/v1/teams/15
+1982020269,/api/v1/game/1982020269/feed/live,R,19821983,1982-12-03T02:00:00Z,6,16,8,4,31,Minnesota North Stars,/api/v1/teams/31,3,9,15,4,19,St. Louis Blues,/api/v1/teams/19
+1982020270,/api/v1/game/1982020270/feed/live,R,19821983,1982-12-04T01:00:00Z,4,5,16,3,34,Hartford Whalers,/api/v1/teams/34,5,6,16,3,1,New Jersey Devils,/api/v1/teams/1
+1982020271,/api/v1/game/1982020271/feed/live,R,19821983,1982-12-04T02:00:00Z,2,15,10,5,2,New York Islanders,/api/v1/teams/2,4,11,10,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020272,/api/v1/game/1982020272/feed/live,R,19821983,1982-12-04T04:00:00Z,5,10,14,5,20,Calgary Flames,/api/v1/teams/20,4,9,12,5,23,Vancouver Canucks,/api/v1/teams/23
+1982020273,/api/v1/game/1982020273/feed/live,R,19821983,1982-12-05T01:00:00Z,6,14,7,6,6,Boston Bruins,/api/v1/teams/6,4,16,5,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020274,/api/v1/game/1982020274/feed/live,R,19821983,1982-12-05T01:00:00Z,2,13,12,1,3,New York Rangers,/api/v1/teams/3,5,6,16,1,34,Hartford Whalers,/api/v1/teams/34
+1982020275,/api/v1/game/1982020275/feed/live,R,19821983,1982-12-05T01:00:00Z,2,12,9,5,7,Buffalo Sabres,/api/v1/teams/7,3,13,10,5,32,Quebec Nordiques,/api/v1/teams/32
+1982020276,/api/v1/game/1982020276/feed/live,R,19821983,1982-12-05T01:00:00Z,1,15,11,5,2,New York Islanders,/api/v1/teams/2,4,5,13,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020277,/api/v1/game/1982020277/feed/live,R,19821983,1982-12-05T01:00:00Z,0,14,9,4,4,Philadelphia Flyers,/api/v1/teams/4,0,8,14,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020278,/api/v1/game/1982020278/feed/live,R,19821983,1982-12-05T01:00:00Z,2,17,4,5,16,Chicago Blackhawks,/api/v1/teams/16,4,10,9,5,15,Washington Capitals,/api/v1/teams/15
+1982020279,/api/v1/game/1982020279/feed/live,R,19821983,1982-12-05T01:00:00Z,2,6,17,7,1,New Jersey Devils,/api/v1/teams/1,6,4,17,7,17,Detroit Red Wings,/api/v1/teams/17
+1982020281,/api/v1/game/1982020281/feed/live,R,19821983,1982-12-05T02:00:00Z,1,11,11,2,33,Winnipeg Jets (1979),/api/v1/teams/33,4,17,8,2,31,Minnesota North Stars,/api/v1/teams/31
+1982020282,/api/v1/game/1982020282/feed/live,R,19821983,1982-12-05T03:00:00Z,5,10,15,5,20,Calgary Flames,/api/v1/teams/20,7,12,10,5,22,Edmonton Oilers,/api/v1/teams/22
+1982020280,/api/v1/game/1982020280/feed/live,R,19821983,1982-12-05T04:00:00Z,3,9,16,3,19,St. Louis Blues,/api/v1/teams/19,6,13,9,3,26,Los Angeles Kings,/api/v1/teams/26
+1982020283,/api/v1/game/1982020283/feed/live,R,19821983,1982-12-06T01:00:00Z,4,14,10,4,4,Philadelphia Flyers,/api/v1/teams/4,6,15,7,4,6,Boston Bruins,/api/v1/teams/6
+1982020284,/api/v1/game/1982020284/feed/live,R,19821983,1982-12-06T01:00:00Z,3,17,4,6,16,Chicago Blackhawks,/api/v1/teams/16,3,12,9,6,7,Buffalo Sabres,/api/v1/teams/7
+1982020285,/api/v1/game/1982020285/feed/live,R,19821983,1982-12-06T01:00:00Z,5,5,14,5,10,Toronto Maple Leafs,/api/v1/teams/10,6,14,12,5,3,New York Rangers,/api/v1/teams/3
+1982020287,/api/v1/game/1982020287/feed/live,R,19821983,1982-12-06T03:00:00Z,3,13,10,3,26,Los Angeles Kings,/api/v1/teams/26,7,13,10,3,22,Edmonton Oilers,/api/v1/teams/22
+1982020286,/api/v1/game/1982020286/feed/live,R,19821983,1982-12-06T04:00:00Z,3,9,17,3,19,St. Louis Blues,/api/v1/teams/19,6,10,12,3,23,Vancouver Canucks,/api/v1/teams/23
+1982020288,/api/v1/game/1982020288/feed/live,R,19821983,1982-12-07T01:00:00Z,2,6,17,3,34,Hartford Whalers,/api/v1/teams/34,11,17,5,3,8,Montréal Canadiens,/api/v1/teams/8
+1982020289,/api/v1/game/1982020289/feed/live,R,19821983,1982-12-07T01:00:00Z,5,12,11,2,33,Winnipeg Jets (1979),/api/v1/teams/33,3,6,18,2,1,New Jersey Devils,/api/v1/teams/1
+1982020290,/api/v1/game/1982020290/feed/live,R,19821983,1982-12-08T01:00:00Z,5,15,8,6,6,Boston Bruins,/api/v1/teams/6,10,14,10,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020291,/api/v1/game/1982020291/feed/live,R,19821983,1982-12-08T01:00:00Z,3,5,15,5,10,Toronto Maple Leafs,/api/v1/teams/10,6,16,11,5,2,New York Islanders,/api/v1/teams/2
+1982020292,/api/v1/game/1982020292/feed/live,R,19821983,1982-12-08T01:00:00Z,3,12,11,3,33,Winnipeg Jets (1979),/api/v1/teams/33,3,10,9,3,15,Washington Capitals,/api/v1/teams/15
+1982020293,/api/v1/game/1982020293/feed/live,R,19821983,1982-12-08T03:00:00Z,2,9,18,3,19,St. Louis Blues,/api/v1/teams/19,3,14,10,3,22,Edmonton Oilers,/api/v1/teams/22
+1982020294,/api/v1/game/1982020294/feed/live,R,19821983,1982-12-08T03:00:00Z,4,13,10,4,26,Los Angeles Kings,/api/v1/teams/26,4,10,15,4,20,Calgary Flames,/api/v1/teams/20
+1982020295,/api/v1/game/1982020295/feed/live,R,19821983,1982-12-09T01:00:00Z,4,17,6,6,8,Montréal Canadiens,/api/v1/teams/8,7,7,17,6,34,Hartford Whalers,/api/v1/teams/34
+1982020296,/api/v1/game/1982020296/feed/live,R,19821983,1982-12-09T01:00:00Z,2,12,10,6,7,Buffalo Sabres,/api/v1/teams/7,4,9,14,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020297,/api/v1/game/1982020297/feed/live,R,19821983,1982-12-09T01:00:00Z,0,16,12,5,2,New York Islanders,/api/v1/teams/2,2,5,17,5,17,Detroit Red Wings,/api/v1/teams/17
+1982020299,/api/v1/game/1982020299/feed/live,R,19821983,1982-12-09T01:00:00Z,7,11,12,6,23,Vancouver Canucks,/api/v1/teams/23,3,5,16,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020298,/api/v1/game/1982020298/feed/live,R,19821983,1982-12-09T02:00:00Z,2,14,13,1,3,New York Rangers,/api/v1/teams/3,7,18,4,1,16,Chicago Blackhawks,/api/v1/teams/16
+1982020300,/api/v1/game/1982020300/feed/live,R,19821983,1982-12-10T01:00:00Z,5,17,7,6,8,Montréal Canadiens,/api/v1/teams/8,8,16,8,6,6,Boston Bruins,/api/v1/teams/6
+1982020301,/api/v1/game/1982020301/feed/live,R,19821983,1982-12-10T01:00:00Z,1,14,11,3,32,Quebec Nordiques,/api/v1/teams/32,4,15,10,3,4,Philadelphia Flyers,/api/v1/teams/4
+1982020302,/api/v1/game/1982020302/feed/live,R,19821983,1982-12-10T01:00:00Z,6,11,9,7,15,Washington Capitals,/api/v1/teams/15,4,6,19,7,1,New Jersey Devils,/api/v1/teams/1
+1982020304,/api/v1/game/1982020304/feed/live,R,19821983,1982-12-10T02:00:00Z,6,11,13,6,23,Vancouver Canucks,/api/v1/teams/23,9,18,8,6,31,Minnesota North Stars,/api/v1/teams/31
+1982020303,/api/v1/game/1982020303/feed/live,R,19821983,1982-12-10T03:00:00Z,7,10,18,3,19,St. Louis Blues,/api/v1/teams/19,2,10,16,3,20,Calgary Flames,/api/v1/teams/20
+1982020305,/api/v1/game/1982020305/feed/live,R,19821983,1982-12-10T04:00:00Z,3,14,10,7,22,Edmonton Oilers,/api/v1/teams/22,3,13,10,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020306,/api/v1/game/1982020306/feed/live,R,19821983,1982-12-11T01:00:00Z,4,14,13,2,3,New York Rangers,/api/v1/teams/3,4,11,9,2,15,Washington Capitals,/api/v1/teams/15
+1982020307,/api/v1/game/1982020307/feed/live,R,19821983,1982-12-11T02:00:00Z,6,11,16,6,20,Calgary Flames,/api/v1/teams/20,4,12,12,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020308,/api/v1/game/1982020308/feed/live,R,19821983,1982-12-12T01:00:00Z,2,18,5,6,16,Chicago Blackhawks,/api/v1/teams/16,4,17,8,6,6,Boston Bruins,/api/v1/teams/6
+1982020309,/api/v1/game/1982020309/feed/live,R,19821983,1982-12-12T01:00:00Z,4,15,11,4,4,Philadelphia Flyers,/api/v1/teams/4,7,8,17,4,34,Hartford Whalers,/api/v1/teams/34
+1982020310,/api/v1/game/1982020310/feed/live,R,19821983,1982-12-12T01:00:00Z,2,12,11,6,7,Buffalo Sabres,/api/v1/teams/7,3,18,7,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020311,/api/v1/game/1982020311/feed/live,R,19821983,1982-12-12T01:00:00Z,7,15,11,3,32,Quebec Nordiques,/api/v1/teams/32,4,9,15,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020312,/api/v1/game/1982020312/feed/live,R,19821983,1982-12-12T01:00:00Z,1,6,20,7,1,New Jersey Devils,/api/v1/teams/1,7,17,12,7,2,New York Islanders,/api/v1/teams/2
+1982020313,/api/v1/game/1982020313/feed/live,R,19821983,1982-12-12T01:00:00Z,6,6,17,6,17,Detroit Red Wings,/api/v1/teams/17,2,5,17,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020314,/api/v1/game/1982020314/feed/live,R,19821983,1982-12-12T02:00:00Z,3,12,13,6,23,Vancouver Canucks,/api/v1/teams/23,1,10,19,6,19,St. Louis Blues,/api/v1/teams/19
+1982020315,/api/v1/game/1982020315/feed/live,R,19821983,1982-12-12T02:00:00Z,4,14,11,7,22,Edmonton Oilers,/api/v1/teams/22,5,19,8,7,31,Minnesota North Stars,/api/v1/teams/31
+1982020316,/api/v1/game/1982020316/feed/live,R,19821983,1982-12-12T02:00:00Z,3,13,11,5,26,Los Angeles Kings,/api/v1/teams/26,4,13,12,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020317,/api/v1/game/1982020317/feed/live,R,19821983,1982-12-13T01:00:00Z,3,17,9,6,6,Boston Bruins,/api/v1/teams/6,4,12,9,6,15,Washington Capitals,/api/v1/teams/15
+1982020318,/api/v1/game/1982020318/feed/live,R,19821983,1982-12-13T01:00:00Z,3,9,17,3,34,Hartford Whalers,/api/v1/teams/34,1,12,12,3,7,Buffalo Sabres,/api/v1/teams/7
+1982020320,/api/v1/game/1982020320/feed/live,R,19821983,1982-12-13T01:00:00Z,0,6,21,7,1,New Jersey Devils,/api/v1/teams/1,4,15,13,7,3,New York Rangers,/api/v1/teams/3
+1982020321,/api/v1/game/1982020321/feed/live,R,19821983,1982-12-13T01:00:00Z,3,9,16,5,5,Pittsburgh Penguins,/api/v1/teams/5,4,16,11,5,4,Philadelphia Flyers,/api/v1/teams/4
+1982020322,/api/v1/game/1982020322/feed/live,R,19821983,1982-12-13T01:00:00Z,3,11,17,6,20,Calgary Flames,/api/v1/teams/20,7,7,17,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020319,/api/v1/game/1982020319/feed/live,R,19821983,1982-12-13T02:00:00Z,3,15,12,3,32,Quebec Nordiques,/api/v1/teams/32,7,19,5,3,16,Chicago Blackhawks,/api/v1/teams/16
+1982020324,/api/v1/game/1982020324/feed/live,R,19821983,1982-12-15T01:00:00Z,5,13,12,6,7,Buffalo Sabres,/api/v1/teams/7,3,17,13,6,2,New York Islanders,/api/v1/teams/2
+1982020325,/api/v1/game/1982020325/feed/live,R,19821983,1982-12-15T01:00:00Z,4,5,17,6,10,Toronto Maple Leafs,/api/v1/teams/10,4,15,12,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020326,/api/v1/game/1982020326/feed/live,R,19821983,1982-12-15T01:00:00Z,2,13,12,5,26,Los Angeles Kings,/api/v1/teams/26,7,13,9,5,15,Washington Capitals,/api/v1/teams/15
+1982020323,/api/v1/game/1982020323/feed/live,R,19821983,1982-12-15T02:00:00Z,3,9,17,4,34,Hartford Whalers,/api/v1/teams/34,3,19,8,4,31,Minnesota North Stars,/api/v1/teams/31
+1982020327,/api/v1/game/1982020327/feed/live,R,19821983,1982-12-15T02:00:00Z,4,14,12,3,33,Winnipeg Jets (1979),/api/v1/teams/33,3,10,20,3,19,St. Louis Blues,/api/v1/teams/19
+1982020329,/api/v1/game/1982020329/feed/live,R,19821983,1982-12-16T01:00:00Z,1,13,13,5,26,Los Angeles Kings,/api/v1/teams/26,7,16,13,5,3,New York Rangers,/api/v1/teams/3
+1982020330,/api/v1/game/1982020330/feed/live,R,19821983,1982-12-16T01:00:00Z,4,7,17,7,17,Detroit Red Wings,/api/v1/teams/17,4,9,16,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020331,/api/v1/game/1982020331/feed/live,R,19821983,1982-12-16T01:00:00Z,4,11,20,3,19,St. Louis Blues,/api/v1/teams/19,2,5,18,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020332,/api/v1/game/1982020332/feed/live,R,19821983,1982-12-16T02:00:00Z,3,14,13,3,33,Winnipeg Jets (1979),/api/v1/teams/33,10,20,5,3,16,Chicago Blackhawks,/api/v1/teams/16
+1982020328,/api/v1/game/1982020328/feed/live,R,19821983,1982-12-16T04:00:00Z,3,19,7,6,8,Montréal Canadiens,/api/v1/teams/8,2,12,14,6,23,Vancouver Canucks,/api/v1/teams/23
+1982020333,/api/v1/game/1982020333/feed/live,R,19821983,1982-12-17T01:00:00Z,1,13,13,6,7,Buffalo Sabres,/api/v1/teams/7,8,18,9,6,6,Boston Bruins,/api/v1/teams/6
+1982020334,/api/v1/game/1982020334/feed/live,R,19821983,1982-12-17T01:00:00Z,2,7,18,7,17,Detroit Red Wings,/api/v1/teams/17,7,17,11,7,4,Philadelphia Flyers,/api/v1/teams/4
+1982020335,/api/v1/game/1982020335/feed/live,R,19821983,1982-12-17T02:00:00Z,4,13,9,9,15,Washington Capitals,/api/v1/teams/15,4,19,8,9,31,Minnesota North Stars,/api/v1/teams/31
+1982020336,/api/v1/game/1982020336/feed/live,R,19821983,1982-12-17T03:00:00Z,3,13,14,6,23,Vancouver Canucks,/api/v1/teams/23,2,11,18,6,20,Calgary Flames,/api/v1/teams/20
+1982020338,/api/v1/game/1982020338/feed/live,R,19821983,1982-12-18T01:00:00Z,5,18,13,5,2,New York Islanders,/api/v1/teams/2,2,16,14,5,3,New York Rangers,/api/v1/teams/3
+1982020337,/api/v1/game/1982020337/feed/live,R,19821983,1982-12-18T02:00:00Z,2,10,17,4,34,Hartford Whalers,/api/v1/teams/34,0,14,14,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020339,/api/v1/game/1982020339/feed/live,R,19821983,1982-12-18T03:00:00Z,4,6,22,7,1,New Jersey Devils,/api/v1/teams/1,10,15,11,7,22,Edmonton Oilers,/api/v1/teams/22
+1982020340,/api/v1/game/1982020340/feed/live,R,19821983,1982-12-19T01:00:00Z,0,13,14,5,26,Los Angeles Kings,/api/v1/teams/26,4,19,9,5,6,Boston Bruins,/api/v1/teams/6
+1982020342,/api/v1/game/1982020342/feed/live,R,19821983,1982-12-19T01:00:00Z,5,14,13,6,7,Buffalo Sabres,/api/v1/teams/7,4,15,13,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020344,/api/v1/game/1982020344/feed/live,R,19821983,1982-12-19T01:00:00Z,4,17,11,5,4,Philadelphia Flyers,/api/v1/teams/4,4,18,13,5,2,New York Islanders,/api/v1/teams/2
+1982020345,/api/v1/game/1982020345/feed/live,R,19821983,1982-12-19T01:00:00Z,3,16,14,3,3,New York Rangers,/api/v1/teams/3,3,7,18,3,17,Detroit Red Wings,/api/v1/teams/17
+1982020346,/api/v1/game/1982020346/feed/live,R,19821983,1982-12-19T01:00:00Z,3,14,9,9,15,Washington Capitals,/api/v1/teams/15,1,9,17,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020347,/api/v1/game/1982020347/feed/live,R,19821983,1982-12-19T01:00:00Z,8,21,5,6,16,Chicago Blackhawks,/api/v1/teams/16,5,5,19,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020341,/api/v1/game/1982020341/feed/live,R,19821983,1982-12-19T02:00:00Z,4,10,18,4,34,Hartford Whalers,/api/v1/teams/34,7,12,20,4,19,St. Louis Blues,/api/v1/teams/19
+1982020343,/api/v1/game/1982020343/feed/live,R,19821983,1982-12-19T03:00:00Z,5,20,7,6,8,Montréal Canadiens,/api/v1/teams/8,4,11,19,6,20,Calgary Flames,/api/v1/teams/20
+1982020348,/api/v1/game/1982020348/feed/live,R,19821983,1982-12-19T04:00:00Z,3,19,8,7,31,Minnesota North Stars,/api/v1/teams/31,3,13,14,7,23,Vancouver Canucks,/api/v1/teams/23
+1982020349,/api/v1/game/1982020349/feed/live,R,19821983,1982-12-20T01:00:00Z,1,15,14,4,32,Quebec Nordiques,/api/v1/teams/32,3,15,13,4,7,Buffalo Sabres,/api/v1/teams/7
+1982020351,/api/v1/game/1982020351/feed/live,R,19821983,1982-12-20T01:00:00Z,3,15,9,9,15,Washington Capitals,/api/v1/teams/15,1,17,12,9,4,Philadelphia Flyers,/api/v1/teams/4
+1982020352,/api/v1/game/1982020352/feed/live,R,19821983,1982-12-20T02:00:00Z,3,7,22,7,1,New Jersey Devils,/api/v1/teams/1,2,14,15,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020353,/api/v1/game/1982020353/feed/live,R,19821983,1982-12-20T02:00:00Z,4,13,15,5,26,Los Angeles Kings,/api/v1/teams/26,6,22,5,5,16,Chicago Blackhawks,/api/v1/teams/16
+1982020350,/api/v1/game/1982020350/feed/live,R,19821983,1982-12-20T03:00:00Z,2,20,8,6,8,Montréal Canadiens,/api/v1/teams/8,5,16,11,6,22,Edmonton Oilers,/api/v1/teams/22
+1982020354,/api/v1/game/1982020354/feed/live,R,19821983,1982-12-21T01:00:00Z,3,9,18,6,5,Pittsburgh Penguins,/api/v1/teams/5,6,17,14,6,3,New York Rangers,/api/v1/teams/3
+1982020355,/api/v1/game/1982020355/feed/live,R,19821983,1982-12-22T01:00:00Z,3,10,18,6,5,Pittsburgh Penguins,/api/v1/teams/5,2,10,19,6,34,Hartford Whalers,/api/v1/teams/34
+1982020356,/api/v1/game/1982020356/feed/live,R,19821983,1982-12-22T01:00:00Z,3,18,13,7,2,New York Islanders,/api/v1/teams/2,3,15,14,7,32,Quebec Nordiques,/api/v1/teams/32
+1982020357,/api/v1/game/1982020357/feed/live,R,19821983,1982-12-22T01:00:00Z,5,12,20,4,19,St. Louis Blues,/api/v1/teams/19,5,7,18,4,17,Detroit Red Wings,/api/v1/teams/17
+1982020358,/api/v1/game/1982020358/feed/live,R,19821983,1982-12-22T03:00:00Z,4,19,9,7,31,Minnesota North Stars,/api/v1/teams/31,6,12,19,7,20,Calgary Flames,/api/v1/teams/20
+1982020359,/api/v1/game/1982020359/feed/live,R,19821983,1982-12-22T04:00:00Z,4,15,15,3,33,Winnipeg Jets (1979),/api/v1/teams/33,2,13,16,3,26,Los Angeles Kings,/api/v1/teams/26
+1982020360,/api/v1/game/1982020360/feed/live,R,19821983,1982-12-23T01:00:00Z,3,16,13,6,7,Buffalo Sabres,/api/v1/teams/7,1,17,15,6,3,New York Rangers,/api/v1/teams/3
+1982020361,/api/v1/game/1982020361/feed/live,R,19821983,1982-12-23T01:00:00Z,3,18,12,5,4,Philadelphia Flyers,/api/v1/teams/4,1,7,23,5,1,New Jersey Devils,/api/v1/teams/1
+1982020362,/api/v1/game/1982020362/feed/live,R,19821983,1982-12-23T02:00:00Z,3,5,20,6,10,Toronto Maple Leafs,/api/v1/teams/10,4,23,5,6,16,Chicago Blackhawks,/api/v1/teams/16
+1982020363,/api/v1/game/1982020363/feed/live,R,19821983,1982-12-23T03:00:00Z,2,19,10,7,31,Minnesota North Stars,/api/v1/teams/31,8,17,11,7,22,Edmonton Oilers,/api/v1/teams/22
+1982020364,/api/v1/game/1982020364/feed/live,R,19821983,1982-12-24T01:00:00Z,5,20,9,6,6,Boston Bruins,/api/v1/teams/6,1,10,20,6,34,Hartford Whalers,/api/v1/teams/34
+1982020365,/api/v1/game/1982020365/feed/live,R,19821983,1982-12-24T01:00:00Z,3,20,9,6,8,Montréal Canadiens,/api/v1/teams/8,6,16,14,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020366,/api/v1/game/1982020366/feed/live,R,19821983,1982-12-24T01:00:00Z,5,16,9,9,15,Washington Capitals,/api/v1/teams/15,1,18,14,9,2,New York Islanders,/api/v1/teams/2
+1982020367,/api/v1/game/1982020367/feed/live,R,19821983,1982-12-24T01:00:00Z,4,10,19,6,5,Pittsburgh Penguins,/api/v1/teams/5,6,8,18,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020368,/api/v1/game/1982020368/feed/live,R,19821983,1982-12-24T02:00:00Z,3,5,21,6,10,Toronto Maple Leafs,/api/v1/teams/10,7,13,20,6,19,St. Louis Blues,/api/v1/teams/19
+1982020369,/api/v1/game/1982020369/feed/live,R,19821983,1982-12-24T04:00:00Z,6,13,19,6,20,Calgary Flames,/api/v1/teams/20,3,13,15,6,23,Vancouver Canucks,/api/v1/teams/23
+1982020370,/api/v1/game/1982020370/feed/live,R,19821983,1982-12-24T04:00:00Z,6,18,11,7,22,Edmonton Oilers,/api/v1/teams/22,2,13,17,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020371,/api/v1/game/1982020371/feed/live,R,19821983,1982-12-27T01:00:00Z,2,7,24,7,1,New Jersey Devils,/api/v1/teams/1,5,21,9,7,6,Boston Bruins,/api/v1/teams/6
+1982020372,/api/v1/game/1982020372/feed/live,R,19821983,1982-12-27T01:00:00Z,3,19,14,7,2,New York Islanders,/api/v1/teams/2,2,10,21,7,34,Hartford Whalers,/api/v1/teams/34
+1982020373,/api/v1/game/1982020373/feed/live,R,19821983,1982-12-27T01:00:00Z,2,8,18,10,17,Detroit Red Wings,/api/v1/teams/17,2,16,13,10,7,Buffalo Sabres,/api/v1/teams/7
+1982020374,/api/v1/game/1982020374/feed/live,R,19821983,1982-12-27T01:00:00Z,4,16,14,6,32,Quebec Nordiques,/api/v1/teams/32,4,20,9,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020375,/api/v1/game/1982020375/feed/live,R,19821983,1982-12-27T01:00:00Z,3,17,16,3,3,New York Rangers,/api/v1/teams/3,4,11,19,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020376,/api/v1/game/1982020376/feed/live,R,19821983,1982-12-27T01:00:00Z,6,19,12,5,4,Philadelphia Flyers,/api/v1/teams/4,3,16,10,5,15,Washington Capitals,/api/v1/teams/15
+1982020377,/api/v1/game/1982020377/feed/live,R,19821983,1982-12-27T02:00:00Z,4,13,21,4,19,St. Louis Blues,/api/v1/teams/19,7,24,5,4,16,Chicago Blackhawks,/api/v1/teams/16
+1982020378,/api/v1/game/1982020378/feed/live,R,19821983,1982-12-27T02:00:00Z,3,20,10,7,31,Minnesota North Stars,/api/v1/teams/31,2,15,16,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020379,/api/v1/game/1982020379/feed/live,R,19821983,1982-12-27T03:00:00Z,4,18,11,8,22,Edmonton Oilers,/api/v1/teams/22,4,13,19,8,20,Calgary Flames,/api/v1/teams/20
+1982020380,/api/v1/game/1982020380/feed/live,R,19821983,1982-12-27T04:00:00Z,2,13,16,7,23,Vancouver Canucks,/api/v1/teams/23,4,14,17,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020381,/api/v1/game/1982020381/feed/live,R,19821983,1982-12-28T01:00:00Z,8,20,12,5,4,Philadelphia Flyers,/api/v1/teams/4,4,8,19,5,17,Detroit Red Wings,/api/v1/teams/17
+1982020383,/api/v1/game/1982020383/feed/live,R,19821983,1982-12-29T01:00:00Z,1,10,22,4,34,Hartford Whalers,/api/v1/teams/34,4,17,14,4,32,Quebec Nordiques,/api/v1/teams/32
+1982020384,/api/v1/game/1982020384/feed/live,R,19821983,1982-12-29T01:00:00Z,4,5,21,7,10,Toronto Maple Leafs,/api/v1/teams/10,4,20,9,7,8,Montréal Canadiens,/api/v1/teams/8
+1982020385,/api/v1/game/1982020385/feed/live,R,19821983,1982-12-29T01:00:00Z,3,11,20,6,5,Pittsburgh Penguins,/api/v1/teams/5,6,17,10,6,15,Washington Capitals,/api/v1/teams/15
+1982020382,/api/v1/game/1982020382/feed/live,R,19821983,1982-12-29T02:00:00Z,3,22,9,6,6,Boston Bruins,/api/v1/teams/6,0,13,22,6,19,St. Louis Blues,/api/v1/teams/19
+1982020386,/api/v1/game/1982020386/feed/live,R,19821983,1982-12-29T03:00:00Z,2,24,6,6,16,Chicago Blackhawks,/api/v1/teams/16,3,14,19,6,20,Calgary Flames,/api/v1/teams/20
+1982020387,/api/v1/game/1982020387/feed/live,R,19821983,1982-12-29T04:00:00Z,4,15,16,4,33,Winnipeg Jets (1979),/api/v1/teams/33,4,13,16,4,23,Vancouver Canucks,/api/v1/teams/23
+1982020388,/api/v1/game/1982020388/feed/live,R,19821983,1982-12-30T01:00:00Z,5,20,10,8,8,Montréal Canadiens,/api/v1/teams/8,6,6,21,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020389,/api/v1/game/1982020389/feed/live,R,19821983,1982-12-30T01:00:00Z,6,14,22,4,19,St. Louis Blues,/api/v1/teams/19,5,11,21,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020390,/api/v1/game/1982020390/feed/live,R,19821983,1982-12-30T02:00:00Z,5,8,19,11,17,Detroit Red Wings,/api/v1/teams/17,5,20,10,11,31,Minnesota North Stars,/api/v1/teams/31
+1982020391,/api/v1/game/1982020391/feed/live,R,19821983,1982-12-30T03:00:00Z,8,25,6,6,16,Chicago Blackhawks,/api/v1/teams/16,6,18,12,6,22,Edmonton Oilers,/api/v1/teams/22
+1982020392,/api/v1/game/1982020392/feed/live,R,19821983,1982-12-30T04:00:00Z,4,16,16,4,33,Winnipeg Jets (1979),/api/v1/teams/33,3,14,18,4,26,Los Angeles Kings,/api/v1/teams/26
+1982020393,/api/v1/game/1982020393/feed/live,R,19821983,1982-12-31T01:00:00Z,4,17,10,10,15,Washington Capitals,/api/v1/teams/15,4,10,22,10,34,Hartford Whalers,/api/v1/teams/34
+1982020394,/api/v1/game/1982020394/feed/live,R,19821983,1982-12-31T01:00:00Z,5,18,16,3,3,New York Rangers,/api/v1/teams/3,2,7,25,3,1,New Jersey Devils,/api/v1/teams/1
+1982020395,/api/v1/game/1982020395/feed/live,R,19821983,1982-12-31T03:00:00Z,6,21,12,5,4,Philadelphia Flyers,/api/v1/teams/4,3,14,20,5,20,Calgary Flames,/api/v1/teams/20
+1982020397,/api/v1/game/1982020397/feed/live,R,19821983,1983-01-01T01:00:00Z,1,19,15,7,2,New York Islanders,/api/v1/teams/2,5,17,13,7,7,Buffalo Sabres,/api/v1/teams/7
+1982020398,/api/v1/game/1982020398/feed/live,R,19821983,1983-01-01T01:00:00Z,1,25,7,6,16,Chicago Blackhawks,/api/v1/teams/16,4,9,19,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020396,/api/v1/game/1982020396/feed/live,R,19821983,1983-01-01T02:00:00Z,5,23,9,6,6,Boston Bruins,/api/v1/teams/6,3,20,11,6,31,Minnesota North Stars,/api/v1/teams/31
+1982020399,/api/v1/game/1982020399/feed/live,R,19821983,1983-01-01T04:00:00Z,8,19,12,8,22,Edmonton Oilers,/api/v1/teams/22,1,13,17,8,23,Vancouver Canucks,/api/v1/teams/23
+1982020400,/api/v1/game/1982020400/feed/live,R,19821983,1983-01-02T01:00:00Z,5,10,23,5,34,Hartford Whalers,/api/v1/teams/34,7,7,21,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020401,/api/v1/game/1982020401/feed/live,R,19821983,1983-01-02T01:00:00Z,1,19,16,7,2,New York Islanders,/api/v1/teams/2,2,12,21,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020402,/api/v1/game/1982020402/feed/live,R,19821983,1983-01-02T01:00:00Z,7,19,16,3,3,New York Rangers,/api/v1/teams/3,2,17,11,3,15,Washington Capitals,/api/v1/teams/15
+1982020403,/api/v1/game/1982020403/feed/live,R,19821983,1983-01-02T02:00:00Z,4,22,12,5,4,Philadelphia Flyers,/api/v1/teams/4,1,14,23,5,19,St. Louis Blues,/api/v1/teams/19
+1982020404,/api/v1/game/1982020404/feed/live,R,19821983,1983-01-02T03:00:00Z,3,16,17,4,33,Winnipeg Jets (1979),/api/v1/teams/33,5,20,12,4,22,Edmonton Oilers,/api/v1/teams/22
+1982020406,/api/v1/game/1982020406/feed/live,R,19821983,1983-01-03T01:00:00Z,4,10,24,5,34,Hartford Whalers,/api/v1/teams/34,8,18,13,5,7,Buffalo Sabres,/api/v1/teams/7
+1982020407,/api/v1/game/1982020407/feed/live,R,19821983,1983-01-03T01:00:00Z,1,12,22,6,5,Pittsburgh Penguins,/api/v1/teams/5,5,21,10,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020408,/api/v1/game/1982020408/feed/live,R,19821983,1983-01-03T01:00:00Z,7,18,11,10,15,Washington Capitals,/api/v1/teams/15,4,17,15,10,32,Quebec Nordiques,/api/v1/teams/32
+1982020410,/api/v1/game/1982020410/feed/live,R,19821983,1983-01-03T01:00:00Z,1,13,18,8,23,Vancouver Canucks,/api/v1/teams/23,3,8,25,8,1,New Jersey Devils,/api/v1/teams/1
+1982020411,/api/v1/game/1982020411/feed/live,R,19821983,1983-01-03T01:00:00Z,3,9,20,11,17,Detroit Red Wings,/api/v1/teams/17,6,8,21,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020405,/api/v1/game/1982020405/feed/live,R,19821983,1983-01-03T02:00:00Z,4,23,10,6,6,Boston Bruins,/api/v1/teams/6,6,17,17,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020409,/api/v1/game/1982020409/feed/live,R,19821983,1983-01-03T02:00:00Z,3,23,12,5,4,Philadelphia Flyers,/api/v1/teams/4,1,25,8,5,16,Chicago Blackhawks,/api/v1/teams/16
+1982020412,/api/v1/game/1982020412/feed/live,R,19821983,1983-01-04T01:00:00Z,2,9,21,11,17,Detroit Red Wings,/api/v1/teams/17,6,20,16,11,3,New York Rangers,/api/v1/teams/3
+1982020413,/api/v1/game/1982020413/feed/live,R,19821983,1983-01-05T01:00:00Z,2,18,14,7,7,Buffalo Sabres,/api/v1/teams/7,5,20,16,7,2,New York Islanders,/api/v1/teams/2
+1982020414,/api/v1/game/1982020414/feed/live,R,19821983,1983-01-05T01:00:00Z,1,21,11,8,8,Montréal Canadiens,/api/v1/teams/8,3,18,15,8,32,Quebec Nordiques,/api/v1/teams/32
+1982020415,/api/v1/game/1982020415/feed/live,R,19821983,1983-01-05T01:00:00Z,1,13,19,8,23,Vancouver Canucks,/api/v1/teams/23,4,24,12,8,4,Philadelphia Flyers,/api/v1/teams/4
+1982020416,/api/v1/game/1982020416/feed/live,R,19821983,1983-01-05T02:00:00Z,4,26,8,6,16,Chicago Blackhawks,/api/v1/teams/16,2,14,24,6,19,St. Louis Blues,/api/v1/teams/19
+1982020417,/api/v1/game/1982020417/feed/live,R,19821983,1983-01-05T03:00:00Z,6,21,12,8,22,Edmonton Oilers,/api/v1/teams/22,3,14,21,8,20,Calgary Flames,/api/v1/teams/20
+1982020419,/api/v1/game/1982020419/feed/live,R,19821983,1983-01-06T01:00:00Z,3,18,14,8,7,Buffalo Sabres,/api/v1/teams/7,3,20,16,8,3,New York Rangers,/api/v1/teams/3
+1982020420,/api/v1/game/1982020420/feed/live,R,19821983,1983-01-06T01:00:00Z,5,19,11,10,15,Washington Capitals,/api/v1/teams/15,2,9,22,10,17,Detroit Red Wings,/api/v1/teams/17
+1982020421,/api/v1/game/1982020421/feed/live,R,19821983,1983-01-06T01:00:00Z,4,8,21,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,8,25,8,1,New Jersey Devils,/api/v1/teams/1
+1982020418,/api/v1/game/1982020418/feed/live,R,19821983,1983-01-06T02:00:00Z,4,24,10,6,6,Boston Bruins,/api/v1/teams/6,1,26,9,6,16,Chicago Blackhawks,/api/v1/teams/16
+1982020422,/api/v1/game/1982020422/feed/live,R,19821983,1983-01-06T02:00:00Z,3,14,24,5,19,St. Louis Blues,/api/v1/teams/19,3,20,11,5,31,Minnesota North Stars,/api/v1/teams/31
+1982020423,/api/v1/game/1982020423/feed/live,R,19821983,1983-01-06T02:00:00Z,8,22,12,8,22,Edmonton Oilers,/api/v1/teams/22,3,17,18,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020424,/api/v1/game/1982020424/feed/live,R,19821983,1983-01-07T01:00:00Z,6,14,19,8,23,Vancouver Canucks,/api/v1/teams/23,4,10,25,8,34,Hartford Whalers,/api/v1/teams/34
+1982020425,/api/v1/game/1982020425/feed/live,R,19821983,1983-01-07T01:00:00Z,3,14,19,5,26,Los Angeles Kings,/api/v1/teams/26,11,22,11,5,8,Montréal Canadiens,/api/v1/teams/8
+1982020426,/api/v1/game/1982020426/feed/live,R,19821983,1983-01-07T01:00:00Z,3,9,21,8,10,Toronto Maple Leafs,/api/v1/teams/10,1,19,12,8,15,Washington Capitals,/api/v1/teams/15
+1982020427,/api/v1/game/1982020427/feed/live,R,19821983,1983-01-07T03:00:00Z,1,17,19,4,33,Winnipeg Jets (1979),/api/v1/teams/33,5,15,21,4,20,Calgary Flames,/api/v1/teams/20
+1982020428,/api/v1/game/1982020428/feed/live,R,19821983,1983-01-08T01:00:00Z,2,24,10,7,6,Boston Bruins,/api/v1/teams/6,2,8,25,7,1,New Jersey Devils,/api/v1/teams/1
+1982020429,/api/v1/game/1982020429/feed/live,R,19821983,1983-01-08T01:00:00Z,5,14,19,9,23,Vancouver Canucks,/api/v1/teams/23,5,18,14,9,7,Buffalo Sabres,/api/v1/teams/7
+1982020430,/api/v1/game/1982020430/feed/live,R,19821983,1983-01-08T01:00:00Z,1,18,16,6,32,Quebec Nordiques,/api/v1/teams/32,5,21,16,6,3,New York Rangers,/api/v1/teams/3
+1982020431,/api/v1/game/1982020431/feed/live,R,19821983,1983-01-08T03:00:00Z,2,12,23,6,5,Pittsburgh Penguins,/api/v1/teams/5,7,23,12,6,22,Edmonton Oilers,/api/v1/teams/22
+1982020432,/api/v1/game/1982020432/feed/live,R,19821983,1983-01-09T01:00:00Z,2,25,10,7,6,Boston Bruins,/api/v1/teams/6,1,22,12,7,8,Montréal Canadiens,/api/v1/teams/8
+1982020433,/api/v1/game/1982020433/feed/live,R,19821983,1983-01-09T01:00:00Z,7,25,12,5,4,Philadelphia Flyers,/api/v1/teams/4,4,10,26,5,34,Hartford Whalers,/api/v1/teams/34
+1982020434,/api/v1/game/1982020434/feed/live,R,19821983,1983-01-09T01:00:00Z,1,18,17,6,32,Quebec Nordiques,/api/v1/teams/32,6,21,16,6,2,New York Islanders,/api/v1/teams/2
+1982020436,/api/v1/game/1982020436/feed/live,R,19821983,1983-01-09T01:00:00Z,5,14,20,5,26,Los Angeles Kings,/api/v1/teams/26,7,10,21,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020435,/api/v1/game/1982020435/feed/live,R,19821983,1983-01-09T02:00:00Z,3,19,12,11,15,Washington Capitals,/api/v1/teams/15,3,14,24,11,19,St. Louis Blues,/api/v1/teams/19
+1982020438,/api/v1/game/1982020438/feed/live,R,19821983,1983-01-09T02:00:00Z,1,26,10,6,16,Chicago Blackhawks,/api/v1/teams/16,4,21,11,6,31,Minnesota North Stars,/api/v1/teams/31
+1982020437,/api/v1/game/1982020437/feed/live,R,19821983,1983-01-09T03:00:00Z,2,9,23,11,17,Detroit Red Wings,/api/v1/teams/17,5,16,21,11,20,Calgary Flames,/api/v1/teams/20
+1982020439,/api/v1/game/1982020439/feed/live,R,19821983,1983-01-10T01:00:00Z,4,10,27,5,34,Hartford Whalers,/api/v1/teams/34,8,26,12,5,4,Philadelphia Flyers,/api/v1/teams/4
+1982020440,/api/v1/game/1982020440/feed/live,R,19821983,1983-01-10T01:00:00Z,2,14,21,5,26,Los Angeles Kings,/api/v1/teams/26,7,19,14,5,7,Buffalo Sabres,/api/v1/teams/7
+1982020441,/api/v1/game/1982020441/feed/live,R,19821983,1983-01-10T01:00:00Z,3,8,26,9,1,New Jersey Devils,/api/v1/teams/1,4,22,16,9,3,New York Rangers,/api/v1/teams/3
+1982020442,/api/v1/game/1982020442/feed/live,R,19821983,1983-01-10T02:00:00Z,3,12,24,6,5,Pittsburgh Penguins,/api/v1/teams/5,4,18,19,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020444,/api/v1/game/1982020444/feed/live,R,19821983,1983-01-10T02:00:00Z,3,21,12,9,31,Minnesota North Stars,/api/v1/teams/31,6,27,10,9,16,Chicago Blackhawks,/api/v1/teams/16
+1982020443,/api/v1/game/1982020443/feed/live,R,19821983,1983-01-10T03:00:00Z,4,10,23,11,17,Detroit Red Wings,/api/v1/teams/17,3,23,13,11,22,Edmonton Oilers,/api/v1/teams/22
+1982020445,/api/v1/game/1982020445/feed/live,R,19821983,1983-01-11T01:00:00Z,2,18,18,6,32,Quebec Nordiques,/api/v1/teams/32,6,9,26,6,1,New Jersey Devils,/api/v1/teams/1
+1982020446,/api/v1/game/1982020446/feed/live,R,19821983,1983-01-12T01:00:00Z,4,10,28,5,34,Hartford Whalers,/api/v1/teams/34,8,23,12,5,8,Montréal Canadiens,/api/v1/teams/8
+1982020447,/api/v1/game/1982020447/feed/live,R,19821983,1983-01-12T01:00:00Z,1,18,20,4,33,Winnipeg Jets (1979),/api/v1/teams/33,4,22,16,4,2,New York Islanders,/api/v1/teams/2
+1982020448,/api/v1/game/1982020448/feed/live,R,19821983,1983-01-12T01:00:00Z,9,15,21,5,26,Los Angeles Kings,/api/v1/teams/26,7,19,13,5,15,Washington Capitals,/api/v1/teams/15
+1982020449,/api/v1/game/1982020449/feed/live,R,19821983,1983-01-12T02:00:00Z,7,24,13,8,22,Edmonton Oilers,/api/v1/teams/22,5,14,25,8,19,St. Louis Blues,/api/v1/teams/19
+1982020450,/api/v1/game/1982020450/feed/live,R,19821983,1983-01-13T01:00:00Z,6,26,10,7,6,Boston Bruins,/api/v1/teams/6,4,10,22,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020451,/api/v1/game/1982020451/feed/live,R,19821983,1983-01-13T01:00:00Z,1,18,19,6,32,Quebec Nordiques,/api/v1/teams/32,2,20,14,6,7,Buffalo Sabres,/api/v1/teams/7
+1982020452,/api/v1/game/1982020452/feed/live,R,19821983,1983-01-13T01:00:00Z,5,18,20,5,33,Winnipeg Jets (1979),/api/v1/teams/33,5,22,16,5,3,New York Rangers,/api/v1/teams/3
+1982020453,/api/v1/game/1982020453/feed/live,R,19821983,1983-01-13T01:00:00Z,7,22,12,9,31,Minnesota North Stars,/api/v1/teams/31,0,12,25,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020454,/api/v1/game/1982020454/feed/live,R,19821983,1983-01-13T02:00:00Z,10,25,13,8,22,Edmonton Oilers,/api/v1/teams/22,4,27,11,8,16,Chicago Blackhawks,/api/v1/teams/16
+1982020455,/api/v1/game/1982020455/feed/live,R,19821983,1983-01-13T04:00:00Z,6,17,21,7,20,Calgary Flames,/api/v1/teams/20,4,14,20,7,23,Vancouver Canucks,/api/v1/teams/23
+1982020456,/api/v1/game/1982020456/feed/live,R,19821983,1983-01-14T01:00:00Z,0,18,20,6,32,Quebec Nordiques,/api/v1/teams/32,2,27,10,6,6,Boston Bruins,/api/v1/teams/6
+1982020457,/api/v1/game/1982020457/feed/live,R,19821983,1983-01-14T01:00:00Z,2,23,13,8,8,Montréal Canadiens,/api/v1/teams/8,4,11,28,8,34,Hartford Whalers,/api/v1/teams/34
+1982020458,/api/v1/game/1982020458/feed/live,R,19821983,1983-01-14T01:00:00Z,5,23,16,7,2,New York Islanders,/api/v1/teams/2,2,9,27,7,1,New Jersey Devils,/api/v1/teams/1
+1982020459,/api/v1/game/1982020459/feed/live,R,19821983,1983-01-14T01:00:00Z,1,12,26,6,5,Pittsburgh Penguins,/api/v1/teams/5,8,27,12,6,4,Philadelphia Flyers,/api/v1/teams/4
+1982020461,/api/v1/game/1982020461/feed/live,R,19821983,1983-01-14T01:00:00Z,4,15,21,6,26,Los Angeles Kings,/api/v1/teams/26,4,10,23,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020460,/api/v1/game/1982020460/feed/live,R,19821983,1983-01-14T02:00:00Z,1,10,23,8,10,Toronto Maple Leafs,/api/v1/teams/10,2,23,12,8,31,Minnesota North Stars,/api/v1/teams/31
+1982020462,/api/v1/game/1982020462/feed/live,R,19821983,1983-01-14T03:00:00Z,2,14,21,9,23,Vancouver Canucks,/api/v1/teams/23,5,18,21,9,20,Calgary Flames,/api/v1/teams/20
+1982020463,/api/v1/game/1982020463/feed/live,R,19821983,1983-01-15T01:00:00Z,2,19,14,11,15,Washington Capitals,/api/v1/teams/15,3,21,14,11,7,Buffalo Sabres,/api/v1/teams/7
+1982020464,/api/v1/game/1982020464/feed/live,R,19821983,1983-01-15T02:00:00Z,4,15,25,6,19,St. Louis Blues,/api/v1/teams/19,2,18,21,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020465,/api/v1/game/1982020465/feed/live,R,19821983,1983-01-16T01:00:00Z,0,22,17,5,3,New York Rangers,/api/v1/teams/3,2,28,10,5,6,Boston Bruins,/api/v1/teams/6
+1982020466,/api/v1/game/1982020466/feed/live,R,19821983,1983-01-16T01:00:00Z,1,9,28,9,1,New Jersey Devils,/api/v1/teams/1,2,12,28,9,34,Hartford Whalers,/api/v1/teams/34
+1982020467,/api/v1/game/1982020467/feed/live,R,19821983,1983-01-16T01:00:00Z,4,22,14,9,7,Buffalo Sabres,/api/v1/teams/7,2,19,15,9,15,Washington Capitals,/api/v1/teams/15
+1982020468,/api/v1/game/1982020468/feed/live,R,19821983,1983-01-16T01:00:00Z,8,24,13,8,8,Montréal Canadiens,/api/v1/teams/8,7,12,27,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020469,/api/v1/game/1982020469/feed/live,R,19821983,1983-01-16T01:00:00Z,2,18,22,7,20,Calgary Flames,/api/v1/teams/20,7,19,20,7,32,Quebec Nordiques,/api/v1/teams/32
+1982020470,/api/v1/game/1982020470/feed/live,R,19821983,1983-01-16T01:00:00Z,2,15,22,6,26,Los Angeles Kings,/api/v1/teams/26,5,24,16,6,2,New York Islanders,/api/v1/teams/2
+1982020471,/api/v1/game/1982020471/feed/live,R,19821983,1983-01-16T01:00:00Z,4,27,11,7,16,Chicago Blackhawks,/api/v1/teams/16,4,27,12,7,4,Philadelphia Flyers,/api/v1/teams/4
+1982020472,/api/v1/game/1982020472/feed/live,R,19821983,1983-01-16T01:00:00Z,3,10,24,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,11,23,8,17,Detroit Red Wings,/api/v1/teams/17
+1982020473,/api/v1/game/1982020473/feed/live,R,19821983,1983-01-16T02:00:00Z,10,26,13,8,22,Edmonton Oilers,/api/v1/teams/22,4,23,13,8,31,Minnesota North Stars,/api/v1/teams/31
+1982020474,/api/v1/game/1982020474/feed/live,R,19821983,1983-01-17T01:00:00Z,4,28,12,6,4,Philadelphia Flyers,/api/v1/teams/4,0,22,18,6,3,New York Rangers,/api/v1/teams/3
+1982020475,/api/v1/game/1982020475/feed/live,R,19821983,1983-01-17T01:00:00Z,3,15,23,6,26,Los Angeles Kings,/api/v1/teams/26,5,10,28,6,1,New Jersey Devils,/api/v1/teams/1
+1982020476,/api/v1/game/1982020476/feed/live,R,19821983,1983-01-17T02:00:00Z,2,11,24,12,17,Detroit Red Wings,/api/v1/teams/17,4,28,11,12,16,Chicago Blackhawks,/api/v1/teams/16
+1982020477,/api/v1/game/1982020477/feed/live,R,19821983,1983-01-17T04:00:00Z,4,18,22,5,33,Winnipeg Jets (1979),/api/v1/teams/33,6,15,21,5,23,Vancouver Canucks,/api/v1/teams/23
+1982020478,/api/v1/game/1982020478/feed/live,R,19821983,1983-01-18T01:00:00Z,3,23,14,9,31,Minnesota North Stars,/api/v1/teams/31,4,29,10,9,6,Boston Bruins,/api/v1/teams/6
+1982020479,/api/v1/game/1982020479/feed/live,R,19821983,1983-01-18T01:00:00Z,4,15,25,7,19,St. Louis Blues,/api/v1/teams/19,4,10,24,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020480,/api/v1/game/1982020480/feed/live,R,19821983,1983-01-19T01:00:00Z,1,12,29,5,34,Hartford Whalers,/api/v1/teams/34,8,25,16,5,2,New York Islanders,/api/v1/teams/2
+1982020481,/api/v1/game/1982020481/feed/live,R,19821983,1983-01-19T01:00:00Z,2,18,23,7,20,Calgary Flames,/api/v1/teams/20,7,25,13,7,8,Montréal Canadiens,/api/v1/teams/8
+1982020482,/api/v1/game/1982020482/feed/live,R,19821983,1983-01-19T01:00:00Z,1,15,26,7,19,St. Louis Blues,/api/v1/teams/19,3,20,20,7,32,Quebec Nordiques,/api/v1/teams/32
+1982020484,/api/v1/game/1982020484/feed/live,R,19821983,1983-01-19T01:00:00Z,1,28,13,6,4,Philadelphia Flyers,/api/v1/teams/4,4,20,15,6,15,Washington Capitals,/api/v1/teams/15
+1982020483,/api/v1/game/1982020483/feed/live,R,19821983,1983-01-19T04:00:00Z,3,22,18,6,3,New York Rangers,/api/v1/teams/3,3,15,21,6,23,Vancouver Canucks,/api/v1/teams/23
+1982020485,/api/v1/game/1982020485/feed/live,R,19821983,1983-01-19T04:00:00Z,3,26,13,9,22,Edmonton Oilers,/api/v1/teams/22,3,15,23,9,26,Los Angeles Kings,/api/v1/teams/26
+1982020486,/api/v1/game/1982020486/feed/live,R,19821983,1983-01-20T01:00:00Z,1,10,28,10,1,New Jersey Devils,/api/v1/teams/1,1,12,27,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020487,/api/v1/game/1982020487/feed/live,R,19821983,1983-01-20T02:00:00Z,6,21,15,11,15,Washington Capitals,/api/v1/teams/15,4,28,12,11,16,Chicago Blackhawks,/api/v1/teams/16
+1982020488,/api/v1/game/1982020488/feed/live,R,19821983,1983-01-20T02:00:00Z,3,10,25,9,10,Toronto Maple Leafs,/api/v1/teams/10,6,19,22,9,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020489,/api/v1/game/1982020489/feed/live,R,19821983,1983-01-20T02:00:00Z,2,11,25,12,17,Detroit Red Wings,/api/v1/teams/17,3,24,14,12,31,Minnesota North Stars,/api/v1/teams/31
+1982020490,/api/v1/game/1982020490/feed/live,R,19821983,1983-01-20T03:00:00Z,4,15,22,10,23,Vancouver Canucks,/api/v1/teams/23,9,27,13,10,22,Edmonton Oilers,/api/v1/teams/22
+1982020491,/api/v1/game/1982020491/feed/live,R,19821983,1983-01-21T01:00:00Z,0,22,15,9,7,Buffalo Sabres,/api/v1/teams/7,4,30,10,9,6,Boston Bruins,/api/v1/teams/6
+1982020493,/api/v1/game/1982020493/feed/live,R,19821983,1983-01-21T01:00:00Z,4,25,16,8,2,New York Islanders,/api/v1/teams/2,4,25,13,8,8,Montréal Canadiens,/api/v1/teams/8
+1982020494,/api/v1/game/1982020494/feed/live,R,19821983,1983-01-21T01:00:00Z,2,18,24,7,20,Calgary Flames,/api/v1/teams/20,5,29,13,7,4,Philadelphia Flyers,/api/v1/teams/4
+1982020495,/api/v1/game/1982020495/feed/live,R,19821983,1983-01-21T01:00:00Z,3,15,26,8,19,St. Louis Blues,/api/v1/teams/19,3,10,28,8,1,New Jersey Devils,/api/v1/teams/1
+1982020492,/api/v1/game/1982020492/feed/live,R,19821983,1983-01-21T04:00:00Z,3,12,30,5,34,Hartford Whalers,/api/v1/teams/34,4,16,23,5,26,Los Angeles Kings,/api/v1/teams/26
+1982020496,/api/v1/game/1982020496/feed/live,R,19821983,1983-01-22T01:00:00Z,5,21,20,6,32,Quebec Nordiques,/api/v1/teams/32,4,21,16,6,15,Washington Capitals,/api/v1/teams/15
+1982020497,/api/v1/game/1982020497/feed/live,R,19821983,1983-01-22T02:00:00Z,1,22,19,6,3,New York Rangers,/api/v1/teams/3,4,20,22,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020498,/api/v1/game/1982020498/feed/live,R,19821983,1983-01-23T01:00:00Z,3,31,10,7,6,Boston Bruins,/api/v1/teams/6,1,11,26,7,17,Detroit Red Wings,/api/v1/teams/17
+1982020500,/api/v1/game/1982020500/feed/live,R,19821983,1983-01-23T01:00:00Z,1,22,16,9,7,Buffalo Sabres,/api/v1/teams/7,4,26,13,9,8,Montréal Canadiens,/api/v1/teams/8
+1982020501,/api/v1/game/1982020501/feed/live,R,19821983,1983-01-23T01:00:00Z,7,22,20,6,32,Quebec Nordiques,/api/v1/teams/32,3,12,28,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020502,/api/v1/game/1982020502/feed/live,R,19821983,1983-01-23T01:00:00Z,1,30,13,6,4,Philadelphia Flyers,/api/v1/teams/4,0,25,17,6,2,New York Islanders,/api/v1/teams/2
+1982020503,/api/v1/game/1982020503/feed/live,R,19821983,1983-01-23T01:00:00Z,3,29,12,7,16,Chicago Blackhawks,/api/v1/teams/16,2,10,26,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020499,/api/v1/game/1982020499/feed/live,R,19821983,1983-01-23T02:00:00Z,2,12,31,5,34,Hartford Whalers,/api/v1/teams/34,7,25,14,5,31,Minnesota North Stars,/api/v1/teams/31
+1982020504,/api/v1/game/1982020504/feed/live,R,19821983,1983-01-23T02:00:00Z,7,19,24,7,20,Calgary Flames,/api/v1/teams/20,6,15,27,7,19,St. Louis Blues,/api/v1/teams/19
+1982020505,/api/v1/game/1982020505/feed/live,R,19821983,1983-01-23T04:00:00Z,3,27,14,9,22,Edmonton Oilers,/api/v1/teams/22,4,16,22,9,23,Vancouver Canucks,/api/v1/teams/23
+1982020507,/api/v1/game/1982020507/feed/live,R,19821983,1983-01-24T01:00:00Z,2,20,23,5,33,Winnipeg Jets (1979),/api/v1/teams/33,5,23,16,5,7,Buffalo Sabres,/api/v1/teams/7
+1982020508,/api/v1/game/1982020508/feed/live,R,19821983,1983-01-24T01:00:00Z,1,22,20,6,3,New York Rangers,/api/v1/teams/3,3,31,13,6,4,Philadelphia Flyers,/api/v1/teams/4
+1982020509,/api/v1/game/1982020509/feed/live,R,19821983,1983-01-24T01:00:00Z,1,10,29,11,1,New Jersey Devils,/api/v1/teams/1,3,22,16,11,15,Washington Capitals,/api/v1/teams/15
+1982020506,/api/v1/game/1982020506/feed/live,R,19821983,1983-01-24T02:00:00Z,2,12,32,5,34,Hartford Whalers,/api/v1/teams/34,4,30,12,5,16,Chicago Blackhawks,/api/v1/teams/16
+1982020510,/api/v1/game/1982020510/feed/live,R,19821983,1983-01-24T03:00:00Z,6,16,24,7,26,Los Angeles Kings,/api/v1/teams/26,8,28,14,7,22,Edmonton Oilers,/api/v1/teams/22
+1982020511,/api/v1/game/1982020511/feed/live,R,19821983,1983-01-25T01:00:00Z,3,32,10,7,6,Boston Bruins,/api/v1/teams/6,1,22,21,7,3,New York Rangers,/api/v1/teams/3
+1982020512,/api/v1/game/1982020512/feed/live,R,19821983,1983-01-25T01:00:00Z,2,12,29,7,5,Pittsburgh Penguins,/api/v1/teams/5,8,11,26,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020513,/api/v1/game/1982020513/feed/live,R,19821983,1983-01-26T01:00:00Z,3,20,24,5,33,Winnipeg Jets (1979),/api/v1/teams/33,6,23,20,5,32,Quebec Nordiques,/api/v1/teams/32
+1982020514,/api/v1/game/1982020514/feed/live,R,19821983,1983-01-26T01:00:00Z,1,10,30,11,1,New Jersey Devils,/api/v1/teams/1,5,32,13,11,4,Philadelphia Flyers,/api/v1/teams/4
+1982020515,/api/v1/game/1982020515/feed/live,R,19821983,1983-01-26T01:00:00Z,2,16,23,10,23,Vancouver Canucks,/api/v1/teams/23,6,12,26,10,17,Detroit Red Wings,/api/v1/teams/17
+1982020516,/api/v1/game/1982020516/feed/live,R,19821983,1983-01-26T02:00:00Z,4,25,14,10,31,Minnesota North Stars,/api/v1/teams/31,4,15,27,10,19,St. Louis Blues,/api/v1/teams/19
+1982020517,/api/v1/game/1982020517/feed/live,R,19821983,1983-01-26T04:00:00Z,8,20,24,7,20,Calgary Flames,/api/v1/teams/20,6,16,25,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020518,/api/v1/game/1982020518/feed/live,R,19821983,1983-01-27T01:00:00Z,3,26,14,9,8,Montréal Canadiens,/api/v1/teams/8,7,24,16,9,7,Buffalo Sabres,/api/v1/teams/7
+1982020519,/api/v1/game/1982020519/feed/live,R,19821983,1983-01-27T01:00:00Z,6,23,16,11,15,Washington Capitals,/api/v1/teams/15,2,12,30,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020521,/api/v1/game/1982020521/feed/live,R,19821983,1983-01-27T02:00:00Z,5,17,23,10,23,Vancouver Canucks,/api/v1/teams/23,1,30,13,10,16,Chicago Blackhawks,/api/v1/teams/16
+1982020520,/api/v1/game/1982020520/feed/live,R,19821983,1983-01-27T03:00:00Z,6,11,26,10,10,Toronto Maple Leafs,/api/v1/teams/10,6,28,14,10,22,Edmonton Oilers,/api/v1/teams/22
+1982020522,/api/v1/game/1982020522/feed/live,R,19821983,1983-01-28T01:00:00Z,2,23,21,6,32,Quebec Nordiques,/api/v1/teams/32,5,13,32,6,34,Hartford Whalers,/api/v1/teams/34
+1982020523,/api/v1/game/1982020523/feed/live,R,19821983,1983-01-28T01:00:00Z,4,27,14,9,8,Montréal Canadiens,/api/v1/teams/8,1,22,22,9,3,New York Rangers,/api/v1/teams/3
+1982020525,/api/v1/game/1982020525/feed/live,R,19821983,1983-01-28T01:00:00Z,2,20,25,5,33,Winnipeg Jets (1979),/api/v1/teams/33,5,33,13,5,4,Philadelphia Flyers,/api/v1/teams/4
+1982020527,/api/v1/game/1982020527/feed/live,R,19821983,1983-01-28T02:00:00Z,3,15,27,10,19,St. Louis Blues,/api/v1/teams/19,3,25,14,10,31,Minnesota North Stars,/api/v1/teams/31
+1982020526,/api/v1/game/1982020526/feed/live,R,19821983,1983-01-28T03:00:00Z,1,11,27,10,10,Toronto Maple Leafs,/api/v1/teams/10,3,21,24,10,20,Calgary Flames,/api/v1/teams/20
+1982020524,/api/v1/game/1982020524/feed/live,R,19821983,1983-01-28T04:00:00Z,6,26,17,8,2,New York Islanders,/api/v1/teams/2,4,16,26,8,26,Los Angeles Kings,/api/v1/teams/26
+1982020528,/api/v1/game/1982020528/feed/live,R,19821983,1983-01-29T01:00:00Z,2,30,14,7,16,Chicago Blackhawks,/api/v1/teams/16,6,25,16,7,7,Buffalo Sabres,/api/v1/teams/7
+1982020529,/api/v1/game/1982020529/feed/live,R,19821983,1983-01-29T01:00:00Z,2,12,31,7,5,Pittsburgh Penguins,/api/v1/teams/5,7,24,16,7,15,Washington Capitals,/api/v1/teams/15
+1982020530,/api/v1/game/1982020530/feed/live,R,19821983,1983-01-30T01:00:00Z,3,12,27,12,17,Detroit Red Wings,/api/v1/teams/17,7,33,10,12,6,Boston Bruins,/api/v1/teams/6
+1982020531,/api/v1/game/1982020531/feed/live,R,19821983,1983-01-30T01:00:00Z,2,20,25,6,33,Winnipeg Jets (1979),/api/v1/teams/33,2,13,32,6,34,Hartford Whalers,/api/v1/teams/34
+1982020532,/api/v1/game/1982020532/feed/live,R,19821983,1983-01-30T01:00:00Z,3,25,17,9,7,Buffalo Sabres,/api/v1/teams/7,5,12,27,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020533,/api/v1/game/1982020533/feed/live,R,19821983,1983-01-30T01:00:00Z,3,24,16,12,15,Washington Capitals,/api/v1/teams/15,3,27,14,12,8,Montréal Canadiens,/api/v1/teams/8
+1982020534,/api/v1/game/1982020534/feed/live,R,19821983,1983-01-30T01:00:00Z,4,10,31,11,1,New Jersey Devils,/api/v1/teams/1,6,24,21,11,32,Quebec Nordiques,/api/v1/teams/32
+1982020536,/api/v1/game/1982020536/feed/live,R,19821983,1983-01-30T01:00:00Z,2,23,22,6,3,New York Rangers,/api/v1/teams/3,1,12,32,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020537,/api/v1/game/1982020537/feed/live,R,19821983,1983-01-30T02:00:00Z,2,33,13,7,4,Philadelphia Flyers,/api/v1/teams/4,2,25,14,7,31,Minnesota North Stars,/api/v1/teams/31
+1982020538,/api/v1/game/1982020538/feed/live,R,19821983,1983-01-30T02:00:00Z,2,16,27,7,26,Los Angeles Kings,/api/v1/teams/26,4,16,27,7,19,St. Louis Blues,/api/v1/teams/19
+1982020539,/api/v1/game/1982020539/feed/live,R,19821983,1983-01-30T03:00:00Z,4,21,25,7,20,Calgary Flames,/api/v1/teams/20,5,29,14,7,22,Edmonton Oilers,/api/v1/teams/22
+1982020535,/api/v1/game/1982020535/feed/live,R,19821983,1983-01-30T04:00:00Z,5,27,17,8,2,New York Islanders,/api/v1/teams/2,3,17,24,8,23,Vancouver Canucks,/api/v1/teams/23
+1982020541,/api/v1/game/1982020541/feed/live,R,19821983,1983-01-31T01:00:00Z,5,31,14,7,16,Chicago Blackhawks,/api/v1/teams/16,4,23,23,7,3,New York Rangers,/api/v1/teams/3
+1982020540,/api/v1/game/1982020540/feed/live,R,19821983,1983-01-31T03:00:00Z,4,28,17,8,2,New York Islanders,/api/v1/teams/2,2,29,15,8,22,Edmonton Oilers,/api/v1/teams/22
+1982020542,/api/v1/game/1982020542/feed/live,R,19821983,1983-02-01T01:00:00Z,2,20,25,7,33,Winnipeg Jets (1979),/api/v1/teams/33,2,33,10,7,6,Boston Bruins,/api/v1/teams/6
+1982020543,/api/v1/game/1982020543/feed/live,R,19821983,1983-02-01T01:00:00Z,2,12,33,7,5,Pittsburgh Penguins,/api/v1/teams/5,3,11,31,7,1,New Jersey Devils,/api/v1/teams/1
+1982020544,/api/v1/game/1982020544/feed/live,R,19821983,1983-02-01T01:00:00Z,4,26,14,12,31,Minnesota North Stars,/api/v1/teams/31,2,12,28,12,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020545,/api/v1/game/1982020545/feed/live,R,19821983,1983-02-02T01:00:00Z,3,13,33,6,34,Hartford Whalers,/api/v1/teams/34,12,25,21,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020549,/api/v1/game/1982020549/feed/live,R,19821983,1983-02-02T01:00:00Z,2,12,28,12,17,Detroit Red Wings,/api/v1/teams/17,5,25,16,12,15,Washington Capitals,/api/v1/teams/15
+1982020550,/api/v1/game/1982020550/feed/live,R,19821983,1983-02-02T02:00:00Z,5,32,14,7,16,Chicago Blackhawks,/api/v1/teams/16,0,16,28,7,19,St. Louis Blues,/api/v1/teams/19
+1982020547,/api/v1/game/1982020547/feed/live,R,19821983,1983-02-02T03:00:00Z,2,28,17,9,2,New York Islanders,/api/v1/teams/2,2,21,25,9,20,Calgary Flames,/api/v1/teams/20
+1982020546,/api/v1/game/1982020546/feed/live,R,19821983,1983-02-02T04:00:00Z,7,28,14,10,8,Montréal Canadiens,/api/v1/teams/8,3,17,25,10,23,Vancouver Canucks,/api/v1/teams/23
+1982020548,/api/v1/game/1982020548/feed/live,R,19821983,1983-02-02T04:00:00Z,5,23,23,7,3,New York Rangers,/api/v1/teams/3,5,16,27,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020551,/api/v1/game/1982020551/feed/live,R,19821983,1983-02-03T01:00:00Z,1,13,34,6,34,Hartford Whalers,/api/v1/teams/34,7,13,28,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020552,/api/v1/game/1982020552/feed/live,R,19821983,1983-02-03T01:00:00Z,2,26,14,13,31,Minnesota North Stars,/api/v1/teams/31,2,25,17,13,7,Buffalo Sabres,/api/v1/teams/7
+1982020555,/api/v1/game/1982020555/feed/live,R,19821983,1983-02-03T01:00:00Z,4,17,28,10,19,St. Louis Blues,/api/v1/teams/19,3,12,29,10,17,Detroit Red Wings,/api/v1/teams/17
+1982020553,/api/v1/game/1982020553/feed/live,R,19821983,1983-02-03T02:00:00Z,6,34,13,7,4,Philadelphia Flyers,/api/v1/teams/4,3,20,26,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020554,/api/v1/game/1982020554/feed/live,R,19821983,1983-02-03T02:00:00Z,4,12,34,7,5,Pittsburgh Penguins,/api/v1/teams/5,7,33,14,7,16,Chicago Blackhawks,/api/v1/teams/16
+1982020556,/api/v1/game/1982020556/feed/live,R,19821983,1983-02-04T01:00:00Z,3,25,22,6,32,Quebec Nordiques,/api/v1/teams/32,5,34,10,6,6,Boston Bruins,/api/v1/teams/6
+1982020558,/api/v1/game/1982020558/feed/live,R,19821983,1983-02-04T01:00:00Z,7,29,17,9,2,New York Islanders,/api/v1/teams/2,2,11,32,9,1,New Jersey Devils,/api/v1/teams/1
+1982020559,/api/v1/game/1982020559/feed/live,R,19821983,1983-02-04T01:00:00Z,1,26,15,13,31,Minnesota North Stars,/api/v1/teams/31,3,26,16,13,15,Washington Capitals,/api/v1/teams/15
+1982020557,/api/v1/game/1982020557/feed/live,R,19821983,1983-02-04T03:00:00Z,3,28,15,10,8,Montréal Canadiens,/api/v1/teams/8,7,22,25,10,20,Calgary Flames,/api/v1/teams/20
+1982020560,/api/v1/game/1982020560/feed/live,R,19821983,1983-02-04T03:00:00Z,7,17,27,8,26,Los Angeles Kings,/api/v1/teams/26,4,29,16,8,22,Edmonton Oilers,/api/v1/teams/22
+1982020562,/api/v1/game/1982020562/feed/live,R,19821983,1983-02-05T02:00:00Z,4,12,35,7,5,Pittsburgh Penguins,/api/v1/teams/5,6,21,26,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020561,/api/v1/game/1982020561/feed/live,R,19821983,1983-02-05T03:00:00Z,3,28,16,10,8,Montréal Canadiens,/api/v1/teams/8,7,30,16,10,22,Edmonton Oilers,/api/v1/teams/22
+1982020563,/api/v1/game/1982020563/feed/live,R,19821983,1983-02-06T01:00:00Z,4,13,35,6,34,Hartford Whalers,/api/v1/teams/34,7,35,10,6,6,Boston Bruins,/api/v1/teams/6
+1982020564,/api/v1/game/1982020564/feed/live,R,19821983,1983-02-06T01:00:00Z,0,25,17,11,7,Buffalo Sabres,/api/v1/teams/7,0,25,22,11,32,Quebec Nordiques,/api/v1/teams/32
+1982020565,/api/v1/game/1982020565/feed/live,R,19821983,1983-02-06T01:00:00Z,4,27,15,13,31,Minnesota North Stars,/api/v1/teams/31,2,29,18,13,2,New York Islanders,/api/v1/teams/2
+1982020569,/api/v1/game/1982020569/feed/live,R,19821983,1983-02-06T01:00:00Z,4,11,33,11,1,New Jersey Devils,/api/v1/teams/1,5,27,16,11,15,Washington Capitals,/api/v1/teams/15
+1982020570,/api/v1/game/1982020570/feed/live,R,19821983,1983-02-06T01:00:00Z,4,17,26,10,23,Vancouver Canucks,/api/v1/teams/23,6,14,28,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020571,/api/v1/game/1982020571/feed/live,R,19821983,1983-02-06T01:00:00Z,4,34,14,7,16,Chicago Blackhawks,/api/v1/teams/16,3,12,30,7,17,Detroit Red Wings,/api/v1/teams/17
+1982020566,/api/v1/game/1982020566/feed/live,R,19821983,1983-02-06T02:00:00Z,2,23,23,8,3,New York Rangers,/api/v1/teams/3,2,17,28,8,19,St. Louis Blues,/api/v1/teams/19
+1982020568,/api/v1/game/1982020568/feed/live,R,19821983,1983-02-06T03:00:00Z,4,12,36,7,5,Pittsburgh Penguins,/api/v1/teams/5,7,23,25,7,20,Calgary Flames,/api/v1/teams/20
+1982020567,/api/v1/game/1982020567/feed/live,R,19821983,1983-02-06T04:00:00Z,2,35,13,7,4,Philadelphia Flyers,/api/v1/teams/4,0,17,28,7,26,Los Angeles Kings,/api/v1/teams/26
+1982020572,/api/v1/game/1982020572/feed/live,R,19821983,1983-02-07T01:00:00Z,5,36,10,8,6,Boston Bruins,/api/v1/teams/6,1,25,18,8,7,Buffalo Sabres,/api/v1/teams/7
+1982020574,/api/v1/game/1982020574/feed/live,R,19821983,1983-02-07T01:00:00Z,4,27,16,13,15,Washington Capitals,/api/v1/teams/15,4,25,22,13,32,Quebec Nordiques,/api/v1/teams/32
+1982020576,/api/v1/game/1982020576/feed/live,R,19821983,1983-02-07T01:00:00Z,4,17,26,11,23,Vancouver Canucks,/api/v1/teams/23,4,11,33,11,1,New Jersey Devils,/api/v1/teams/1
+1982020577,/api/v1/game/1982020577/feed/live,R,19821983,1983-02-07T01:00:00Z,0,14,29,10,10,Toronto Maple Leafs,/api/v1/teams/10,3,13,30,10,17,Detroit Red Wings,/api/v1/teams/17
+1982020573,/api/v1/game/1982020573/feed/live,R,19821983,1983-02-07T02:00:00Z,2,29,16,10,8,Montréal Canadiens,/api/v1/teams/8,0,21,27,10,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020575,/api/v1/game/1982020575/feed/live,R,19821983,1983-02-07T02:00:00Z,1,23,24,8,3,New York Rangers,/api/v1/teams/3,4,35,14,8,16,Chicago Blackhawks,/api/v1/teams/16
+1982020578,/api/v1/game/1982020578/feed/live,R,19821983,1983-02-10T01:00:00Z,6,14,30,12,17,Detroit Red Wings,/api/v1/teams/17,5,13,36,12,34,Hartford Whalers,/api/v1/teams/34
+1982020579,/api/v1/game/1982020579/feed/live,R,19821983,1983-02-10T01:00:00Z,6,18,26,11,23,Vancouver Canucks,/api/v1/teams/23,2,12,37,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020580,/api/v1/game/1982020580/feed/live,R,19821983,1983-02-10T02:00:00Z,4,11,34,12,1,New Jersey Devils,/api/v1/teams/1,5,36,14,12,16,Chicago Blackhawks,/api/v1/teams/16
+1982020581,/api/v1/game/1982020581/feed/live,R,19821983,1983-02-11T01:00:00Z,3,12,38,7,5,Pittsburgh Penguins,/api/v1/teams/5,7,37,10,7,6,Boston Bruins,/api/v1/teams/6
+1982020583,/api/v1/game/1982020583/feed/live,R,19821983,1983-02-11T01:00:00Z,3,21,28,7,33,Winnipeg Jets (1979),/api/v1/teams/33,5,30,16,7,8,Montréal Canadiens,/api/v1/teams/8
+1982020585,/api/v1/game/1982020585/feed/live,R,19821983,1983-02-11T01:00:00Z,3,27,17,13,15,Washington Capitals,/api/v1/teams/15,8,30,18,13,2,New York Islanders,/api/v1/teams/2
+1982020587,/api/v1/game/1982020587/feed/live,R,19821983,1983-02-11T01:00:00Z,2,17,29,11,19,St. Louis Blues,/api/v1/teams/19,5,36,13,11,4,Philadelphia Flyers,/api/v1/teams/4
+1982020586,/api/v1/game/1982020586/feed/live,R,19821983,1983-02-11T02:00:00Z,5,23,25,8,3,New York Rangers,/api/v1/teams/3,7,28,15,8,31,Minnesota North Stars,/api/v1/teams/31
+1982020584,/api/v1/game/1982020584/feed/live,R,19821983,1983-02-11T03:00:00Z,3,25,22,9,32,Quebec Nordiques,/api/v1/teams/32,3,23,25,9,20,Calgary Flames,/api/v1/teams/20
+1982020582,/api/v1/game/1982020582/feed/live,R,19821983,1983-02-11T04:00:00Z,2,25,19,11,7,Buffalo Sabres,/api/v1/teams/7,7,18,28,11,26,Los Angeles Kings,/api/v1/teams/26
+1982020588,/api/v1/game/1982020588/feed/live,R,19821983,1983-02-12T03:00:00Z,3,25,23,9,32,Quebec Nordiques,/api/v1/teams/32,7,31,16,9,22,Edmonton Oilers,/api/v1/teams/22
+1982020591,/api/v1/game/1982020591/feed/live,R,19821983,1983-02-13T01:00:00Z,4,14,36,6,34,Hartford Whalers,/api/v1/teams/34,2,30,19,6,2,New York Islanders,/api/v1/teams/2
+1982020593,/api/v1/game/1982020593/feed/live,R,19821983,1983-02-13T01:00:00Z,3,24,25,8,3,New York Rangers,/api/v1/teams/3,2,30,17,8,8,Montréal Canadiens,/api/v1/teams/8
+1982020594,/api/v1/game/1982020594/feed/live,R,19821983,1983-02-13T01:00:00Z,4,18,29,8,26,Los Angeles Kings,/api/v1/teams/26,6,13,38,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020596,/api/v1/game/1982020596/feed/live,R,19821983,1983-02-13T01:00:00Z,4,22,28,7,33,Winnipeg Jets (1979),/api/v1/teams/33,2,14,31,7,17,Detroit Red Wings,/api/v1/teams/17
+1982020595,/api/v1/game/1982020595/feed/live,R,19821983,1983-02-13T02:00:00Z,1,11,35,12,1,New Jersey Devils,/api/v1/teams/1,5,18,29,12,19,St. Louis Blues,/api/v1/teams/19
+1982020597,/api/v1/game/1982020597/feed/live,R,19821983,1983-02-13T02:00:00Z,4,36,15,7,16,Chicago Blackhawks,/api/v1/teams/16,5,29,15,7,31,Minnesota North Stars,/api/v1/teams/31
+1982020592,/api/v1/game/1982020592/feed/live,R,19821983,1983-02-13T03:00:00Z,2,25,20,11,7,Buffalo Sabres,/api/v1/teams/7,4,24,25,11,20,Calgary Flames,/api/v1/teams/20
+1982020598,/api/v1/game/1982020598/feed/live,R,19821983,1983-02-14T01:00:00Z,1,18,27,11,23,Vancouver Canucks,/api/v1/teams/23,3,38,10,11,6,Boston Bruins,/api/v1/teams/6
+1982020599,/api/v1/game/1982020599/feed/live,R,19821983,1983-02-14T01:00:00Z,3,14,30,10,10,Toronto Maple Leafs,/api/v1/teams/10,5,15,36,10,34,Hartford Whalers,/api/v1/teams/34
+1982020601,/api/v1/game/1982020601/feed/live,R,19821983,1983-02-14T01:00:00Z,5,19,29,8,26,Los Angeles Kings,/api/v1/teams/26,4,36,14,8,4,Philadelphia Flyers,/api/v1/teams/4
+1982020602,/api/v1/game/1982020602/feed/live,R,19821983,1983-02-14T01:00:00Z,1,22,29,7,33,Winnipeg Jets (1979),/api/v1/teams/33,6,28,17,7,15,Washington Capitals,/api/v1/teams/15
+1982020600,/api/v1/game/1982020600/feed/live,R,19821983,1983-02-14T02:00:00Z,5,26,23,9,32,Quebec Nordiques,/api/v1/teams/32,4,36,16,9,16,Chicago Blackhawks,/api/v1/teams/16
+1982020604,/api/v1/game/1982020604/feed/live,R,19821983,1983-02-15T01:00:00Z,2,31,17,10,22,Edmonton Oilers,/api/v1/teams/22,4,31,17,10,8,Montréal Canadiens,/api/v1/teams/8
+1982020603,/api/v1/game/1982020603/feed/live,R,19821983,1983-02-15T02:00:00Z,4,25,21,11,7,Buffalo Sabres,/api/v1/teams/7,6,19,29,11,19,St. Louis Blues,/api/v1/teams/19
+1982020605,/api/v1/game/1982020605/feed/live,R,19821983,1983-02-16T01:00:00Z,5,20,29,8,26,Los Angeles Kings,/api/v1/teams/26,2,15,37,8,34,Hartford Whalers,/api/v1/teams/34
+1982020606,/api/v1/game/1982020606/feed/live,R,19821983,1983-02-16T01:00:00Z,1,30,20,9,2,New York Islanders,/api/v1/teams/2,4,27,23,9,32,Quebec Nordiques,/api/v1/teams/32
+1982020607,/api/v1/game/1982020607/feed/live,R,19821983,1983-02-16T01:00:00Z,7,15,31,12,17,Detroit Red Wings,/api/v1/teams/17,3,13,39,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020608,/api/v1/game/1982020608/feed/live,R,19821983,1983-02-16T01:00:00Z,3,30,15,13,31,Minnesota North Stars,/api/v1/teams/31,2,11,36,13,1,New Jersey Devils,/api/v1/teams/1
+1982020609,/api/v1/game/1982020609/feed/live,R,19821983,1983-02-16T02:00:00Z,4,18,28,11,23,Vancouver Canucks,/api/v1/teams/23,7,23,29,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020610,/api/v1/game/1982020610/feed/live,R,19821983,1983-02-17T01:00:00Z,1,38,11,8,6,Boston Bruins,/api/v1/teams/6,3,26,21,8,7,Buffalo Sabres,/api/v1/teams/7
+1982020611,/api/v1/game/1982020611/feed/live,R,19821983,1983-02-17T01:00:00Z,4,28,18,13,15,Washington Capitals,/api/v1/teams/15,5,25,25,13,3,New York Rangers,/api/v1/teams/3
+1982020612,/api/v1/game/1982020612/feed/live,R,19821983,1983-02-17T01:00:00Z,3,19,30,11,19,St. Louis Blues,/api/v1/teams/19,6,15,30,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020613,/api/v1/game/1982020613/feed/live,R,19821983,1983-02-17T02:00:00Z,3,24,26,9,20,Calgary Flames,/api/v1/teams/20,5,37,16,9,16,Chicago Blackhawks,/api/v1/teams/16
+1982020614,/api/v1/game/1982020614/feed/live,R,19821983,1983-02-18T01:00:00Z,1,31,18,10,8,Montréal Canadiens,/api/v1/teams/8,4,16,37,10,34,Hartford Whalers,/api/v1/teams/34
+1982020616,/api/v1/game/1982020616/feed/live,R,19821983,1983-02-18T01:00:00Z,1,13,40,7,5,Pittsburgh Penguins,/api/v1/teams/5,4,31,20,7,2,New York Islanders,/api/v1/teams/2
+1982020617,/api/v1/game/1982020617/feed/live,R,19821983,1983-02-18T01:00:00Z,3,31,18,10,22,Edmonton Oilers,/api/v1/teams/22,7,37,14,10,4,Philadelphia Flyers,/api/v1/teams/4
+1982020619,/api/v1/game/1982020619/feed/live,R,19821983,1983-02-18T01:00:00Z,5,20,29,9,26,Los Angeles Kings,/api/v1/teams/26,5,15,31,9,17,Detroit Red Wings,/api/v1/teams/17
+1982020615,/api/v1/game/1982020615/feed/live,R,19821983,1983-02-18T02:00:00Z,3,27,24,9,32,Quebec Nordiques,/api/v1/teams/32,6,31,15,9,31,Minnesota North Stars,/api/v1/teams/31
+1982020618,/api/v1/game/1982020618/feed/live,R,19821983,1983-02-18T02:00:00Z,6,16,30,10,10,Toronto Maple Leafs,/api/v1/teams/10,3,19,31,10,19,St. Louis Blues,/api/v1/teams/19
+1982020621,/api/v1/game/1982020621/feed/live,R,19821983,1983-02-19T01:00:00Z,1,24,27,9,20,Calgary Flames,/api/v1/teams/20,5,27,21,9,7,Buffalo Sabres,/api/v1/teams/7
+1982020620,/api/v1/game/1982020620/feed/live,R,19821983,1983-02-19T02:00:00Z,5,38,12,8,6,Boston Bruins,/api/v1/teams/6,6,24,29,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020622,/api/v1/game/1982020622/feed/live,R,19821983,1983-02-19T04:00:00Z,2,29,18,13,15,Washington Capitals,/api/v1/teams/15,1,18,29,13,23,Vancouver Canucks,/api/v1/teams/23
+1982020624,/api/v1/game/1982020624/feed/live,R,19821983,1983-02-20T01:00:00Z,4,38,16,7,16,Chicago Blackhawks,/api/v1/teams/16,2,16,38,7,34,Hartford Whalers,/api/v1/teams/34
+1982020625,/api/v1/game/1982020625/feed/live,R,19821983,1983-02-20T01:00:00Z,0,31,19,10,8,Montréal Canadiens,/api/v1/teams/8,5,32,20,10,2,New York Islanders,/api/v1/teams/2
+1982020627,/api/v1/game/1982020627/feed/live,R,19821983,1983-02-20T01:00:00Z,5,25,26,8,3,New York Rangers,/api/v1/teams/3,8,38,14,8,4,Philadelphia Flyers,/api/v1/teams/4
+1982020628,/api/v1/game/1982020628/feed/live,R,19821983,1983-02-20T01:00:00Z,10,32,18,10,22,Edmonton Oilers,/api/v1/teams/22,7,13,41,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020630,/api/v1/game/1982020630/feed/live,R,19821983,1983-02-20T01:00:00Z,3,24,28,9,20,Calgary Flames,/api/v1/teams/20,5,17,30,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020623,/api/v1/game/1982020623/feed/live,R,19821983,1983-02-20T02:00:00Z,6,39,12,8,6,Boston Bruins,/api/v1/teams/6,2,31,16,8,31,Minnesota North Stars,/api/v1/teams/31
+1982020626,/api/v1/game/1982020626/feed/live,R,19821983,1983-02-20T02:00:00Z,4,27,24,10,32,Quebec Nordiques,/api/v1/teams/32,4,19,31,10,19,St. Louis Blues,/api/v1/teams/19
+1982020629,/api/v1/game/1982020629/feed/live,R,19821983,1983-02-20T04:00:00Z,3,29,18,14,15,Washington Capitals,/api/v1/teams/15,3,20,29,14,26,Los Angeles Kings,/api/v1/teams/26
+1982020631,/api/v1/game/1982020631/feed/live,R,19821983,1983-02-21T01:00:00Z,2,16,39,6,34,Hartford Whalers,/api/v1/teams/34,7,16,31,6,17,Detroit Red Wings,/api/v1/teams/17
+1982020632,/api/v1/game/1982020632/feed/live,R,19821983,1983-02-21T01:00:00Z,5,33,18,10,22,Edmonton Oilers,/api/v1/teams/22,4,27,22,10,7,Buffalo Sabres,/api/v1/teams/7
+1982020633,/api/v1/game/1982020633/feed/live,R,19821983,1983-02-21T01:00:00Z,4,24,30,7,33,Winnipeg Jets (1979),/api/v1/teams/33,9,26,26,7,3,New York Rangers,/api/v1/teams/3
+1982020634,/api/v1/game/1982020634/feed/live,R,19821983,1983-02-21T01:00:00Z,0,11,37,12,1,New Jersey Devils,/api/v1/teams/1,3,39,14,12,4,Philadelphia Flyers,/api/v1/teams/4
+1982020635,/api/v1/game/1982020635/feed/live,R,19821983,1983-02-21T04:00:00Z,2,20,30,10,26,Los Angeles Kings,/api/v1/teams/26,5,19,29,10,23,Vancouver Canucks,/api/v1/teams/23
+1982020636,/api/v1/game/1982020636/feed/live,R,19821983,1983-02-22T01:00:00Z,4,27,22,12,7,Buffalo Sabres,/api/v1/teams/7,4,11,37,12,1,New Jersey Devils,/api/v1/teams/1
+1982020637,/api/v1/game/1982020637/feed/live,R,19821983,1983-02-22T01:00:00Z,2,13,42,7,5,Pittsburgh Penguins,/api/v1/teams/5,4,18,30,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020639,/api/v1/game/1982020639/feed/live,R,19821983,1983-02-23T01:00:00Z,1,27,25,10,32,Quebec Nordiques,/api/v1/teams/32,6,32,19,10,8,Montréal Canadiens,/api/v1/teams/8
+1982020640,/api/v1/game/1982020640/feed/live,R,19821983,1983-02-23T01:00:00Z,2,24,30,8,33,Winnipeg Jets (1979),/api/v1/teams/33,2,32,20,8,2,New York Islanders,/api/v1/teams/2
+1982020641,/api/v1/game/1982020641/feed/live,R,19821983,1983-02-23T01:00:00Z,3,32,16,13,31,Minnesota North Stars,/api/v1/teams/31,2,16,32,13,17,Detroit Red Wings,/api/v1/teams/17
+1982020643,/api/v1/game/1982020643/feed/live,R,19821983,1983-02-23T03:00:00Z,1,33,19,10,22,Edmonton Oilers,/api/v1/teams/22,4,25,28,10,20,Calgary Flames,/api/v1/teams/20
+1982020638,/api/v1/game/1982020638/feed/live,R,19821983,1983-02-23T04:00:00Z,3,39,13,8,6,Boston Bruins,/api/v1/teams/6,5,21,30,8,26,Los Angeles Kings,/api/v1/teams/26
+1982020642,/api/v1/game/1982020642/feed/live,R,19821983,1983-02-23T04:00:00Z,3,19,32,12,19,St. Louis Blues,/api/v1/teams/19,6,20,29,12,23,Vancouver Canucks,/api/v1/teams/23
+1982020644,/api/v1/game/1982020644/feed/live,R,19821983,1983-02-24T01:00:00Z,3,16,40,6,34,Hartford Whalers,/api/v1/teams/34,11,27,26,6,3,New York Rangers,/api/v1/teams/3
+1982020645,/api/v1/game/1982020645/feed/live,R,19821983,1983-02-24T01:00:00Z,2,39,15,7,4,Philadelphia Flyers,/api/v1/teams/4,4,28,22,7,7,Buffalo Sabres,/api/v1/teams/7
+1982020647,/api/v1/game/1982020647/feed/live,R,19821983,1983-02-24T01:00:00Z,4,24,31,8,33,Winnipeg Jets (1979),/api/v1/teams/33,6,14,42,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020646,/api/v1/game/1982020646/feed/live,R,19821983,1983-02-24T02:00:00Z,4,32,20,11,2,New York Islanders,/api/v1/teams/2,4,38,16,11,16,Chicago Blackhawks,/api/v1/teams/16
+1982020649,/api/v1/game/1982020649/feed/live,R,19821983,1983-02-24T02:00:00Z,3,19,30,10,10,Toronto Maple Leafs,/api/v1/teams/10,2,32,17,10,31,Minnesota North Stars,/api/v1/teams/31
+1982020648,/api/v1/game/1982020648/feed/live,R,19821983,1983-02-24T03:00:00Z,3,29,19,14,15,Washington Capitals,/api/v1/teams/15,6,34,19,14,22,Edmonton Oilers,/api/v1/teams/22
+1982020650,/api/v1/game/1982020650/feed/live,R,19821983,1983-02-25T01:00:00Z,6,33,19,10,8,Montréal Canadiens,/api/v1/teams/8,3,27,26,10,32,Quebec Nordiques,/api/v1/teams/32
+1982020651,/api/v1/game/1982020651/feed/live,R,19821983,1983-02-25T01:00:00Z,3,14,43,7,5,Pittsburgh Penguins,/api/v1/teams/5,6,40,15,7,4,Philadelphia Flyers,/api/v1/teams/4
+1982020653,/api/v1/game/1982020653/feed/live,R,19821983,1983-02-25T01:00:00Z,1,16,33,13,17,Detroit Red Wings,/api/v1/teams/17,4,12,37,13,1,New Jersey Devils,/api/v1/teams/1
+1982020652,/api/v1/game/1982020652/feed/live,R,19821983,1983-02-25T03:00:00Z,4,30,19,14,15,Washington Capitals,/api/v1/teams/15,2,25,29,14,20,Calgary Flames,/api/v1/teams/20
+1982020654,/api/v1/game/1982020654/feed/live,R,19821983,1983-02-25T04:00:00Z,0,20,30,11,23,Vancouver Canucks,/api/v1/teams/23,8,22,30,11,26,Los Angeles Kings,/api/v1/teams/26
+1982020655,/api/v1/game/1982020655/feed/live,R,19821983,1983-02-26T01:00:00Z,6,39,14,8,6,Boston Bruins,/api/v1/teams/6,7,29,22,8,7,Buffalo Sabres,/api/v1/teams/7
+1982020656,/api/v1/game/1982020656/feed/live,R,19821983,1983-02-26T02:00:00Z,3,16,41,6,34,Hartford Whalers,/api/v1/teams/34,5,25,31,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020658,/api/v1/game/1982020658/feed/live,R,19821983,1983-02-26T03:00:00Z,5,19,32,13,19,St. Louis Blues,/api/v1/teams/19,5,34,19,13,22,Edmonton Oilers,/api/v1/teams/22
+1982020657,/api/v1/game/1982020657/feed/live,R,19821983,1983-02-26T04:00:00Z,4,20,30,10,10,Toronto Maple Leafs,/api/v1/teams/10,1,20,31,10,23,Vancouver Canucks,/api/v1/teams/23
+1982020659,/api/v1/game/1982020659/feed/live,R,19821983,1983-02-27T01:00:00Z,1,30,20,14,15,Washington Capitals,/api/v1/teams/15,4,34,19,14,8,Montréal Canadiens,/api/v1/teams/8
+1982020660,/api/v1/game/1982020660/feed/live,R,19821983,1983-02-27T01:00:00Z,3,27,27,8,3,New York Rangers,/api/v1/teams/3,6,28,26,8,32,Quebec Nordiques,/api/v1/teams/32
+1982020661,/api/v1/game/1982020661/feed/live,R,19821983,1983-02-27T01:00:00Z,5,17,33,13,17,Detroit Red Wings,/api/v1/teams/17,3,32,21,13,2,New York Islanders,/api/v1/teams/2
+1982020662,/api/v1/game/1982020662/feed/live,R,19821983,1983-02-27T01:00:00Z,4,12,38,13,1,New Jersey Devils,/api/v1/teams/1,5,15,43,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020664,/api/v1/game/1982020664/feed/live,R,19821983,1983-02-27T02:00:00Z,4,38,16,9,16,Chicago Blackhawks,/api/v1/teams/16,4,32,17,9,31,Minnesota North Stars,/api/v1/teams/31
+1982020665,/api/v1/game/1982020665/feed/live,R,19821983,1983-02-27T03:00:00Z,2,19,33,13,19,St. Louis Blues,/api/v1/teams/19,7,26,29,13,20,Calgary Flames,/api/v1/teams/20
+1982020663,/api/v1/game/1982020663/feed/live,R,19821983,1983-02-27T04:00:00Z,2,20,31,10,10,Toronto Maple Leafs,/api/v1/teams/10,6,23,30,10,26,Los Angeles Kings,/api/v1/teams/26
+1982020666,/api/v1/game/1982020666/feed/live,R,19821983,1983-02-28T01:00:00Z,4,40,14,8,6,Boston Bruins,/api/v1/teams/6,3,16,42,8,34,Hartford Whalers,/api/v1/teams/34
+1982020667,/api/v1/game/1982020667/feed/live,R,19821983,1983-02-28T01:00:00Z,2,12,39,13,1,New Jersey Devils,/api/v1/teams/1,6,30,22,13,7,Buffalo Sabres,/api/v1/teams/7
+1982020668,/api/v1/game/1982020668/feed/live,R,19821983,1983-02-28T01:00:00Z,4,34,19,11,8,Montréal Canadiens,/api/v1/teams/8,4,17,33,11,17,Detroit Red Wings,/api/v1/teams/17
+1982020669,/api/v1/game/1982020669/feed/live,R,19821983,1983-02-28T01:00:00Z,0,32,22,11,2,New York Islanders,/api/v1/teams/2,2,41,15,11,4,Philadelphia Flyers,/api/v1/teams/4
+1982020670,/api/v1/game/1982020670/feed/live,R,19821983,1983-02-28T02:00:00Z,2,33,17,14,31,Minnesota North Stars,/api/v1/teams/31,1,38,17,14,16,Chicago Blackhawks,/api/v1/teams/16
+1982020671,/api/v1/game/1982020671/feed/live,R,19821983,1983-02-28T03:00:00Z,0,25,32,8,33,Winnipeg Jets (1979),/api/v1/teams/33,3,35,19,8,22,Edmonton Oilers,/api/v1/teams/22
+1982020672,/api/v1/game/1982020672/feed/live,R,19821983,1983-02-28T04:00:00Z,2,26,30,9,20,Calgary Flames,/api/v1/teams/20,6,21,31,9,23,Vancouver Canucks,/api/v1/teams/23
+1982020590,/api/v1/game/1982020590/feed/live,R,19821983,1983-03-01T01:00:00Z,3,20,32,10,10,Toronto Maple Leafs,/api/v1/teams/10,6,41,14,10,6,Boston Bruins,/api/v1/teams/6
+1982020673,/api/v1/game/1982020673/feed/live,R,19821983,1983-03-01T01:00:00Z,3,15,44,7,5,Pittsburgh Penguins,/api/v1/teams/5,9,28,27,7,3,New York Rangers,/api/v1/teams/3
+1982020674,/api/v1/game/1982020674/feed/live,R,19821983,1983-03-02T01:00:00Z,6,31,22,12,7,Buffalo Sabres,/api/v1/teams/7,5,16,43,12,34,Hartford Whalers,/api/v1/teams/34
+1982020675,/api/v1/game/1982020675/feed/live,R,19821983,1983-03-02T01:00:00Z,3,32,22,12,2,New York Islanders,/api/v1/teams/2,3,34,19,12,8,Montréal Canadiens,/api/v1/teams/8
+1982020676,/api/v1/game/1982020676/feed/live,R,19821983,1983-03-02T01:00:00Z,5,17,33,15,17,Detroit Red Wings,/api/v1/teams/17,5,28,26,15,32,Quebec Nordiques,/api/v1/teams/32
+1982020677,/api/v1/game/1982020677/feed/live,R,19821983,1983-03-02T01:00:00Z,3,28,27,9,3,New York Rangers,/api/v1/teams/3,3,15,44,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020678,/api/v1/game/1982020678/feed/live,R,19821983,1983-03-02T01:00:00Z,4,36,19,11,22,Edmonton Oilers,/api/v1/teams/22,3,12,40,11,1,New Jersey Devils,/api/v1/teams/1
+1982020679,/api/v1/game/1982020679/feed/live,R,19821983,1983-03-02T02:00:00Z,2,23,31,10,26,Los Angeles Kings,/api/v1/teams/26,7,20,33,10,19,St. Louis Blues,/api/v1/teams/19
+1982020680,/api/v1/game/1982020680/feed/live,R,19821983,1983-03-02T03:00:00Z,1,21,32,11,23,Vancouver Canucks,/api/v1/teams/23,8,27,30,11,20,Calgary Flames,/api/v1/teams/20
+1982020681,/api/v1/game/1982020681/feed/live,R,19821983,1983-03-03T01:00:00Z,2,41,15,8,4,Philadelphia Flyers,/api/v1/teams/4,2,20,32,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020682,/api/v1/game/1982020682/feed/live,R,19821983,1983-03-03T01:00:00Z,5,37,19,11,22,Edmonton Oilers,/api/v1/teams/22,3,30,21,11,15,Washington Capitals,/api/v1/teams/15
+1982020683,/api/v1/game/1982020683/feed/live,R,19821983,1983-03-03T02:00:00Z,3,23,32,10,26,Los Angeles Kings,/api/v1/teams/26,5,39,17,10,16,Chicago Blackhawks,/api/v1/teams/16
+1982020684,/api/v1/game/1982020684/feed/live,R,19821983,1983-03-03T02:00:00Z,4,20,33,14,19,St. Louis Blues,/api/v1/teams/19,4,33,17,14,31,Minnesota North Stars,/api/v1/teams/31
+1982020685,/api/v1/game/1982020685/feed/live,R,19821983,1983-03-03T02:00:00Z,3,22,32,11,23,Vancouver Canucks,/api/v1/teams/23,0,25,33,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020686,/api/v1/game/1982020686/feed/live,R,19821983,1983-03-04T01:00:00Z,3,32,22,12,7,Buffalo Sabres,/api/v1/teams/7,2,41,15,12,6,Boston Bruins,/api/v1/teams/6
+1982020687,/api/v1/game/1982020687/feed/live,R,19821983,1983-03-04T01:00:00Z,3,28,27,11,32,Quebec Nordiques,/api/v1/teams/32,5,18,33,11,17,Detroit Red Wings,/api/v1/teams/17
+1982020688,/api/v1/game/1982020688/feed/live,R,19821983,1983-03-04T01:00:00Z,1,20,33,11,10,Toronto Maple Leafs,/api/v1/teams/10,5,33,22,11,2,New York Islanders,/api/v1/teams/2
+1982020689,/api/v1/game/1982020689/feed/live,R,19821983,1983-03-04T01:00:00Z,4,31,21,14,15,Washington Capitals,/api/v1/teams/15,3,28,28,14,3,New York Rangers,/api/v1/teams/3
+1982020690,/api/v1/game/1982020690/feed/live,R,19821983,1983-03-04T01:00:00Z,4,42,15,8,4,Philadelphia Flyers,/api/v1/teams/4,1,12,41,8,1,New Jersey Devils,/api/v1/teams/1
+1982020691,/api/v1/game/1982020691/feed/live,R,19821983,1983-03-05T01:00:00Z,2,15,45,8,5,Pittsburgh Penguins,/api/v1/teams/5,10,33,22,8,7,Buffalo Sabres,/api/v1/teams/7
+1982020692,/api/v1/game/1982020692/feed/live,R,19821983,1983-03-06T01:00:00Z,3,39,18,9,16,Chicago Blackhawks,/api/v1/teams/16,6,42,15,9,6,Boston Bruins,/api/v1/teams/6
+1982020693,/api/v1/game/1982020693/feed/live,R,19821983,1983-03-06T01:00:00Z,3,16,44,6,34,Hartford Whalers,/api/v1/teams/34,10,29,27,6,32,Quebec Nordiques,/api/v1/teams/32
+1982020695,/api/v1/game/1982020695/feed/live,R,19821983,1983-03-06T01:00:00Z,1,12,42,13,1,New Jersey Devils,/api/v1/teams/1,5,34,22,13,2,New York Islanders,/api/v1/teams/2
+1982020696,/api/v1/game/1982020696/feed/live,R,19821983,1983-03-06T01:00:00Z,3,42,16,8,4,Philadelphia Flyers,/api/v1/teams/4,4,32,21,8,15,Washington Capitals,/api/v1/teams/15
+1982020697,/api/v1/game/1982020697/feed/live,R,19821983,1983-03-06T01:00:00Z,6,38,19,11,22,Edmonton Oilers,/api/v1/teams/22,3,20,34,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020698,/api/v1/game/1982020698/feed/live,R,19821983,1983-03-06T01:00:00Z,4,34,17,15,31,Minnesota North Stars,/api/v1/teams/31,1,18,34,15,17,Detroit Red Wings,/api/v1/teams/17
+1982020694,/api/v1/game/1982020694/feed/live,R,19821983,1983-03-06T02:00:00Z,6,35,19,12,8,Montréal Canadiens,/api/v1/teams/8,5,20,34,12,19,St. Louis Blues,/api/v1/teams/19
+1982020700,/api/v1/game/1982020700/feed/live,R,19821983,1983-03-06T03:00:00Z,4,23,32,11,26,Los Angeles Kings,/api/v1/teams/26,4,27,30,11,20,Calgary Flames,/api/v1/teams/20
+1982020699,/api/v1/game/1982020699/feed/live,R,19821983,1983-03-06T04:00:00Z,4,25,34,8,33,Winnipeg Jets (1979),/api/v1/teams/33,5,23,32,8,23,Vancouver Canucks,/api/v1/teams/23
+1982020701,/api/v1/game/1982020701/feed/live,R,19821983,1983-03-07T01:00:00Z,2,38,20,11,22,Edmonton Oilers,/api/v1/teams/22,5,43,15,11,6,Boston Bruins,/api/v1/teams/6
+1982020702,/api/v1/game/1982020702/feed/live,R,19821983,1983-03-07T01:00:00Z,7,30,27,11,32,Quebec Nordiques,/api/v1/teams/32,3,16,45,11,34,Hartford Whalers,/api/v1/teams/34
+1982020703,/api/v1/game/1982020703/feed/live,R,19821983,1983-03-07T01:00:00Z,4,18,35,15,17,Detroit Red Wings,/api/v1/teams/17,6,34,22,15,7,Buffalo Sabres,/api/v1/teams/7
+1982020705,/api/v1/game/1982020705/feed/live,R,19821983,1983-03-07T01:00:00Z,6,13,42,13,1,New Jersey Devils,/api/v1/teams/1,4,28,29,13,3,New York Rangers,/api/v1/teams/3
+1982020706,/api/v1/game/1982020706/feed/live,R,19821983,1983-03-07T01:00:00Z,5,43,16,8,4,Philadelphia Flyers,/api/v1/teams/4,3,15,46,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020704,/api/v1/game/1982020704/feed/live,R,19821983,1983-03-07T02:00:00Z,4,35,20,12,8,Montréal Canadiens,/api/v1/teams/8,5,40,18,12,16,Chicago Blackhawks,/api/v1/teams/16
+1982020707,/api/v1/game/1982020707/feed/live,R,19821983,1983-03-07T02:00:00Z,3,23,33,11,26,Los Angeles Kings,/api/v1/teams/26,8,35,17,11,31,Minnesota North Stars,/api/v1/teams/31
+1982020708,/api/v1/game/1982020708/feed/live,R,19821983,1983-03-07T04:00:00Z,2,25,35,8,33,Winnipeg Jets (1979),/api/v1/teams/33,6,24,32,8,23,Vancouver Canucks,/api/v1/teams/23
+1982020709,/api/v1/game/1982020709/feed/live,R,19821983,1983-03-09T01:00:00Z,11,44,15,8,6,Boston Bruins,/api/v1/teams/6,5,30,28,8,32,Quebec Nordiques,/api/v1/teams/32
+1982020710,/api/v1/game/1982020710/feed/live,R,19821983,1983-03-09T01:00:00Z,9,39,20,11,22,Edmonton Oilers,/api/v1/teams/22,4,16,46,11,34,Hartford Whalers,/api/v1/teams/34
+1982020712,/api/v1/game/1982020712/feed/live,R,19821983,1983-03-09T01:00:00Z,3,20,34,12,10,Toronto Maple Leafs,/api/v1/teams/10,3,35,20,12,8,Montréal Canadiens,/api/v1/teams/8
+1982020715,/api/v1/game/1982020715/feed/live,R,19821983,1983-03-09T01:00:00Z,4,41,18,9,16,Chicago Blackhawks,/api/v1/teams/16,1,43,17,9,4,Philadelphia Flyers,/api/v1/teams/4
+1982020716,/api/v1/game/1982020716/feed/live,R,19821983,1983-03-09T01:00:00Z,5,33,21,14,15,Washington Capitals,/api/v1/teams/15,4,13,43,14,1,New Jersey Devils,/api/v1/teams/1
+1982020711,/api/v1/game/1982020711/feed/live,R,19821983,1983-03-09T02:00:00Z,1,34,23,12,7,Buffalo Sabres,/api/v1/teams/7,5,36,17,12,31,Minnesota North Stars,/api/v1/teams/31
+1982020713,/api/v1/game/1982020713/feed/live,R,19821983,1983-03-09T02:00:00Z,0,34,23,12,2,New York Islanders,/api/v1/teams/2,6,21,34,12,19,St. Louis Blues,/api/v1/teams/19
+1982020714,/api/v1/game/1982020714/feed/live,R,19821983,1983-03-09T04:00:00Z,3,28,30,9,3,New York Rangers,/api/v1/teams/3,7,25,32,9,23,Vancouver Canucks,/api/v1/teams/23
+1982020717,/api/v1/game/1982020717/feed/live,R,19821983,1983-03-09T04:00:00Z,4,27,31,10,20,Calgary Flames,/api/v1/teams/20,6,24,33,10,26,Los Angeles Kings,/api/v1/teams/26
+1982020719,/api/v1/game/1982020719/feed/live,R,19821983,1983-03-10T01:00:00Z,2,21,35,14,19,St. Louis Blues,/api/v1/teams/19,5,21,34,14,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020718,/api/v1/game/1982020718/feed/live,R,19821983,1983-03-10T02:00:00Z,0,34,24,12,7,Buffalo Sabres,/api/v1/teams/7,6,26,35,12,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020720,/api/v1/game/1982020720/feed/live,R,19821983,1983-03-11T01:00:00Z,3,36,20,13,8,Montréal Canadiens,/api/v1/teams/8,1,44,16,13,6,Boston Bruins,/api/v1/teams/6
+1982020721,/api/v1/game/1982020721/feed/live,R,19821983,1983-03-11T01:00:00Z,3,17,46,6,34,Hartford Whalers,/api/v1/teams/34,0,13,44,6,1,New Jersey Devils,/api/v1/teams/1
+1982020722,/api/v1/game/1982020722/feed/live,R,19821983,1983-03-11T01:00:00Z,4,35,23,12,2,New York Islanders,/api/v1/teams/2,3,15,47,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020723,/api/v1/game/1982020723/feed/live,R,19821983,1983-03-11T01:00:00Z,3,36,18,15,31,Minnesota North Stars,/api/v1/teams/31,6,44,17,15,4,Philadelphia Flyers,/api/v1/teams/4
+1982020724,/api/v1/game/1982020724/feed/live,R,19821983,1983-03-11T01:00:00Z,2,41,19,9,16,Chicago Blackhawks,/api/v1/teams/16,4,19,35,9,17,Detroit Red Wings,/api/v1/teams/17
+1982020725,/api/v1/game/1982020725/feed/live,R,19821983,1983-03-11T03:00:00Z,3,26,36,8,33,Winnipeg Jets (1979),/api/v1/teams/33,6,28,31,8,20,Calgary Flames,/api/v1/teams/20
+1982020726,/api/v1/game/1982020726/feed/live,R,19821983,1983-03-12T03:00:00Z,1,28,31,9,3,New York Rangers,/api/v1/teams/3,3,40,20,9,22,Edmonton Oilers,/api/v1/teams/22
+1982020727,/api/v1/game/1982020727/feed/live,R,19821983,1983-03-13T01:00:00Z,2,44,18,8,4,Philadelphia Flyers,/api/v1/teams/4,5,45,16,8,6,Boston Bruins,/api/v1/teams/6
+1982020728,/api/v1/game/1982020728/feed/live,R,19821983,1983-03-13T01:00:00Z,7,16,47,8,5,Pittsburgh Penguins,/api/v1/teams/5,2,17,47,8,34,Hartford Whalers,/api/v1/teams/34
+1982020730,/api/v1/game/1982020730/feed/live,R,19821983,1983-03-13T01:00:00Z,7,14,44,13,1,New Jersey Devils,/api/v1/teams/1,3,36,21,13,8,Montréal Canadiens,/api/v1/teams/8
+1982020731,/api/v1/game/1982020731/feed/live,R,19821983,1983-03-13T01:00:00Z,3,36,19,15,31,Minnesota North Stars,/api/v1/teams/31,6,31,28,15,32,Quebec Nordiques,/api/v1/teams/32
+1982020732,/api/v1/game/1982020732/feed/live,R,19821983,1983-03-13T01:00:00Z,2,33,22,14,15,Washington Capitals,/api/v1/teams/15,6,36,23,14,2,New York Islanders,/api/v1/teams/2
+1982020734,/api/v1/game/1982020734/feed/live,R,19821983,1983-03-13T01:00:00Z,2,43,20,9,16,Chicago Blackhawks,/api/v1/teams/16,4,23,35,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020735,/api/v1/game/1982020735/feed/live,R,19821983,1983-03-13T02:00:00Z,1,19,36,15,17,Detroit Red Wings,/api/v1/teams/17,2,22,35,15,19,St. Louis Blues,/api/v1/teams/19
+1982020733,/api/v1/game/1982020733/feed/live,R,19821983,1983-03-13T03:00:00Z,4,29,31,9,3,New York Rangers,/api/v1/teams/3,1,28,32,9,20,Calgary Flames,/api/v1/teams/20
+1982020729,/api/v1/game/1982020729/feed/live,R,19821983,1983-03-13T04:00:00Z,3,34,25,12,7,Buffalo Sabres,/api/v1/teams/7,8,26,32,12,23,Vancouver Canucks,/api/v1/teams/23
+1982020736,/api/v1/game/1982020736/feed/live,R,19821983,1983-03-14T01:00:00Z,4,45,17,8,6,Boston Bruins,/api/v1/teams/6,6,34,22,8,15,Washington Capitals,/api/v1/teams/15
+1982020738,/api/v1/game/1982020738/feed/live,R,19821983,1983-03-14T01:00:00Z,4,42,19,9,16,Chicago Blackhawks,/api/v1/teams/16,3,16,48,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020739,/api/v1/game/1982020739/feed/live,R,19821983,1983-03-14T01:00:00Z,5,22,34,12,10,Toronto Maple Leafs,/api/v1/teams/10,2,19,37,12,17,Detroit Red Wings,/api/v1/teams/17
+1982020737,/api/v1/game/1982020737/feed/live,R,19821983,1983-03-14T03:00:00Z,2,34,26,12,7,Buffalo Sabres,/api/v1/teams/7,6,41,20,12,22,Edmonton Oilers,/api/v1/teams/22
+1982020740,/api/v1/game/1982020740/feed/live,R,19821983,1983-03-14T04:00:00Z,6,27,36,8,33,Winnipeg Jets (1979),/api/v1/teams/33,5,24,34,8,26,Los Angeles Kings,/api/v1/teams/26
+1982020741,/api/v1/game/1982020741/feed/live,R,19821983,1983-03-15T01:00:00Z,2,44,19,8,4,Philadelphia Flyers,/api/v1/teams/4,8,30,31,8,3,New York Rangers,/api/v1/teams/3
+1982020742,/api/v1/game/1982020742/feed/live,R,19821983,1983-03-15T01:00:00Z,7,29,32,10,20,Calgary Flames,/api/v1/teams/20,0,14,45,10,1,New Jersey Devils,/api/v1/teams/1
+1982020743,/api/v1/game/1982020743/feed/live,R,19821983,1983-03-15T02:00:00Z,3,26,33,11,23,Vancouver Canucks,/api/v1/teams/23,6,37,19,11,31,Minnesota North Stars,/api/v1/teams/31
+1982020744,/api/v1/game/1982020744/feed/live,R,19821983,1983-03-16T01:00:00Z,1,17,48,6,34,Hartford Whalers,/api/v1/teams/34,5,37,21,6,8,Montréal Canadiens,/api/v1/teams/8
+1982020745,/api/v1/game/1982020745/feed/live,R,19821983,1983-03-16T02:00:00Z,3,31,29,11,32,Quebec Nordiques,/api/v1/teams/32,5,23,35,11,19,St. Louis Blues,/api/v1/teams/19
+1982020746,/api/v1/game/1982020746/feed/live,R,19821983,1983-03-16T04:00:00Z,3,27,37,8,33,Winnipeg Jets (1979),/api/v1/teams/33,4,25,34,8,26,Los Angeles Kings,/api/v1/teams/26
+1982020747,/api/v1/game/1982020747/feed/live,R,19821983,1983-03-17T01:00:00Z,4,17,49,6,34,Hartford Whalers,/api/v1/teams/34,5,35,22,6,15,Washington Capitals,/api/v1/teams/15
+1982020748,/api/v1/game/1982020748/feed/live,R,19821983,1983-03-17T01:00:00Z,3,29,33,10,20,Calgary Flames,/api/v1/teams/20,5,35,26,10,7,Buffalo Sabres,/api/v1/teams/7
+1982020749,/api/v1/game/1982020749/feed/live,R,19821983,1983-03-17T01:00:00Z,1,36,24,12,2,New York Islanders,/api/v1/teams/2,2,31,31,12,3,New York Rangers,/api/v1/teams/3
+1982020751,/api/v1/game/1982020751/feed/live,R,19821983,1983-03-17T01:00:00Z,4,20,37,15,17,Detroit Red Wings,/api/v1/teams/17,3,22,35,15,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020750,/api/v1/game/1982020750/feed/live,R,19821983,1983-03-17T02:00:00Z,2,16,49,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,38,19,8,31,Minnesota North Stars,/api/v1/teams/31
+1982020752,/api/v1/game/1982020752/feed/live,R,19821983,1983-03-17T02:00:00Z,1,23,36,14,19,St. Louis Blues,/api/v1/teams/19,4,43,19,14,16,Chicago Blackhawks,/api/v1/teams/16
+1982020753,/api/v1/game/1982020753/feed/live,R,19821983,1983-03-17T03:00:00Z,3,26,34,11,23,Vancouver Canucks,/api/v1/teams/23,4,42,20,11,22,Edmonton Oilers,/api/v1/teams/22
+1982020754,/api/v1/game/1982020754/feed/live,R,19821983,1983-03-18T01:00:00Z,2,36,22,14,15,Washington Capitals,/api/v1/teams/15,1,45,18,14,6,Boston Bruins,/api/v1/teams/6
+1982020755,/api/v1/game/1982020755/feed/live,R,19821983,1983-03-18T01:00:00Z,4,37,22,13,8,Montréal Canadiens,/api/v1/teams/8,6,45,19,13,4,Philadelphia Flyers,/api/v1/teams/4
+1982020757,/api/v1/game/1982020757/feed/live,R,19821983,1983-03-18T01:00:00Z,9,37,24,12,2,New York Islanders,/api/v1/teams/2,5,14,46,12,1,New Jersey Devils,/api/v1/teams/1
+1982020756,/api/v1/game/1982020756/feed/live,R,19821983,1983-03-18T04:00:00Z,3,31,30,11,32,Quebec Nordiques,/api/v1/teams/32,4,26,34,11,26,Los Angeles Kings,/api/v1/teams/26
+1982020759,/api/v1/game/1982020759/feed/live,R,19821983,1983-03-19T02:00:00Z,3,23,36,12,10,Toronto Maple Leafs,/api/v1/teams/10,7,28,37,12,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020758,/api/v1/game/1982020758/feed/live,R,19821983,1983-03-19T04:00:00Z,3,31,31,11,32,Quebec Nordiques,/api/v1/teams/32,7,27,34,11,23,Vancouver Canucks,/api/v1/teams/23
+1982020760,/api/v1/game/1982020760/feed/live,R,19821983,1983-03-20T01:00:00Z,2,29,33,11,20,Calgary Flames,/api/v1/teams/20,2,45,18,11,6,Boston Bruins,/api/v1/teams/6
+1982020761,/api/v1/game/1982020761/feed/live,R,19821983,1983-03-20T01:00:00Z,6,36,26,12,7,Buffalo Sabres,/api/v1/teams/7,4,37,23,12,8,Montréal Canadiens,/api/v1/teams/8
+1982020762,/api/v1/game/1982020762/feed/live,R,19821983,1983-03-20T01:00:00Z,2,45,20,8,4,Philadelphia Flyers,/api/v1/teams/4,9,38,24,8,2,New York Islanders,/api/v1/teams/2
+1982020765,/api/v1/game/1982020765/feed/live,R,19821983,1983-03-20T02:00:00Z,3,38,19,16,31,Minnesota North Stars,/api/v1/teams/31,3,23,36,16,19,St. Louis Blues,/api/v1/teams/19
+1982020764,/api/v1/game/1982020764/feed/live,R,19821983,1983-03-20T03:00:00Z,7,20,38,15,17,Detroit Red Wings,/api/v1/teams/17,9,43,20,15,22,Edmonton Oilers,/api/v1/teams/22
+1982020763,/api/v1/game/1982020763/feed/live,R,19821983,1983-03-20T04:00:00Z,7,17,49,8,5,Pittsburgh Penguins,/api/v1/teams/5,4,26,35,8,26,Los Angeles Kings,/api/v1/teams/26
+1982020766,/api/v1/game/1982020766/feed/live,R,19821983,1983-03-21T01:00:00Z,4,46,18,9,6,Boston Bruins,/api/v1/teams/6,0,31,32,9,3,New York Rangers,/api/v1/teams/3
+1982020767,/api/v1/game/1982020767/feed/live,R,19821983,1983-03-21T01:00:00Z,2,29,33,12,20,Calgary Flames,/api/v1/teams/20,2,17,49,12,34,Hartford Whalers,/api/v1/teams/34
+1982020768,/api/v1/game/1982020768/feed/live,R,19821983,1983-03-21T01:00:00Z,7,38,23,13,8,Montréal Canadiens,/api/v1/teams/8,4,36,27,13,7,Buffalo Sabres,/api/v1/teams/7
+1982020770,/api/v1/game/1982020770/feed/live,R,19821983,1983-03-21T01:00:00Z,3,37,22,14,15,Washington Capitals,/api/v1/teams/15,2,45,21,14,4,Philadelphia Flyers,/api/v1/teams/4
+1982020769,/api/v1/game/1982020769/feed/live,R,19821983,1983-03-21T02:00:00Z,2,31,32,11,32,Quebec Nordiques,/api/v1/teams/32,3,29,37,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020771,/api/v1/game/1982020771/feed/live,R,19821983,1983-03-21T02:00:00Z,3,23,37,12,10,Toronto Maple Leafs,/api/v1/teams/10,7,44,20,12,16,Chicago Blackhawks,/api/v1/teams/16
+1982020772,/api/v1/game/1982020772/feed/live,R,19821983,1983-03-21T04:00:00Z,3,20,39,15,17,Detroit Red Wings,/api/v1/teams/17,6,28,34,15,23,Vancouver Canucks,/api/v1/teams/23
+1982020773,/api/v1/game/1982020773/feed/live,R,19821983,1983-03-22T01:00:00Z,2,31,33,9,3,New York Rangers,/api/v1/teams/3,4,15,46,9,1,New Jersey Devils,/api/v1/teams/1
+1982020774,/api/v1/game/1982020774/feed/live,R,19821983,1983-03-22T01:00:00Z,4,44,20,11,22,Edmonton Oilers,/api/v1/teams/22,1,23,38,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020775,/api/v1/game/1982020775/feed/live,R,19821983,1983-03-22T02:00:00Z,3,44,21,9,16,Chicago Blackhawks,/api/v1/teams/16,4,39,19,9,31,Minnesota North Stars,/api/v1/teams/31
+1982020779,/api/v1/game/1982020779/feed/live,R,19821983,1983-03-22T04:00:00Z,3,17,50,8,5,Pittsburgh Penguins,/api/v1/teams/5,7,29,34,8,23,Vancouver Canucks,/api/v1/teams/23
+1982020776,/api/v1/game/1982020776/feed/live,R,19821983,1983-03-23T01:00:00Z,3,47,18,9,6,Boston Bruins,/api/v1/teams/6,1,38,25,9,2,New York Islanders,/api/v1/teams/2
+1982020777,/api/v1/game/1982020777/feed/live,R,19821983,1983-03-23T01:00:00Z,4,24,36,15,19,St. Louis Blues,/api/v1/teams/19,1,17,50,15,34,Hartford Whalers,/api/v1/teams/34
+1982020778,/api/v1/game/1982020778/feed/live,R,19821983,1983-03-23T01:00:00Z,5,26,36,11,26,Los Angeles Kings,/api/v1/teams/26,6,39,23,11,8,Montréal Canadiens,/api/v1/teams/8
+1982020589,/api/v1/game/1982020589/feed/live,R,19821983,1983-03-24T01:00:00Z,1,29,34,12,23,Vancouver Canucks,/api/v1/teams/23,1,37,22,12,15,Washington Capitals,/api/v1/teams/15
+1982020780,/api/v1/game/1982020780/feed/live,R,19821983,1983-03-24T01:00:00Z,3,17,51,7,34,Hartford Whalers,/api/v1/teams/34,8,37,27,7,7,Buffalo Sabres,/api/v1/teams/7
+1982020781,/api/v1/game/1982020781/feed/live,R,19821983,1983-03-24T01:00:00Z,7,32,33,9,3,New York Rangers,/api/v1/teams/3,1,20,40,9,17,Detroit Red Wings,/api/v1/teams/17
+1982020783,/api/v1/game/1982020783/feed/live,R,19821983,1983-03-24T01:00:00Z,3,39,20,16,31,Minnesota North Stars,/api/v1/teams/31,6,24,38,16,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020784,/api/v1/game/1982020784/feed/live,R,19821983,1983-03-24T02:00:00Z,4,44,21,11,22,Edmonton Oilers,/api/v1/teams/22,7,30,37,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020782,/api/v1/game/1982020782/feed/live,R,19821983,1983-03-25T01:00:00Z,3,15,47,13,1,New Jersey Devils,/api/v1/teams/1,5,38,22,13,15,Washington Capitals,/api/v1/teams/15
+1982020785,/api/v1/game/1982020785/feed/live,R,19821983,1983-03-25T01:00:00Z,6,24,37,15,19,St. Louis Blues,/api/v1/teams/19,7,48,18,15,6,Boston Bruins,/api/v1/teams/6
+1982020786,/api/v1/game/1982020786/feed/live,R,19821983,1983-03-25T01:00:00Z,3,39,21,16,31,Minnesota North Stars,/api/v1/teams/31,5,40,23,16,8,Montréal Canadiens,/api/v1/teams/8
+1982020787,/api/v1/game/1982020787/feed/live,R,19821983,1983-03-25T01:00:00Z,3,26,37,11,26,Los Angeles Kings,/api/v1/teams/26,7,32,32,11,32,Quebec Nordiques,/api/v1/teams/32
+1982020788,/api/v1/game/1982020788/feed/live,R,19821983,1983-03-25T01:00:00Z,4,24,39,12,10,Toronto Maple Leafs,/api/v1/teams/10,7,46,21,12,4,Philadelphia Flyers,/api/v1/teams/4
+1982020789,/api/v1/game/1982020789/feed/live,R,19821983,1983-03-25T03:00:00Z,5,44,22,9,16,Chicago Blackhawks,/api/v1/teams/16,6,30,33,9,20,Calgary Flames,/api/v1/teams/20
+1982020790,/api/v1/game/1982020790/feed/live,R,19821983,1983-03-26T01:00:00Z,5,46,22,8,4,Philadelphia Flyers,/api/v1/teams/4,6,16,47,8,1,New Jersey Devils,/api/v1/teams/1
+1982020791,/api/v1/game/1982020791/feed/live,R,19821983,1983-03-26T04:00:00Z,3,44,22,10,16,Chicago Blackhawks,/api/v1/teams/16,3,29,34,10,23,Vancouver Canucks,/api/v1/teams/23
+1982020792,/api/v1/game/1982020792/feed/live,R,19821983,1983-03-27T01:00:00Z,4,17,52,7,34,Hartford Whalers,/api/v1/teams/34,7,49,18,7,6,Boston Bruins,/api/v1/teams/6
+1982020793,/api/v1/game/1982020793/feed/live,R,19821983,1983-03-27T01:00:00Z,5,24,38,15,19,St. Louis Blues,/api/v1/teams/19,6,41,23,15,8,Montréal Canadiens,/api/v1/teams/8
+1982020794,/api/v1/game/1982020794/feed/live,R,19821983,1983-03-27T01:00:00Z,1,32,33,11,32,Quebec Nordiques,/api/v1/teams/32,2,25,39,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020795,/api/v1/game/1982020795/feed/live,R,19821983,1983-03-27T01:00:00Z,2,32,34,9,3,New York Rangers,/api/v1/teams/3,3,39,25,9,2,New York Islanders,/api/v1/teams/2
+1982020796,/api/v1/game/1982020796/feed/live,R,19821983,1983-03-27T01:00:00Z,4,17,50,9,5,Pittsburgh Penguins,/api/v1/teams/5,4,38,22,9,15,Washington Capitals,/api/v1/teams/15
+1982020797,/api/v1/game/1982020797/feed/live,R,19821983,1983-03-27T01:00:00Z,7,40,21,16,31,Minnesota North Stars,/api/v1/teams/31,5,20,41,16,17,Detroit Red Wings,/api/v1/teams/17
+1982020798,/api/v1/game/1982020798/feed/live,R,19821983,1983-03-27T03:00:00Z,5,31,37,8,33,Winnipeg Jets (1979),/api/v1/teams/33,2,30,34,8,20,Calgary Flames,/api/v1/teams/20
+1982020799,/api/v1/game/1982020799/feed/live,R,19821983,1983-03-27T04:00:00Z,9,45,21,11,22,Edmonton Oilers,/api/v1/teams/22,3,26,38,11,26,Los Angeles Kings,/api/v1/teams/26
+1982020800,/api/v1/game/1982020800/feed/live,R,19821983,1983-03-28T01:00:00Z,1,49,19,9,6,Boston Bruins,/api/v1/teams/6,5,18,52,9,34,Hartford Whalers,/api/v1/teams/34
+1982020801,/api/v1/game/1982020801/feed/live,R,19821983,1983-03-28T01:00:00Z,6,32,33,12,32,Quebec Nordiques,/api/v1/teams/32,6,37,27,12,7,Buffalo Sabres,/api/v1/teams/7
+1982020802,/api/v1/game/1982020802/feed/live,R,19821983,1983-03-28T01:00:00Z,4,40,25,12,2,New York Islanders,/api/v1/teams/2,1,17,51,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020803,/api/v1/game/1982020803/feed/live,R,19821983,1983-03-28T01:00:00Z,4,38,23,16,15,Washington Capitals,/api/v1/teams/15,5,33,34,16,3,New York Rangers,/api/v1/teams/3
+1982020804,/api/v1/game/1982020804/feed/live,R,19821983,1983-03-28T01:00:00Z,1,16,48,13,1,New Jersey Devils,/api/v1/teams/1,4,47,22,13,4,Philadelphia Flyers,/api/v1/teams/4
+1982020805,/api/v1/game/1982020805/feed/live,R,19821983,1983-03-28T02:00:00Z,0,20,42,15,17,Detroit Red Wings,/api/v1/teams/17,6,45,22,15,16,Chicago Blackhawks,/api/v1/teams/16
+1982020806,/api/v1/game/1982020806/feed/live,R,19821983,1983-03-28T02:00:00Z,4,31,34,12,20,Calgary Flames,/api/v1/teams/20,3,31,38,12,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020807,/api/v1/game/1982020807/feed/live,R,19821983,1983-03-28T04:00:00Z,4,26,39,11,26,Los Angeles Kings,/api/v1/teams/26,8,30,34,11,23,Vancouver Canucks,/api/v1/teams/23
+1982020808,/api/v1/game/1982020808/feed/live,R,19821983,1983-03-30T01:00:00Z,4,50,19,9,6,Boston Bruins,/api/v1/teams/6,3,32,34,9,32,Quebec Nordiques,/api/v1/teams/32
+1982020809,/api/v1/game/1982020809/feed/live,R,19821983,1983-03-30T01:00:00Z,4,37,28,13,7,Buffalo Sabres,/api/v1/teams/7,5,19,52,13,34,Hartford Whalers,/api/v1/teams/34
+1982020810,/api/v1/game/1982020810/feed/live,R,19821983,1983-03-30T02:00:00Z,4,34,34,9,3,New York Rangers,/api/v1/teams/3,3,24,39,9,19,St. Louis Blues,/api/v1/teams/19
+1982020811,/api/v1/game/1982020811/feed/live,R,19821983,1983-03-30T02:00:00Z,4,26,39,12,10,Toronto Maple Leafs,/api/v1/teams/10,2,40,22,12,31,Minnesota North Stars,/api/v1/teams/31
+1982020812,/api/v1/game/1982020812/feed/live,R,19821983,1983-03-30T03:00:00Z,3,26,40,11,26,Los Angeles Kings,/api/v1/teams/26,5,32,34,11,20,Calgary Flames,/api/v1/teams/20
+1982020813,/api/v1/game/1982020813/feed/live,R,19821983,1983-03-30T04:00:00Z,7,46,21,11,22,Edmonton Oilers,/api/v1/teams/22,4,30,35,11,23,Vancouver Canucks,/api/v1/teams/23
+1982020814,/api/v1/game/1982020814/feed/live,R,19821983,1983-03-31T01:00:00Z,2,41,24,13,8,Montréal Canadiens,/api/v1/teams/8,3,18,51,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020815,/api/v1/game/1982020815/feed/live,R,19821983,1983-03-31T01:00:00Z,7,41,25,12,2,New York Islanders,/api/v1/teams/2,1,38,24,12,15,Washington Capitals,/api/v1/teams/15
+1982020816,/api/v1/game/1982020816/feed/live,R,19821983,1983-03-31T01:00:00Z,4,27,39,12,10,Toronto Maple Leafs,/api/v1/teams/10,2,20,43,12,17,Detroit Red Wings,/api/v1/teams/17
+1982020817,/api/v1/game/1982020817/feed/live,R,19821983,1983-03-31T02:00:00Z,0,40,23,16,31,Minnesota North Stars,/api/v1/teams/31,5,46,22,16,16,Chicago Blackhawks,/api/v1/teams/16
+1982020818,/api/v1/game/1982020818/feed/live,R,19821983,1983-03-31T02:00:00Z,5,26,41,11,26,Los Angeles Kings,/api/v1/teams/26,10,32,38,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020819,/api/v1/game/1982020819/feed/live,R,19821983,1983-04-01T01:00:00Z,8,38,28,13,7,Buffalo Sabres,/api/v1/teams/7,5,16,49,13,1,New Jersey Devils,/api/v1/teams/1
+1982020820,/api/v1/game/1982020820/feed/live,R,19821983,1983-04-01T01:00:00Z,4,35,34,9,3,New York Rangers,/api/v1/teams/3,2,47,23,9,4,Philadelphia Flyers,/api/v1/teams/4
+1982020821,/api/v1/game/1982020821/feed/live,R,19821983,1983-04-01T03:00:00Z,4,30,35,14,23,Vancouver Canucks,/api/v1/teams/23,4,32,34,14,20,Calgary Flames,/api/v1/teams/20
+1982020822,/api/v1/game/1982020822/feed/live,R,19821983,1983-04-02T01:00:00Z,3,16,49,14,1,New Jersey Devils,/api/v1/teams/1,3,35,34,14,3,New York Rangers,/api/v1/teams/3
+1982020823,/api/v1/game/1982020823/feed/live,R,19821983,1983-04-02T01:00:00Z,7,38,25,16,15,Washington Capitals,/api/v1/teams/15,8,21,43,16,17,Detroit Red Wings,/api/v1/teams/17
+1982020824,/api/v1/game/1982020824/feed/live,R,19821983,1983-04-02T03:00:00Z,2,32,39,8,33,Winnipeg Jets (1979),/api/v1/teams/33,7,47,21,8,22,Edmonton Oilers,/api/v1/teams/22
+1982020825,/api/v1/game/1982020825/feed/live,R,19821983,1983-04-03T01:00:00Z,1,50,20,9,6,Boston Bruins,/api/v1/teams/6,2,42,24,9,8,Montréal Canadiens,/api/v1/teams/8
+1982020826,/api/v1/game/1982020826/feed/live,R,19821983,1983-04-03T01:00:00Z,5,33,34,12,32,Quebec Nordiques,/api/v1/teams/32,4,19,53,12,34,Hartford Whalers,/api/v1/teams/34
+1982020827,/api/v1/game/1982020827/feed/live,R,19821983,1983-04-03T01:00:00Z,3,18,52,9,5,Pittsburgh Penguins,/api/v1/teams/5,6,42,25,9,2,New York Islanders,/api/v1/teams/2
+1982020828,/api/v1/game/1982020828/feed/live,R,19821983,1983-04-03T01:00:00Z,6,48,23,8,4,Philadelphia Flyers,/api/v1/teams/4,3,27,40,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1982020829,/api/v1/game/1982020829/feed/live,R,19821983,1983-04-03T02:00:00Z,2,46,23,10,16,Chicago Blackhawks,/api/v1/teams/16,4,25,39,10,19,St. Louis Blues,/api/v1/teams/19
+1982020830,/api/v1/game/1982020830/feed/live,R,19821983,1983-04-03T04:00:00Z,5,40,24,16,31,Minnesota North Stars,/api/v1/teams/31,8,27,41,16,26,Los Angeles Kings,/api/v1/teams/26
+1982020831,/api/v1/game/1982020831/feed/live,R,19821983,1983-04-04T01:00:00Z,4,42,24,14,8,Montréal Canadiens,/api/v1/teams/8,4,50,20,14,6,Boston Bruins,/api/v1/teams/6
+1982020832,/api/v1/game/1982020832/feed/live,R,19821983,1983-04-04T01:00:00Z,5,19,54,7,34,Hartford Whalers,/api/v1/teams/34,6,34,34,7,32,Quebec Nordiques,/api/v1/teams/32
+1982020833,/api/v1/game/1982020833/feed/live,R,19821983,1983-04-04T01:00:00Z,4,28,40,12,10,Toronto Maple Leafs,/api/v1/teams/10,3,38,29,12,7,Buffalo Sabres,/api/v1/teams/7
+1982020834,/api/v1/game/1982020834/feed/live,R,19821983,1983-04-04T01:00:00Z,2,42,26,12,2,New York Islanders,/api/v1/teams/2,4,49,23,12,4,Philadelphia Flyers,/api/v1/teams/4
+1982020835,/api/v1/game/1982020835/feed/live,R,19821983,1983-04-04T01:00:00Z,0,35,35,10,3,New York Rangers,/api/v1/teams/3,3,39,25,10,15,Washington Capitals,/api/v1/teams/15
+1982020836,/api/v1/game/1982020836/feed/live,R,19821983,1983-04-04T01:00:00Z,5,17,49,14,1,New Jersey Devils,/api/v1/teams/1,3,18,53,14,5,Pittsburgh Penguins,/api/v1/teams/5
+1982020837,/api/v1/game/1982020837/feed/live,R,19821983,1983-04-04T02:00:00Z,3,21,44,15,17,Detroit Red Wings,/api/v1/teams/17,8,33,39,15,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982020838,/api/v1/game/1982020838/feed/live,R,19821983,1983-04-04T02:00:00Z,2,25,40,15,19,St. Louis Blues,/api/v1/teams/19,7,47,23,15,16,Chicago Blackhawks,/api/v1/teams/16
+1982020839,/api/v1/game/1982020839/feed/live,R,19821983,1983-04-04T03:00:00Z,3,32,34,14,20,Calgary Flames,/api/v1/teams/20,3,47,21,14,22,Edmonton Oilers,/api/v1/teams/22
+1982020840,/api/v1/game/1982020840/feed/live,R,19821983,1983-04-04T04:00:00Z,2,30,35,15,23,Vancouver Canucks,/api/v1/teams/23,2,27,41,15,26,Los Angeles Kings,/api/v1/teams/26
+1982030111,/api/v1/game/1982030111/feed/live,P,19821983,1983-04-06T01:00:00Z,3,0,1,,32,Quebec Nordiques,/api/v1/teams/32,4,1,0,,6,Boston Bruins,/api/v1/teams/6
+1982030131,/api/v1/game/1982030131/feed/live,P,19821983,1983-04-06T01:00:00Z,5,1,0,,3,New York Rangers,/api/v1/teams/3,3,0,1,,4,Philadelphia Flyers,/api/v1/teams/4
+1982030121,/api/v1/game/1982030121/feed/live,P,19821983,1983-04-07T01:00:00Z,1,1,0,,7,Buffalo Sabres,/api/v1/teams/7,0,0,1,,8,Montréal Canadiens,/api/v1/teams/8
+1982030141,/api/v1/game/1982030141/feed/live,P,19821983,1983-04-07T01:00:00Z,2,0,1,,15,Washington Capitals,/api/v1/teams/15,5,1,0,,2,New York Islanders,/api/v1/teams/2
+1982030151,/api/v1/game/1982030151/feed/live,P,19821983,1983-04-07T02:00:00Z,4,1,0,,19,St. Louis Blues,/api/v1/teams/19,2,0,1,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030161,/api/v1/game/1982030161/feed/live,P,19821983,1983-04-07T02:00:00Z,4,0,1,,10,Toronto Maple Leafs,/api/v1/teams/10,5,1,0,,31,Minnesota North Stars,/api/v1/teams/31
+1982030171,/api/v1/game/1982030171/feed/live,P,19821983,1983-04-07T03:00:00Z,3,0,1,,33,Winnipeg Jets (1979),/api/v1/teams/33,6,1,0,,22,Edmonton Oilers,/api/v1/teams/22
+1982030181,/api/v1/game/1982030181/feed/live,P,19821983,1983-04-07T03:00:00Z,3,0,1,,23,Vancouver Canucks,/api/v1/teams/23,4,1,0,,20,Calgary Flames,/api/v1/teams/20
+1982030112,/api/v1/game/1982030112/feed/live,P,19821983,1983-04-08T01:00:00Z,2,0,2,,32,Quebec Nordiques,/api/v1/teams/32,4,2,0,,6,Boston Bruins,/api/v1/teams/6
+1982030122,/api/v1/game/1982030122/feed/live,P,19821983,1983-04-08T01:00:00Z,3,2,0,,7,Buffalo Sabres,/api/v1/teams/7,0,0,2,,8,Montréal Canadiens,/api/v1/teams/8
+1982030132,/api/v1/game/1982030132/feed/live,P,19821983,1983-04-08T01:00:00Z,4,2,0,,3,New York Rangers,/api/v1/teams/3,3,0,2,,4,Philadelphia Flyers,/api/v1/teams/4
+1982030142,/api/v1/game/1982030142/feed/live,P,19821983,1983-04-08T01:00:00Z,4,1,1,,15,Washington Capitals,/api/v1/teams/15,2,1,1,,2,New York Islanders,/api/v1/teams/2
+1982030152,/api/v1/game/1982030152/feed/live,P,19821983,1983-04-08T02:00:00Z,2,1,1,,19,St. Louis Blues,/api/v1/teams/19,7,1,1,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030162,/api/v1/game/1982030162/feed/live,P,19821983,1983-04-08T02:00:00Z,4,0,2,,10,Toronto Maple Leafs,/api/v1/teams/10,5,2,0,,31,Minnesota North Stars,/api/v1/teams/31
+1982030172,/api/v1/game/1982030172/feed/live,P,19821983,1983-04-08T03:00:00Z,3,0,2,,33,Winnipeg Jets (1979),/api/v1/teams/33,4,2,0,,22,Edmonton Oilers,/api/v1/teams/22
+1982030182,/api/v1/game/1982030182/feed/live,P,19821983,1983-04-08T03:00:00Z,3,0,2,,23,Vancouver Canucks,/api/v1/teams/23,5,2,0,,20,Calgary Flames,/api/v1/teams/20
+1982030113,/api/v1/game/1982030113/feed/live,P,19821983,1983-04-10T01:00:00Z,1,2,1,,6,Boston Bruins,/api/v1/teams/6,2,1,2,,32,Quebec Nordiques,/api/v1/teams/32
+1982030123,/api/v1/game/1982030123/feed/live,P,19821983,1983-04-10T01:00:00Z,2,0,3,,8,Montréal Canadiens,/api/v1/teams/8,4,3,0,,7,Buffalo Sabres,/api/v1/teams/7
+1982030133,/api/v1/game/1982030133/feed/live,P,19821983,1983-04-10T01:00:00Z,3,0,3,,4,Philadelphia Flyers,/api/v1/teams/4,9,3,0,,3,New York Rangers,/api/v1/teams/3
+1982030143,/api/v1/game/1982030143/feed/live,P,19821983,1983-04-10T01:00:00Z,6,2,1,,2,New York Islanders,/api/v1/teams/2,2,1,2,,15,Washington Capitals,/api/v1/teams/15
+1982030163,/api/v1/game/1982030163/feed/live,P,19821983,1983-04-10T01:00:00Z,3,2,1,,31,Minnesota North Stars,/api/v1/teams/31,6,1,2,,10,Toronto Maple Leafs,/api/v1/teams/10
+1982030153,/api/v1/game/1982030153/feed/live,P,19821983,1983-04-10T02:00:00Z,2,2,1,,16,Chicago Blackhawks,/api/v1/teams/16,1,1,2,,19,St. Louis Blues,/api/v1/teams/19
+1982030173,/api/v1/game/1982030173/feed/live,P,19821983,1983-04-10T02:00:00Z,4,3,0,,22,Edmonton Oilers,/api/v1/teams/22,3,0,3,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1982030183,/api/v1/game/1982030183/feed/live,P,19821983,1983-04-10T04:00:00Z,4,2,1,,20,Calgary Flames,/api/v1/teams/20,5,1,2,,23,Vancouver Canucks,/api/v1/teams/23
+1982030114,/api/v1/game/1982030114/feed/live,P,19821983,1983-04-11T01:00:00Z,2,3,1,,6,Boston Bruins,/api/v1/teams/6,1,1,3,,32,Quebec Nordiques,/api/v1/teams/32
+1982030144,/api/v1/game/1982030144/feed/live,P,19821983,1983-04-11T01:00:00Z,6,3,1,,2,New York Islanders,/api/v1/teams/2,3,1,3,,15,Washington Capitals,/api/v1/teams/15
+1982030164,/api/v1/game/1982030164/feed/live,P,19821983,1983-04-11T01:00:00Z,5,3,1,,31,Minnesota North Stars,/api/v1/teams/31,4,1,3,,10,Toronto Maple Leafs,/api/v1/teams/10
+1982030154,/api/v1/game/1982030154/feed/live,P,19821983,1983-04-11T02:00:00Z,5,3,1,,16,Chicago Blackhawks,/api/v1/teams/16,3,1,3,,19,St. Louis Blues,/api/v1/teams/19
+1982030184,/api/v1/game/1982030184/feed/live,P,19821983,1983-04-11T04:00:00Z,4,3,1,,20,Calgary Flames,/api/v1/teams/20,3,1,3,,23,Vancouver Canucks,/api/v1/teams/23
+1982030211,/api/v1/game/1982030211/feed/live,P,19821983,1983-04-15T01:00:00Z,7,4,0,,7,Buffalo Sabres,/api/v1/teams/7,4,3,2,,6,Boston Bruins,/api/v1/teams/6
+1982030221,/api/v1/game/1982030221/feed/live,P,19821983,1983-04-15T01:00:00Z,1,3,1,,3,New York Rangers,/api/v1/teams/3,4,4,1,,2,New York Islanders,/api/v1/teams/2
+1982030231,/api/v1/game/1982030231/feed/live,P,19821983,1983-04-15T02:00:00Z,2,3,2,,31,Minnesota North Stars,/api/v1/teams/31,5,4,1,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030241,/api/v1/game/1982030241/feed/live,P,19821983,1983-04-15T03:00:00Z,3,3,2,,20,Calgary Flames,/api/v1/teams/20,6,4,0,,22,Edmonton Oilers,/api/v1/teams/22
+1982030212,/api/v1/game/1982030212/feed/live,P,19821983,1983-04-16T01:00:00Z,3,4,1,,7,Buffalo Sabres,/api/v1/teams/7,5,4,2,,6,Boston Bruins,/api/v1/teams/6
+1982030222,/api/v1/game/1982030222/feed/live,P,19821983,1983-04-16T01:00:00Z,0,3,2,,3,New York Rangers,/api/v1/teams/3,5,5,1,,2,New York Islanders,/api/v1/teams/2
+1982030232,/api/v1/game/1982030232/feed/live,P,19821983,1983-04-16T02:00:00Z,4,3,3,,31,Minnesota North Stars,/api/v1/teams/31,7,5,1,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030242,/api/v1/game/1982030242/feed/live,P,19821983,1983-04-16T03:00:00Z,1,3,3,,20,Calgary Flames,/api/v1/teams/20,5,5,0,,22,Edmonton Oilers,/api/v1/teams/22
+1982030213,/api/v1/game/1982030213/feed/live,P,19821983,1983-04-18T01:00:00Z,3,4,3,,6,Boston Bruins,/api/v1/teams/6,4,5,1,,7,Buffalo Sabres,/api/v1/teams/7
+1982030223,/api/v1/game/1982030223/feed/live,P,19821983,1983-04-18T01:00:00Z,6,5,2,,2,New York Islanders,/api/v1/teams/2,7,4,2,,3,New York Rangers,/api/v1/teams/3
+1982030233,/api/v1/game/1982030233/feed/live,P,19821983,1983-04-18T02:00:00Z,1,5,2,,16,Chicago Blackhawks,/api/v1/teams/16,5,4,3,,31,Minnesota North Stars,/api/v1/teams/31
+1982030243,/api/v1/game/1982030243/feed/live,P,19821983,1983-04-18T03:00:00Z,10,6,0,,22,Edmonton Oilers,/api/v1/teams/22,2,3,4,,20,Calgary Flames,/api/v1/teams/20
+1982030214,/api/v1/game/1982030214/feed/live,P,19821983,1983-04-19T01:00:00Z,6,5,3,,6,Boston Bruins,/api/v1/teams/6,2,5,2,,7,Buffalo Sabres,/api/v1/teams/7
+1982030224,/api/v1/game/1982030224/feed/live,P,19821983,1983-04-19T01:00:00Z,1,5,3,,2,New York Islanders,/api/v1/teams/2,3,5,2,,3,New York Rangers,/api/v1/teams/3
+1982030234,/api/v1/game/1982030234/feed/live,P,19821983,1983-04-19T02:00:00Z,4,6,2,,16,Chicago Blackhawks,/api/v1/teams/16,3,4,4,,31,Minnesota North Stars,/api/v1/teams/31
+1982030244,/api/v1/game/1982030244/feed/live,P,19821983,1983-04-19T03:00:00Z,5,6,1,,22,Edmonton Oilers,/api/v1/teams/22,6,4,4,,20,Calgary Flames,/api/v1/teams/20
+1982030215,/api/v1/game/1982030215/feed/live,P,19821983,1983-04-21T01:00:00Z,0,5,3,,7,Buffalo Sabres,/api/v1/teams/7,9,6,3,,6,Boston Bruins,/api/v1/teams/6
+1982030225,/api/v1/game/1982030225/feed/live,P,19821983,1983-04-21T01:00:00Z,2,5,3,,3,New York Rangers,/api/v1/teams/3,7,6,3,,2,New York Islanders,/api/v1/teams/2
+1982030235,/api/v1/game/1982030235/feed/live,P,19821983,1983-04-21T02:00:00Z,2,4,5,,31,Minnesota North Stars,/api/v1/teams/31,5,7,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030245,/api/v1/game/1982030245/feed/live,P,19821983,1983-04-21T03:00:00Z,1,4,5,,20,Calgary Flames,/api/v1/teams/20,9,7,1,,22,Edmonton Oilers,/api/v1/teams/22
+1982030216,/api/v1/game/1982030216/feed/live,P,19821983,1983-04-23T01:00:00Z,3,6,4,,6,Boston Bruins,/api/v1/teams/6,5,6,3,,7,Buffalo Sabres,/api/v1/teams/7
+1982030226,/api/v1/game/1982030226/feed/live,P,19821983,1983-04-23T01:00:00Z,5,7,3,,2,New York Islanders,/api/v1/teams/2,2,5,4,,3,New York Rangers,/api/v1/teams/3
+1982030217,/api/v1/game/1982030217/feed/live,P,19821983,1983-04-25T00:00:00Z,2,6,4,,7,Buffalo Sabres,/api/v1/teams/7,3,7,4,,6,Boston Bruins,/api/v1/teams/6
+1982030321,/api/v1/game/1982030321/feed/live,P,19821983,1983-04-25T02:00:00Z,4,7,3,,16,Chicago Blackhawks,/api/v1/teams/16,8,8,1,,22,Edmonton Oilers,/api/v1/teams/22
+1982030311,/api/v1/game/1982030311/feed/live,P,19821983,1983-04-27T00:00:00Z,5,8,3,,2,New York Islanders,/api/v1/teams/2,2,7,5,,6,Boston Bruins,/api/v1/teams/6
+1982030322,/api/v1/game/1982030322/feed/live,P,19821983,1983-04-27T02:00:00Z,2,7,4,,16,Chicago Blackhawks,/api/v1/teams/16,8,9,1,,22,Edmonton Oilers,/api/v1/teams/22
+1982030312,/api/v1/game/1982030312/feed/live,P,19821983,1983-04-29T00:00:00Z,1,8,4,,2,New York Islanders,/api/v1/teams/2,4,8,5,,6,Boston Bruins,/api/v1/teams/6
+1982030313,/api/v1/game/1982030313/feed/live,P,19821983,1983-05-01T00:00:00Z,3,8,6,,6,Boston Bruins,/api/v1/teams/6,7,9,4,,2,New York Islanders,/api/v1/teams/2
+1982030323,/api/v1/game/1982030323/feed/live,P,19821983,1983-05-02T01:00:00Z,3,10,1,,22,Edmonton Oilers,/api/v1/teams/22,2,7,5,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030314,/api/v1/game/1982030314/feed/live,P,19821983,1983-05-04T00:00:00Z,3,8,7,,6,Boston Bruins,/api/v1/teams/6,8,10,4,,2,New York Islanders,/api/v1/teams/2
+1982030324,/api/v1/game/1982030324/feed/live,P,19821983,1983-05-04T01:00:00Z,6,11,1,,22,Edmonton Oilers,/api/v1/teams/22,3,7,6,,16,Chicago Blackhawks,/api/v1/teams/16
+1982030315,/api/v1/game/1982030315/feed/live,P,19821983,1983-05-06T00:00:00Z,1,10,5,,2,New York Islanders,/api/v1/teams/2,5,9,7,,6,Boston Bruins,/api/v1/teams/6
+1982030316,/api/v1/game/1982030316/feed/live,P,19821983,1983-05-08T00:00:00Z,4,9,8,,6,Boston Bruins,/api/v1/teams/6,8,11,5,,2,New York Islanders,/api/v1/teams/2
+1982030411,/api/v1/game/1982030411/feed/live,P,19821983,1983-05-11T02:00:00Z,2,12,5,,2,New York Islanders,/api/v1/teams/2,0,11,2,,22,Edmonton Oilers,/api/v1/teams/22
+1982030412,/api/v1/game/1982030412/feed/live,P,19821983,1983-05-13T02:00:00Z,6,13,5,,2,New York Islanders,/api/v1/teams/2,3,11,3,,22,Edmonton Oilers,/api/v1/teams/22
+1982030413,/api/v1/game/1982030413/feed/live,P,19821983,1983-05-15T00:00:00Z,1,11,4,,22,Edmonton Oilers,/api/v1/teams/22,5,14,5,,2,New York Islanders,/api/v1/teams/2
+1982030414,/api/v1/game/1982030414/feed/live,P,19821983,1983-05-18T00:00:00Z,2,11,5,,22,Edmonton Oilers,/api/v1/teams/22,4,15,5,,2,New York Islanders,/api/v1/teams/2

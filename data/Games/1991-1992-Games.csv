@@ -1,0 +1,967 @@
+gamePk,link,gameType,season,gameDate,awayGamePoints,awaywins,awaylosses,awayties,awayid,awayname,awaylink,homeGamePoints,homewins,homelosses,hometies,homeid,homename,homelink
+1991020001,/api/v1/game/1991020001/feed/live,R,19911992,1991-10-03T16:00:00Z,3,0,1,0,3,New York Rangers,/api/v1/teams/3,5,1,0,0,6,Boston Bruins,/api/v1/teams/6
+1991020002,/api/v1/game/1991020002/feed/live,R,19911992,1991-10-03T16:00:00Z,3,0,1,0,10,Toronto Maple Leafs,/api/v1/teams/10,4,1,0,0,8,Montréal Canadiens,/api/v1/teams/8
+1991020003,/api/v1/game/1991020003/feed/live,R,19911992,1991-10-03T16:00:00Z,3,0,0,1,17,Detroit Red Wings,/api/v1/teams/17,3,0,0,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020004,/api/v1/game/1991020004/feed/live,R,19911992,1991-10-04T16:00:00Z,5,1,0,0,5,Pittsburgh Penguins,/api/v1/teams/5,4,0,1,0,7,Buffalo Sabres,/api/v1/teams/7
+1991020005,/api/v1/game/1991020005/feed/live,R,19911992,1991-10-04T16:00:00Z,2,0,1,0,4,Philadelphia Flyers,/api/v1/teams/4,5,1,0,0,15,Washington Capitals,/api/v1/teams/15
+1991020006,/api/v1/game/1991020006/feed/live,R,19911992,1991-10-04T16:00:00Z,6,1,0,0,26,Los Angeles Kings,/api/v1/teams/26,3,0,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020007,/api/v1/game/1991020007/feed/live,R,19911992,1991-10-04T16:00:00Z,2,0,1,0,22,Edmonton Oilers,/api/v1/teams/22,9,1,0,0,20,Calgary Flames,/api/v1/teams/20
+1991020008,/api/v1/game/1991020008/feed/live,R,19911992,1991-10-04T16:00:00Z,3,0,1,0,28,San Jose Sharks,/api/v1/teams/28,4,1,0,0,23,Vancouver Canucks,/api/v1/teams/23
+1991020009,/api/v1/game/1991020009/feed/live,R,19911992,1991-10-05T16:00:00Z,4,1,0,0,2,New York Islanders,/api/v1/teams/2,3,1,1,0,6,Boston Bruins,/api/v1/teams/6
+1991020010,/api/v1/game/1991020010/feed/live,R,19911992,1991-10-05T16:00:00Z,2,0,1,0,34,Hartford Whalers,/api/v1/teams/34,4,1,0,0,32,Quebec Nordiques,/api/v1/teams/32
+1991020011,/api/v1/game/1991020011/feed/live,R,19911992,1991-10-05T16:00:00Z,1,0,2,0,7,Buffalo Sabres,/api/v1/teams/7,3,2,0,0,15,Washington Capitals,/api/v1/teams/15
+1991020012,/api/v1/game/1991020012/feed/live,R,19911992,1991-10-05T16:00:00Z,2,1,1,0,3,New York Rangers,/api/v1/teams/3,1,1,1,0,8,Montréal Canadiens,/api/v1/teams/8
+1991020013,/api/v1/game/1991020013/feed/live,R,19911992,1991-10-05T16:00:00Z,2,0,1,0,19,St. Louis Blues,/api/v1/teams/19,7,1,0,0,1,New Jersey Devils,/api/v1/teams/1
+1991020014,/api/v1/game/1991020014/feed/live,R,19911992,1991-10-05T16:00:00Z,5,0,1,1,17,Detroit Red Wings,/api/v1/teams/17,8,1,1,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020015,/api/v1/game/1991020015/feed/live,R,19911992,1991-10-05T16:00:00Z,2,0,1,1,16,Chicago Blackhawks,/api/v1/teams/16,4,1,0,1,31,Minnesota North Stars,/api/v1/teams/31
+1991020016,/api/v1/game/1991020016/feed/live,R,19911992,1991-10-05T16:00:00Z,5,2,0,0,23,Vancouver Canucks,/api/v1/teams/23,2,0,2,0,28,San Jose Sharks,/api/v1/teams/28
+1991020017,/api/v1/game/1991020017/feed/live,R,19911992,1991-10-06T16:00:00Z,4,2,0,0,1,New Jersey Devils,/api/v1/teams/1,2,0,2,0,16,Chicago Blackhawks,/api/v1/teams/16
+1991020018,/api/v1/game/1991020018/feed/live,R,19911992,1991-10-06T16:00:00Z,2,0,1,1,4,Philadelphia Flyers,/api/v1/teams/4,2,1,0,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020019,/api/v1/game/1991020019/feed/live,R,19911992,1991-10-06T16:00:00Z,3,1,1,0,20,Calgary Flames,/api/v1/teams/20,5,1,1,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020020,/api/v1/game/1991020020/feed/live,R,19911992,1991-10-06T16:00:00Z,2,1,0,1,26,Los Angeles Kings,/api/v1/teams/26,2,0,1,1,22,Edmonton Oilers,/api/v1/teams/22
+1991020021,/api/v1/game/1991020021/feed/live,R,19911992,1991-10-07T16:00:00Z,1,1,2,0,6,Boston Bruins,/api/v1/teams/6,2,2,1,0,3,New York Rangers,/api/v1/teams/3
+1991020022,/api/v1/game/1991020022/feed/live,R,19911992,1991-10-07T16:00:00Z,0,0,2,0,19,St. Louis Blues,/api/v1/teams/19,3,2,1,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020023,/api/v1/game/1991020023/feed/live,R,19911992,1991-10-08T16:00:00Z,2,1,1,1,8,Montréal Canadiens,/api/v1/teams/8,2,0,1,1,34,Hartford Whalers,/api/v1/teams/34
+1991020024,/api/v1/game/1991020024/feed/live,R,19911992,1991-10-08T16:00:00Z,5,1,1,0,32,Quebec Nordiques,/api/v1/teams/32,6,3,0,0,1,New Jersey Devils,/api/v1/teams/1
+1991020025,/api/v1/game/1991020025/feed/live,R,19911992,1991-10-08T16:00:00Z,3,3,0,0,23,Vancouver Canucks,/api/v1/teams/23,2,1,2,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020026,/api/v1/game/1991020026/feed/live,R,19911992,1991-10-08T16:00:00Z,3,1,2,0,20,Calgary Flames,/api/v1/teams/20,4,1,2,0,28,San Jose Sharks,/api/v1/teams/28
+1991020027,/api/v1/game/1991020027/feed/live,R,19911992,1991-10-08T16:00:00Z,3,0,2,1,22,Edmonton Oilers,/api/v1/teams/22,6,2,0,1,26,Los Angeles Kings,/api/v1/teams/26
+1991020028,/api/v1/game/1991020028/feed/live,R,19911992,1991-10-09T16:00:00Z,4,1,2,1,6,Boston Bruins,/api/v1/teams/6,4,0,2,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020029,/api/v1/game/1991020029/feed/live,R,19911992,1991-10-09T16:00:00Z,3,1,1,0,2,New York Islanders,/api/v1/teams/2,5,3,1,0,3,New York Rangers,/api/v1/teams/3
+1991020030,/api/v1/game/1991020030/feed/live,R,19911992,1991-10-09T16:00:00Z,5,3,0,0,15,Washington Capitals,/api/v1/teams/15,4,2,2,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020031,/api/v1/game/1991020031/feed/live,R,19911992,1991-10-10T16:00:00Z,4,2,1,1,8,Montréal Canadiens,/api/v1/teams/8,1,0,2,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020032,/api/v1/game/1991020032/feed/live,R,19911992,1991-10-10T16:00:00Z,2,1,2,0,32,Quebec Nordiques,/api/v1/teams/32,3,2,0,0,31,Minnesota North Stars,/api/v1/teams/31
+1991020033,/api/v1/game/1991020033/feed/live,R,19911992,1991-10-10T16:00:00Z,6,2,0,1,5,Pittsburgh Penguins,/api/v1/teams/5,3,0,2,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020034,/api/v1/game/1991020034/feed/live,R,19911992,1991-10-10T16:00:00Z,6,3,1,0,23,Vancouver Canucks,/api/v1/teams/23,7,1,2,0,16,Chicago Blackhawks,/api/v1/teams/16
+1991020035,/api/v1/game/1991020035/feed/live,R,19911992,1991-10-10T16:00:00Z,2,0,3,1,22,Edmonton Oilers,/api/v1/teams/22,3,1,2,1,19,St. Louis Blues,/api/v1/teams/19
+1991020036,/api/v1/game/1991020036/feed/live,R,19911992,1991-10-10T16:00:00Z,5,2,2,0,33,Winnipeg Jets (1979),/api/v1/teams/33,4,1,3,0,28,San Jose Sharks,/api/v1/teams/28
+1991020037,/api/v1/game/1991020037/feed/live,R,19911992,1991-10-10T16:00:00Z,7,2,2,0,20,Calgary Flames,/api/v1/teams/20,1,2,1,0,26,Los Angeles Kings,/api/v1/teams/26
+1991020038,/api/v1/game/1991020038/feed/live,R,19911992,1991-10-11T16:00:00Z,1,3,2,0,3,New York Rangers,/api/v1/teams/3,5,4,0,0,15,Washington Capitals,/api/v1/teams/15
+1991020039,/api/v1/game/1991020039/feed/live,R,19911992,1991-10-12T16:00:00Z,6,3,1,1,8,Montréal Canadiens,/api/v1/teams/8,0,1,3,1,6,Boston Bruins,/api/v1/teams/6
+1991020040,/api/v1/game/1991020040/feed/live,R,19911992,1991-10-12T16:00:00Z,2,3,3,0,3,New York Rangers,/api/v1/teams/3,5,1,1,0,34,Hartford Whalers,/api/v1/teams/34
+1991020041,/api/v1/game/1991020041/feed/live,R,19911992,1991-10-12T16:00:00Z,5,1,2,1,7,Buffalo Sabres,/api/v1/teams/7,4,1,3,1,32,Quebec Nordiques,/api/v1/teams/32
+1991020042,/api/v1/game/1991020042/feed/live,R,19911992,1991-10-12T16:00:00Z,4,0,3,1,4,Philadelphia Flyers,/api/v1/teams/4,5,2,1,1,2,New York Islanders,/api/v1/teams/2
+1991020043,/api/v1/game/1991020043/feed/live,R,19911992,1991-10-12T16:00:00Z,1,2,1,1,5,Pittsburgh Penguins,/api/v1/teams/5,4,4,0,1,1,New Jersey Devils,/api/v1/teams/1
+1991020044,/api/v1/game/1991020044/feed/live,R,19911992,1991-10-12T16:00:00Z,7,2,2,1,16,Chicago Blackhawks,/api/v1/teams/16,2,4,1,1,15,Washington Capitals,/api/v1/teams/15
+1991020045,/api/v1/game/1991020045/feed/live,R,19911992,1991-10-12T16:00:00Z,2,4,1,0,23,Vancouver Canucks,/api/v1/teams/23,1,2,3,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020046,/api/v1/game/1991020046/feed/live,R,19911992,1991-10-12T16:00:00Z,2,0,3,1,17,Detroit Red Wings,/api/v1/teams/17,3,3,0,1,31,Minnesota North Stars,/api/v1/teams/31
+1991020047,/api/v1/game/1991020047/feed/live,R,19911992,1991-10-12T16:00:00Z,3,1,4,0,28,San Jose Sharks,/api/v1/teams/28,6,2,2,0,19,St. Louis Blues,/api/v1/teams/19
+1991020048,/api/v1/game/1991020048/feed/live,R,19911992,1991-10-12T16:00:00Z,3,2,2,1,33,Winnipeg Jets (1979),/api/v1/teams/33,3,2,1,1,26,Los Angeles Kings,/api/v1/teams/26
+1991020049,/api/v1/game/1991020049/feed/live,R,19911992,1991-10-12T16:00:00Z,1,2,3,0,20,Calgary Flames,/api/v1/teams/20,3,1,3,0,22,Edmonton Oilers,/api/v1/teams/22
+1991020050,/api/v1/game/1991020050/feed/live,R,19911992,1991-10-13T16:00:00Z,3,5,1,0,23,Vancouver Canucks,/api/v1/teams/23,1,1,3,0,7,Buffalo Sabres,/api/v1/teams/7
+1991020051,/api/v1/game/1991020051/feed/live,R,19911992,1991-10-13T16:00:00Z,1,2,1,1,2,New York Islanders,/api/v1/teams/2,1,1,3,1,32,Quebec Nordiques,/api/v1/teams/32
+1991020052,/api/v1/game/1991020052/feed/live,R,19911992,1991-10-13T16:00:00Z,2,4,1,0,1,New Jersey Devils,/api/v1/teams/1,4,1,3,0,4,Philadelphia Flyers,/api/v1/teams/4
+1991020053,/api/v1/game/1991020053/feed/live,R,19911992,1991-10-13T16:00:00Z,3,1,5,0,28,San Jose Sharks,/api/v1/teams/28,7,3,2,0,16,Chicago Blackhawks,/api/v1/teams/16
+1991020054,/api/v1/game/1991020054/feed/live,R,19911992,1991-10-14T16:00:00Z,4,2,1,1,34,Hartford Whalers,/api/v1/teams/34,3,3,2,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020055,/api/v1/game/1991020055/feed/live,R,19911992,1991-10-14T16:00:00Z,5,5,1,0,15,Washington Capitals,/api/v1/teams/15,3,3,4,0,3,New York Rangers,/api/v1/teams/3
+1991020056,/api/v1/game/1991020056/feed/live,R,19911992,1991-10-15T16:00:00Z,7,3,1,1,5,Pittsburgh Penguins,/api/v1/teams/5,6,2,2,1,2,New York Islanders,/api/v1/teams/2
+1991020057,/api/v1/game/1991020057/feed/live,R,19911992,1991-10-15T16:00:00Z,1,2,4,0,10,Toronto Maple Leafs,/api/v1/teams/10,5,3,2,0,19,St. Louis Blues,/api/v1/teams/19
+1991020058,/api/v1/game/1991020058/feed/live,R,19911992,1991-10-15T16:00:00Z,1,1,4,1,22,Edmonton Oilers,/api/v1/teams/22,3,1,3,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020059,/api/v1/game/1991020059/feed/live,R,19911992,1991-10-15T16:00:00Z,3,3,1,0,31,Minnesota North Stars,/api/v1/teams/31,6,3,3,0,20,Calgary Flames,/api/v1/teams/20
+1991020060,/api/v1/game/1991020060/feed/live,R,19911992,1991-10-16T16:00:00Z,3,3,1,1,34,Hartford Whalers,/api/v1/teams/34,2,2,3,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020061,/api/v1/game/1991020061/feed/live,R,19911992,1991-10-16T16:00:00Z,1,1,4,1,7,Buffalo Sabres,/api/v1/teams/7,5,4,2,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020062,/api/v1/game/1991020062/feed/live,R,19911992,1991-10-16T16:00:00Z,2,4,2,0,1,New Jersey Devils,/api/v1/teams/1,4,4,4,0,3,New York Rangers,/api/v1/teams/3
+1991020063,/api/v1/game/1991020063/feed/live,R,19911992,1991-10-16T16:00:00Z,5,1,6,0,28,San Jose Sharks,/api/v1/teams/28,8,3,1,0,26,Los Angeles Kings,/api/v1/teams/26
+1991020064,/api/v1/game/1991020064/feed/live,R,19911992,1991-10-17T16:00:00Z,3,1,3,2,6,Boston Bruins,/api/v1/teams/6,3,5,1,2,23,Vancouver Canucks,/api/v1/teams/23
+1991020065,/api/v1/game/1991020065/feed/live,R,19911992,1991-10-17T16:00:00Z,3,1,4,1,32,Quebec Nordiques,/api/v1/teams/32,5,2,3,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020066,/api/v1/game/1991020066/feed/live,R,19911992,1991-10-17T16:00:00Z,5,2,3,1,2,New York Islanders,/api/v1/teams/2,8,4,1,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020067,/api/v1/game/1991020067/feed/live,R,19911992,1991-10-17T16:00:00Z,4,2,5,0,10,Toronto Maple Leafs,/api/v1/teams/10,6,4,3,0,20,Calgary Flames,/api/v1/teams/20
+1991020068,/api/v1/game/1991020068/feed/live,R,19911992,1991-10-17T16:00:00Z,3,3,3,0,19,St. Louis Blues,/api/v1/teams/19,6,2,3,0,17,Detroit Red Wings,/api/v1/teams/17
+1991020069,/api/v1/game/1991020069/feed/live,R,19911992,1991-10-17T16:00:00Z,2,1,5,1,22,Edmonton Oilers,/api/v1/teams/22,4,4,2,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020070,/api/v1/game/1991020070/feed/live,R,19911992,1991-10-17T16:00:00Z,8,4,1,0,31,Minnesota North Stars,/api/v1/teams/31,2,1,7,0,28,San Jose Sharks,/api/v1/teams/28
+1991020071,/api/v1/game/1991020071/feed/live,R,19911992,1991-10-18T16:00:00Z,1,4,3,1,8,Montréal Canadiens,/api/v1/teams/8,3,2,4,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020072,/api/v1/game/1991020072/feed/live,R,19911992,1991-10-18T16:00:00Z,5,4,3,0,1,New Jersey Devils,/api/v1/teams/1,6,6,1,0,15,Washington Capitals,/api/v1/teams/15
+1991020073,/api/v1/game/1991020073/feed/live,R,19911992,1991-10-19T16:00:00Z,4,2,3,2,6,Boston Bruins,/api/v1/teams/6,1,1,8,2,28,San Jose Sharks,/api/v1/teams/28
+1991020074,/api/v1/game/1991020074/feed/live,R,19911992,1991-10-19T16:00:00Z,1,2,5,1,7,Buffalo Sabres,/api/v1/teams/7,4,4,1,1,34,Hartford Whalers,/api/v1/teams/34
+1991020075,/api/v1/game/1991020075/feed/live,R,19911992,1991-10-19T16:00:00Z,1,5,3,1,8,Montréal Canadiens,/api/v1/teams/8,0,2,4,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020076,/api/v1/game/1991020076/feed/live,R,19911992,1991-10-19T16:00:00Z,6,3,3,1,17,Detroit Red Wings,/api/v1/teams/17,1,1,5,1,32,Quebec Nordiques,/api/v1/teams/32
+1991020077,/api/v1/game/1991020077/feed/live,R,19911992,1991-10-19T16:00:00Z,4,2,5,1,22,Edmonton Oilers,/api/v1/teams/22,2,2,4,1,2,New York Islanders,/api/v1/teams/2
+1991020078,/api/v1/game/1991020078/feed/live,R,19911992,1991-10-19T16:00:00Z,5,5,4,0,3,New York Rangers,/api/v1/teams/3,4,4,2,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020079,/api/v1/game/1991020079/feed/live,R,19911992,1991-10-19T16:00:00Z,5,7,1,0,15,Washington Capitals,/api/v1/teams/15,1,4,4,0,1,New Jersey Devils,/api/v1/teams/1
+1991020080,/api/v1/game/1991020080/feed/live,R,19911992,1991-10-19T16:00:00Z,2,2,6,0,10,Toronto Maple Leafs,/api/v1/teams/10,4,3,3,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020081,/api/v1/game/1991020081/feed/live,R,19911992,1991-10-19T16:00:00Z,4,4,2,2,16,Chicago Blackhawks,/api/v1/teams/16,4,3,3,2,19,St. Louis Blues,/api/v1/teams/19
+1991020082,/api/v1/game/1991020082/feed/live,R,19911992,1991-10-19T16:00:00Z,2,4,2,0,31,Minnesota North Stars,/api/v1/teams/31,5,4,1,0,26,Los Angeles Kings,/api/v1/teams/26
+1991020083,/api/v1/game/1991020083/feed/live,R,19911992,1991-10-19T16:00:00Z,2,4,4,0,20,Calgary Flames,/api/v1/teams/20,5,6,1,0,23,Vancouver Canucks,/api/v1/teams/23
+1991020084,/api/v1/game/1991020084/feed/live,R,19911992,1991-10-20T16:00:00Z,4,3,5,1,22,Edmonton Oilers,/api/v1/teams/22,3,5,5,1,3,New York Rangers,/api/v1/teams/3
+1991020085,/api/v1/game/1991020085/feed/live,R,19911992,1991-10-20T16:00:00Z,4,4,3,1,19,St. Louis Blues,/api/v1/teams/19,1,4,3,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020086,/api/v1/game/1991020086/feed/live,R,19911992,1991-10-21T16:00:00Z,1,2,7,0,10,Toronto Maple Leafs,/api/v1/teams/10,4,7,1,0,23,Vancouver Canucks,/api/v1/teams/23
+1991020087,/api/v1/game/1991020087/feed/live,R,19911992,1991-10-22T16:00:00Z,1,3,3,2,33,Winnipeg Jets (1979),/api/v1/teams/33,1,2,4,2,2,New York Islanders,/api/v1/teams/2
+1991020088,/api/v1/game/1991020088/feed/live,R,19911992,1991-10-22T16:00:00Z,2,4,2,2,26,Los Angeles Kings,/api/v1/teams/26,5,5,4,2,1,New Jersey Devils,/api/v1/teams/1
+1991020089,/api/v1/game/1991020089/feed/live,R,19911992,1991-10-22T16:00:00Z,4,4,3,3,16,Chicago Blackhawks,/api/v1/teams/16,4,4,2,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020090,/api/v1/game/1991020090/feed/live,R,19911992,1991-10-22T16:00:00Z,4,5,4,0,20,Calgary Flames,/api/v1/teams/20,2,4,3,0,31,Minnesota North Stars,/api/v1/teams/31
+1991020091,/api/v1/game/1991020091/feed/live,R,19911992,1991-10-23T16:00:00Z,0,1,9,0,28,San Jose Sharks,/api/v1/teams/28,3,5,1,0,34,Hartford Whalers,/api/v1/teams/34
+1991020092,/api/v1/game/1991020092/feed/live,R,19911992,1991-10-23T16:00:00Z,2,1,6,1,32,Quebec Nordiques,/api/v1/teams/32,3,6,3,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020093,/api/v1/game/1991020093/feed/live,R,19911992,1991-10-23T16:00:00Z,2,4,3,2,26,Los Angeles Kings,/api/v1/teams/26,7,6,5,2,3,New York Rangers,/api/v1/teams/3
+1991020094,/api/v1/game/1991020094/feed/live,R,19911992,1991-10-23T16:00:00Z,6,8,1,0,15,Washington Capitals,/api/v1/teams/15,5,3,6,0,22,Edmonton Oilers,/api/v1/teams/22
+1991020095,/api/v1/game/1991020095/feed/live,R,19911992,1991-10-23T16:00:00Z,3,4,3,2,33,Winnipeg Jets (1979),/api/v1/teams/33,2,3,4,2,17,Detroit Red Wings,/api/v1/teams/17
+1991020096,/api/v1/game/1991020096/feed/live,R,19911992,1991-10-24T16:00:00Z,5,2,4,2,6,Boston Bruins,/api/v1/teams/6,6,5,3,2,19,St. Louis Blues,/api/v1/teams/19
+1991020097,/api/v1/game/1991020097/feed/live,R,19911992,1991-10-24T16:00:00Z,5,7,3,1,8,Montréal Canadiens,/api/v1/teams/8,0,1,7,1,32,Quebec Nordiques,/api/v1/teams/32
+1991020098,/api/v1/game/1991020098/feed/live,R,19911992,1991-10-24T16:00:00Z,4,6,4,0,1,New Jersey Devils,/api/v1/teams/1,2,4,3,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020099,/api/v1/game/1991020099/feed/live,R,19911992,1991-10-24T16:00:00Z,5,3,4,1,4,Philadelphia Flyers,/api/v1/teams/4,2,4,4,1,31,Minnesota North Stars,/api/v1/teams/31
+1991020100,/api/v1/game/1991020100/feed/live,R,19911992,1991-10-24T16:00:00Z,1,8,2,0,15,Washington Capitals,/api/v1/teams/15,3,8,1,0,23,Vancouver Canucks,/api/v1/teams/23
+1991020101,/api/v1/game/1991020101/feed/live,R,19911992,1991-10-24T16:00:00Z,5,6,4,0,20,Calgary Flames,/api/v1/teams/20,2,4,4,0,16,Chicago Blackhawks,/api/v1/teams/16
+1991020102,/api/v1/game/1991020102/feed/live,R,19911992,1991-10-25T16:00:00Z,1,1,10,0,28,San Jose Sharks,/api/v1/teams/28,3,3,5,0,7,Buffalo Sabres,/api/v1/teams/7
+1991020103,/api/v1/game/1991020103/feed/live,R,19911992,1991-10-25T16:00:00Z,0,3,5,1,4,Philadelphia Flyers,/api/v1/teams/4,2,5,3,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020104,/api/v1/game/1991020104/feed/live,R,19911992,1991-10-25T16:00:00Z,0,2,8,0,10,Toronto Maple Leafs,/api/v1/teams/10,4,4,4,0,17,Detroit Red Wings,/api/v1/teams/17
+1991020105,/api/v1/game/1991020105/feed/live,R,19911992,1991-10-26T16:00:00Z,0,2,5,2,6,Boston Bruins,/api/v1/teams/6,4,5,4,2,31,Minnesota North Stars,/api/v1/teams/31
+1991020106,/api/v1/game/1991020106/feed/live,R,19911992,1991-10-26T16:00:00Z,4,5,4,3,16,Chicago Blackhawks,/api/v1/teams/16,2,5,2,3,34,Hartford Whalers,/api/v1/teams/34
+1991020107,/api/v1/game/1991020107/feed/live,R,19911992,1991-10-26T16:00:00Z,1,4,4,2,5,Pittsburgh Penguins,/api/v1/teams/5,4,8,3,2,8,Montréal Canadiens,/api/v1/teams/8
+1991020108,/api/v1/game/1991020108/feed/live,R,19911992,1991-10-26T16:00:00Z,5,7,5,0,3,New York Rangers,/api/v1/teams/3,3,1,8,0,32,Quebec Nordiques,/api/v1/teams/32
+1991020109,/api/v1/game/1991020109/feed/live,R,19911992,1991-10-26T16:00:00Z,4,5,3,2,26,Los Angeles Kings,/api/v1/teams/26,2,2,5,2,2,New York Islanders,/api/v1/teams/2
+1991020110,/api/v1/game/1991020110/feed/live,R,19911992,1991-10-26T16:00:00Z,0,1,11,0,28,San Jose Sharks,/api/v1/teams/28,9,7,4,0,1,New Jersey Devils,/api/v1/teams/1
+1991020111,/api/v1/game/1991020111/feed/live,R,19911992,1991-10-26T16:00:00Z,1,4,5,1,17,Detroit Red Wings,/api/v1/teams/17,6,3,8,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020112,/api/v1/game/1991020112/feed/live,R,19911992,1991-10-26T16:00:00Z,2,6,4,1,20,Calgary Flames,/api/v1/teams/20,2,5,3,1,19,St. Louis Blues,/api/v1/teams/19
+1991020113,/api/v1/game/1991020113/feed/live,R,19911992,1991-10-26T16:00:00Z,4,8,2,1,23,Vancouver Canucks,/api/v1/teams/23,5,4,6,1,22,Edmonton Oilers,/api/v1/teams/22
+1991020114,/api/v1/game/1991020114/feed/live,R,19911992,1991-10-27T17:00:00Z,6,3,5,2,6,Boston Bruins,/api/v1/teams/6,3,5,5,2,16,Chicago Blackhawks,/api/v1/teams/16
+1991020115,/api/v1/game/1991020115/feed/live,R,19911992,1991-10-27T17:00:00Z,1,5,3,1,34,Hartford Whalers,/api/v1/teams/34,5,4,5,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020116,/api/v1/game/1991020116/feed/live,R,19911992,1991-10-27T17:00:00Z,5,8,3,0,15,Washington Capitals,/api/v1/teams/15,6,6,3,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020117,/api/v1/game/1991020117/feed/live,R,19911992,1991-10-27T17:00:00Z,6,5,6,1,22,Edmonton Oilers,/api/v1/teams/22,3,8,3,1,23,Vancouver Canucks,/api/v1/teams/23
+1991020118,/api/v1/game/1991020118/feed/live,R,19911992,1991-10-28T17:00:00Z,1,5,3,3,19,St. Louis Blues,/api/v1/teams/19,1,3,8,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020119,/api/v1/game/1991020119/feed/live,R,19911992,1991-10-28T17:00:00Z,4,6,3,2,26,Los Angeles Kings,/api/v1/teams/26,3,4,6,2,17,Detroit Red Wings,/api/v1/teams/17
+1991020120,/api/v1/game/1991020120/feed/live,R,19911992,1991-10-29T17:00:00Z,2,6,4,2,33,Winnipeg Jets (1979),/api/v1/teams/33,7,2,8,2,32,Quebec Nordiques,/api/v1/teams/32
+1991020121,/api/v1/game/1991020121/feed/live,R,19911992,1991-10-29T17:00:00Z,4,1,12,0,28,San Jose Sharks,/api/v1/teams/28,8,3,5,0,2,New York Islanders,/api/v1/teams/2
+1991020122,/api/v1/game/1991020122/feed/live,R,19911992,1991-10-29T17:00:00Z,2,5,5,0,31,Minnesota North Stars,/api/v1/teams/31,3,8,5,0,3,New York Rangers,/api/v1/teams/3
+1991020123,/api/v1/game/1991020123/feed/live,R,19911992,1991-10-29T17:00:00Z,3,7,5,0,1,New Jersey Devils,/api/v1/teams/1,4,9,3,0,23,Vancouver Canucks,/api/v1/teams/23
+1991020124,/api/v1/game/1991020124/feed/live,R,19911992,1991-10-29T17:00:00Z,8,9,3,0,15,Washington Capitals,/api/v1/teams/15,0,4,5,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020125,/api/v1/game/1991020125/feed/live,R,19911992,1991-10-30T17:00:00Z,4,6,3,3,26,Los Angeles Kings,/api/v1/teams/26,4,5,3,3,34,Hartford Whalers,/api/v1/teams/34
+1991020126,/api/v1/game/1991020126/feed/live,R,19911992,1991-10-30T17:00:00Z,1,4,6,1,7,Buffalo Sabres,/api/v1/teams/7,3,5,6,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020127,/api/v1/game/1991020127/feed/live,R,19911992,1991-10-30T17:00:00Z,1,6,5,2,33,Winnipeg Jets (1979),/api/v1/teams/33,6,9,3,2,8,Montréal Canadiens,/api/v1/teams/8
+1991020128,/api/v1/game/1991020128/feed/live,R,19911992,1991-10-30T17:00:00Z,5,8,5,0,1,New Jersey Devils,/api/v1/teams/1,2,6,5,0,20,Calgary Flames,/api/v1/teams/20
+1991020129,/api/v1/game/1991020129/feed/live,R,19911992,1991-10-30T17:00:00Z,2,5,3,4,19,St. Louis Blues,/api/v1/teams/19,2,5,6,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020130,/api/v1/game/1991020130/feed/live,R,19911992,1991-10-31T17:00:00Z,4,7,3,3,26,Los Angeles Kings,/api/v1/teams/26,2,3,6,3,6,Boston Bruins,/api/v1/teams/6
+1991020131,/api/v1/game/1991020131/feed/live,R,19911992,1991-10-31T17:00:00Z,4,2,9,1,32,Quebec Nordiques,/api/v1/teams/32,5,9,5,1,3,New York Rangers,/api/v1/teams/3
+1991020132,/api/v1/game/1991020132/feed/live,R,19911992,1991-10-31T17:00:00Z,3,3,6,2,2,New York Islanders,/api/v1/teams/2,4,6,5,2,16,Chicago Blackhawks,/api/v1/teams/16
+1991020133,/api/v1/game/1991020133/feed/live,R,19911992,1991-10-31T17:00:00Z,2,1,13,0,28,San Jose Sharks,/api/v1/teams/28,5,4,5,0,4,Philadelphia Flyers,/api/v1/teams/4
+1991020134,/api/v1/game/1991020134/feed/live,R,19911992,1991-10-31T17:00:00Z,1,5,6,0,31,Minnesota North Stars,/api/v1/teams/31,8,5,5,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020135,/api/v1/game/1991020135/feed/live,R,19911992,1991-11-01T17:00:00Z,5,5,4,2,34,Hartford Whalers,/api/v1/teams/34,8,6,6,2,17,Detroit Red Wings,/api/v1/teams/17
+1991020136,/api/v1/game/1991020136/feed/live,R,19911992,1991-11-01T17:00:00Z,5,10,3,1,8,Montréal Canadiens,/api/v1/teams/8,1,4,7,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020137,/api/v1/game/1991020137/feed/live,R,19911992,1991-11-01T17:00:00Z,3,9,5,0,1,New Jersey Devils,/api/v1/teams/1,1,5,7,0,22,Edmonton Oilers,/api/v1/teams/22
+1991020138,/api/v1/game/1991020138/feed/live,R,19911992,1991-11-01T17:00:00Z,0,3,9,1,10,Toronto Maple Leafs,/api/v1/teams/10,4,10,3,1,15,Washington Capitals,/api/v1/teams/15
+1991020139,/api/v1/game/1991020139/feed/live,R,19911992,1991-11-01T17:00:00Z,3,6,3,4,19,St. Louis Blues,/api/v1/teams/19,2,9,4,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020140,/api/v1/game/1991020140/feed/live,R,19911992,1991-11-01T17:00:00Z,7,7,5,1,20,Calgary Flames,/api/v1/teams/20,6,6,6,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020141,/api/v1/game/1991020141/feed/live,R,19911992,1991-11-02T17:00:00Z,1,6,7,1,17,Detroit Red Wings,/api/v1/teams/17,4,4,6,1,6,Boston Bruins,/api/v1/teams/6
+1991020142,/api/v1/game/1991020142/feed/live,R,19911992,1991-11-02T17:00:00Z,6,6,4,2,34,Hartford Whalers,/api/v1/teams/34,5,5,6,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020143,/api/v1/game/1991020143/feed/live,R,19911992,1991-11-02T17:00:00Z,0,4,8,1,7,Buffalo Sabres,/api/v1/teams/7,5,11,3,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020144,/api/v1/game/1991020144/feed/live,R,19911992,1991-11-02T17:00:00Z,3,1,14,0,28,San Jose Sharks,/api/v1/teams/28,6,3,9,0,32,Quebec Nordiques,/api/v1/teams/32
+1991020145,/api/v1/game/1991020145/feed/live,R,19911992,1991-11-02T17:00:00Z,7,11,3,0,15,Washington Capitals,/api/v1/teams/15,4,3,7,0,2,New York Islanders,/api/v1/teams/2
+1991020146,/api/v1/game/1991020146/feed/live,R,19911992,1991-11-02T17:00:00Z,4,10,5,0,3,New York Rangers,/api/v1/teams/3,2,4,6,0,4,Philadelphia Flyers,/api/v1/teams/4
+1991020147,/api/v1/game/1991020147/feed/live,R,19911992,1991-11-02T17:00:00Z,5,8,3,3,26,Los Angeles Kings,/api/v1/teams/26,2,3,10,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020148,/api/v1/game/1991020148/feed/live,R,19911992,1991-11-02T17:00:00Z,3,6,6,3,16,Chicago Blackhawks,/api/v1/teams/16,4,6,6,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020149,/api/v1/game/1991020149/feed/live,R,19911992,1991-11-03T17:00:00Z,4,6,6,1,31,Minnesota North Stars,/api/v1/teams/31,4,6,6,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020150,/api/v1/game/1991020150/feed/live,R,19911992,1991-11-03T17:00:00Z,3,6,3,5,19,St. Louis Blues,/api/v1/teams/19,3,6,6,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020151,/api/v1/game/1991020151/feed/live,R,19911992,1991-11-03T17:00:00Z,2,5,8,2,22,Edmonton Oilers,/api/v1/teams/22,7,10,4,2,23,Vancouver Canucks,/api/v1/teams/23
+1991020152,/api/v1/game/1991020152/feed/live,R,19911992,1991-11-04T17:00:00Z,4,4,7,2,6,Boston Bruins,/api/v1/teams/6,6,4,7,2,2,New York Islanders,/api/v1/teams/2
+1991020153,/api/v1/game/1991020153/feed/live,R,19911992,1991-11-04T17:00:00Z,2,9,6,0,1,New Jersey Devils,/api/v1/teams/1,3,12,3,0,8,Montréal Canadiens,/api/v1/teams/8
+1991020154,/api/v1/game/1991020154/feed/live,R,19911992,1991-11-04T17:00:00Z,0,7,6,1,20,Calgary Flames,/api/v1/teams/20,4,11,5,1,3,New York Rangers,/api/v1/teams/3
+1991020155,/api/v1/game/1991020155/feed/live,R,19911992,1991-11-04T17:00:00Z,1,1,15,0,28,San Jose Sharks,/api/v1/teams/28,4,4,10,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020156,/api/v1/game/1991020156/feed/live,R,19911992,1991-11-05T17:00:00Z,5,4,7,3,6,Boston Bruins,/api/v1/teams/6,5,5,6,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020157,/api/v1/game/1991020157/feed/live,R,19911992,1991-11-05T17:00:00Z,4,5,6,1,4,Philadelphia Flyers,/api/v1/teams/4,3,6,4,1,19,St. Louis Blues,/api/v1/teams/19
+1991020158,/api/v1/game/1991020158/feed/live,R,19911992,1991-11-05T17:00:00Z,3,7,6,1,31,Minnesota North Stars,/api/v1/teams/31,2,6,8,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020159,/api/v1/game/1991020159/feed/live,R,19911992,1991-11-05T17:00:00Z,2,6,6,4,33,Winnipeg Jets (1979),/api/v1/teams/33,2,10,4,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020160,/api/v1/game/1991020160/feed/live,R,19911992,1991-11-06T17:00:00Z,3,8,6,1,20,Calgary Flames,/api/v1/teams/20,2,6,5,1,34,Hartford Whalers,/api/v1/teams/34
+1991020161,/api/v1/game/1991020161/feed/live,R,19911992,1991-11-06T17:00:00Z,4,13,3,1,8,Montréal Canadiens,/api/v1/teams/8,1,11,6,1,3,New York Rangers,/api/v1/teams/3
+1991020162,/api/v1/game/1991020162/feed/live,R,19911992,1991-11-06T17:00:00Z,3,4,8,2,2,New York Islanders,/api/v1/teams/2,5,6,8,2,22,Edmonton Oilers,/api/v1/teams/22
+1991020163,/api/v1/game/1991020163/feed/live,R,19911992,1991-11-06T17:00:00Z,3,7,7,1,31,Minnesota North Stars,/api/v1/teams/31,4,5,10,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020164,/api/v1/game/1991020164/feed/live,R,19911992,1991-11-07T17:00:00Z,4,8,6,2,20,Calgary Flames,/api/v1/teams/20,4,4,7,2,6,Boston Bruins,/api/v1/teams/6
+1991020165,/api/v1/game/1991020165/feed/live,R,19911992,1991-11-07T17:00:00Z,2,4,9,1,7,Buffalo Sabres,/api/v1/teams/7,5,6,6,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020166,/api/v1/game/1991020166/feed/live,R,19911992,1991-11-07T17:00:00Z,2,3,10,1,32,Quebec Nordiques,/api/v1/teams/32,4,7,6,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020167,/api/v1/game/1991020167/feed/live,R,19911992,1991-11-07T17:00:00Z,3,6,5,5,19,St. Louis Blues,/api/v1/teams/19,10,7,8,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020168,/api/v1/game/1991020168/feed/live,R,19911992,1991-11-07T17:00:00Z,4,11,4,2,23,Vancouver Canucks,/api/v1/teams/23,3,8,4,2,26,Los Angeles Kings,/api/v1/teams/26
+1991020169,/api/v1/game/1991020169/feed/live,R,19911992,1991-11-08T17:00:00Z,3,6,7,1,4,Philadelphia Flyers,/api/v1/teams/4,4,5,9,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020170,/api/v1/game/1991020170/feed/live,R,19911992,1991-11-08T17:00:00Z,2,13,4,1,8,Montréal Canadiens,/api/v1/teams/8,3,10,6,1,1,New Jersey Devils,/api/v1/teams/1
+1991020171,/api/v1/game/1991020171/feed/live,R,19911992,1991-11-08T17:00:00Z,3,5,10,2,10,Toronto Maple Leafs,/api/v1/teams/10,3,11,6,2,3,New York Rangers,/api/v1/teams/3
+1991020172,/api/v1/game/1991020172/feed/live,R,19911992,1991-11-08T17:00:00Z,3,6,6,3,5,Pittsburgh Penguins,/api/v1/teams/5,1,6,7,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020173,/api/v1/game/1991020173/feed/live,R,19911992,1991-11-08T17:00:00Z,5,8,8,1,17,Detroit Red Wings,/api/v1/teams/17,4,11,4,1,15,Washington Capitals,/api/v1/teams/15
+1991020174,/api/v1/game/1991020174/feed/live,R,19911992,1991-11-08T17:00:00Z,2,6,9,2,22,Edmonton Oilers,/api/v1/teams/22,6,2,15,2,28,San Jose Sharks,/api/v1/teams/28
+1991020175,/api/v1/game/1991020175/feed/live,R,19911992,1991-11-09T17:00:00Z,0,10,7,0,1,New Jersey Devils,/api/v1/teams/1,4,5,7,0,6,Boston Bruins,/api/v1/teams/6
+1991020176,/api/v1/game/1991020176/feed/live,R,19911992,1991-11-09T17:00:00Z,4,7,5,2,34,Hartford Whalers,/api/v1/teams/34,3,6,6,2,19,St. Louis Blues,/api/v1/teams/19
+1991020177,/api/v1/game/1991020177/feed/live,R,19911992,1991-11-09T17:00:00Z,2,7,7,4,16,Chicago Blackhawks,/api/v1/teams/16,4,14,4,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020178,/api/v1/game/1991020178/feed/live,R,19911992,1991-11-09T17:00:00Z,3,4,9,2,2,New York Islanders,/api/v1/teams/2,4,3,15,2,28,San Jose Sharks,/api/v1/teams/28
+1991020179,/api/v1/game/1991020179/feed/live,R,19911992,1991-11-09T17:00:00Z,3,7,6,3,5,Pittsburgh Penguins,/api/v1/teams/5,2,7,8,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020180,/api/v1/game/1991020180/feed/live,R,19911992,1991-11-09T17:00:00Z,6,9,6,2,20,Calgary Flames,/api/v1/teams/20,1,5,11,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020181,/api/v1/game/1991020181/feed/live,R,19911992,1991-11-09T17:00:00Z,4,6,9,3,22,Edmonton Oilers,/api/v1/teams/22,4,8,4,3,26,Los Angeles Kings,/api/v1/teams/26
+1991020182,/api/v1/game/1991020182/feed/live,R,19911992,1991-11-10T17:00:00Z,0,7,6,2,34,Hartford Whalers,/api/v1/teams/34,3,8,7,2,16,Chicago Blackhawks,/api/v1/teams/16
+1991020183,/api/v1/game/1991020183/feed/live,R,19911992,1991-11-10T17:00:00Z,10,12,4,0,15,Washington Capitals,/api/v1/teams/15,3,3,11,0,32,Quebec Nordiques,/api/v1/teams/32
+1991020184,/api/v1/game/1991020184/feed/live,R,19911992,1991-11-10T17:00:00Z,0,4,10,2,2,New York Islanders,/api/v1/teams/2,6,12,4,2,23,Vancouver Canucks,/api/v1/teams/23
+1991020260,/api/v1/game/1991020260/feed/live,R,19911992,1991-11-10T17:00:00Z,4,6,7,5,19,St. Louis Blues,/api/v1/teams/19,6,9,8,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020185,/api/v1/game/1991020185/feed/live,R,19911992,1991-11-11T17:00:00Z,4,13,4,0,15,Washington Capitals,/api/v1/teams/15,2,14,5,0,8,Montréal Canadiens,/api/v1/teams/8
+1991020186,/api/v1/game/1991020186/feed/live,R,19911992,1991-11-11T17:00:00Z,1,7,7,3,5,Pittsburgh Penguins,/api/v1/teams/5,3,12,6,3,3,New York Rangers,/api/v1/teams/3
+1991020187,/api/v1/game/1991020187/feed/live,R,19911992,1991-11-11T17:00:00Z,2,8,5,4,26,Los Angeles Kings,/api/v1/teams/26,6,7,7,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020188,/api/v1/game/1991020188/feed/live,R,19911992,1991-11-12T17:00:00Z,4,3,12,1,32,Quebec Nordiques,/api/v1/teams/32,5,8,6,1,34,Hartford Whalers,/api/v1/teams/34
+1991020189,/api/v1/game/1991020189/feed/live,R,19911992,1991-11-12T17:00:00Z,7,6,9,1,7,Buffalo Sabres,/api/v1/teams/7,1,3,16,1,28,San Jose Sharks,/api/v1/teams/28
+1991020190,/api/v1/game/1991020190/feed/live,R,19911992,1991-11-12T17:00:00Z,2,6,8,1,4,Philadelphia Flyers,/api/v1/teams/4,5,11,7,1,1,New Jersey Devils,/api/v1/teams/1
+1991020191,/api/v1/game/1991020191/feed/live,R,19911992,1991-11-12T17:00:00Z,0,5,12,2,10,Toronto Maple Leafs,/api/v1/teams/10,7,8,8,2,31,Minnesota North Stars,/api/v1/teams/31
+1991020192,/api/v1/game/1991020192/feed/live,R,19911992,1991-11-12T17:00:00Z,5,10,8,1,17,Detroit Red Wings,/api/v1/teams/17,4,9,7,1,20,Calgary Flames,/api/v1/teams/20
+1991020193,/api/v1/game/1991020193/feed/live,R,19911992,1991-11-12T17:00:00Z,2,8,6,4,26,Los Angeles Kings,/api/v1/teams/26,8,13,4,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020194,/api/v1/game/1991020194/feed/live,R,19911992,1991-11-13T17:00:00Z,5,14,4,0,15,Washington Capitals,/api/v1/teams/15,3,12,7,0,3,New York Rangers,/api/v1/teams/3
+1991020195,/api/v1/game/1991020195/feed/live,R,19911992,1991-11-13T17:00:00Z,4,6,10,3,22,Edmonton Oilers,/api/v1/teams/22,5,8,7,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020196,/api/v1/game/1991020196/feed/live,R,19911992,1991-11-14T17:00:00Z,2,3,13,1,32,Quebec Nordiques,/api/v1/teams/32,5,6,7,1,6,Boston Bruins,/api/v1/teams/6
+1991020197,/api/v1/game/1991020197/feed/live,R,19911992,1991-11-14T17:00:00Z,2,14,5,2,8,Montréal Canadiens,/api/v1/teams/8,2,8,6,2,34,Hartford Whalers,/api/v1/teams/34
+1991020198,/api/v1/game/1991020198/feed/live,R,19911992,1991-11-14T17:00:00Z,2,6,9,2,7,Buffalo Sabres,/api/v1/teams/7,2,8,6,2,26,Los Angeles Kings,/api/v1/teams/26
+1991020199,/api/v1/game/1991020199/feed/live,R,19911992,1991-11-14T17:00:00Z,4,5,10,2,2,New York Islanders,/api/v1/teams/2,3,11,8,2,1,New Jersey Devils,/api/v1/teams/1
+1991020200,/api/v1/game/1991020200/feed/live,R,19911992,1991-11-14T17:00:00Z,1,6,11,3,22,Edmonton Oilers,/api/v1/teams/22,3,7,8,3,4,Philadelphia Flyers,/api/v1/teams/4
+1991020201,/api/v1/game/1991020201/feed/live,R,19911992,1991-11-14T17:00:00Z,0,5,13,2,10,Toronto Maple Leafs,/api/v1/teams/10,3,9,7,2,16,Chicago Blackhawks,/api/v1/teams/16
+1991020202,/api/v1/game/1991020202/feed/live,R,19911992,1991-11-14T17:00:00Z,3,10,8,2,17,Detroit Red Wings,/api/v1/teams/17,3,3,16,2,28,San Jose Sharks,/api/v1/teams/28
+1991020203,/api/v1/game/1991020203/feed/live,R,19911992,1991-11-14T17:00:00Z,1,7,8,4,33,Winnipeg Jets (1979),/api/v1/teams/33,2,7,7,4,19,St. Louis Blues,/api/v1/teams/19
+1991020204,/api/v1/game/1991020204/feed/live,R,19911992,1991-11-14T17:00:00Z,2,13,4,3,23,Vancouver Canucks,/api/v1/teams/23,2,9,7,3,20,Calgary Flames,/api/v1/teams/20
+1991020205,/api/v1/game/1991020205/feed/live,R,19911992,1991-11-15T17:00:00Z,2,8,8,3,5,Pittsburgh Penguins,/api/v1/teams/5,6,15,4,3,15,Washington Capitals,/api/v1/teams/15
+1991020206,/api/v1/game/1991020206/feed/live,R,19911992,1991-11-16T17:00:00Z,5,7,7,4,6,Boston Bruins,/api/v1/teams/6,4,8,7,4,34,Hartford Whalers,/api/v1/teams/34
+1991020207,/api/v1/game/1991020207/feed/live,R,19911992,1991-11-16T17:00:00Z,5,7,9,2,7,Buffalo Sabres,/api/v1/teams/7,4,9,8,2,20,Calgary Flames,/api/v1/teams/20
+1991020208,/api/v1/game/1991020208/feed/live,R,19911992,1991-11-16T17:00:00Z,3,8,8,1,4,Philadelphia Flyers,/api/v1/teams/4,1,14,6,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020209,/api/v1/game/1991020209/feed/live,R,19911992,1991-11-16T17:00:00Z,6,7,11,3,22,Edmonton Oilers,/api/v1/teams/22,2,3,14,3,32,Quebec Nordiques,/api/v1/teams/32
+1991020210,/api/v1/game/1991020210/feed/live,R,19911992,1991-11-16T17:00:00Z,2,12,8,1,3,New York Rangers,/api/v1/teams/3,4,6,10,1,2,New York Islanders,/api/v1/teams/2
+1991020211,/api/v1/game/1991020211/feed/live,R,19911992,1991-11-16T17:00:00Z,1,8,8,4,33,Winnipeg Jets (1979),/api/v1/teams/33,0,11,9,4,1,New Jersey Devils,/api/v1/teams/1
+1991020212,/api/v1/game/1991020212/feed/live,R,19911992,1991-11-16T17:00:00Z,2,9,7,5,16,Chicago Blackhawks,/api/v1/teams/16,2,5,13,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020213,/api/v1/game/1991020213/feed/live,R,19911992,1991-11-16T17:00:00Z,5,11,8,2,17,Detroit Red Wings,/api/v1/teams/17,3,8,7,2,26,Los Angeles Kings,/api/v1/teams/26
+1991020214,/api/v1/game/1991020214/feed/live,R,19911992,1991-11-16T17:00:00Z,3,8,9,1,31,Minnesota North Stars,/api/v1/teams/31,5,8,7,1,19,St. Louis Blues,/api/v1/teams/19
+1991020215,/api/v1/game/1991020215/feed/live,R,19911992,1991-11-16T17:00:00Z,0,3,17,1,28,San Jose Sharks,/api/v1/teams/28,1,14,4,1,23,Vancouver Canucks,/api/v1/teams/23
+1991020216,/api/v1/game/1991020216/feed/live,R,19911992,1991-11-17T17:00:00Z,3,9,7,3,34,Hartford Whalers,/api/v1/teams/34,1,5,14,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020217,/api/v1/game/1991020217/feed/live,R,19911992,1991-11-17T17:00:00Z,2,9,8,4,33,Winnipeg Jets (1979),/api/v1/teams/33,1,8,9,4,4,Philadelphia Flyers,/api/v1/teams/4
+1991020218,/api/v1/game/1991020218/feed/live,R,19911992,1991-11-17T17:00:00Z,1,8,8,5,19,St. Louis Blues,/api/v1/teams/19,5,10,7,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020219,/api/v1/game/1991020219/feed/live,R,19911992,1991-11-18T17:00:00Z,0,7,12,3,22,Edmonton Oilers,/api/v1/teams/22,1,15,6,3,8,Montréal Canadiens,/api/v1/teams/8
+1991020220,/api/v1/game/1991020220/feed/live,R,19911992,1991-11-18T17:00:00Z,7,9,8,3,5,Pittsburgh Penguins,/api/v1/teams/5,3,3,15,3,32,Quebec Nordiques,/api/v1/teams/32
+1991020221,/api/v1/game/1991020221/feed/live,R,19911992,1991-11-19T17:00:00Z,7,7,10,2,2,New York Islanders,/api/v1/teams/2,4,8,10,2,31,Minnesota North Stars,/api/v1/teams/31
+1991020222,/api/v1/game/1991020222/feed/live,R,19911992,1991-11-19T17:00:00Z,4,13,8,1,3,New York Rangers,/api/v1/teams/3,3,14,5,1,23,Vancouver Canucks,/api/v1/teams/23
+1991020223,/api/v1/game/1991020223/feed/live,R,19911992,1991-11-19T17:00:00Z,1,10,8,5,16,Chicago Blackhawks,/api/v1/teams/16,4,12,8,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020224,/api/v1/game/1991020224/feed/live,R,19911992,1991-11-19T17:00:00Z,3,9,7,5,26,Los Angeles Kings,/api/v1/teams/26,2,3,18,5,28,San Jose Sharks,/api/v1/teams/28
+1991020225,/api/v1/game/1991020225/feed/live,R,19911992,1991-11-20T17:00:00Z,1,7,8,4,6,Boston Bruins,/api/v1/teams/6,3,8,9,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020226,/api/v1/game/1991020226/feed/live,R,19911992,1991-11-20T17:00:00Z,1,7,11,2,2,New York Islanders,/api/v1/teams/2,3,10,8,2,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020227,/api/v1/game/1991020227/feed/live,R,19911992,1991-11-20T17:00:00Z,5,15,5,0,15,Washington Capitals,/api/v1/teams/15,6,12,9,0,1,New Jersey Devils,/api/v1/teams/1
+1991020228,/api/v1/game/1991020228/feed/live,R,19911992,1991-11-20T17:00:00Z,2,8,10,1,4,Philadelphia Flyers,/api/v1/teams/4,5,10,8,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020229,/api/v1/game/1991020229/feed/live,R,19911992,1991-11-20T17:00:00Z,2,5,15,3,10,Toronto Maple Leafs,/api/v1/teams/10,5,9,8,3,19,St. Louis Blues,/api/v1/teams/19
+1991020230,/api/v1/game/1991020230/feed/live,R,19911992,1991-11-21T17:00:00Z,2,15,7,2,8,Montréal Canadiens,/api/v1/teams/8,5,4,15,2,32,Quebec Nordiques,/api/v1/teams/32
+1991020231,/api/v1/game/1991020231/feed/live,R,19911992,1991-11-21T17:00:00Z,1,13,9,1,3,New York Rangers,/api/v1/teams/3,6,10,7,1,26,Los Angeles Kings,/api/v1/teams/26
+1991020232,/api/v1/game/1991020232/feed/live,R,19911992,1991-11-21T17:00:00Z,2,14,6,3,23,Vancouver Canucks,/api/v1/teams/23,3,10,8,3,20,Calgary Flames,/api/v1/teams/20
+1991020233,/api/v1/game/1991020233/feed/live,R,19911992,1991-11-22T17:00:00Z,3,7,9,4,6,Boston Bruins,/api/v1/teams/6,6,16,5,4,15,Washington Capitals,/api/v1/teams/15
+1991020234,/api/v1/game/1991020234/feed/live,R,19911992,1991-11-22T17:00:00Z,2,9,8,3,34,Hartford Whalers,/api/v1/teams/34,8,13,9,3,1,New Jersey Devils,/api/v1/teams/1
+1991020235,/api/v1/game/1991020235/feed/live,R,19911992,1991-11-22T17:00:00Z,0,10,9,5,16,Chicago Blackhawks,/api/v1/teams/16,2,9,9,5,7,Buffalo Sabres,/api/v1/teams/7
+1991020236,/api/v1/game/1991020236/feed/live,R,19911992,1991-11-22T17:00:00Z,3,6,15,3,10,Toronto Maple Leafs,/api/v1/teams/10,1,3,19,3,28,San Jose Sharks,/api/v1/teams/28
+1991020237,/api/v1/game/1991020237/feed/live,R,19911992,1991-11-22T17:00:00Z,3,8,11,1,31,Minnesota North Stars,/api/v1/teams/31,4,13,8,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020238,/api/v1/game/1991020238/feed/live,R,19911992,1991-11-22T17:00:00Z,5,10,9,3,20,Calgary Flames,/api/v1/teams/20,6,15,6,3,23,Vancouver Canucks,/api/v1/teams/23
+1991020239,/api/v1/game/1991020239/feed/live,R,19911992,1991-11-23T17:00:00Z,4,9,10,2,7,Buffalo Sabres,/api/v1/teams/7,7,8,9,2,6,Boston Bruins,/api/v1/teams/6
+1991020240,/api/v1/game/1991020240/feed/live,R,19911992,1991-11-23T17:00:00Z,3,17,5,0,15,Washington Capitals,/api/v1/teams/15,2,9,9,0,34,Hartford Whalers,/api/v1/teams/34
+1991020241,/api/v1/game/1991020241/feed/live,R,19911992,1991-11-23T17:00:00Z,3,4,16,1,32,Quebec Nordiques,/api/v1/teams/32,5,16,7,1,8,Montréal Canadiens,/api/v1/teams/8
+1991020242,/api/v1/game/1991020242/feed/live,R,19911992,1991-11-23T17:00:00Z,2,7,11,3,2,New York Islanders,/api/v1/teams/2,2,10,8,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020243,/api/v1/game/1991020243/feed/live,R,19911992,1991-11-23T17:00:00Z,3,14,9,1,3,New York Rangers,/api/v1/teams/3,0,9,9,1,19,St. Louis Blues,/api/v1/teams/19
+1991020244,/api/v1/game/1991020244/feed/live,R,19911992,1991-11-23T17:00:00Z,5,13,9,1,1,New Jersey Devils,/api/v1/teams/1,5,8,10,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020245,/api/v1/game/1991020245/feed/live,R,19911992,1991-11-23T17:00:00Z,2,13,8,3,17,Detroit Red Wings,/api/v1/teams/17,2,8,11,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020246,/api/v1/game/1991020246/feed/live,R,19911992,1991-11-23T17:00:00Z,4,11,8,4,33,Winnipeg Jets (1979),/api/v1/teams/33,0,7,13,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020247,/api/v1/game/1991020247/feed/live,R,19911992,1991-11-23T17:00:00Z,4,3,20,1,28,San Jose Sharks,/api/v1/teams/28,6,11,7,1,26,Los Angeles Kings,/api/v1/teams/26
+1991020248,/api/v1/game/1991020248/feed/live,R,19911992,1991-11-25T17:00:00Z,3,8,10,4,6,Boston Bruins,/api/v1/teams/6,4,17,7,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020249,/api/v1/game/1991020249/feed/live,R,19911992,1991-11-25T17:00:00Z,2,9,10,3,34,Hartford Whalers,/api/v1/teams/34,5,5,16,3,32,Quebec Nordiques,/api/v1/teams/32
+1991020250,/api/v1/game/1991020250/feed/live,R,19911992,1991-11-25T17:00:00Z,4,17,6,0,15,Washington Capitals,/api/v1/teams/15,5,14,8,0,17,Detroit Red Wings,/api/v1/teams/17
+1991020251,/api/v1/game/1991020251/feed/live,R,19911992,1991-11-25T17:00:00Z,3,11,8,5,33,Winnipeg Jets (1979),/api/v1/teams/33,3,10,9,5,20,Calgary Flames,/api/v1/teams/20
+1991020252,/api/v1/game/1991020252/feed/live,R,19911992,1991-11-26T17:00:00Z,4,6,15,4,10,Toronto Maple Leafs,/api/v1/teams/10,4,11,7,4,26,Los Angeles Kings,/api/v1/teams/26
+1991020253,/api/v1/game/1991020253/feed/live,R,19911992,1991-11-26T17:00:00Z,1,15,7,3,23,Vancouver Canucks,/api/v1/teams/23,4,4,20,3,28,San Jose Sharks,/api/v1/teams/28
+1991020254,/api/v1/game/1991020254/feed/live,R,19911992,1991-11-27T17:00:00Z,3,9,10,4,6,Boston Bruins,/api/v1/teams/6,2,7,12,4,2,New York Islanders,/api/v1/teams/2
+1991020255,/api/v1/game/1991020255/feed/live,R,19911992,1991-11-27T17:00:00Z,7,10,10,3,34,Hartford Whalers,/api/v1/teams/34,3,8,11,3,4,Philadelphia Flyers,/api/v1/teams/4
+1991020256,/api/v1/game/1991020256/feed/live,R,19911992,1991-11-27T17:00:00Z,4,5,16,2,32,Quebec Nordiques,/api/v1/teams/32,4,9,10,2,7,Buffalo Sabres,/api/v1/teams/7
+1991020257,/api/v1/game/1991020257/feed/live,R,19911992,1991-11-27T17:00:00Z,1,17,8,2,8,Montréal Canadiens,/api/v1/teams/8,3,18,6,2,15,Washington Capitals,/api/v1/teams/15
+1991020258,/api/v1/game/1991020258/feed/live,R,19911992,1991-11-27T17:00:00Z,2,14,10,1,3,New York Rangers,/api/v1/teams/3,3,12,8,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020259,/api/v1/game/1991020259/feed/live,R,19911992,1991-11-27T17:00:00Z,4,13,10,1,1,New Jersey Devils,/api/v1/teams/1,8,11,8,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020261,/api/v1/game/1991020261/feed/live,R,19911992,1991-11-27T17:00:00Z,2,10,10,5,16,Chicago Blackhawks,/api/v1/teams/16,6,8,13,5,22,Edmonton Oilers,/api/v1/teams/22
+1991020262,/api/v1/game/1991020262/feed/live,R,19911992,1991-11-28T17:00:00Z,2,5,17,2,32,Quebec Nordiques,/api/v1/teams/32,5,10,9,2,19,St. Louis Blues,/api/v1/teams/19
+1991020263,/api/v1/game/1991020263/feed/live,R,19911992,1991-11-28T17:00:00Z,3,11,8,6,26,Los Angeles Kings,/api/v1/teams/26,5,11,9,6,20,Calgary Flames,/api/v1/teams/20
+1991020264,/api/v1/game/1991020264/feed/live,R,19911992,1991-11-29T17:00:00Z,4,17,9,2,8,Montréal Canadiens,/api/v1/teams/8,5,10,10,2,6,Boston Bruins,/api/v1/teams/6
+1991020265,/api/v1/game/1991020265/feed/live,R,19911992,1991-11-29T17:00:00Z,5,15,10,1,3,New York Rangers,/api/v1/teams/3,4,9,11,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020266,/api/v1/game/1991020266/feed/live,R,19911992,1991-11-29T17:00:00Z,3,8,12,3,2,New York Islanders,/api/v1/teams/2,2,18,7,3,15,Washington Capitals,/api/v1/teams/15
+1991020267,/api/v1/game/1991020267/feed/live,R,19911992,1991-11-29T17:00:00Z,9,12,8,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,8,12,4,4,Philadelphia Flyers,/api/v1/teams/4
+1991020268,/api/v1/game/1991020268/feed/live,R,19911992,1991-11-29T17:00:00Z,3,7,15,4,10,Toronto Maple Leafs,/api/v1/teams/10,2,8,12,4,31,Minnesota North Stars,/api/v1/teams/31
+1991020269,/api/v1/game/1991020269/feed/live,R,19911992,1991-11-29T17:00:00Z,2,10,11,5,16,Chicago Blackhawks,/api/v1/teams/16,5,16,7,5,23,Vancouver Canucks,/api/v1/teams/23
+1991020270,/api/v1/game/1991020270/feed/live,R,19911992,1991-11-29T17:00:00Z,4,4,20,2,28,San Jose Sharks,/api/v1/teams/28,4,8,13,2,22,Edmonton Oilers,/api/v1/teams/22
+1991020271,/api/v1/game/1991020271/feed/live,R,19911992,1991-11-30T17:00:00Z,2,17,10,2,8,Montréal Canadiens,/api/v1/teams/8,3,11,10,2,34,Hartford Whalers,/api/v1/teams/34
+1991020272,/api/v1/game/1991020272/feed/live,R,19911992,1991-11-30T17:00:00Z,3,9,12,3,7,Buffalo Sabres,/api/v1/teams/7,4,6,17,3,32,Quebec Nordiques,/api/v1/teams/32
+1991020273,/api/v1/game/1991020273/feed/live,R,19911992,1991-11-30T17:00:00Z,1,18,8,0,15,Washington Capitals,/api/v1/teams/15,8,9,12,0,2,New York Islanders,/api/v1/teams/2
+1991020274,/api/v1/game/1991020274/feed/live,R,19911992,1991-11-30T17:00:00Z,4,14,10,1,1,New Jersey Devils,/api/v1/teams/1,1,11,9,1,26,Los Angeles Kings,/api/v1/teams/26
+1991020275,/api/v1/game/1991020275/feed/live,R,19911992,1991-11-30T17:00:00Z,1,8,13,2,4,Philadelphia Flyers,/api/v1/teams/4,5,13,8,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020276,/api/v1/game/1991020276/feed/live,R,19911992,1991-11-30T17:00:00Z,4,9,12,2,31,Minnesota North Stars,/api/v1/teams/31,3,7,16,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020277,/api/v1/game/1991020277/feed/live,R,19911992,1991-11-30T17:00:00Z,3,14,9,3,17,Detroit Red Wings,/api/v1/teams/17,7,11,9,3,19,St. Louis Blues,/api/v1/teams/19
+1991020278,/api/v1/game/1991020278/feed/live,R,19911992,1991-11-30T17:00:00Z,2,5,20,2,28,San Jose Sharks,/api/v1/teams/28,1,11,10,2,20,Calgary Flames,/api/v1/teams/20
+1991020279,/api/v1/game/1991020279/feed/live,R,19911992,1991-12-01T17:00:00Z,4,11,11,3,34,Hartford Whalers,/api/v1/teams/34,5,11,10,3,6,Boston Bruins,/api/v1/teams/6
+1991020280,/api/v1/game/1991020280/feed/live,R,19911992,1991-12-01T17:00:00Z,2,10,12,5,16,Chicago Blackhawks,/api/v1/teams/16,3,13,8,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020281,/api/v1/game/1991020281/feed/live,R,19911992,1991-12-01T17:00:00Z,0,16,8,3,23,Vancouver Canucks,/api/v1/teams/23,7,9,13,3,22,Edmonton Oilers,/api/v1/teams/22
+1991020282,/api/v1/game/1991020282/feed/live,R,19911992,1991-12-02T17:00:00Z,2,8,14,2,4,Philadelphia Flyers,/api/v1/teams/4,4,16,10,2,3,New York Rangers,/api/v1/teams/3
+1991020283,/api/v1/game/1991020283/feed/live,R,19911992,1991-12-03T17:00:00Z,0,16,9,3,23,Vancouver Canucks,/api/v1/teams/23,3,7,17,3,32,Quebec Nordiques,/api/v1/teams/32
+1991020284,/api/v1/game/1991020284/feed/live,R,19911992,1991-12-03T17:00:00Z,3,13,9,4,5,Pittsburgh Penguins,/api/v1/teams/5,5,10,13,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020285,/api/v1/game/1991020285/feed/live,R,19911992,1991-12-03T17:00:00Z,2,11,11,4,20,Calgary Flames,/api/v1/teams/20,5,15,9,4,17,Detroit Red Wings,/api/v1/teams/17
+1991020286,/api/v1/game/1991020286/feed/live,R,19911992,1991-12-03T17:00:00Z,3,11,9,6,19,St. Louis Blues,/api/v1/teams/19,3,9,12,6,31,Minnesota North Stars,/api/v1/teams/31
+1991020287,/api/v1/game/1991020287/feed/live,R,19911992,1991-12-03T17:00:00Z,2,11,10,6,26,Los Angeles Kings,/api/v1/teams/26,3,6,20,6,28,San Jose Sharks,/api/v1/teams/28
+1991020288,/api/v1/game/1991020288/feed/live,R,19911992,1991-12-04T17:00:00Z,3,8,16,4,10,Toronto Maple Leafs,/api/v1/teams/10,0,11,12,4,34,Hartford Whalers,/api/v1/teams/34
+1991020289,/api/v1/game/1991020289/feed/live,R,19911992,1991-12-04T17:00:00Z,4,9,13,3,7,Buffalo Sabres,/api/v1/teams/7,5,14,8,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020290,/api/v1/game/1991020290/feed/live,R,19911992,1991-12-04T17:00:00Z,3,17,9,3,23,Vancouver Canucks,/api/v1/teams/23,0,17,11,3,8,Montréal Canadiens,/api/v1/teams/8
+1991020291,/api/v1/game/1991020291/feed/live,R,19911992,1991-12-04T17:00:00Z,2,11,10,6,19,St. Louis Blues,/api/v1/teams/19,5,10,12,6,31,Minnesota North Stars,/api/v1/teams/31
+1991020292,/api/v1/game/1991020292/feed/live,R,19911992,1991-12-05T17:00:00Z,2,7,17,3,32,Quebec Nordiques,/api/v1/teams/32,2,11,10,3,6,Boston Bruins,/api/v1/teams/6
+1991020293,/api/v1/game/1991020293/feed/live,R,19911992,1991-12-05T17:00:00Z,5,18,11,2,8,Montréal Canadiens,/api/v1/teams/8,4,9,13,2,2,New York Islanders,/api/v1/teams/2
+1991020294,/api/v1/game/1991020294/feed/live,R,19911992,1991-12-05T17:00:00Z,3,11,12,4,20,Calgary Flames,/api/v1/teams/20,6,15,10,4,1,New Jersey Devils,/api/v1/teams/1
+1991020295,/api/v1/game/1991020295/feed/live,R,19911992,1991-12-05T17:00:00Z,6,19,8,0,15,Washington Capitals,/api/v1/teams/15,3,8,15,0,4,Philadelphia Flyers,/api/v1/teams/4
+1991020296,/api/v1/game/1991020296/feed/live,R,19911992,1991-12-05T17:00:00Z,8,14,9,4,5,Pittsburgh Penguins,/api/v1/teams/5,0,6,21,4,28,San Jose Sharks,/api/v1/teams/28
+1991020297,/api/v1/game/1991020297/feed/live,R,19911992,1991-12-05T17:00:00Z,2,11,11,6,26,Los Angeles Kings,/api/v1/teams/26,6,11,12,6,16,Chicago Blackhawks,/api/v1/teams/16
+1991020298,/api/v1/game/1991020298/feed/live,R,19911992,1991-12-06T17:00:00Z,5,16,11,1,3,New York Rangers,/api/v1/teams/3,6,16,9,1,17,Detroit Red Wings,/api/v1/teams/17
+1991020299,/api/v1/game/1991020299/feed/live,R,19911992,1991-12-06T17:00:00Z,4,10,13,5,22,Edmonton Oilers,/api/v1/teams/22,4,14,8,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020300,/api/v1/game/1991020300/feed/live,R,19911992,1991-12-07T17:00:00Z,5,9,15,2,4,Philadelphia Flyers,/api/v1/teams/4,3,11,11,2,6,Boston Bruins,/api/v1/teams/6
+1991020301,/api/v1/game/1991020301/feed/live,R,19911992,1991-12-07T17:00:00Z,6,9,13,4,7,Buffalo Sabres,/api/v1/teams/7,6,11,12,4,34,Hartford Whalers,/api/v1/teams/34
+1991020302,/api/v1/game/1991020302/feed/live,R,19911992,1991-12-07T17:00:00Z,1,11,13,4,20,Calgary Flames,/api/v1/teams/20,5,19,11,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020303,/api/v1/game/1991020303/feed/live,R,19911992,1991-12-07T17:00:00Z,5,11,12,6,26,Los Angeles Kings,/api/v1/teams/26,7,8,17,6,32,Quebec Nordiques,/api/v1/teams/32
+1991020304,/api/v1/game/1991020304/feed/live,R,19911992,1991-12-07T17:00:00Z,5,12,12,5,16,Chicago Blackhawks,/api/v1/teams/16,2,9,14,5,2,New York Islanders,/api/v1/teams/2
+1991020305,/api/v1/game/1991020305/feed/live,R,19911992,1991-12-07T17:00:00Z,2,16,9,4,17,Detroit Red Wings,/api/v1/teams/17,2,15,10,4,1,New Jersey Devils,/api/v1/teams/1
+1991020306,/api/v1/game/1991020306/feed/live,R,19911992,1991-12-07T17:00:00Z,1,14,10,4,5,Pittsburgh Penguins,/api/v1/teams/5,6,12,10,4,19,St. Louis Blues,/api/v1/teams/19
+1991020307,/api/v1/game/1991020307/feed/live,R,19911992,1991-12-07T17:00:00Z,4,20,8,0,15,Washington Capitals,/api/v1/teams/15,2,10,13,0,31,Minnesota North Stars,/api/v1/teams/31
+1991020308,/api/v1/game/1991020308/feed/live,R,19911992,1991-12-07T17:00:00Z,3,17,10,3,23,Vancouver Canucks,/api/v1/teams/23,6,9,16,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020309,/api/v1/game/1991020309/feed/live,R,19911992,1991-12-08T17:00:00Z,0,11,12,5,6,Boston Bruins,/api/v1/teams/6,4,17,11,5,3,New York Rangers,/api/v1/teams/3
+1991020310,/api/v1/game/1991020310/feed/live,R,19911992,1991-12-08T17:00:00Z,4,12,13,4,20,Calgary Flames,/api/v1/teams/20,2,9,14,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020311,/api/v1/game/1991020311/feed/live,R,19911992,1991-12-08T17:00:00Z,2,15,10,3,1,New Jersey Devils,/api/v1/teams/1,2,9,15,3,4,Philadelphia Flyers,/api/v1/teams/4
+1991020312,/api/v1/game/1991020312/feed/live,R,19911992,1991-12-08T17:00:00Z,3,20,9,0,15,Washington Capitals,/api/v1/teams/15,4,15,8,0,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020313,/api/v1/game/1991020313/feed/live,R,19911992,1991-12-08T17:00:00Z,2,10,14,3,31,Minnesota North Stars,/api/v1/teams/31,7,13,12,3,16,Chicago Blackhawks,/api/v1/teams/16
+1991020314,/api/v1/game/1991020314/feed/live,R,19911992,1991-12-08T17:00:00Z,1,6,22,2,28,San Jose Sharks,/api/v1/teams/28,3,11,13,2,22,Edmonton Oilers,/api/v1/teams/22
+1991020315,/api/v1/game/1991020315/feed/live,R,19911992,1991-12-09T17:00:00Z,4,20,11,2,8,Montréal Canadiens,/api/v1/teams/8,1,9,17,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020316,/api/v1/game/1991020316/feed/live,R,19911992,1991-12-10T17:00:00Z,2,11,13,5,6,Boston Bruins,/api/v1/teams/6,5,9,17,5,32,Quebec Nordiques,/api/v1/teams/32
+1991020317,/api/v1/game/1991020317/feed/live,R,19911992,1991-12-10T17:00:00Z,7,12,10,7,19,St. Louis Blues,/api/v1/teams/19,7,9,14,7,2,New York Islanders,/api/v1/teams/2
+1991020318,/api/v1/game/1991020318/feed/live,R,19911992,1991-12-10T17:00:00Z,3,17,12,1,3,New York Rangers,/api/v1/teams/3,5,15,10,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020319,/api/v1/game/1991020319/feed/live,R,19911992,1991-12-10T17:00:00Z,3,15,11,3,1,New Jersey Devils,/api/v1/teams/1,4,11,14,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020320,/api/v1/game/1991020320/feed/live,R,19911992,1991-12-10T17:00:00Z,1,12,14,4,20,Calgary Flames,/api/v1/teams/20,4,21,9,4,15,Washington Capitals,/api/v1/teams/15
+1991020321,/api/v1/game/1991020321/feed/live,R,19911992,1991-12-10T17:00:00Z,3,13,13,5,16,Chicago Blackhawks,/api/v1/teams/16,5,17,9,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020322,/api/v1/game/1991020322/feed/live,R,19911992,1991-12-10T17:00:00Z,3,15,8,7,33,Winnipeg Jets (1979),/api/v1/teams/33,3,6,22,7,28,San Jose Sharks,/api/v1/teams/28
+1991020323,/api/v1/game/1991020323/feed/live,R,19911992,1991-12-10T17:00:00Z,7,12,13,5,22,Edmonton Oilers,/api/v1/teams/22,4,17,11,5,23,Vancouver Canucks,/api/v1/teams/23
+1991020324,/api/v1/game/1991020324/feed/live,R,19911992,1991-12-11T17:00:00Z,6,13,10,7,19,St. Louis Blues,/api/v1/teams/19,3,9,15,7,7,Buffalo Sabres,/api/v1/teams/7
+1991020325,/api/v1/game/1991020325/feed/live,R,19911992,1991-12-11T17:00:00Z,5,10,14,4,2,New York Islanders,/api/v1/teams/2,4,9,18,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020326,/api/v1/game/1991020326/feed/live,R,19911992,1991-12-12T17:00:00Z,2,20,12,2,8,Montréal Canadiens,/api/v1/teams/8,5,12,13,2,6,Boston Bruins,/api/v1/teams/6
+1991020327,/api/v1/game/1991020327/feed/live,R,19911992,1991-12-12T17:00:00Z,1,9,18,3,32,Quebec Nordiques,/api/v1/teams/32,4,18,9,3,17,Detroit Red Wings,/api/v1/teams/17
+1991020328,/api/v1/game/1991020328/feed/live,R,19911992,1991-12-12T17:00:00Z,1,9,18,5,10,Toronto Maple Leafs,/api/v1/teams/10,1,9,15,5,4,Philadelphia Flyers,/api/v1/teams/4
+1991020329,/api/v1/game/1991020329/feed/live,R,19911992,1991-12-12T17:00:00Z,5,11,15,3,31,Minnesota North Stars,/api/v1/teams/31,7,18,11,3,23,Vancouver Canucks,/api/v1/teams/23
+1991020330,/api/v1/game/1991020330/feed/live,R,19911992,1991-12-12T17:00:00Z,1,15,9,7,33,Winnipeg Jets (1979),/api/v1/teams/33,2,12,12,7,26,Los Angeles Kings,/api/v1/teams/26
+1991020331,/api/v1/game/1991020331/feed/live,R,19911992,1991-12-12T17:00:00Z,3,12,14,5,22,Edmonton Oilers,/api/v1/teams/22,6,7,22,5,28,San Jose Sharks,/api/v1/teams/28
+1991020332,/api/v1/game/1991020332/feed/live,R,19911992,1991-12-13T17:00:00Z,8,12,12,4,34,Hartford Whalers,/api/v1/teams/34,4,9,16,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020333,/api/v1/game/1991020333/feed/live,R,19911992,1991-12-13T17:00:00Z,5,18,12,1,3,New York Rangers,/api/v1/teams/3,3,21,10,1,15,Washington Capitals,/api/v1/teams/15
+1991020334,/api/v1/game/1991020334/feed/live,R,19911992,1991-12-13T17:00:00Z,4,16,10,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,15,12,4,1,New Jersey Devils,/api/v1/teams/1
+1991020335,/api/v1/game/1991020335/feed/live,R,19911992,1991-12-14T17:00:00Z,3,9,19,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,13,13,5,6,Boston Bruins,/api/v1/teams/6
+1991020336,/api/v1/game/1991020336/feed/live,R,19911992,1991-12-14T17:00:00Z,6,19,12,1,3,New York Rangers,/api/v1/teams/3,2,12,13,1,34,Hartford Whalers,/api/v1/teams/34
+1991020337,/api/v1/game/1991020337/feed/live,R,19911992,1991-12-14T17:00:00Z,2,9,17,4,7,Buffalo Sabres,/api/v1/teams/7,4,21,12,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020338,/api/v1/game/1991020338/feed/live,R,19911992,1991-12-14T17:00:00Z,4,14,10,7,19,St. Louis Blues,/api/v1/teams/19,2,9,19,7,32,Quebec Nordiques,/api/v1/teams/32
+1991020339,/api/v1/game/1991020339/feed/live,R,19911992,1991-12-14T17:00:00Z,3,15,12,4,1,New Jersey Devils,/api/v1/teams/1,3,10,14,4,2,New York Islanders,/api/v1/teams/2
+1991020340,/api/v1/game/1991020340/feed/live,R,19911992,1991-12-14T17:00:00Z,1,13,13,6,16,Chicago Blackhawks,/api/v1/teams/16,1,9,15,6,4,Philadelphia Flyers,/api/v1/teams/4
+1991020341,/api/v1/game/1991020341/feed/live,R,19911992,1991-12-14T17:00:00Z,7,22,10,0,15,Washington Capitals,/api/v1/teams/15,2,16,11,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020342,/api/v1/game/1991020342/feed/live,R,19911992,1991-12-14T17:00:00Z,4,19,9,4,17,Detroit Red Wings,/api/v1/teams/17,3,12,15,4,20,Calgary Flames,/api/v1/teams/20
+1991020343,/api/v1/game/1991020343/feed/live,R,19911992,1991-12-14T17:00:00Z,3,12,15,3,31,Minnesota North Stars,/api/v1/teams/31,2,7,23,3,28,San Jose Sharks,/api/v1/teams/28
+1991020344,/api/v1/game/1991020344/feed/live,R,19911992,1991-12-14T17:00:00Z,5,15,10,7,33,Winnipeg Jets (1979),/api/v1/teams/33,7,13,14,7,22,Edmonton Oilers,/api/v1/teams/22
+1991020345,/api/v1/game/1991020345/feed/live,R,19911992,1991-12-14T17:00:00Z,4,18,11,4,23,Vancouver Canucks,/api/v1/teams/23,4,12,12,4,26,Los Angeles Kings,/api/v1/teams/26
+1991020346,/api/v1/game/1991020346/feed/live,R,19911992,1991-12-15T17:00:00Z,4,9,15,6,4,Philadelphia Flyers,/api/v1/teams/4,4,13,13,6,16,Chicago Blackhawks,/api/v1/teams/16
+1991020347,/api/v1/game/1991020347/feed/live,R,19911992,1991-12-15T17:00:00Z,4,20,9,4,17,Detroit Red Wings,/api/v1/teams/17,1,13,15,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020348,/api/v1/game/1991020348/feed/live,R,19911992,1991-12-16T17:00:00Z,2,14,11,7,19,St. Louis Blues,/api/v1/teams/19,4,22,12,7,8,Montréal Canadiens,/api/v1/teams/8
+1991020349,/api/v1/game/1991020349/feed/live,R,19911992,1991-12-16T17:00:00Z,3,7,24,3,28,San Jose Sharks,/api/v1/teams/28,4,20,12,3,3,New York Rangers,/api/v1/teams/3
+1991020350,/api/v1/game/1991020350/feed/live,R,19911992,1991-12-17T17:00:00Z,4,11,14,5,2,New York Islanders,/api/v1/teams/2,2,12,14,5,34,Hartford Whalers,/api/v1/teams/34
+1991020351,/api/v1/game/1991020351/feed/live,R,19911992,1991-12-17T17:00:00Z,1,9,20,3,32,Quebec Nordiques,/api/v1/teams/32,3,23,10,3,15,Washington Capitals,/api/v1/teams/15
+1991020352,/api/v1/game/1991020352/feed/live,R,19911992,1991-12-17T17:00:00Z,2,7,25,3,28,San Jose Sharks,/api/v1/teams/28,10,17,11,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020353,/api/v1/game/1991020353/feed/live,R,19911992,1991-12-17T17:00:00Z,1,20,10,4,17,Detroit Red Wings,/api/v1/teams/17,2,19,11,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020354,/api/v1/game/1991020354/feed/live,R,19911992,1991-12-17T17:00:00Z,2,13,15,3,31,Minnesota North Stars,/api/v1/teams/31,1,12,13,3,26,Los Angeles Kings,/api/v1/teams/26
+1991020355,/api/v1/game/1991020355/feed/live,R,19911992,1991-12-17T17:00:00Z,4,15,11,7,33,Winnipeg Jets (1979),/api/v1/teams/33,7,13,15,7,20,Calgary Flames,/api/v1/teams/20
+1991020356,/api/v1/game/1991020356/feed/live,R,19911992,1991-12-18T17:00:00Z,2,23,10,1,15,Washington Capitals,/api/v1/teams/15,2,9,17,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020357,/api/v1/game/1991020357/feed/live,R,19911992,1991-12-18T17:00:00Z,3,9,16,6,4,Philadelphia Flyers,/api/v1/teams/4,6,21,12,6,3,New York Rangers,/api/v1/teams/3
+1991020358,/api/v1/game/1991020358/feed/live,R,19911992,1991-12-18T17:00:00Z,7,14,15,5,22,Edmonton Oilers,/api/v1/teams/22,5,9,20,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020359,/api/v1/game/1991020359/feed/live,R,19911992,1991-12-19T17:00:00Z,6,18,11,4,5,Pittsburgh Penguins,/api/v1/teams/5,4,13,14,4,6,Boston Bruins,/api/v1/teams/6
+1991020360,/api/v1/game/1991020360/feed/live,R,19911992,1991-12-19T17:00:00Z,4,16,12,4,1,New Jersey Devils,/api/v1/teams/1,1,12,15,4,34,Hartford Whalers,/api/v1/teams/34
+1991020361,/api/v1/game/1991020361/feed/live,R,19911992,1991-12-19T17:00:00Z,4,22,13,2,8,Montréal Canadiens,/api/v1/teams/8,6,14,13,2,16,Chicago Blackhawks,/api/v1/teams/16
+1991020362,/api/v1/game/1991020362/feed/live,R,19911992,1991-12-19T17:00:00Z,5,9,20,4,32,Quebec Nordiques,/api/v1/teams/32,5,13,15,4,20,Calgary Flames,/api/v1/teams/20
+1991020363,/api/v1/game/1991020363/feed/live,R,19911992,1991-12-19T17:00:00Z,2,11,15,5,2,New York Islanders,/api/v1/teams/2,6,10,16,5,4,Philadelphia Flyers,/api/v1/teams/4
+1991020364,/api/v1/game/1991020364/feed/live,R,19911992,1991-12-19T17:00:00Z,0,7,26,3,28,San Jose Sharks,/api/v1/teams/28,4,15,11,3,19,St. Louis Blues,/api/v1/teams/19
+1991020365,/api/v1/game/1991020365/feed/live,R,19911992,1991-12-19T17:00:00Z,1,15,12,7,33,Winnipeg Jets (1979),/api/v1/teams/33,3,20,11,7,23,Vancouver Canucks,/api/v1/teams/23
+1991020366,/api/v1/game/1991020366/feed/live,R,19911992,1991-12-20T17:00:00Z,4,14,15,6,22,Edmonton Oilers,/api/v1/teams/22,4,9,17,6,7,Buffalo Sabres,/api/v1/teams/7
+1991020367,/api/v1/game/1991020367/feed/live,R,19911992,1991-12-20T17:00:00Z,3,9,21,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,24,10,5,15,Washington Capitals,/api/v1/teams/15
+1991020368,/api/v1/game/1991020368/feed/live,R,19911992,1991-12-21T17:00:00Z,3,14,16,6,22,Edmonton Oilers,/api/v1/teams/22,6,14,14,6,6,Boston Bruins,/api/v1/teams/6
+1991020369,/api/v1/game/1991020369/feed/live,R,19911992,1991-12-21T17:00:00Z,2,12,16,4,34,Hartford Whalers,/api/v1/teams/34,3,23,13,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020370,/api/v1/game/1991020370/feed/live,R,19911992,1991-12-21T17:00:00Z,4,10,17,6,7,Buffalo Sabres,/api/v1/teams/7,1,9,22,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020371,/api/v1/game/1991020371/feed/live,R,19911992,1991-12-21T17:00:00Z,1,9,21,4,32,Quebec Nordiques,/api/v1/teams/32,4,8,26,4,28,San Jose Sharks,/api/v1/teams/28
+1991020372,/api/v1/game/1991020372/feed/live,R,19911992,1991-12-21T17:00:00Z,2,11,16,5,2,New York Islanders,/api/v1/teams/2,6,16,11,5,19,St. Louis Blues,/api/v1/teams/19
+1991020373,/api/v1/game/1991020373/feed/live,R,19911992,1991-12-21T17:00:00Z,7,22,12,1,3,New York Rangers,/api/v1/teams/3,5,18,12,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020374,/api/v1/game/1991020374/feed/live,R,19911992,1991-12-21T17:00:00Z,1,14,13,8,16,Chicago Blackhawks,/api/v1/teams/16,1,16,12,8,1,New Jersey Devils,/api/v1/teams/1
+1991020375,/api/v1/game/1991020375/feed/live,R,19911992,1991-12-21T17:00:00Z,3,11,16,6,4,Philadelphia Flyers,/api/v1/teams/4,0,13,16,6,31,Minnesota North Stars,/api/v1/teams/31
+1991020376,/api/v1/game/1991020376/feed/live,R,19911992,1991-12-21T17:00:00Z,5,21,10,4,17,Detroit Red Wings,/api/v1/teams/17,2,12,14,4,26,Los Angeles Kings,/api/v1/teams/26
+1991020377,/api/v1/game/1991020377/feed/live,R,19911992,1991-12-21T17:00:00Z,2,13,16,5,20,Calgary Flames,/api/v1/teams/20,7,16,12,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020378,/api/v1/game/1991020378/feed/live,R,19911992,1991-12-22T17:00:00Z,2,14,15,5,6,Boston Bruins,/api/v1/teams/6,3,24,13,5,8,Montréal Canadiens,/api/v1/teams/8
+1991020379,/api/v1/game/1991020379/feed/live,R,19911992,1991-12-22T17:00:00Z,6,9,21,5,32,Quebec Nordiques,/api/v1/teams/32,6,20,11,5,23,Vancouver Canucks,/api/v1/teams/23
+1991020380,/api/v1/game/1991020380/feed/live,R,19911992,1991-12-22T17:00:00Z,3,24,11,1,15,Washington Capitals,/api/v1/teams/15,4,12,16,1,4,Philadelphia Flyers,/api/v1/teams/4
+1991020381,/api/v1/game/1991020381/feed/live,R,19911992,1991-12-22T17:00:00Z,2,16,12,7,19,St. Louis Blues,/api/v1/teams/19,5,15,13,7,16,Chicago Blackhawks,/api/v1/teams/16
+1991020382,/api/v1/game/1991020382/feed/live,R,19911992,1991-12-23T17:00:00Z,3,10,18,6,7,Buffalo Sabres,/api/v1/teams/7,4,13,16,6,34,Hartford Whalers,/api/v1/teams/34
+1991020383,/api/v1/game/1991020383/feed/live,R,19911992,1991-12-23T17:00:00Z,6,19,12,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,11,17,4,2,New York Islanders,/api/v1/teams/2
+1991020384,/api/v1/game/1991020384/feed/live,R,19911992,1991-12-23T17:00:00Z,0,16,13,5,1,New Jersey Devils,/api/v1/teams/1,3,23,12,5,3,New York Rangers,/api/v1/teams/3
+1991020385,/api/v1/game/1991020385/feed/live,R,19911992,1991-12-23T17:00:00Z,1,16,13,7,33,Winnipeg Jets (1979),/api/v1/teams/33,3,10,22,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020386,/api/v1/game/1991020386/feed/live,R,19911992,1991-12-23T17:00:00Z,3,13,17,5,20,Calgary Flames,/api/v1/teams/20,5,15,16,5,22,Edmonton Oilers,/api/v1/teams/22
+1991020387,/api/v1/game/1991020387/feed/live,R,19911992,1991-12-26T17:00:00Z,2,13,17,4,34,Hartford Whalers,/api/v1/teams/34,3,15,15,4,6,Boston Bruins,/api/v1/teams/6
+1991020388,/api/v1/game/1991020388/feed/live,R,19911992,1991-12-26T17:00:00Z,4,25,13,2,8,Montréal Canadiens,/api/v1/teams/8,1,9,22,2,32,Quebec Nordiques,/api/v1/teams/32
+1991020389,/api/v1/game/1991020389/feed/live,R,19911992,1991-12-26T17:00:00Z,5,16,13,6,1,New Jersey Devils,/api/v1/teams/1,5,11,17,6,2,New York Islanders,/api/v1/teams/2
+1991020390,/api/v1/game/1991020390/feed/live,R,19911992,1991-12-26T17:00:00Z,8,24,12,1,3,New York Rangers,/api/v1/teams/3,6,24,12,1,15,Washington Capitals,/api/v1/teams/15
+1991020391,/api/v1/game/1991020391/feed/live,R,19911992,1991-12-26T17:00:00Z,1,10,23,5,10,Toronto Maple Leafs,/api/v1/teams/10,12,20,12,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020392,/api/v1/game/1991020392/feed/live,R,19911992,1991-12-26T17:00:00Z,1,15,14,8,16,Chicago Blackhawks,/api/v1/teams/16,3,17,12,8,19,St. Louis Blues,/api/v1/teams/19
+1991020393,/api/v1/game/1991020393/feed/live,R,19911992,1991-12-26T17:00:00Z,3,14,16,3,31,Minnesota North Stars,/api/v1/teams/31,2,16,14,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020394,/api/v1/game/1991020394/feed/live,R,19911992,1991-12-26T17:00:00Z,3,8,27,3,28,San Jose Sharks,/api/v1/teams/28,5,13,14,3,26,Los Angeles Kings,/api/v1/teams/26
+1991020395,/api/v1/game/1991020395/feed/live,R,19911992,1991-12-27T17:00:00Z,1,15,16,5,6,Boston Bruins,/api/v1/teams/6,8,11,18,5,7,Buffalo Sabres,/api/v1/teams/7
+1991020396,/api/v1/game/1991020396/feed/live,R,19911992,1991-12-27T17:00:00Z,1,12,16,7,4,Philadelphia Flyers,/api/v1/teams/4,1,20,11,7,23,Vancouver Canucks,/api/v1/teams/23
+1991020397,/api/v1/game/1991020397/feed/live,R,19911992,1991-12-27T17:00:00Z,3,16,14,8,33,Winnipeg Jets (1979),/api/v1/teams/33,3,15,14,8,16,Chicago Blackhawks,/api/v1/teams/16
+1991020398,/api/v1/game/1991020398/feed/live,R,19911992,1991-12-28T17:00:00Z,1,13,18,4,34,Hartford Whalers,/api/v1/teams/34,4,10,22,4,32,Quebec Nordiques,/api/v1/teams/32
+1991020399,/api/v1/game/1991020399/feed/live,R,19911992,1991-12-28T17:00:00Z,0,11,19,6,7,Buffalo Sabres,/api/v1/teams/7,3,17,13,6,1,New Jersey Devils,/api/v1/teams/1
+1991020400,/api/v1/game/1991020400/feed/live,R,19911992,1991-12-28T17:00:00Z,4,24,13,1,3,New York Rangers,/api/v1/teams/3,5,12,17,1,2,New York Islanders,/api/v1/teams/2
+1991020401,/api/v1/game/1991020401/feed/live,R,19911992,1991-12-28T17:00:00Z,1,12,17,7,4,Philadelphia Flyers,/api/v1/teams/4,5,14,17,7,20,Calgary Flames,/api/v1/teams/20
+1991020402,/api/v1/game/1991020402/feed/live,R,19911992,1991-12-28T17:00:00Z,6,21,12,4,5,Pittsburgh Penguins,/api/v1/teams/5,2,24,13,4,15,Washington Capitals,/api/v1/teams/15
+1991020403,/api/v1/game/1991020403/feed/live,R,19911992,1991-12-28T17:00:00Z,5,22,10,4,17,Detroit Red Wings,/api/v1/teams/17,4,10,24,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020404,/api/v1/game/1991020404/feed/live,R,19911992,1991-12-28T17:00:00Z,2,17,13,7,19,St. Louis Blues,/api/v1/teams/19,5,15,16,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020405,/api/v1/game/1991020405/feed/live,R,19911992,1991-12-28T17:00:00Z,9,14,14,7,26,Los Angeles Kings,/api/v1/teams/26,4,15,17,7,22,Edmonton Oilers,/api/v1/teams/22
+1991020406,/api/v1/game/1991020406/feed/live,R,19911992,1991-12-28T17:00:00Z,3,21,11,6,23,Vancouver Canucks,/api/v1/teams/23,2,8,28,6,28,San Jose Sharks,/api/v1/teams/28
+1991020407,/api/v1/game/1991020407/feed/live,R,19911992,1991-12-29T17:00:00Z,6,16,16,5,6,Boston Bruins,/api/v1/teams/6,3,16,15,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020408,/api/v1/game/1991020408/feed/live,R,19911992,1991-12-29T17:00:00Z,4,12,18,6,2,New York Islanders,/api/v1/teams/2,6,14,18,6,34,Hartford Whalers,/api/v1/teams/34
+1991020409,/api/v1/game/1991020409/feed/live,R,19911992,1991-12-29T17:00:00Z,3,26,13,2,8,Montréal Canadiens,/api/v1/teams/8,1,15,18,2,22,Edmonton Oilers,/api/v1/teams/22
+1991020410,/api/v1/game/1991020410/feed/live,R,19911992,1991-12-29T17:00:00Z,6,22,12,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,24,14,4,3,New York Rangers,/api/v1/teams/3
+1991020411,/api/v1/game/1991020411/feed/live,R,19911992,1991-12-29T17:00:00Z,4,25,13,1,15,Washington Capitals,/api/v1/teams/15,3,17,14,1,1,New Jersey Devils,/api/v1/teams/1
+1991020412,/api/v1/game/1991020412/feed/live,R,19911992,1991-12-29T17:00:00Z,6,23,10,4,17,Detroit Red Wings,/api/v1/teams/17,4,15,15,4,16,Chicago Blackhawks,/api/v1/teams/16
+1991020413,/api/v1/game/1991020413/feed/live,R,19911992,1991-12-29T17:00:00Z,2,14,15,7,26,Los Angeles Kings,/api/v1/teams/26,6,15,17,7,20,Calgary Flames,/api/v1/teams/20
+1991020414,/api/v1/game/1991020414/feed/live,R,19911992,1991-12-30T17:00:00Z,2,10,25,5,10,Toronto Maple Leafs,/api/v1/teams/10,5,11,22,5,32,Quebec Nordiques,/api/v1/teams/32
+1991020415,/api/v1/game/1991020415/feed/live,R,19911992,1991-12-31T17:00:00Z,5,17,16,5,6,Boston Bruins,/api/v1/teams/6,3,23,11,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020416,/api/v1/game/1991020416/feed/live,R,19911992,1991-12-31T17:00:00Z,3,17,14,7,19,St. Louis Blues,/api/v1/teams/19,4,12,19,7,7,Buffalo Sabres,/api/v1/teams/7
+1991020417,/api/v1/game/1991020417/feed/live,R,19911992,1991-12-31T17:00:00Z,2,26,14,2,8,Montréal Canadiens,/api/v1/teams/8,3,16,17,2,20,Calgary Flames,/api/v1/teams/20
+1991020418,/api/v1/game/1991020418/feed/live,R,19911992,1991-12-31T17:00:00Z,5,25,14,1,3,New York Rangers,/api/v1/teams/3,2,16,16,1,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020419,/api/v1/game/1991020419/feed/live,R,19911992,1991-12-31T17:00:00Z,7,18,14,6,1,New Jersey Devils,/api/v1/teams/1,4,22,13,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020420,/api/v1/game/1991020420/feed/live,R,19911992,1991-12-31T17:00:00Z,2,15,16,9,16,Chicago Blackhawks,/api/v1/teams/16,6,16,16,9,31,Minnesota North Stars,/api/v1/teams/31
+1991020421,/api/v1/game/1991020421/feed/live,R,19911992,1991-12-31T17:00:00Z,5,22,11,6,23,Vancouver Canucks,/api/v1/teams/23,3,14,16,6,26,Los Angeles Kings,/api/v1/teams/26
+1991020422,/api/v1/game/1991020422/feed/live,R,19911992,1992-01-01T17:00:00Z,5,12,19,6,2,New York Islanders,/api/v1/teams/2,8,26,13,6,15,Washington Capitals,/api/v1/teams/15
+1991020423,/api/v1/game/1991020423/feed/live,R,19911992,1992-01-02T17:00:00Z,3,17,16,8,33,Winnipeg Jets (1979),/api/v1/teams/33,1,17,17,8,6,Boston Bruins,/api/v1/teams/6
+1991020424,/api/v1/game/1991020424/feed/live,R,19911992,1992-01-02T17:00:00Z,1,11,23,5,32,Quebec Nordiques,/api/v1/teams/32,4,15,18,5,34,Hartford Whalers,/api/v1/teams/34
+1991020425,/api/v1/game/1991020425/feed/live,R,19911992,1992-01-02T17:00:00Z,4,26,14,1,3,New York Rangers,/api/v1/teams/3,3,15,17,1,16,Chicago Blackhawks,/api/v1/teams/16
+1991020426,/api/v1/game/1991020426/feed/live,R,19911992,1992-01-02T17:00:00Z,0,22,14,4,5,Pittsburgh Penguins,/api/v1/teams/5,4,19,14,4,1,New Jersey Devils,/api/v1/teams/1
+1991020427,/api/v1/game/1991020427/feed/live,R,19911992,1992-01-02T17:00:00Z,1,16,17,3,31,Minnesota North Stars,/api/v1/teams/31,6,18,14,3,19,St. Louis Blues,/api/v1/teams/19
+1991020428,/api/v1/game/1991020428/feed/live,R,19911992,1992-01-02T17:00:00Z,3,15,19,6,22,Edmonton Oilers,/api/v1/teams/22,5,15,16,6,26,Los Angeles Kings,/api/v1/teams/26
+1991020429,/api/v1/game/1991020429/feed/live,R,19911992,1992-01-03T17:00:00Z,2,12,20,6,2,New York Islanders,/api/v1/teams/2,5,13,19,6,7,Buffalo Sabres,/api/v1/teams/7
+1991020430,/api/v1/game/1991020430/feed/live,R,19911992,1992-01-03T17:00:00Z,1,12,18,7,4,Philadelphia Flyers,/api/v1/teams/4,3,9,28,7,28,San Jose Sharks,/api/v1/teams/28
+1991020431,/api/v1/game/1991020431/feed/live,R,19911992,1992-01-03T17:00:00Z,3,22,11,7,23,Vancouver Canucks,/api/v1/teams/23,3,26,13,7,15,Washington Capitals,/api/v1/teams/15
+1991020432,/api/v1/game/1991020432/feed/live,R,19911992,1992-01-03T17:00:00Z,4,10,26,5,10,Toronto Maple Leafs,/api/v1/teams/10,6,24,11,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020433,/api/v1/game/1991020433/feed/live,R,19911992,1992-01-04T17:00:00Z,2,13,20,6,7,Buffalo Sabres,/api/v1/teams/7,4,18,17,6,6,Boston Bruins,/api/v1/teams/6
+1991020434,/api/v1/game/1991020434/feed/live,R,19911992,1992-01-04T17:00:00Z,2,26,13,3,15,Washington Capitals,/api/v1/teams/15,2,15,18,3,34,Hartford Whalers,/api/v1/teams/34
+1991020435,/api/v1/game/1991020435/feed/live,R,19911992,1992-01-04T17:00:00Z,1,27,14,2,8,Montréal Canadiens,/api/v1/teams/8,0,9,29,2,28,San Jose Sharks,/api/v1/teams/28
+1991020436,/api/v1/game/1991020436/feed/live,R,19911992,1992-01-04T17:00:00Z,2,11,24,5,32,Quebec Nordiques,/api/v1/teams/32,5,13,20,5,2,New York Islanders,/api/v1/teams/2
+1991020437,/api/v1/game/1991020437/feed/live,R,19911992,1992-01-04T17:00:00Z,4,26,15,1,3,New York Rangers,/api/v1/teams/3,6,20,14,1,1,New Jersey Devils,/api/v1/teams/1
+1991020438,/api/v1/game/1991020438/feed/live,R,19911992,1992-01-04T17:00:00Z,3,12,19,7,4,Philadelphia Flyers,/api/v1/teams/4,7,16,16,7,26,Los Angeles Kings,/api/v1/teams/26
+1991020439,/api/v1/game/1991020439/feed/live,R,19911992,1992-01-04T17:00:00Z,2,17,17,8,33,Winnipeg Jets (1979),/api/v1/teams/33,3,23,14,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020440,/api/v1/game/1991020440/feed/live,R,19911992,1992-01-04T17:00:00Z,4,16,17,9,16,Chicago Blackhawks,/api/v1/teams/16,2,10,27,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020441,/api/v1/game/1991020441/feed/live,R,19911992,1992-01-04T17:00:00Z,6,25,11,4,17,Detroit Red Wings,/api/v1/teams/17,2,18,15,4,19,St. Louis Blues,/api/v1/teams/19
+1991020442,/api/v1/game/1991020442/feed/live,R,19911992,1992-01-04T17:00:00Z,3,22,12,7,23,Vancouver Canucks,/api/v1/teams/23,4,17,17,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020443,/api/v1/game/1991020443/feed/live,R,19911992,1992-01-04T17:00:00Z,3,16,19,6,22,Edmonton Oilers,/api/v1/teams/22,2,16,18,6,20,Calgary Flames,/api/v1/teams/20
+1991020444,/api/v1/game/1991020444/feed/live,R,19911992,1992-01-05T17:00:00Z,2,17,18,3,31,Minnesota North Stars,/api/v1/teams/31,5,17,17,3,16,Chicago Blackhawks,/api/v1/teams/16
+1991020445,/api/v1/game/1991020445/feed/live,R,19911992,1992-01-05T17:00:00Z,3,17,18,5,20,Calgary Flames,/api/v1/teams/20,2,16,20,5,22,Edmonton Oilers,/api/v1/teams/22
+1991020446,/api/v1/game/1991020446/feed/live,R,19911992,1992-01-06T17:00:00Z,2,17,18,8,33,Winnipeg Jets (1979),/api/v1/teams/33,4,27,15,8,3,New York Rangers,/api/v1/teams/3
+1991020447,/api/v1/game/1991020447/feed/live,R,19911992,1992-01-06T17:00:00Z,2,18,16,7,19,St. Louis Blues,/api/v1/teams/19,3,11,27,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020448,/api/v1/game/1991020448/feed/live,R,19911992,1992-01-07T17:00:00Z,5,13,20,7,7,Buffalo Sabres,/api/v1/teams/7,5,12,19,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020449,/api/v1/game/1991020449/feed/live,R,19911992,1992-01-07T17:00:00Z,5,14,20,6,2,New York Islanders,/api/v1/teams/2,2,25,12,6,17,Detroit Red Wings,/api/v1/teams/17
+1991020450,/api/v1/game/1991020450/feed/live,R,19911992,1992-01-07T17:00:00Z,5,17,16,7,26,Los Angeles Kings,/api/v1/teams/26,2,23,15,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020451,/api/v1/game/1991020451/feed/live,R,19911992,1992-01-07T17:00:00Z,5,18,18,3,31,Minnesota North Stars,/api/v1/teams/31,3,26,14,3,15,Washington Capitals,/api/v1/teams/15
+1991020452,/api/v1/game/1991020452/feed/live,R,19911992,1992-01-07T17:00:00Z,1,9,30,3,28,San Jose Sharks,/api/v1/teams/28,4,23,12,3,23,Vancouver Canucks,/api/v1/teams/23
+1991020453,/api/v1/game/1991020453/feed/live,R,19911992,1992-01-08T17:00:00Z,2,18,18,5,6,Boston Bruins,/api/v1/teams/6,3,28,14,5,8,Montréal Canadiens,/api/v1/teams/8
+1991020454,/api/v1/game/1991020454/feed/live,R,19911992,1992-01-08T17:00:00Z,2,11,25,5,32,Quebec Nordiques,/api/v1/teams/32,4,14,20,5,7,Buffalo Sabres,/api/v1/teams/7
+1991020455,/api/v1/game/1991020455/feed/live,R,19911992,1992-01-08T17:00:00Z,5,19,16,7,19,St. Louis Blues,/api/v1/teams/19,3,27,16,7,3,New York Rangers,/api/v1/teams/3
+1991020456,/api/v1/game/1991020456/feed/live,R,19911992,1992-01-08T17:00:00Z,2,16,21,6,22,Edmonton Oilers,/api/v1/teams/22,5,18,18,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020457,/api/v1/game/1991020457/feed/live,R,19911992,1992-01-08T17:00:00Z,3,9,31,3,28,San Jose Sharks,/api/v1/teams/28,10,18,18,3,20,Calgary Flames,/api/v1/teams/20
+1991020458,/api/v1/game/1991020458/feed/live,R,19911992,1992-01-09T17:00:00Z,4,11,26,5,32,Quebec Nordiques,/api/v1/teams/32,5,19,18,5,6,Boston Bruins,/api/v1/teams/6
+1991020459,/api/v1/game/1991020459/feed/live,R,19911992,1992-01-09T17:00:00Z,1,15,19,5,34,Hartford Whalers,/api/v1/teams/34,2,15,20,5,2,New York Islanders,/api/v1/teams/2
+1991020460,/api/v1/game/1991020460/feed/live,R,19911992,1992-01-09T17:00:00Z,3,19,17,7,19,St. Louis Blues,/api/v1/teams/19,4,21,14,7,1,New Jersey Devils,/api/v1/teams/1
+1991020461,/api/v1/game/1991020461/feed/live,R,19911992,1992-01-09T17:00:00Z,2,17,17,7,26,Los Angeles Kings,/api/v1/teams/26,5,13,19,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020462,/api/v1/game/1991020462/feed/live,R,19911992,1992-01-09T17:00:00Z,0,11,28,5,10,Toronto Maple Leafs,/api/v1/teams/10,2,18,17,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020463,/api/v1/game/1991020463/feed/live,R,19911992,1992-01-09T17:00:00Z,4,18,19,3,31,Minnesota North Stars,/api/v1/teams/31,9,26,12,3,17,Detroit Red Wings,/api/v1/teams/17
+1991020464,/api/v1/game/1991020464/feed/live,R,19911992,1992-01-10T17:00:00Z,2,16,22,6,22,Edmonton Oilers,/api/v1/teams/22,8,15,20,6,7,Buffalo Sabres,/api/v1/teams/7
+1991020465,/api/v1/game/1991020465/feed/live,R,19911992,1992-01-10T17:00:00Z,5,23,16,4,5,Pittsburgh Penguins,/api/v1/teams/5,7,19,18,4,20,Calgary Flames,/api/v1/teams/20
+1991020466,/api/v1/game/1991020466/feed/live,R,19911992,1992-01-10T17:00:00Z,4,17,18,7,26,Los Angeles Kings,/api/v1/teams/26,7,27,14,7,15,Washington Capitals,/api/v1/teams/15
+1991020467,/api/v1/game/1991020467/feed/live,R,19911992,1992-01-10T17:00:00Z,2,18,18,9,16,Chicago Blackhawks,/api/v1/teams/16,6,19,18,9,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020468,/api/v1/game/1991020468/feed/live,R,19911992,1992-01-11T17:00:00Z,1,13,20,8,4,Philadelphia Flyers,/api/v1/teams/4,5,20,18,8,6,Boston Bruins,/api/v1/teams/6
+1991020469,/api/v1/game/1991020469/feed/live,R,19911992,1992-01-11T17:00:00Z,2,15,20,5,34,Hartford Whalers,/api/v1/teams/34,3,29,14,5,8,Montréal Canadiens,/api/v1/teams/8
+1991020470,/api/v1/game/1991020470/feed/live,R,19911992,1992-01-11T17:00:00Z,7,28,16,1,3,New York Rangers,/api/v1/teams/3,2,11,27,1,32,Quebec Nordiques,/api/v1/teams/32
+1991020471,/api/v1/game/1991020471/feed/live,R,19911992,1992-01-11T17:00:00Z,6,20,17,7,19,St. Louis Blues,/api/v1/teams/19,3,15,21,7,2,New York Islanders,/api/v1/teams/2
+1991020472,/api/v1/game/1991020472/feed/live,R,19911992,1992-01-11T17:00:00Z,4,12,28,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,21,15,5,1,New Jersey Devils,/api/v1/teams/1
+1991020473,/api/v1/game/1991020473/feed/live,R,19911992,1992-01-11T17:00:00Z,5,16,22,7,22,Edmonton Oilers,/api/v1/teams/22,5,26,12,7,17,Detroit Red Wings,/api/v1/teams/17
+1991020474,/api/v1/game/1991020474/feed/live,R,19911992,1992-01-11T17:00:00Z,4,9,32,3,28,San Jose Sharks,/api/v1/teams/28,7,19,19,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020475,/api/v1/game/1991020475/feed/live,R,19911992,1992-01-12T17:00:00Z,3,28,17,1,3,New York Rangers,/api/v1/teams/3,6,16,20,1,7,Buffalo Sabres,/api/v1/teams/7
+1991020476,/api/v1/game/1991020476/feed/live,R,19911992,1992-01-12T17:00:00Z,3,15,22,6,2,New York Islanders,/api/v1/teams/2,4,14,20,6,4,Philadelphia Flyers,/api/v1/teams/4
+1991020477,/api/v1/game/1991020477/feed/live,R,19911992,1992-01-12T17:00:00Z,2,17,19,7,26,Los Angeles Kings,/api/v1/teams/26,5,22,15,7,1,New Jersey Devils,/api/v1/teams/1
+1991020478,/api/v1/game/1991020478/feed/live,R,19911992,1992-01-12T17:00:00Z,4,24,16,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,23,13,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020479,/api/v1/game/1991020479/feed/live,R,19911992,1992-01-12T17:00:00Z,2,27,15,3,15,Washington Capitals,/api/v1/teams/15,4,19,18,3,16,Chicago Blackhawks,/api/v1/teams/16
+1991020480,/api/v1/game/1991020480/feed/live,R,19911992,1992-01-12T17:00:00Z,4,10,32,3,28,San Jose Sharks,/api/v1/teams/28,3,19,19,3,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020481,/api/v1/game/1991020481/feed/live,R,19911992,1992-01-13T17:00:00Z,2,19,18,6,20,Calgary Flames,/api/v1/teams/20,2,29,14,6,8,Montréal Canadiens,/api/v1/teams/8
+1991020482,/api/v1/game/1991020482/feed/live,R,19911992,1992-01-13T17:00:00Z,7,17,22,7,22,Edmonton Oilers,/api/v1/teams/22,4,19,20,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020483,/api/v1/game/1991020483/feed/live,R,19911992,1992-01-14T17:00:00Z,2,16,21,7,7,Buffalo Sabres,/api/v1/teams/7,6,29,17,7,3,New York Rangers,/api/v1/teams/3
+1991020484,/api/v1/game/1991020484/feed/live,R,19911992,1992-01-14T17:00:00Z,5,20,18,6,20,Calgary Flames,/api/v1/teams/20,3,11,28,6,32,Quebec Nordiques,/api/v1/teams/32
+1991020485,/api/v1/game/1991020485/feed/live,R,19911992,1992-01-14T17:00:00Z,2,26,13,5,17,Detroit Red Wings,/api/v1/teams/17,6,16,22,5,2,New York Islanders,/api/v1/teams/2
+1991020486,/api/v1/game/1991020486/feed/live,R,19911992,1992-01-14T17:00:00Z,1,19,18,10,16,Chicago Blackhawks,/api/v1/teams/16,1,14,20,10,4,Philadelphia Flyers,/api/v1/teams/4
+1991020487,/api/v1/game/1991020487/feed/live,R,19911992,1992-01-14T17:00:00Z,6,28,15,3,15,Washington Capitals,/api/v1/teams/15,1,20,18,3,19,St. Louis Blues,/api/v1/teams/19
+1991020488,/api/v1/game/1991020488/feed/live,R,19911992,1992-01-14T17:00:00Z,4,24,13,7,23,Vancouver Canucks,/api/v1/teams/23,2,19,20,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020489,/api/v1/game/1991020489/feed/live,R,19911992,1992-01-14T17:00:00Z,3,10,32,4,28,San Jose Sharks,/api/v1/teams/28,3,17,19,4,26,Los Angeles Kings,/api/v1/teams/26
+1991020490,/api/v1/game/1991020490/feed/live,R,19911992,1992-01-15T17:00:00Z,4,21,18,5,6,Boston Bruins,/api/v1/teams/6,3,15,21,5,34,Hartford Whalers,/api/v1/teams/34
+1991020491,/api/v1/game/1991020491/feed/live,R,19911992,1992-01-15T17:00:00Z,8,16,21,8,7,Buffalo Sabres,/api/v1/teams/7,8,22,15,8,1,New Jersey Devils,/api/v1/teams/1
+1991020492,/api/v1/game/1991020492/feed/live,R,19911992,1992-01-15T17:00:00Z,2,29,15,3,8,Montréal Canadiens,/api/v1/teams/8,5,20,20,3,31,Minnesota North Stars,/api/v1/teams/31
+1991020493,/api/v1/game/1991020493/feed/live,R,19911992,1992-01-15T17:00:00Z,5,25,13,7,23,Vancouver Canucks,/api/v1/teams/23,3,17,23,7,22,Edmonton Oilers,/api/v1/teams/22
+1991020494,/api/v1/game/1991020494/feed/live,R,19911992,1992-01-16T17:00:00Z,3,15,22,5,34,Hartford Whalers,/api/v1/teams/34,4,22,18,5,6,Boston Bruins,/api/v1/teams/6
+1991020495,/api/v1/game/1991020495/feed/live,R,19911992,1992-01-16T17:00:00Z,6,29,15,4,8,Montréal Canadiens,/api/v1/teams/8,6,20,18,4,19,St. Louis Blues,/api/v1/teams/19
+1991020496,/api/v1/game/1991020496/feed/live,R,19911992,1992-01-16T17:00:00Z,3,14,21,9,4,Philadelphia Flyers,/api/v1/teams/4,4,17,22,9,2,New York Islanders,/api/v1/teams/2
+1991020497,/api/v1/game/1991020497/feed/live,R,19911992,1992-01-16T17:00:00Z,4,20,19,6,20,Calgary Flames,/api/v1/teams/20,6,30,17,6,3,New York Rangers,/api/v1/teams/3
+1991020498,/api/v1/game/1991020498/feed/live,R,19911992,1992-01-16T17:00:00Z,3,24,16,5,5,Pittsburgh Penguins,/api/v1/teams/5,3,26,13,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020499,/api/v1/game/1991020499/feed/live,R,19911992,1992-01-16T17:00:00Z,2,28,15,4,15,Washington Capitals,/api/v1/teams/15,2,17,19,4,26,Los Angeles Kings,/api/v1/teams/26
+1991020500,/api/v1/game/1991020500/feed/live,R,19911992,1992-01-16T17:00:00Z,0,12,29,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,20,18,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020501,/api/v1/game/1991020501/feed/live,R,19911992,1992-01-21T17:00:00Z,3,19,20,9,33,Winnipeg Jets (1979),/api/v1/teams/33,3,15,22,9,34,Hartford Whalers,/api/v1/teams/34
+1991020502,/api/v1/game/1991020502/feed/live,R,19911992,1992-01-21T17:00:00Z,4,16,22,8,7,Buffalo Sabres,/api/v1/teams/7,5,21,18,8,19,St. Louis Blues,/api/v1/teams/19
+1991020503,/api/v1/game/1991020503/feed/live,R,19911992,1992-01-21T17:00:00Z,5,26,13,7,23,Vancouver Canucks,/api/v1/teams/23,3,11,29,7,32,Quebec Nordiques,/api/v1/teams/32
+1991020504,/api/v1/game/1991020504/feed/live,R,19911992,1992-01-21T17:00:00Z,3,14,22,9,4,Philadelphia Flyers,/api/v1/teams/4,7,27,13,9,17,Detroit Red Wings,/api/v1/teams/17
+1991020505,/api/v1/game/1991020505/feed/live,R,19911992,1992-01-21T17:00:00Z,2,10,33,4,28,San Jose Sharks,/api/v1/teams/28,9,18,23,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020506,/api/v1/game/1991020506/feed/live,R,19911992,1992-01-22T17:00:00Z,5,23,18,5,6,Boston Bruins,/api/v1/teams/6,2,12,30,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020507,/api/v1/game/1991020507/feed/live,R,19911992,1992-01-22T17:00:00Z,4,30,17,2,3,New York Rangers,/api/v1/teams/3,4,20,19,2,20,Calgary Flames,/api/v1/teams/20
+1991020508,/api/v1/game/1991020508/feed/live,R,19911992,1992-01-22T17:00:00Z,3,17,19,10,26,Los Angeles Kings,/api/v1/teams/26,3,20,20,10,31,Minnesota North Stars,/api/v1/teams/31
+1991020509,/api/v1/game/1991020509/feed/live,R,19911992,1992-01-23T17:00:00Z,3,30,15,4,8,Montréal Canadiens,/api/v1/teams/8,1,23,19,4,6,Boston Bruins,/api/v1/teams/6
+1991020510,/api/v1/game/1991020510/feed/live,R,19911992,1992-01-23T17:00:00Z,5,17,22,8,7,Buffalo Sabres,/api/v1/teams/7,4,24,17,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020511,/api/v1/game/1991020511/feed/live,R,19911992,1992-01-23T17:00:00Z,2,11,30,5,32,Quebec Nordiques,/api/v1/teams/32,4,21,18,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020512,/api/v1/game/1991020512/feed/live,R,19911992,1992-01-23T17:00:00Z,4,13,30,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,17,23,5,2,New York Islanders,/api/v1/teams/2
+1991020513,/api/v1/game/1991020513/feed/live,R,19911992,1992-01-23T17:00:00Z,3,31,17,2,3,New York Rangers,/api/v1/teams/3,1,18,24,2,22,Edmonton Oilers,/api/v1/teams/22
+1991020514,/api/v1/game/1991020514/feed/live,R,19911992,1992-01-23T17:00:00Z,1,20,20,9,33,Winnipeg Jets (1979),/api/v1/teams/33,0,14,23,9,4,Philadelphia Flyers,/api/v1/teams/4
+1991020515,/api/v1/game/1991020515/feed/live,R,19911992,1992-01-23T17:00:00Z,3,27,13,7,23,Vancouver Canucks,/api/v1/teams/23,1,27,14,7,17,Detroit Red Wings,/api/v1/teams/17
+1991020516,/api/v1/game/1991020516/feed/live,R,19911992,1992-01-23T17:00:00Z,6,18,19,10,26,Los Angeles Kings,/api/v1/teams/26,5,21,19,10,19,St. Louis Blues,/api/v1/teams/19
+1991020517,/api/v1/game/1991020517/feed/live,R,19911992,1992-01-24T17:00:00Z,5,23,15,7,1,New Jersey Devils,/api/v1/teams/1,2,28,16,7,15,Washington Capitals,/api/v1/teams/15
+1991020518,/api/v1/game/1991020518/feed/live,R,19911992,1992-01-24T17:00:00Z,3,21,19,7,20,Calgary Flames,/api/v1/teams/20,2,10,34,7,28,San Jose Sharks,/api/v1/teams/28
+1991020519,/api/v1/game/1991020519/feed/live,R,19911992,1992-01-25T17:00:00Z,4,23,19,6,6,Boston Bruins,/api/v1/teams/6,4,15,22,6,34,Hartford Whalers,/api/v1/teams/34
+1991020520,/api/v1/game/1991020520/feed/live,R,19911992,1992-01-25T17:00:00Z,4,18,22,8,7,Buffalo Sabres,/api/v1/teams/7,3,30,16,8,8,Montréal Canadiens,/api/v1/teams/8
+1991020521,/api/v1/game/1991020521/feed/live,R,19911992,1992-01-25T17:00:00Z,1,20,21,9,33,Winnipeg Jets (1979),/api/v1/teams/33,2,12,30,9,32,Quebec Nordiques,/api/v1/teams/32
+1991020522,/api/v1/game/1991020522/feed/live,R,19911992,1992-01-25T17:00:00Z,5,25,17,5,5,Pittsburgh Penguins,/api/v1/teams/5,3,17,24,5,2,New York Islanders,/api/v1/teams/2
+1991020523,/api/v1/game/1991020523/feed/live,R,19911992,1992-01-25T17:00:00Z,7,28,14,6,17,Detroit Red Wings,/api/v1/teams/17,0,23,16,6,1,New Jersey Devils,/api/v1/teams/1
+1991020524,/api/v1/game/1991020524/feed/live,R,19911992,1992-01-25T17:00:00Z,4,14,24,9,4,Philadelphia Flyers,/api/v1/teams/4,6,14,30,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020525,/api/v1/game/1991020525/feed/live,R,19911992,1992-01-25T17:00:00Z,2,22,18,10,16,Chicago Blackhawks,/api/v1/teams/16,0,20,21,10,31,Minnesota North Stars,/api/v1/teams/31
+1991020526,/api/v1/game/1991020526/feed/live,R,19911992,1992-01-25T17:00:00Z,1,28,13,7,23,Vancouver Canucks,/api/v1/teams/23,0,21,20,7,19,St. Louis Blues,/api/v1/teams/19
+1991020527,/api/v1/game/1991020527/feed/live,R,19911992,1992-01-25T17:00:00Z,3,21,20,7,20,Calgary Flames,/api/v1/teams/20,4,19,19,7,26,Los Angeles Kings,/api/v1/teams/26
+1991020528,/api/v1/game/1991020528/feed/live,R,19911992,1992-01-25T17:00:00Z,2,18,25,7,22,Edmonton Oilers,/api/v1/teams/22,5,11,34,7,28,San Jose Sharks,/api/v1/teams/28
+1991020529,/api/v1/game/1991020529/feed/live,R,19911992,1992-01-26T17:00:00Z,1,15,23,7,34,Hartford Whalers,/api/v1/teams/34,3,31,16,7,8,Montréal Canadiens,/api/v1/teams/8
+1991020530,/api/v1/game/1991020530/feed/live,R,19911992,1992-01-26T17:00:00Z,2,20,22,9,33,Winnipeg Jets (1979),/api/v1/teams/33,5,19,22,9,7,Buffalo Sabres,/api/v1/teams/7
+1991020531,/api/v1/game/1991020531/feed/live,R,19911992,1992-01-26T17:00:00Z,4,25,18,5,5,Pittsburgh Penguins,/api/v1/teams/5,6,29,16,5,15,Washington Capitals,/api/v1/teams/15
+1991020532,/api/v1/game/1991020532/feed/live,R,19911992,1992-01-27T17:00:00Z,2,20,22,4,31,Minnesota North Stars,/api/v1/teams/31,3,24,19,4,6,Boston Bruins,/api/v1/teams/6
+1991020533,/api/v1/game/1991020533/feed/live,R,19911992,1992-01-27T17:00:00Z,4,23,18,10,16,Chicago Blackhawks,/api/v1/teams/16,3,21,21,10,20,Calgary Flames,/api/v1/teams/20
+1991020534,/api/v1/game/1991020534/feed/live,R,19911992,1992-01-28T17:00:00Z,4,25,19,6,6,Boston Bruins,/api/v1/teams/6,2,12,31,6,32,Quebec Nordiques,/api/v1/teams/32
+1991020535,/api/v1/game/1991020535/feed/live,R,19911992,1992-01-28T17:00:00Z,4,21,22,4,31,Minnesota North Stars,/api/v1/teams/31,3,15,24,4,34,Hartford Whalers,/api/v1/teams/34
+1991020536,/api/v1/game/1991020536/feed/live,R,19911992,1992-01-28T17:00:00Z,4,32,17,2,3,New York Rangers,/api/v1/teams/3,2,11,35,2,28,San Jose Sharks,/api/v1/teams/28
+1991020537,/api/v1/game/1991020537/feed/live,R,19911992,1992-01-28T17:00:00Z,2,29,17,4,15,Washington Capitals,/api/v1/teams/15,3,15,24,4,4,Philadelphia Flyers,/api/v1/teams/4
+1991020538,/api/v1/game/1991020538/feed/live,R,19911992,1992-01-28T17:00:00Z,4,21,22,9,33,Winnipeg Jets (1979),/api/v1/teams/33,0,25,19,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020539,/api/v1/game/1991020539/feed/live,R,19911992,1992-01-28T17:00:00Z,3,21,20,9,19,St. Louis Blues,/api/v1/teams/19,3,19,19,9,26,Los Angeles Kings,/api/v1/teams/26
+1991020540,/api/v1/game/1991020540/feed/live,R,19911992,1992-01-28T17:00:00Z,5,19,25,7,22,Edmonton Oilers,/api/v1/teams/22,3,28,14,7,23,Vancouver Canucks,/api/v1/teams/23
+1991020541,/api/v1/game/1991020541/feed/live,R,19911992,1992-01-29T17:00:00Z,4,19,22,9,7,Buffalo Sabres,/api/v1/teams/7,4,28,14,9,17,Detroit Red Wings,/api/v1/teams/17
+1991020542,/api/v1/game/1991020542/feed/live,R,19911992,1992-01-29T17:00:00Z,4,24,16,7,1,New Jersey Devils,/api/v1/teams/1,3,31,17,7,8,Montréal Canadiens,/api/v1/teams/8
+1991020543,/api/v1/game/1991020543/feed/live,R,19911992,1992-01-29T17:00:00Z,2,12,32,5,32,Quebec Nordiques,/api/v1/teams/32,5,15,30,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020544,/api/v1/game/1991020544/feed/live,R,19911992,1992-01-29T17:00:00Z,4,24,18,10,16,Chicago Blackhawks,/api/v1/teams/16,3,19,26,10,22,Edmonton Oilers,/api/v1/teams/22
+1991020545,/api/v1/game/1991020545/feed/live,R,19911992,1992-01-30T17:00:00Z,1,21,22,7,20,Calgary Flames,/api/v1/teams/20,3,26,19,7,6,Boston Bruins,/api/v1/teams/6
+1991020546,/api/v1/game/1991020546/feed/live,R,19911992,1992-01-30T17:00:00Z,8,18,24,6,2,New York Islanders,/api/v1/teams/2,5,25,20,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020547,/api/v1/game/1991020547/feed/live,R,19911992,1992-01-30T17:00:00Z,4,33,17,2,3,New York Rangers,/api/v1/teams/3,1,19,20,2,26,Los Angeles Kings,/api/v1/teams/26
+1991020548,/api/v1/game/1991020548/feed/live,R,19911992,1992-01-30T17:00:00Z,3,21,23,4,31,Minnesota North Stars,/api/v1/teams/31,5,16,24,4,4,Philadelphia Flyers,/api/v1/teams/4
+1991020549,/api/v1/game/1991020549/feed/live,R,19911992,1992-01-30T17:00:00Z,1,24,19,10,16,Chicago Blackhawks,/api/v1/teams/16,4,29,14,10,23,Vancouver Canucks,/api/v1/teams/23
+1991020550,/api/v1/game/1991020550/feed/live,R,19911992,1992-01-30T17:00:00Z,4,22,20,9,19,St. Louis Blues,/api/v1/teams/19,2,11,36,9,28,San Jose Sharks,/api/v1/teams/28
+1991020551,/api/v1/game/1991020551/feed/live,R,19911992,1992-01-31T17:00:00Z,1,15,25,7,34,Hartford Whalers,/api/v1/teams/34,4,20,26,7,22,Edmonton Oilers,/api/v1/teams/22
+1991020552,/api/v1/game/1991020552/feed/live,R,19911992,1992-01-31T17:00:00Z,3,31,18,4,8,Montréal Canadiens,/api/v1/teams/8,5,20,22,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020553,/api/v1/game/1991020553/feed/live,R,19911992,1992-01-31T17:00:00Z,4,12,32,6,32,Quebec Nordiques,/api/v1/teams/32,4,21,22,6,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020554,/api/v1/game/1991020554/feed/live,R,19911992,1992-01-31T17:00:00Z,6,25,16,7,1,New Jersey Devils,/api/v1/teams/1,3,28,15,7,17,Detroit Red Wings,/api/v1/teams/17
+1991020555,/api/v1/game/1991020555/feed/live,R,19911992,1992-02-01T17:00:00Z,2,20,22,10,7,Buffalo Sabres,/api/v1/teams/7,2,26,19,10,6,Boston Bruins,/api/v1/teams/6
+1991020556,/api/v1/game/1991020556/feed/live,R,19911992,1992-02-01T17:00:00Z,4,15,25,8,34,Hartford Whalers,/api/v1/teams/34,4,29,14,8,23,Vancouver Canucks,/api/v1/teams/23
+1991020557,/api/v1/game/1991020557/feed/live,R,19911992,1992-02-01T17:00:00Z,3,28,16,7,17,Detroit Red Wings,/api/v1/teams/17,4,32,18,7,8,Montréal Canadiens,/api/v1/teams/8
+1991020558,/api/v1/game/1991020558/feed/live,R,19911992,1992-02-01T17:00:00Z,5,16,24,10,4,Philadelphia Flyers,/api/v1/teams/4,5,18,24,10,2,New York Islanders,/api/v1/teams/2
+1991020559,/api/v1/game/1991020559/feed/live,R,19911992,1992-02-01T17:00:00Z,2,34,17,2,3,New York Rangers,/api/v1/teams/3,1,21,24,2,31,Minnesota North Stars,/api/v1/teams/31
+1991020560,/api/v1/game/1991020560/feed/live,R,19911992,1992-02-01T17:00:00Z,4,25,17,7,1,New Jersey Devils,/api/v1/teams/1,6,16,30,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020561,/api/v1/game/1991020561/feed/live,R,19911992,1992-02-01T17:00:00Z,1,22,21,9,19,St. Louis Blues,/api/v1/teams/19,4,26,20,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020562,/api/v1/game/1991020562/feed/live,R,19911992,1992-02-01T17:00:00Z,2,21,23,7,20,Calgary Flames,/api/v1/teams/20,5,30,17,7,15,Washington Capitals,/api/v1/teams/15
+1991020563,/api/v1/game/1991020563/feed/live,R,19911992,1992-02-01T17:00:00Z,0,24,20,10,16,Chicago Blackhawks,/api/v1/teams/16,2,20,20,10,26,Los Angeles Kings,/api/v1/teams/26
+1991020564,/api/v1/game/1991020564/feed/live,R,19911992,1992-02-02T17:00:00Z,2,12,33,6,32,Quebec Nordiques,/api/v1/teams/32,8,21,26,6,22,Edmonton Oilers,/api/v1/teams/22
+1991020565,/api/v1/game/1991020565/feed/live,R,19911992,1992-02-02T17:00:00Z,3,21,24,7,20,Calgary Flames,/api/v1/teams/20,6,19,24,7,2,New York Islanders,/api/v1/teams/2
+1991020566,/api/v1/game/1991020566/feed/live,R,19911992,1992-02-02T17:00:00Z,1,22,22,9,19,St. Louis Blues,/api/v1/teams/19,5,17,24,9,4,Philadelphia Flyers,/api/v1/teams/4
+1991020567,/api/v1/game/1991020567/feed/live,R,19911992,1992-02-02T17:00:00Z,0,11,37,4,28,San Jose Sharks,/api/v1/teams/28,6,22,22,4,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020568,/api/v1/game/1991020568/feed/live,R,19911992,1992-02-03T17:00:00Z,4,28,16,8,17,Detroit Red Wings,/api/v1/teams/17,4,26,20,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020569,/api/v1/game/1991020569/feed/live,R,19911992,1992-02-03T17:00:00Z,2,16,31,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,22,24,5,31,Minnesota North Stars,/api/v1/teams/31
+1991020570,/api/v1/game/1991020570/feed/live,R,19911992,1992-02-04T17:00:00Z,3,26,19,8,6,Boston Bruins,/api/v1/teams/6,3,22,22,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020571,/api/v1/game/1991020571/feed/live,R,19911992,1992-02-04T17:00:00Z,5,15,26,8,34,Hartford Whalers,/api/v1/teams/34,6,12,37,8,28,San Jose Sharks,/api/v1/teams/28
+1991020572,/api/v1/game/1991020572/feed/live,R,19911992,1992-02-04T17:00:00Z,3,30,18,4,15,Washington Capitals,/api/v1/teams/15,7,21,22,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020573,/api/v1/game/1991020573/feed/live,R,19911992,1992-02-04T17:00:00Z,3,32,19,4,8,Montréal Canadiens,/api/v1/teams/8,5,30,14,4,23,Vancouver Canucks,/api/v1/teams/23
+1991020574,/api/v1/game/1991020574/feed/live,R,19911992,1992-02-04T17:00:00Z,2,20,24,7,2,New York Islanders,/api/v1/teams/2,1,20,21,7,26,Los Angeles Kings,/api/v1/teams/26
+1991020575,/api/v1/game/1991020575/feed/live,R,19911992,1992-02-04T17:00:00Z,1,17,25,10,4,Philadelphia Flyers,/api/v1/teams/4,3,26,17,10,1,New Jersey Devils,/api/v1/teams/1
+1991020576,/api/v1/game/1991020576/feed/live,R,19911992,1992-02-05T17:00:00Z,1,32,20,4,8,Montréal Canadiens,/api/v1/teams/8,2,22,26,4,22,Edmonton Oilers,/api/v1/teams/22
+1991020577,/api/v1/game/1991020577/feed/live,R,19911992,1992-02-05T17:00:00Z,3,12,34,6,32,Quebec Nordiques,/api/v1/teams/32,5,22,24,6,20,Calgary Flames,/api/v1/teams/20
+1991020578,/api/v1/game/1991020578/feed/live,R,19911992,1992-02-05T17:00:00Z,3,26,21,6,5,Pittsburgh Penguins,/api/v1/teams/5,4,35,17,6,3,New York Rangers,/api/v1/teams/3
+1991020579,/api/v1/game/1991020579/feed/live,R,19911992,1992-02-05T17:00:00Z,1,30,19,4,15,Washington Capitals,/api/v1/teams/15,4,29,16,4,17,Detroit Red Wings,/api/v1/teams/17
+1991020580,/api/v1/game/1991020580/feed/live,R,19911992,1992-02-05T17:00:00Z,2,22,25,4,31,Minnesota North Stars,/api/v1/teams/31,3,17,31,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020581,/api/v1/game/1991020581/feed/live,R,19911992,1992-02-05T17:00:00Z,2,24,21,10,16,Chicago Blackhawks,/api/v1/teams/16,5,13,37,10,28,San Jose Sharks,/api/v1/teams/28
+1991020582,/api/v1/game/1991020582/feed/live,R,19911992,1992-02-06T17:00:00Z,1,26,20,8,6,Boston Bruins,/api/v1/teams/6,5,18,25,8,4,Philadelphia Flyers,/api/v1/teams/4
+1991020583,/api/v1/game/1991020583/feed/live,R,19911992,1992-02-06T17:00:00Z,5,15,26,9,34,Hartford Whalers,/api/v1/teams/34,5,20,21,9,26,Los Angeles Kings,/api/v1/teams/26
+1991020584,/api/v1/game/1991020584/feed/live,R,19911992,1992-02-06T17:00:00Z,5,21,24,7,2,New York Islanders,/api/v1/teams/2,4,30,15,7,23,Vancouver Canucks,/api/v1/teams/23
+1991020585,/api/v1/game/1991020585/feed/live,R,19911992,1992-02-06T17:00:00Z,1,26,18,7,1,New Jersey Devils,/api/v1/teams/1,4,23,22,7,19,St. Louis Blues,/api/v1/teams/19
+1991020586,/api/v1/game/1991020586/feed/live,R,19911992,1992-02-07T17:00:00Z,2,23,25,4,31,Minnesota North Stars,/api/v1/teams/31,0,21,23,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020587,/api/v1/game/1991020587/feed/live,R,19911992,1992-02-07T17:00:00Z,2,21,25,7,2,New York Islanders,/api/v1/teams/2,4,23,26,7,22,Edmonton Oilers,/api/v1/teams/22
+1991020588,/api/v1/game/1991020588/feed/live,R,19911992,1992-02-07T17:00:00Z,2,35,18,2,3,New York Rangers,/api/v1/teams/3,6,31,19,2,15,Washington Capitals,/api/v1/teams/15
+1991020589,/api/v1/game/1991020589/feed/live,R,19911992,1992-02-07T17:00:00Z,4,18,31,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,29,17,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020590,/api/v1/game/1991020590/feed/live,R,19911992,1992-02-07T17:00:00Z,1,22,25,7,20,Calgary Flames,/api/v1/teams/20,4,23,22,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020591,/api/v1/game/1991020591/feed/live,R,19911992,1992-02-08T17:00:00Z,6,27,18,7,1,New Jersey Devils,/api/v1/teams/1,4,26,21,7,6,Boston Bruins,/api/v1/teams/6
+1991020592,/api/v1/game/1991020592/feed/live,R,19911992,1992-02-08T17:00:00Z,4,32,21,4,8,Montréal Canadiens,/api/v1/teams/8,6,19,31,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020593,/api/v1/game/1991020593/feed/live,R,19911992,1992-02-08T17:00:00Z,3,19,25,10,4,Philadelphia Flyers,/api/v1/teams/4,0,12,35,10,32,Quebec Nordiques,/api/v1/teams/32
+1991020594,/api/v1/game/1991020594/feed/live,R,19911992,1992-02-08T17:00:00Z,4,21,21,12,26,Los Angeles Kings,/api/v1/teams/26,3,26,22,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020595,/api/v1/game/1991020595/feed/live,R,19911992,1992-02-08T17:00:00Z,3,25,21,10,16,Chicago Blackhawks,/api/v1/teams/16,1,23,23,10,19,St. Louis Blues,/api/v1/teams/19
+1991020596,/api/v1/game/1991020596/feed/live,R,19911992,1992-02-09T17:00:00Z,3,26,23,6,5,Pittsburgh Penguins,/api/v1/teams/5,6,27,21,6,6,Boston Bruins,/api/v1/teams/6
+1991020597,/api/v1/game/1991020597/feed/live,R,19911992,1992-02-09T17:00:00Z,4,23,25,5,31,Minnesota North Stars,/api/v1/teams/31,4,15,26,5,34,Hartford Whalers,/api/v1/teams/34
+1991020598,/api/v1/game/1991020598/feed/live,R,19911992,1992-02-09T17:00:00Z,5,22,21,12,26,Los Angeles Kings,/api/v1/teams/26,4,21,24,12,7,Buffalo Sabres,/api/v1/teams/7
+1991020599,/api/v1/game/1991020599/feed/live,R,19911992,1992-02-09T17:00:00Z,2,28,18,7,1,New Jersey Devils,/api/v1/teams/1,1,12,36,7,32,Quebec Nordiques,/api/v1/teams/32
+1991020600,/api/v1/game/1991020600/feed/live,R,19911992,1992-02-09T17:00:00Z,5,29,17,9,17,Detroit Red Wings,/api/v1/teams/17,5,35,18,9,3,New York Rangers,/api/v1/teams/3
+1991020601,/api/v1/game/1991020601/feed/live,R,19911992,1992-02-09T17:00:00Z,2,13,38,4,28,San Jose Sharks,/api/v1/teams/28,6,32,19,4,15,Washington Capitals,/api/v1/teams/15
+1991020602,/api/v1/game/1991020602/feed/live,R,19911992,1992-02-10T17:00:00Z,3,30,16,8,23,Vancouver Canucks,/api/v1/teams/23,8,33,21,8,8,Montréal Canadiens,/api/v1/teams/8
+1991020603,/api/v1/game/1991020603/feed/live,R,19911992,1992-02-11T17:00:00Z,1,21,25,10,7,Buffalo Sabres,/api/v1/teams/7,5,16,26,10,34,Hartford Whalers,/api/v1/teams/34
+1991020604,/api/v1/game/1991020604/feed/live,R,19911992,1992-02-11T17:00:00Z,4,33,19,4,15,Washington Capitals,/api/v1/teams/15,3,12,37,4,32,Quebec Nordiques,/api/v1/teams/32
+1991020605,/api/v1/game/1991020605/feed/live,R,19911992,1992-02-11T17:00:00Z,3,22,25,7,2,New York Islanders,/api/v1/teams/2,1,22,26,7,20,Calgary Flames,/api/v1/teams/20
+1991020606,/api/v1/game/1991020606/feed/live,R,19911992,1992-02-11T17:00:00Z,3,29,18,9,17,Detroit Red Wings,/api/v1/teams/17,4,20,31,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020607,/api/v1/game/1991020607/feed/live,R,19911992,1992-02-11T17:00:00Z,2,22,22,12,26,Los Angeles Kings,/api/v1/teams/26,3,24,23,12,19,St. Louis Blues,/api/v1/teams/19
+1991020608,/api/v1/game/1991020608/feed/live,R,19911992,1992-02-11T17:00:00Z,5,24,26,7,22,Edmonton Oilers,/api/v1/teams/22,4,23,26,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020609,/api/v1/game/1991020609/feed/live,R,19911992,1992-02-12T17:00:00Z,9,30,18,9,17,Detroit Red Wings,/api/v1/teams/17,4,21,26,9,7,Buffalo Sabres,/api/v1/teams/7
+1991020610,/api/v1/game/1991020610/feed/live,R,19911992,1992-02-12T17:00:00Z,1,13,39,4,28,San Jose Sharks,/api/v1/teams/28,6,34,21,4,8,Montréal Canadiens,/api/v1/teams/8
+1991020611,/api/v1/game/1991020611/feed/live,R,19911992,1992-02-12T17:00:00Z,2,30,17,8,23,Vancouver Canucks,/api/v1/teams/23,5,36,18,8,3,New York Rangers,/api/v1/teams/3
+1991020612,/api/v1/game/1991020612/feed/live,R,19911992,1992-02-13T17:00:00Z,0,27,22,8,6,Boston Bruins,/api/v1/teams/6,4,25,23,8,19,St. Louis Blues,/api/v1/teams/19
+1991020613,/api/v1/game/1991020613/feed/live,R,19911992,1992-02-13T17:00:00Z,3,25,26,7,22,Edmonton Oilers,/api/v1/teams/22,1,16,27,7,34,Hartford Whalers,/api/v1/teams/34
+1991020614,/api/v1/game/1991020614/feed/live,R,19911992,1992-02-13T17:00:00Z,2,12,38,6,32,Quebec Nordiques,/api/v1/teams/32,3,20,25,6,4,Philadelphia Flyers,/api/v1/teams/4
+1991020615,/api/v1/game/1991020615/feed/live,R,19911992,1992-02-13T17:00:00Z,3,30,18,8,23,Vancouver Canucks,/api/v1/teams/23,5,29,18,8,1,New Jersey Devils,/api/v1/teams/1
+1991020616,/api/v1/game/1991020616/feed/live,R,19911992,1992-02-13T17:00:00Z,4,33,19,5,15,Washington Capitals,/api/v1/teams/15,4,22,26,5,20,Calgary Flames,/api/v1/teams/20
+1991020617,/api/v1/game/1991020617/feed/live,R,19911992,1992-02-13T17:00:00Z,2,22,22,13,26,Los Angeles Kings,/api/v1/teams/26,2,25,21,13,16,Chicago Blackhawks,/api/v1/teams/16
+1991020618,/api/v1/game/1991020618/feed/live,R,19911992,1992-02-13T17:00:00Z,1,23,23,11,33,Winnipeg Jets (1979),/api/v1/teams/33,6,24,26,11,31,Minnesota North Stars,/api/v1/teams/31
+1991020619,/api/v1/game/1991020619/feed/live,R,19911992,1992-02-14T17:00:00Z,6,13,40,4,28,San Jose Sharks,/api/v1/teams/28,7,22,26,4,7,Buffalo Sabres,/api/v1/teams/7
+1991020620,/api/v1/game/1991020620/feed/live,R,19911992,1992-02-14T17:00:00Z,2,22,26,7,2,New York Islanders,/api/v1/teams/2,9,37,18,7,3,New York Rangers,/api/v1/teams/3
+1991020621,/api/v1/game/1991020621/feed/live,R,19911992,1992-02-15T17:00:00Z,1,16,28,10,34,Hartford Whalers,/api/v1/teams/34,4,30,18,10,1,New Jersey Devils,/api/v1/teams/1
+1991020622,/api/v1/game/1991020622/feed/live,R,19911992,1992-02-15T17:00:00Z,4,12,38,7,32,Quebec Nordiques,/api/v1/teams/32,4,34,21,7,8,Montréal Canadiens,/api/v1/teams/8
+1991020623,/api/v1/game/1991020623/feed/live,R,19911992,1992-02-15T17:00:00Z,1,30,19,8,23,Vancouver Canucks,/api/v1/teams/23,3,23,26,8,2,New York Islanders,/api/v1/teams/2
+1991020624,/api/v1/game/1991020624/feed/live,R,19911992,1992-02-15T17:00:00Z,5,25,27,7,22,Edmonton Oilers,/api/v1/teams/22,8,21,25,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020625,/api/v1/game/1991020625/feed/live,R,19911992,1992-02-15T17:00:00Z,2,26,24,6,5,Pittsburgh Penguins,/api/v1/teams/5,5,25,26,6,31,Minnesota North Stars,/api/v1/teams/31
+1991020626,/api/v1/game/1991020626/feed/live,R,19911992,1992-02-15T17:00:00Z,3,33,20,5,15,Washington Capitals,/api/v1/teams/15,6,23,22,5,26,Los Angeles Kings,/api/v1/teams/26
+1991020627,/api/v1/game/1991020627/feed/live,R,19911992,1992-02-15T17:00:00Z,3,24,23,11,33,Winnipeg Jets (1979),/api/v1/teams/33,1,20,32,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020628,/api/v1/game/1991020628/feed/live,R,19911992,1992-02-15T17:00:00Z,1,13,41,4,28,San Jose Sharks,/api/v1/teams/28,11,31,18,4,17,Detroit Red Wings,/api/v1/teams/17
+1991020629,/api/v1/game/1991020629/feed/live,R,19911992,1992-02-15T17:00:00Z,2,22,27,8,20,Calgary Flames,/api/v1/teams/20,7,26,23,8,19,St. Louis Blues,/api/v1/teams/19
+1991020630,/api/v1/game/1991020630/feed/live,R,19911992,1992-02-16T17:00:00Z,4,16,29,10,34,Hartford Whalers,/api/v1/teams/34,5,23,26,10,7,Buffalo Sabres,/api/v1/teams/7
+1991020631,/api/v1/game/1991020631/feed/live,R,19911992,1992-02-16T17:00:00Z,2,37,19,3,3,New York Rangers,/api/v1/teams/3,4,31,18,3,1,New Jersey Devils,/api/v1/teams/1
+1991020632,/api/v1/game/1991020632/feed/live,R,19911992,1992-02-16T17:00:00Z,3,26,24,7,5,Pittsburgh Penguins,/api/v1/teams/5,3,21,25,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020633,/api/v1/game/1991020633/feed/live,R,19911992,1992-02-16T17:00:00Z,5,25,28,7,22,Edmonton Oilers,/api/v1/teams/22,7,21,32,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020634,/api/v1/game/1991020634/feed/live,R,19911992,1992-02-16T17:00:00Z,5,22,27,9,20,Calgary Flames,/api/v1/teams/20,5,25,21,9,16,Chicago Blackhawks,/api/v1/teams/16
+1991020635,/api/v1/game/1991020635/feed/live,R,19911992,1992-02-17T17:00:00Z,3,27,23,8,6,Boston Bruins,/api/v1/teams/6,6,24,22,8,26,Los Angeles Kings,/api/v1/teams/26
+1991020636,/api/v1/game/1991020636/feed/live,R,19911992,1992-02-17T17:00:00Z,0,25,27,5,31,Minnesota North Stars,/api/v1/teams/31,8,35,21,5,8,Montréal Canadiens,/api/v1/teams/8
+1991020637,/api/v1/game/1991020637/feed/live,R,19911992,1992-02-17T17:00:00Z,4,24,24,11,33,Winnipeg Jets (1979),/api/v1/teams/33,5,24,26,11,2,New York Islanders,/api/v1/teams/2
+1991020638,/api/v1/game/1991020638/feed/live,R,19911992,1992-02-17T17:00:00Z,3,30,19,9,23,Vancouver Canucks,/api/v1/teams/23,3,37,19,9,3,New York Rangers,/api/v1/teams/3
+1991020639,/api/v1/game/1991020639/feed/live,R,19911992,1992-02-17T17:00:00Z,3,26,24,9,19,St. Louis Blues,/api/v1/teams/19,5,32,18,9,17,Detroit Red Wings,/api/v1/teams/17
+1991020640,/api/v1/game/1991020640/feed/live,R,19911992,1992-02-18T17:00:00Z,0,25,28,5,31,Minnesota North Stars,/api/v1/teams/31,4,13,38,5,32,Quebec Nordiques,/api/v1/teams/32
+1991020641,/api/v1/game/1991020641/feed/live,R,19911992,1992-02-18T17:00:00Z,3,21,26,11,4,Philadelphia Flyers,/api/v1/teams/4,4,32,18,11,1,New Jersey Devils,/api/v1/teams/1
+1991020642,/api/v1/game/1991020642/feed/live,R,19911992,1992-02-18T17:00:00Z,1,21,33,5,10,Toronto Maple Leafs,/api/v1/teams/10,7,27,24,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020643,/api/v1/game/1991020643/feed/live,R,19911992,1992-02-18T17:00:00Z,4,34,20,5,15,Washington Capitals,/api/v1/teams/15,2,13,42,5,28,San Jose Sharks,/api/v1/teams/28
+1991020644,/api/v1/game/1991020644/feed/live,R,19911992,1992-02-19T17:00:00Z,4,27,24,8,6,Boston Bruins,/api/v1/teams/6,6,23,27,8,20,Calgary Flames,/api/v1/teams/20
+1991020645,/api/v1/game/1991020645/feed/live,R,19911992,1992-02-19T17:00:00Z,2,35,21,6,8,Montréal Canadiens,/api/v1/teams/8,2,16,29,6,34,Hartford Whalers,/api/v1/teams/34
+1991020646,/api/v1/game/1991020646/feed/live,R,19911992,1992-02-19T17:00:00Z,5,23,27,10,7,Buffalo Sabres,/api/v1/teams/7,6,31,19,10,23,Vancouver Canucks,/api/v1/teams/23
+1991020647,/api/v1/game/1991020647/feed/live,R,19911992,1992-02-19T17:00:00Z,4,27,24,9,19,St. Louis Blues,/api/v1/teams/19,3,24,25,9,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020648,/api/v1/game/1991020648/feed/live,R,19911992,1992-02-19T17:00:00Z,3,24,23,13,26,Los Angeles Kings,/api/v1/teams/26,4,26,28,13,22,Edmonton Oilers,/api/v1/teams/22
+1991020649,/api/v1/game/1991020649/feed/live,R,19911992,1992-02-20T17:00:00Z,4,13,38,8,32,Quebec Nordiques,/api/v1/teams/32,4,27,24,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020650,/api/v1/game/1991020650/feed/live,R,19911992,1992-02-20T17:00:00Z,2,37,20,4,3,New York Rangers,/api/v1/teams/3,6,25,26,4,2,New York Islanders,/api/v1/teams/2
+1991020651,/api/v1/game/1991020651/feed/live,R,19911992,1992-02-20T17:00:00Z,4,32,18,8,1,New Jersey Devils,/api/v1/teams/1,4,25,21,8,16,Chicago Blackhawks,/api/v1/teams/16
+1991020652,/api/v1/game/1991020652/feed/live,R,19911992,1992-02-20T17:00:00Z,2,21,34,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,33,18,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020653,/api/v1/game/1991020653/feed/live,R,19911992,1992-02-21T17:00:00Z,5,28,24,8,6,Boston Bruins,/api/v1/teams/6,3,26,29,8,22,Edmonton Oilers,/api/v1/teams/22
+1991020654,/api/v1/game/1991020654/feed/live,R,19911992,1992-02-21T17:00:00Z,4,25,29,5,31,Minnesota North Stars,/api/v1/teams/31,5,38,20,5,3,New York Rangers,/api/v1/teams/3
+1991020655,/api/v1/game/1991020655/feed/live,R,19911992,1992-02-21T17:00:00Z,4,32,19,8,1,New Jersey Devils,/api/v1/teams/1,6,25,25,8,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020656,/api/v1/game/1991020656/feed/live,R,19911992,1992-02-21T17:00:00Z,7,24,24,13,26,Los Angeles Kings,/api/v1/teams/26,9,24,27,13,20,Calgary Flames,/api/v1/teams/20
+1991020657,/api/v1/game/1991020657/feed/live,R,19911992,1992-02-21T17:00:00Z,5,32,19,9,23,Vancouver Canucks,/api/v1/teams/23,3,13,43,9,28,San Jose Sharks,/api/v1/teams/28
+1991020658,/api/v1/game/1991020658/feed/live,R,19911992,1992-02-22T17:00:00Z,0,13,39,8,32,Quebec Nordiques,/api/v1/teams/32,4,17,29,8,34,Hartford Whalers,/api/v1/teams/34
+1991020659,/api/v1/game/1991020659/feed/live,R,19911992,1992-02-22T17:00:00Z,1,27,25,8,5,Pittsburgh Penguins,/api/v1/teams/5,2,36,21,8,8,Montréal Canadiens,/api/v1/teams/8
+1991020660,/api/v1/game/1991020660/feed/live,R,19911992,1992-02-22T17:00:00Z,1,25,30,5,31,Minnesota North Stars,/api/v1/teams/31,2,26,26,5,2,New York Islanders,/api/v1/teams/2
+1991020661,/api/v1/game/1991020661/feed/live,R,19911992,1992-02-22T17:00:00Z,5,21,27,11,4,Philadelphia Flyers,/api/v1/teams/4,7,35,20,11,15,Washington Capitals,/api/v1/teams/15
+1991020662,/api/v1/game/1991020662/feed/live,R,19911992,1992-02-22T17:00:00Z,3,21,35,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,28,24,5,19,St. Louis Blues,/api/v1/teams/19
+1991020663,/api/v1/game/1991020663/feed/live,R,19911992,1992-02-22T17:00:00Z,1,25,22,13,16,Chicago Blackhawks,/api/v1/teams/16,2,34,18,13,17,Detroit Red Wings,/api/v1/teams/17
+1991020664,/api/v1/game/1991020664/feed/live,R,19911992,1992-02-23T17:00:00Z,1,28,25,8,6,Boston Bruins,/api/v1/teams/6,2,33,19,8,23,Vancouver Canucks,/api/v1/teams/23
+1991020665,/api/v1/game/1991020665/feed/live,R,19911992,1992-02-23T17:00:00Z,4,35,18,9,17,Detroit Red Wings,/api/v1/teams/17,0,17,30,9,34,Hartford Whalers,/api/v1/teams/34
+1991020666,/api/v1/game/1991020666/feed/live,R,19911992,1992-02-23T17:00:00Z,2,23,28,10,7,Buffalo Sabres,/api/v1/teams/7,5,27,29,10,22,Edmonton Oilers,/api/v1/teams/22
+1991020667,/api/v1/game/1991020667/feed/live,R,19911992,1992-02-23T17:00:00Z,3,13,39,9,32,Quebec Nordiques,/api/v1/teams/32,3,36,21,9,8,Montréal Canadiens,/api/v1/teams/8
+1991020668,/api/v1/game/1991020668/feed/live,R,19911992,1992-02-23T17:00:00Z,4,36,20,5,15,Washington Capitals,/api/v1/teams/15,1,26,27,5,2,New York Islanders,/api/v1/teams/2
+1991020669,/api/v1/game/1991020669/feed/live,R,19911992,1992-02-23T17:00:00Z,1,21,28,11,4,Philadelphia Flyers,/api/v1/teams/4,2,39,20,11,3,New York Rangers,/api/v1/teams/3
+1991020670,/api/v1/game/1991020670/feed/live,R,19911992,1992-02-23T17:00:00Z,2,28,25,9,19,St. Louis Blues,/api/v1/teams/19,4,26,22,9,16,Chicago Blackhawks,/api/v1/teams/16
+1991020671,/api/v1/game/1991020671/feed/live,R,19911992,1992-02-23T17:00:00Z,4,25,24,13,26,Los Angeles Kings,/api/v1/teams/26,2,25,26,13,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020672,/api/v1/game/1991020672/feed/live,R,19911992,1992-02-23T17:00:00Z,4,25,27,9,20,Calgary Flames,/api/v1/teams/20,2,13,44,9,28,San Jose Sharks,/api/v1/teams/28
+1991020673,/api/v1/game/1991020673/feed/live,R,19911992,1992-02-24T17:00:00Z,3,26,30,5,31,Minnesota North Stars,/api/v1/teams/31,1,32,20,5,1,New Jersey Devils,/api/v1/teams/1
+1991020674,/api/v1/game/1991020674/feed/live,R,19911992,1992-02-25T17:00:00Z,5,29,25,9,19,St. Louis Blues,/api/v1/teams/19,2,17,31,9,34,Hartford Whalers,/api/v1/teams/34
+1991020675,/api/v1/game/1991020675/feed/live,R,19911992,1992-02-25T17:00:00Z,5,24,28,10,7,Buffalo Sabres,/api/v1/teams/7,3,25,28,10,20,Calgary Flames,/api/v1/teams/20
+1991020676,/api/v1/game/1991020676/feed/live,R,19911992,1992-02-25T17:00:00Z,1,26,28,7,2,New York Islanders,/api/v1/teams/2,4,22,28,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020677,/api/v1/game/1991020677/feed/live,R,19911992,1992-02-25T17:00:00Z,1,26,23,13,16,Chicago Blackhawks,/api/v1/teams/16,4,40,20,13,3,New York Rangers,/api/v1/teams/3
+1991020678,/api/v1/game/1991020678/feed/live,R,19911992,1992-02-25T17:00:00Z,5,32,20,9,1,New Jersey Devils,/api/v1/teams/1,5,21,35,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020679,/api/v1/game/1991020679/feed/live,R,19911992,1992-02-25T17:00:00Z,3,27,26,8,5,Pittsburgh Penguins,/api/v1/teams/5,5,37,20,8,15,Washington Capitals,/api/v1/teams/15
+1991020680,/api/v1/game/1991020680/feed/live,R,19911992,1992-02-25T17:00:00Z,4,26,24,13,26,Los Angeles Kings,/api/v1/teams/26,3,33,20,13,23,Vancouver Canucks,/api/v1/teams/23
+1991020681,/api/v1/game/1991020681/feed/live,R,19911992,1992-02-26T17:00:00Z,4,37,21,7,8,Montréal Canadiens,/api/v1/teams/8,1,26,31,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020682,/api/v1/game/1991020682/feed/live,R,19911992,1992-02-26T17:00:00Z,4,13,40,9,32,Quebec Nordiques,/api/v1/teams/32,7,14,44,9,28,San Jose Sharks,/api/v1/teams/28
+1991020683,/api/v1/game/1991020683/feed/live,R,19911992,1992-02-26T17:00:00Z,1,25,27,11,33,Winnipeg Jets (1979),/api/v1/teams/33,6,28,29,11,22,Edmonton Oilers,/api/v1/teams/22
+1991020684,/api/v1/game/1991020684/feed/live,R,19911992,1992-02-27T17:00:00Z,2,21,36,6,10,Toronto Maple Leafs,/api/v1/teams/10,4,29,25,6,6,Boston Bruins,/api/v1/teams/6
+1991020685,/api/v1/game/1991020685/feed/live,R,19911992,1992-02-27T17:00:00Z,8,18,31,11,34,Hartford Whalers,/api/v1/teams/34,4,27,27,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020686,/api/v1/game/1991020686/feed/live,R,19911992,1992-02-27T17:00:00Z,2,13,41,9,32,Quebec Nordiques,/api/v1/teams/32,4,27,24,9,26,Los Angeles Kings,/api/v1/teams/26
+1991020687,/api/v1/game/1991020687/feed/live,R,19911992,1992-02-27T17:00:00Z,3,23,28,11,4,Philadelphia Flyers,/api/v1/teams/4,0,25,29,11,20,Calgary Flames,/api/v1/teams/20
+1991020688,/api/v1/game/1991020688/feed/live,R,19911992,1992-02-27T17:00:00Z,3,37,21,5,15,Washington Capitals,/api/v1/teams/15,7,30,25,5,19,St. Louis Blues,/api/v1/teams/19
+1991020689,/api/v1/game/1991020689/feed/live,R,19911992,1992-02-27T17:00:00Z,2,35,19,9,17,Detroit Red Wings,/api/v1/teams/17,4,27,23,9,16,Chicago Blackhawks,/api/v1/teams/16
+1991020690,/api/v1/game/1991020690/feed/live,R,19911992,1992-02-28T17:00:00Z,3,37,21,8,8,Montréal Canadiens,/api/v1/teams/8,3,14,44,8,28,San Jose Sharks,/api/v1/teams/28
+1991020691,/api/v1/game/1991020691/feed/live,R,19911992,1992-02-28T17:00:00Z,3,27,28,7,2,New York Islanders,/api/v1/teams/2,2,32,21,7,1,New Jersey Devils,/api/v1/teams/1
+1991020692,/api/v1/game/1991020692/feed/live,R,19911992,1992-02-28T17:00:00Z,2,23,29,11,4,Philadelphia Flyers,/api/v1/teams/4,4,29,29,11,22,Edmonton Oilers,/api/v1/teams/22
+1991020693,/api/v1/game/1991020693/feed/live,R,19911992,1992-02-28T17:00:00Z,3,25,28,11,33,Winnipeg Jets (1979),/api/v1/teams/33,5,34,20,11,23,Vancouver Canucks,/api/v1/teams/23
+1991020694,/api/v1/game/1991020694/feed/live,R,19911992,1992-02-29T17:00:00Z,5,37,21,6,15,Washington Capitals,/api/v1/teams/15,5,29,25,6,6,Boston Bruins,/api/v1/teams/6
+1991020695,/api/v1/game/1991020695/feed/live,R,19911992,1992-02-29T17:00:00Z,5,19,31,11,34,Hartford Whalers,/api/v1/teams/34,4,26,32,11,31,Minnesota North Stars,/api/v1/teams/31
+1991020696,/api/v1/game/1991020696/feed/live,R,19911992,1992-02-29T17:00:00Z,2,24,29,10,7,Buffalo Sabres,/api/v1/teams/7,5,28,27,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020697,/api/v1/game/1991020697/feed/live,R,19911992,1992-02-29T17:00:00Z,3,37,22,8,8,Montréal Canadiens,/api/v1/teams/8,5,28,24,8,26,Los Angeles Kings,/api/v1/teams/26
+1991020698,/api/v1/game/1991020698/feed/live,R,19911992,1992-02-29T17:00:00Z,3,33,21,9,1,New Jersey Devils,/api/v1/teams/1,1,27,29,9,2,New York Islanders,/api/v1/teams/2
+1991020699,/api/v1/game/1991020699/feed/live,R,19911992,1992-02-29T17:00:00Z,5,27,24,13,16,Chicago Blackhawks,/api/v1/teams/16,6,22,36,13,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020700,/api/v1/game/1991020700/feed/live,R,19911992,1992-02-29T17:00:00Z,3,36,19,9,17,Detroit Red Wings,/api/v1/teams/17,2,30,26,9,19,St. Louis Blues,/api/v1/teams/19
+1991020701,/api/v1/game/1991020701/feed/live,R,19911992,1992-03-01T17:00:00Z,4,30,25,9,6,Boston Bruins,/api/v1/teams/6,1,37,22,9,15,Washington Capitals,/api/v1/teams/15
+1991020702,/api/v1/game/1991020702/feed/live,R,19911992,1992-03-01T17:00:00Z,4,19,32,11,34,Hartford Whalers,/api/v1/teams/34,9,41,20,11,3,New York Rangers,/api/v1/teams/3
+1991020703,/api/v1/game/1991020703/feed/live,R,19911992,1992-03-01T17:00:00Z,3,28,24,13,16,Chicago Blackhawks,/api/v1/teams/16,1,24,30,13,7,Buffalo Sabres,/api/v1/teams/7
+1991020704,/api/v1/game/1991020704/feed/live,R,19911992,1992-03-01T17:00:00Z,1,24,29,11,4,Philadelphia Flyers,/api/v1/teams/4,0,14,45,11,28,San Jose Sharks,/api/v1/teams/28
+1991020705,/api/v1/game/1991020705/feed/live,R,19911992,1992-03-01T17:00:00Z,2,26,33,5,31,Minnesota North Stars,/api/v1/teams/31,6,23,36,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020706,/api/v1/game/1991020706/feed/live,R,19911992,1992-03-01T17:00:00Z,4,30,29,7,22,Edmonton Oilers,/api/v1/teams/22,2,25,29,7,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020707,/api/v1/game/1991020707/feed/live,R,19911992,1992-03-01T17:00:00Z,0,25,30,9,20,Calgary Flames,/api/v1/teams/20,11,35,20,9,23,Vancouver Canucks,/api/v1/teams/23
+1991020708,/api/v1/game/1991020708/feed/live,R,19911992,1992-03-02T17:00:00Z,7,42,20,4,3,New York Rangers,/api/v1/teams/3,1,33,22,4,1,New Jersey Devils,/api/v1/teams/1
+1991020709,/api/v1/game/1991020709/feed/live,R,19911992,1992-03-02T17:00:00Z,5,31,26,9,19,St. Louis Blues,/api/v1/teams/19,3,35,21,9,23,Vancouver Canucks,/api/v1/teams/23
+1991020710,/api/v1/game/1991020710/feed/live,R,19911992,1992-03-03T17:00:00Z,0,30,26,9,6,Boston Bruins,/api/v1/teams/6,4,20,32,9,34,Hartford Whalers,/api/v1/teams/34
+1991020711,/api/v1/game/1991020711/feed/live,R,19911992,1992-03-03T17:00:00Z,4,24,30,11,7,Buffalo Sabres,/api/v1/teams/7,4,13,41,11,32,Quebec Nordiques,/api/v1/teams/32
+1991020712,/api/v1/game/1991020712/feed/live,R,19911992,1992-03-03T17:00:00Z,4,38,22,8,8,Montréal Canadiens,/api/v1/teams/8,3,27,30,8,2,New York Islanders,/api/v1/teams/2
+1991020713,/api/v1/game/1991020713/feed/live,R,19911992,1992-03-03T17:00:00Z,1,24,30,11,4,Philadelphia Flyers,/api/v1/teams/4,4,29,24,11,26,Los Angeles Kings,/api/v1/teams/26
+1991020714,/api/v1/game/1991020714/feed/live,R,19911992,1992-03-03T17:00:00Z,6,29,27,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,25,31,8,20,Calgary Flames,/api/v1/teams/20
+1991020715,/api/v1/game/1991020715/feed/live,R,19911992,1992-03-03T17:00:00Z,3,27,33,5,31,Minnesota North Stars,/api/v1/teams/31,1,37,23,5,15,Washington Capitals,/api/v1/teams/15
+1991020716,/api/v1/game/1991020716/feed/live,R,19911992,1992-03-03T17:00:00Z,4,26,29,11,33,Winnipeg Jets (1979),/api/v1/teams/33,3,36,20,11,17,Detroit Red Wings,/api/v1/teams/17
+1991020717,/api/v1/game/1991020717/feed/live,R,19911992,1992-03-04T17:00:00Z,5,34,22,9,1,New Jersey Devils,/api/v1/teams/1,4,42,21,9,3,New York Rangers,/api/v1/teams/3
+1991020718,/api/v1/game/1991020718/feed/live,R,19911992,1992-03-04T17:00:00Z,5,24,36,6,10,Toronto Maple Leafs,/api/v1/teams/10,2,30,30,6,22,Edmonton Oilers,/api/v1/teams/22
+1991020719,/api/v1/game/1991020719/feed/live,R,19911992,1992-03-04T17:00:00Z,4,30,24,13,26,Los Angeles Kings,/api/v1/teams/26,3,14,46,13,28,San Jose Sharks,/api/v1/teams/28
+1991020720,/api/v1/game/1991020720/feed/live,R,19911992,1992-03-05T17:00:00Z,2,35,21,10,23,Vancouver Canucks,/api/v1/teams/23,2,30,26,10,6,Boston Bruins,/api/v1/teams/6
+1991020721,/api/v1/game/1991020721/feed/live,R,19911992,1992-03-05T17:00:00Z,10,14,41,10,32,Quebec Nordiques,/api/v1/teams/32,4,20,33,10,34,Hartford Whalers,/api/v1/teams/34
+1991020722,/api/v1/game/1991020722/feed/live,R,19911992,1992-03-05T17:00:00Z,4,27,30,8,2,New York Islanders,/api/v1/teams/2,4,28,24,8,16,Chicago Blackhawks,/api/v1/teams/16
+1991020723,/api/v1/game/1991020723/feed/live,R,19911992,1992-03-05T17:00:00Z,5,24,36,7,10,Toronto Maple Leafs,/api/v1/teams/10,5,25,31,7,20,Calgary Flames,/api/v1/teams/20
+1991020724,/api/v1/game/1991020724/feed/live,R,19911992,1992-03-05T17:00:00Z,4,28,33,5,31,Minnesota North Stars,/api/v1/teams/31,2,36,21,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020725,/api/v1/game/1991020725/feed/live,R,19911992,1992-03-06T17:00:00Z,4,34,23,9,1,New Jersey Devils,/api/v1/teams/1,5,25,30,9,7,Buffalo Sabres,/api/v1/teams/7
+1991020726,/api/v1/game/1991020726/feed/live,R,19911992,1992-03-06T17:00:00Z,7,30,27,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,14,47,8,28,San Jose Sharks,/api/v1/teams/28
+1991020727,/api/v1/game/1991020727/feed/live,R,19911992,1992-03-06T17:00:00Z,3,26,29,12,33,Winnipeg Jets (1979),/api/v1/teams/33,3,37,23,12,15,Washington Capitals,/api/v1/teams/15
+1991020728,/api/v1/game/1991020728/feed/live,R,19911992,1992-03-06T17:00:00Z,3,31,27,9,19,St. Louis Blues,/api/v1/teams/19,5,31,30,9,22,Edmonton Oilers,/api/v1/teams/22
+1991020729,/api/v1/game/1991020729/feed/live,R,19911992,1992-03-07T17:00:00Z,2,29,24,14,16,Chicago Blackhawks,/api/v1/teams/16,1,30,27,14,6,Boston Bruins,/api/v1/teams/6
+1991020730,/api/v1/game/1991020730/feed/live,R,19911992,1992-03-07T17:00:00Z,5,36,21,10,23,Vancouver Canucks,/api/v1/teams/23,1,20,34,10,34,Hartford Whalers,/api/v1/teams/34
+1991020731,/api/v1/game/1991020731/feed/live,R,19911992,1992-03-07T17:00:00Z,2,27,31,8,2,New York Islanders,/api/v1/teams/2,8,39,22,8,8,Montréal Canadiens,/api/v1/teams/8
+1991020732,/api/v1/game/1991020732/feed/live,R,19911992,1992-03-07T17:00:00Z,4,36,21,10,17,Detroit Red Wings,/api/v1/teams/17,4,14,41,10,32,Quebec Nordiques,/api/v1/teams/32
+1991020733,/api/v1/game/1991020733/feed/live,R,19911992,1992-03-07T17:00:00Z,4,42,22,4,3,New York Rangers,/api/v1/teams/3,5,25,30,4,4,Philadelphia Flyers,/api/v1/teams/4
+1991020734,/api/v1/game/1991020734/feed/live,R,19911992,1992-03-07T17:00:00Z,2,34,24,9,1,New Jersey Devils,/api/v1/teams/1,3,38,23,9,15,Washington Capitals,/api/v1/teams/15
+1991020735,/api/v1/game/1991020735/feed/live,R,19911992,1992-03-07T17:00:00Z,3,30,28,8,5,Pittsburgh Penguins,/api/v1/teams/5,5,31,24,8,26,Los Angeles Kings,/api/v1/teams/26
+1991020736,/api/v1/game/1991020736/feed/live,R,19911992,1992-03-07T17:00:00Z,1,31,28,9,19,St. Louis Blues,/api/v1/teams/19,5,26,31,9,20,Calgary Flames,/api/v1/teams/20
+1991020737,/api/v1/game/1991020737/feed/live,R,19911992,1992-03-08T17:00:00Z,0,30,28,10,6,Boston Bruins,/api/v1/teams/6,4,30,24,10,16,Chicago Blackhawks,/api/v1/teams/16
+1991020738,/api/v1/game/1991020738/feed/live,R,19911992,1992-03-08T17:00:00Z,6,28,31,8,2,New York Islanders,/api/v1/teams/2,2,25,31,8,7,Buffalo Sabres,/api/v1/teams/7
+1991020739,/api/v1/game/1991020739/feed/live,R,19911992,1992-03-08T17:00:00Z,1,36,22,10,17,Detroit Red Wings,/api/v1/teams/17,4,40,22,10,8,Montréal Canadiens,/api/v1/teams/8
+1991020740,/api/v1/game/1991020740/feed/live,R,19911992,1992-03-08T17:00:00Z,7,37,21,10,23,Vancouver Canucks,/api/v1/teams/23,3,25,31,10,4,Philadelphia Flyers,/api/v1/teams/4
+1991020741,/api/v1/game/1991020741/feed/live,R,19911992,1992-03-08T17:00:00Z,1,24,37,7,10,Toronto Maple Leafs,/api/v1/teams/10,4,15,47,7,28,San Jose Sharks,/api/v1/teams/28
+1991020742,/api/v1/game/1991020742/feed/live,R,19911992,1992-03-08T17:00:00Z,2,26,30,12,33,Winnipeg Jets (1979),/api/v1/teams/33,4,29,33,12,31,Minnesota North Stars,/api/v1/teams/31
+1991020743,/api/v1/game/1991020743/feed/live,R,19911992,1992-03-09T17:00:00Z,0,20,35,11,34,Hartford Whalers,/api/v1/teams/34,2,15,41,11,32,Quebec Nordiques,/api/v1/teams/32
+1991020744,/api/v1/game/1991020744/feed/live,R,19911992,1992-03-09T17:00:00Z,5,39,23,7,15,Washington Capitals,/api/v1/teams/15,2,42,23,7,3,New York Rangers,/api/v1/teams/3
+1991020745,/api/v1/game/1991020745/feed/live,R,19911992,1992-03-09T17:00:00Z,1,24,38,7,10,Toronto Maple Leafs,/api/v1/teams/10,4,32,24,7,26,Los Angeles Kings,/api/v1/teams/26
+1991020746,/api/v1/game/1991020746/feed/live,R,19911992,1992-03-10T17:00:00Z,2,25,32,11,4,Philadelphia Flyers,/api/v1/teams/4,5,29,31,11,2,New York Islanders,/api/v1/teams/2
+1991020747,/api/v1/game/1991020747/feed/live,R,19911992,1992-03-10T17:00:00Z,2,26,32,10,20,Calgary Flames,/api/v1/teams/20,5,31,28,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020748,/api/v1/game/1991020748/feed/live,R,19911992,1992-03-10T17:00:00Z,1,15,48,5,28,San Jose Sharks,/api/v1/teams/28,5,31,24,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020749,/api/v1/game/1991020749/feed/live,R,19911992,1992-03-10T17:00:00Z,2,29,34,5,31,Minnesota North Stars,/api/v1/teams/31,5,32,28,5,19,St. Louis Blues,/api/v1/teams/19
+1991020750,/api/v1/game/1991020750/feed/live,R,19911992,1992-03-11T17:00:00Z,3,30,29,10,6,Boston Bruins,/api/v1/teams/6,6,26,31,10,7,Buffalo Sabres,/api/v1/teams/7
+1991020751,/api/v1/game/1991020751/feed/live,R,19911992,1992-03-11T17:00:00Z,0,32,25,13,26,Los Angeles Kings,/api/v1/teams/26,4,21,35,13,34,Hartford Whalers,/api/v1/teams/34
+1991020752,/api/v1/game/1991020752/feed/live,R,19911992,1992-03-11T17:00:00Z,4,40,23,8,8,Montréal Canadiens,/api/v1/teams/8,5,16,41,8,32,Quebec Nordiques,/api/v1/teams/32
+1991020753,/api/v1/game/1991020753/feed/live,R,19911992,1992-03-11T17:00:00Z,1,31,25,14,16,Chicago Blackhawks,/api/v1/teams/16,7,43,23,14,3,New York Rangers,/api/v1/teams/3
+1991020754,/api/v1/game/1991020754/feed/live,R,19911992,1992-03-11T17:00:00Z,2,34,24,10,1,New Jersey Devils,/api/v1/teams/1,2,31,30,10,22,Edmonton Oilers,/api/v1/teams/22
+1991020755,/api/v1/game/1991020755/feed/live,R,19911992,1992-03-11T17:00:00Z,3,25,38,7,10,Toronto Maple Leafs,/api/v1/teams/10,0,29,35,7,31,Minnesota North Stars,/api/v1/teams/31
+1991020756,/api/v1/game/1991020756/feed/live,R,19911992,1992-03-11T17:00:00Z,0,15,49,5,28,San Jose Sharks,/api/v1/teams/28,3,27,30,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020757,/api/v1/game/1991020757/feed/live,R,19911992,1992-03-12T17:00:00Z,4,29,32,8,2,New York Islanders,/api/v1/teams/2,6,32,28,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020758,/api/v1/game/1991020758/feed/live,R,19911992,1992-03-12T17:00:00Z,1,34,25,10,1,New Jersey Devils,/api/v1/teams/1,2,38,21,10,23,Vancouver Canucks,/api/v1/teams/23
+1991020759,/api/v1/game/1991020759/feed/live,R,19911992,1992-03-12T17:00:00Z,4,26,33,10,20,Calgary Flames,/api/v1/teams/20,5,26,32,10,4,Philadelphia Flyers,/api/v1/teams/4
+1991020760,/api/v1/game/1991020760/feed/live,R,19911992,1992-03-12T17:00:00Z,5,37,22,10,17,Detroit Red Wings,/api/v1/teams/17,4,32,29,10,19,St. Louis Blues,/api/v1/teams/19
+1991020761,/api/v1/game/1991020761/feed/live,R,19911992,1992-03-13T17:00:00Z,1,22,35,11,34,Hartford Whalers,/api/v1/teams/34,0,27,31,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020762,/api/v1/game/1991020762/feed/live,R,19911992,1992-03-14T17:00:00Z,5,31,29,10,6,Boston Bruins,/api/v1/teams/6,4,16,42,10,32,Quebec Nordiques,/api/v1/teams/32
+1991020763,/api/v1/game/1991020763/feed/live,R,19911992,1992-03-14T17:00:00Z,1,22,36,11,34,Hartford Whalers,/api/v1/teams/34,3,32,30,11,22,Edmonton Oilers,/api/v1/teams/22
+1991020764,/api/v1/game/1991020764/feed/live,R,19911992,1992-03-14T17:00:00Z,1,26,32,11,7,Buffalo Sabres,/api/v1/teams/7,4,30,32,11,2,New York Islanders,/api/v1/teams/2
+1991020765,/api/v1/game/1991020765/feed/live,R,19911992,1992-03-14T17:00:00Z,2,32,26,13,26,Los Angeles Kings,/api/v1/teams/26,5,41,23,13,8,Montréal Canadiens,/api/v1/teams/8
+1991020766,/api/v1/game/1991020766/feed/live,R,19911992,1992-03-14T17:00:00Z,6,44,23,4,3,New York Rangers,/api/v1/teams/3,0,32,30,4,19,St. Louis Blues,/api/v1/teams/19
+1991020767,/api/v1/game/1991020767/feed/live,R,19911992,1992-03-14T17:00:00Z,2,34,26,10,1,New Jersey Devils,/api/v1/teams/1,3,16,49,10,28,San Jose Sharks,/api/v1/teams/28
+1991020768,/api/v1/game/1991020768/feed/live,R,19911992,1992-03-14T17:00:00Z,1,39,24,7,15,Washington Capitals,/api/v1/teams/15,3,27,32,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020769,/api/v1/game/1991020769/feed/live,R,19911992,1992-03-14T17:00:00Z,3,32,29,8,5,Pittsburgh Penguins,/api/v1/teams/5,6,26,38,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020770,/api/v1/game/1991020770/feed/live,R,19911992,1992-03-14T17:00:00Z,1,37,23,10,17,Detroit Red Wings,/api/v1/teams/17,4,30,35,10,31,Minnesota North Stars,/api/v1/teams/31
+1991020771,/api/v1/game/1991020771/feed/live,R,19911992,1992-03-14T17:00:00Z,6,39,21,10,23,Vancouver Canucks,/api/v1/teams/23,4,26,34,10,20,Calgary Flames,/api/v1/teams/20
+1991020772,/api/v1/game/1991020772/feed/live,R,19911992,1992-03-15T17:00:00Z,1,32,27,13,26,Los Angeles Kings,/api/v1/teams/26,5,32,29,13,6,Boston Bruins,/api/v1/teams/6
+1991020773,/api/v1/game/1991020773/feed/live,R,19911992,1992-03-15T17:00:00Z,4,16,43,11,32,Quebec Nordiques,/api/v1/teams/32,6,27,32,11,7,Buffalo Sabres,/api/v1/teams/7
+1991020774,/api/v1/game/1991020774/feed/live,R,19911992,1992-03-15T17:00:00Z,2,30,33,8,2,New York Islanders,/api/v1/teams/2,5,40,24,8,15,Washington Capitals,/api/v1/teams/15
+1991020775,/api/v1/game/1991020775/feed/live,R,19911992,1992-03-15T17:00:00Z,4,33,29,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,31,26,8,16,Chicago Blackhawks,/api/v1/teams/16
+1991020776,/api/v1/game/1991020776/feed/live,R,19911992,1992-03-15T17:00:00Z,1,37,23,11,17,Detroit Red Wings,/api/v1/teams/17,1,27,31,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020777,/api/v1/game/1991020777/feed/live,R,19911992,1992-03-16T17:00:00Z,4,23,36,11,34,Hartford Whalers,/api/v1/teams/34,3,26,35,11,20,Calgary Flames,/api/v1/teams/20
+1991020778,/api/v1/game/1991020778/feed/live,R,19911992,1992-03-16T17:00:00Z,1,41,24,8,8,Montréal Canadiens,/api/v1/teams/8,4,45,23,8,3,New York Rangers,/api/v1/teams/3
+1991020779,/api/v1/game/1991020779/feed/live,R,19911992,1992-03-17T17:00:00Z,1,27,33,11,7,Buffalo Sabres,/api/v1/teams/7,3,31,35,11,31,Minnesota North Stars,/api/v1/teams/31
+1991020780,/api/v1/game/1991020780/feed/live,R,19911992,1992-03-17T17:00:00Z,3,16,44,11,32,Quebec Nordiques,/api/v1/teams/32,4,27,38,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020781,/api/v1/game/1991020781/feed/live,R,19911992,1992-03-17T17:00:00Z,5,32,31,8,22,Edmonton Oilers,/api/v1/teams/22,6,34,29,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020782,/api/v1/game/1991020782/feed/live,R,19911992,1992-03-17T17:00:00Z,4,32,31,9,19,St. Louis Blues,/api/v1/teams/19,6,41,24,9,15,Washington Capitals,/api/v1/teams/15
+1991020783,/api/v1/game/1991020783/feed/live,R,19911992,1992-03-17T17:00:00Z,5,38,23,11,17,Detroit Red Wings,/api/v1/teams/17,4,16,50,11,28,San Jose Sharks,/api/v1/teams/28
+1991020784,/api/v1/game/1991020784/feed/live,R,19911992,1992-03-17T17:00:00Z,4,27,32,13,33,Winnipeg Jets (1979),/api/v1/teams/33,5,33,27,13,26,Los Angeles Kings,/api/v1/teams/26
+1991020785,/api/v1/game/1991020785/feed/live,R,19911992,1992-03-18T17:00:00Z,2,23,37,11,34,Hartford Whalers,/api/v1/teams/34,3,40,21,11,23,Vancouver Canucks,/api/v1/teams/23
+1991020786,/api/v1/game/1991020786/feed/live,R,19911992,1992-03-18T17:00:00Z,4,28,32,11,4,Philadelphia Flyers,/api/v1/teams/4,3,41,25,11,8,Montréal Canadiens,/api/v1/teams/8
+1991020787,/api/v1/game/1991020787/feed/live,R,19911992,1992-03-18T17:00:00Z,1,30,33,9,2,New York Islanders,/api/v1/teams/2,1,45,23,9,3,New York Rangers,/api/v1/teams/3
+1991020788,/api/v1/game/1991020788/feed/live,R,19911992,1992-03-19T17:00:00Z,4,33,31,9,19,St. Louis Blues,/api/v1/teams/19,1,32,30,9,6,Boston Bruins,/api/v1/teams/6
+1991020789,/api/v1/game/1991020789/feed/live,R,19911992,1992-03-19T17:00:00Z,8,28,33,11,7,Buffalo Sabres,/api/v1/teams/7,2,33,28,11,26,Los Angeles Kings,/api/v1/teams/26
+1991020790,/api/v1/game/1991020790/feed/live,R,19911992,1992-03-19T17:00:00Z,3,16,45,11,32,Quebec Nordiques,/api/v1/teams/32,6,35,29,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020791,/api/v1/game/1991020791/feed/live,R,19911992,1992-03-19T17:00:00Z,5,33,31,8,22,Edmonton Oilers,/api/v1/teams/22,3,34,27,8,1,New Jersey Devils,/api/v1/teams/1
+1991020792,/api/v1/game/1991020792/feed/live,R,19911992,1992-03-19T17:00:00Z,1,31,36,5,31,Minnesota North Stars,/api/v1/teams/31,4,32,26,5,16,Chicago Blackhawks,/api/v1/teams/16
+1991020793,/api/v1/game/1991020793/feed/live,R,19911992,1992-03-19T17:00:00Z,1,16,51,5,28,San Jose Sharks,/api/v1/teams/28,3,27,35,5,20,Calgary Flames,/api/v1/teams/20
+1991020794,/api/v1/game/1991020794/feed/live,R,19911992,1992-03-20T17:00:00Z,4,46,23,5,3,New York Rangers,/api/v1/teams/3,2,38,24,5,17,Detroit Red Wings,/api/v1/teams/17
+1991020795,/api/v1/game/1991020795/feed/live,R,19911992,1992-03-20T17:00:00Z,7,29,32,11,4,Philadelphia Flyers,/api/v1/teams/4,6,41,25,11,15,Washington Capitals,/api/v1/teams/15
+1991020796,/api/v1/game/1991020796/feed/live,R,19911992,1992-03-20T17:00:00Z,2,27,32,14,33,Winnipeg Jets (1979),/api/v1/teams/33,2,40,21,14,23,Vancouver Canucks,/api/v1/teams/23
+1991020797,/api/v1/game/1991020797/feed/live,R,19911992,1992-03-21T17:00:00Z,4,34,31,8,22,Edmonton Oilers,/api/v1/teams/22,3,32,31,8,6,Boston Bruins,/api/v1/teams/6
+1991020798,/api/v1/game/1991020798/feed/live,R,19911992,1992-03-21T17:00:00Z,5,17,51,5,28,San Jose Sharks,/api/v1/teams/28,4,23,38,5,34,Hartford Whalers,/api/v1/teams/34
+1991020799,/api/v1/game/1991020799/feed/live,R,19911992,1992-03-21T17:00:00Z,3,33,31,10,19,St. Louis Blues,/api/v1/teams/19,3,41,25,10,8,Montréal Canadiens,/api/v1/teams/8
+1991020800,/api/v1/game/1991020800/feed/live,R,19911992,1992-03-21T17:00:00Z,2,31,37,5,31,Minnesota North Stars,/api/v1/teams/31,4,17,45,5,32,Quebec Nordiques,/api/v1/teams/32
+1991020801,/api/v1/game/1991020801/feed/live,R,19911992,1992-03-21T17:00:00Z,2,30,33,10,2,New York Islanders,/api/v1/teams/2,2,34,27,10,1,New Jersey Devils,/api/v1/teams/1
+1991020802,/api/v1/game/1991020802/feed/live,R,19911992,1992-03-21T17:00:00Z,3,33,26,14,16,Chicago Blackhawks,/api/v1/teams/16,1,27,39,14,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020803,/api/v1/game/1991020803/feed/live,R,19911992,1992-03-21T17:00:00Z,2,27,36,10,20,Calgary Flames,/api/v1/teams/20,5,34,28,10,26,Los Angeles Kings,/api/v1/teams/26
+1991020804,/api/v1/game/1991020804/feed/live,R,19911992,1992-03-22T17:00:00Z,2,35,29,9,5,Pittsburgh Penguins,/api/v1/teams/5,2,23,38,9,34,Hartford Whalers,/api/v1/teams/34
+1991020805,/api/v1/game/1991020805/feed/live,R,19911992,1992-03-22T17:00:00Z,6,29,33,11,7,Buffalo Sabres,/api/v1/teams/7,2,33,27,11,16,Chicago Blackhawks,/api/v1/teams/16
+1991020806,/api/v1/game/1991020806/feed/live,R,19911992,1992-03-22T17:00:00Z,3,34,28,11,1,New Jersey Devils,/api/v1/teams/1,6,47,23,11,3,New York Rangers,/api/v1/teams/3
+1991020807,/api/v1/game/1991020807/feed/live,R,19911992,1992-03-22T17:00:00Z,3,38,25,11,17,Detroit Red Wings,/api/v1/teams/17,4,30,32,11,4,Philadelphia Flyers,/api/v1/teams/4
+1991020808,/api/v1/game/1991020808/feed/live,R,19911992,1992-03-22T17:00:00Z,2,34,32,8,22,Edmonton Oilers,/api/v1/teams/22,6,42,25,8,15,Washington Capitals,/api/v1/teams/15
+1991020809,/api/v1/game/1991020809/feed/live,R,19911992,1992-03-22T17:00:00Z,1,40,22,11,23,Vancouver Canucks,/api/v1/teams/23,5,28,32,11,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020810,/api/v1/game/1991020810/feed/live,R,19911992,1992-03-23T17:00:00Z,6,17,52,5,28,San Jose Sharks,/api/v1/teams/28,7,33,31,5,6,Boston Bruins,/api/v1/teams/6
+1991020811,/api/v1/game/1991020811/feed/live,R,19911992,1992-03-23T17:00:00Z,2,33,32,10,19,St. Louis Blues,/api/v1/teams/19,3,28,39,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020812,/api/v1/game/1991020812/feed/live,R,19911992,1992-03-24T17:00:00Z,8,24,38,12,34,Hartford Whalers,/api/v1/teams/34,2,42,26,12,15,Washington Capitals,/api/v1/teams/15
+1991020813,/api/v1/game/1991020813/feed/live,R,19911992,1992-03-24T17:00:00Z,2,30,34,10,2,New York Islanders,/api/v1/teams/2,5,18,45,10,32,Quebec Nordiques,/api/v1/teams/32
+1991020814,/api/v1/game/1991020814/feed/live,R,19911992,1992-03-24T17:00:00Z,4,48,23,5,3,New York Rangers,/api/v1/teams/3,3,30,33,5,4,Philadelphia Flyers,/api/v1/teams/4
+1991020815,/api/v1/game/1991020815/feed/live,R,19911992,1992-03-24T17:00:00Z,3,17,53,5,28,San Jose Sharks,/api/v1/teams/28,4,35,28,5,1,New Jersey Devils,/api/v1/teams/1
+1991020816,/api/v1/game/1991020816/feed/live,R,19911992,1992-03-24T17:00:00Z,3,35,30,9,5,Pittsburgh Penguins,/api/v1/teams/5,4,39,25,9,17,Detroit Red Wings,/api/v1/teams/17
+1991020817,/api/v1/game/1991020817/feed/live,R,19911992,1992-03-24T17:00:00Z,4,41,22,11,23,Vancouver Canucks,/api/v1/teams/23,2,31,38,11,31,Minnesota North Stars,/api/v1/teams/31
+1991020818,/api/v1/game/1991020818/feed/live,R,19911992,1992-03-24T17:00:00Z,4,34,32,9,22,Edmonton Oilers,/api/v1/teams/22,4,27,36,9,20,Calgary Flames,/api/v1/teams/20
+1991020819,/api/v1/game/1991020819/feed/live,R,19911992,1992-03-25T17:00:00Z,2,28,40,7,10,Toronto Maple Leafs,/api/v1/teams/10,5,30,33,7,7,Buffalo Sabres,/api/v1/teams/7
+1991020820,/api/v1/game/1991020820/feed/live,R,19911992,1992-03-25T17:00:00Z,2,41,25,10,8,Montréal Canadiens,/api/v1/teams/8,2,28,32,10,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020821,/api/v1/game/1991020821/feed/live,R,19911992,1992-03-25T17:00:00Z,1,30,34,11,4,Philadelphia Flyers,/api/v1/teams/4,4,49,23,11,3,New York Rangers,/api/v1/teams/3
+1991020822,/api/v1/game/1991020822/feed/live,R,19911992,1992-03-26T17:00:00Z,2,33,32,10,6,Boston Bruins,/api/v1/teams/6,4,36,28,10,1,New Jersey Devils,/api/v1/teams/1
+1991020823,/api/v1/game/1991020823/feed/live,R,19911992,1992-03-26T17:00:00Z,2,24,39,12,34,Hartford Whalers,/api/v1/teams/34,7,34,32,12,19,St. Louis Blues,/api/v1/teams/19
+1991020824,/api/v1/game/1991020824/feed/live,R,19911992,1992-03-26T17:00:00Z,5,34,27,14,16,Chicago Blackhawks,/api/v1/teams/16,4,18,46,14,32,Quebec Nordiques,/api/v1/teams/32
+1991020825,/api/v1/game/1991020825/feed/live,R,19911992,1992-03-26T17:00:00Z,4,17,54,5,28,San Jose Sharks,/api/v1/teams/28,7,31,34,5,2,New York Islanders,/api/v1/teams/2
+1991020826,/api/v1/game/1991020826/feed/live,R,19911992,1992-03-26T17:00:00Z,3,41,23,11,23,Vancouver Canucks,/api/v1/teams/23,7,36,30,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020827,/api/v1/game/1991020827/feed/live,R,19911992,1992-03-26T17:00:00Z,2,34,29,13,26,Los Angeles Kings,/api/v1/teams/26,7,28,36,13,20,Calgary Flames,/api/v1/teams/20
+1991020828,/api/v1/game/1991020828/feed/live,R,19911992,1992-03-27T17:00:00Z,3,41,26,10,8,Montréal Canadiens,/api/v1/teams/8,4,43,26,10,15,Washington Capitals,/api/v1/teams/15
+1991020829,/api/v1/game/1991020829/feed/live,R,19911992,1992-03-27T17:00:00Z,3,31,39,5,31,Minnesota North Stars,/api/v1/teams/31,5,35,32,5,22,Edmonton Oilers,/api/v1/teams/22
+1991020830,/api/v1/game/1991020830/feed/live,R,19911992,1992-03-27T17:00:00Z,4,34,30,13,26,Los Angeles Kings,/api/v1/teams/26,6,29,32,13,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020831,/api/v1/game/1991020831/feed/live,R,19911992,1992-03-28T17:00:00Z,3,30,34,11,7,Buffalo Sabres,/api/v1/teams/7,4,34,32,11,6,Boston Bruins,/api/v1/teams/6
+1991020832,/api/v1/game/1991020832/feed/live,R,19911992,1992-03-28T17:00:00Z,3,35,27,14,16,Chicago Blackhawks,/api/v1/teams/16,1,24,40,14,34,Hartford Whalers,/api/v1/teams/34
+1991020833,/api/v1/game/1991020833/feed/live,R,19911992,1992-03-28T17:00:00Z,3,41,27,10,8,Montréal Canadiens,/api/v1/teams/8,6,37,30,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020834,/api/v1/game/1991020834/feed/live,R,19911992,1992-03-28T17:00:00Z,2,18,47,11,32,Quebec Nordiques,/api/v1/teams/32,5,37,28,11,1,New Jersey Devils,/api/v1/teams/1
+1991020835,/api/v1/game/1991020835/feed/live,R,19911992,1992-03-28T17:00:00Z,1,49,24,5,3,New York Rangers,/api/v1/teams/3,4,32,34,5,2,New York Islanders,/api/v1/teams/2
+1991020836,/api/v1/game/1991020836/feed/live,R,19911992,1992-03-28T17:00:00Z,3,29,40,7,10,Toronto Maple Leafs,/api/v1/teams/10,2,34,33,7,19,St. Louis Blues,/api/v1/teams/19
+1991020837,/api/v1/game/1991020837/feed/live,R,19911992,1992-03-28T17:00:00Z,1,41,24,11,23,Vancouver Canucks,/api/v1/teams/23,3,40,25,11,17,Detroit Red Wings,/api/v1/teams/17
+1991020838,/api/v1/game/1991020838/feed/live,R,19911992,1992-03-28T17:00:00Z,3,31,40,5,31,Minnesota North Stars,/api/v1/teams/31,4,29,36,5,20,Calgary Flames,/api/v1/teams/20
+1991020839,/api/v1/game/1991020839/feed/live,R,19911992,1992-03-29T17:00:00Z,2,24,40,13,34,Hartford Whalers,/api/v1/teams/34,2,30,34,13,7,Buffalo Sabres,/api/v1/teams/7
+1991020840,/api/v1/game/1991020840/feed/live,R,19911992,1992-03-29T17:00:00Z,6,41,25,11,17,Detroit Red Wings,/api/v1/teams/17,2,32,35,11,2,New York Islanders,/api/v1/teams/2
+1991020841,/api/v1/game/1991020841/feed/live,R,19911992,1992-03-29T17:00:00Z,4,37,29,11,1,New Jersey Devils,/api/v1/teams/1,5,31,34,11,4,Philadelphia Flyers,/api/v1/teams/4
+1991020842,/api/v1/game/1991020842/feed/live,R,19911992,1992-03-29T17:00:00Z,4,41,25,11,23,Vancouver Canucks,/api/v1/teams/23,7,44,26,11,15,Washington Capitals,/api/v1/teams/15
+1991020843,/api/v1/game/1991020843/feed/live,R,19911992,1992-03-29T17:00:00Z,1,29,41,7,10,Toronto Maple Leafs,/api/v1/teams/10,5,36,27,7,16,Chicago Blackhawks,/api/v1/teams/16
+1991020844,/api/v1/game/1991020844/feed/live,R,19911992,1992-03-29T17:00:00Z,5,17,55,5,28,San Jose Sharks,/api/v1/teams/28,6,30,32,5,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991020845,/api/v1/game/1991020845/feed/live,R,19911992,1992-03-29T17:00:00Z,2,34,30,14,26,Los Angeles Kings,/api/v1/teams/26,2,35,32,14,22,Edmonton Oilers,/api/v1/teams/22
+1991020846,/api/v1/game/1991020846/feed/live,R,19911992,1992-03-31T17:00:00Z,5,35,32,10,6,Boston Bruins,/api/v1/teams/6,4,18,48,10,32,Quebec Nordiques,/api/v1/teams/32
+1991020847,/api/v1/game/1991020847/feed/live,R,19911992,1992-03-31T17:00:00Z,3,30,35,12,7,Buffalo Sabres,/api/v1/teams/7,5,32,40,12,31,Minnesota North Stars,/api/v1/teams/31
+1991020848,/api/v1/game/1991020848/feed/live,R,19911992,1992-03-31T17:00:00Z,5,31,35,11,4,Philadelphia Flyers,/api/v1/teams/4,6,38,30,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020849,/api/v1/game/1991020849/feed/live,R,19911992,1992-03-31T17:00:00Z,3,36,27,15,16,Chicago Blackhawks,/api/v1/teams/16,3,41,25,15,17,Detroit Red Wings,/api/v1/teams/17
+1991020850,/api/v1/game/1991020850/feed/live,R,19911992,1992-03-31T17:00:00Z,2,35,33,10,22,Edmonton Oilers,/api/v1/teams/22,5,30,36,10,20,Calgary Flames,/api/v1/teams/20
+1991020851,/api/v1/game/1991020851/feed/live,R,19911992,1992-04-12T16:00:00Z,6,33,35,10,2,New York Islanders,/api/v1/teams/2,2,29,42,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020852,/api/v1/game/1991020852/feed/live,R,19911992,1992-04-12T16:00:00Z,4,45,26,7,15,Washington Capitals,/api/v1/teams/15,3,37,30,7,1,New Jersey Devils,/api/v1/teams/1
+1991020854,/api/v1/game/1991020854/feed/live,R,19911992,1992-04-12T16:00:00Z,1,18,48,12,32,Quebec Nordiques,/api/v1/teams/32,1,35,32,12,6,Boston Bruins,/api/v1/teams/6
+1991020856,/api/v1/game/1991020856/feed/live,R,19911992,1992-04-12T16:00:00Z,1,41,28,10,8,Montréal Canadiens,/api/v1/teams/8,3,31,35,10,7,Buffalo Sabres,/api/v1/teams/7
+1991020858,/api/v1/game/1991020858/feed/live,R,19911992,1992-04-12T16:00:00Z,1,34,33,11,19,St. Louis Blues,/api/v1/teams/19,1,32,40,11,31,Minnesota North Stars,/api/v1/teams/31
+1991020863,/api/v1/game/1991020863/feed/live,R,19911992,1992-04-12T16:00:00Z,2,31,36,11,4,Philadelphia Flyers,/api/v1/teams/4,4,25,40,11,34,Hartford Whalers,/api/v1/teams/34
+1991020876,/api/v1/game/1991020876/feed/live,R,19911992,1992-04-12T16:00:00Z,2,42,25,12,17,Detroit Red Wings,/api/v1/teams/17,1,36,28,12,16,Chicago Blackhawks,/api/v1/teams/16
+1991020878,/api/v1/game/1991020878/feed/live,R,19911992,1992-04-12T16:00:00Z,4,31,32,15,33,Winnipeg Jets (1979),/api/v1/teams/33,3,30,37,15,20,Calgary Flames,/api/v1/teams/20
+1991020879,/api/v1/game/1991020879/feed/live,R,19911992,1992-04-12T16:00:00Z,4,17,56,5,28,San Jose Sharks,/api/v1/teams/28,6,36,33,5,22,Edmonton Oilers,/api/v1/teams/22
+1991020880,/api/v1/game/1991020880/feed/live,R,19911992,1992-04-12T16:00:00Z,6,35,30,14,26,Los Angeles Kings,/api/v1/teams/26,1,41,26,14,23,Vancouver Canucks,/api/v1/teams/23
+1991020871,/api/v1/game/1991020871/feed/live,R,19911992,1992-04-13T16:00:00Z,3,25,41,13,34,Hartford Whalers,/api/v1/teams/34,6,36,32,13,6,Boston Bruins,/api/v1/teams/6
+1991020873,/api/v1/game/1991020873/feed/live,R,19911992,1992-04-13T16:00:00Z,1,33,35,11,2,New York Islanders,/api/v1/teams/2,1,45,26,11,15,Washington Capitals,/api/v1/teams/15
+1991020874,/api/v1/game/1991020874/feed/live,R,19911992,1992-04-13T16:00:00Z,1,38,31,9,5,Pittsburgh Penguins,/api/v1/teams/5,5,38,30,9,1,New Jersey Devils,/api/v1/teams/1
+1991020875,/api/v1/game/1991020875/feed/live,R,19911992,1992-04-13T16:00:00Z,2,29,43,7,10,Toronto Maple Leafs,/api/v1/teams/10,6,32,36,7,4,Philadelphia Flyers,/api/v1/teams/4
+1991020860,/api/v1/game/1991020860/feed/live,R,19911992,1992-04-14T16:00:00Z,6,32,32,15,33,Winnipeg Jets (1979),/api/v1/teams/33,2,36,34,15,22,Edmonton Oilers,/api/v1/teams/22
+1991020864,/api/v1/game/1991020864/feed/live,R,19911992,1992-04-14T16:00:00Z,3,31,36,12,7,Buffalo Sabres,/api/v1/teams/7,7,19,48,12,32,Quebec Nordiques,/api/v1/teams/32
+1991020868,/api/v1/game/1991020868/feed/live,R,19911992,1992-04-14T16:00:00Z,7,43,25,12,17,Detroit Red Wings,/api/v1/teams/17,4,32,41,12,31,Minnesota North Stars,/api/v1/teams/31
+1991020869,/api/v1/game/1991020869/feed/live,R,19911992,1992-04-14T16:00:00Z,3,36,29,15,16,Chicago Blackhawks,/api/v1/teams/16,5,35,33,15,19,St. Louis Blues,/api/v1/teams/19
+1991020870,/api/v1/game/1991020870/feed/live,R,19911992,1992-04-14T16:00:00Z,3,42,26,11,23,Vancouver Canucks,/api/v1/teams/23,2,35,31,11,26,Los Angeles Kings,/api/v1/teams/26
+1991020855,/api/v1/game/1991020855/feed/live,R,19911992,1992-04-15T16:00:00Z,4,26,41,13,34,Hartford Whalers,/api/v1/teams/34,3,32,37,13,4,Philadelphia Flyers,/api/v1/teams/4
+1991020861,/api/v1/game/1991020861/feed/live,R,19911992,1992-04-15T16:00:00Z,4,31,37,11,20,Calgary Flames,/api/v1/teams/20,3,17,57,11,28,San Jose Sharks,/api/v1/teams/28
+1991020862,/api/v1/game/1991020862/feed/live,R,19911992,1992-04-15T16:00:00Z,4,36,32,12,6,Boston Bruins,/api/v1/teams/6,4,41,28,12,8,Montréal Canadiens,/api/v1/teams/8
+1991020865,/api/v1/game/1991020865/feed/live,R,19911992,1992-04-15T16:00:00Z,0,38,31,11,1,New Jersey Devils,/api/v1/teams/1,7,34,35,11,2,New York Islanders,/api/v1/teams/2
+1991020866,/api/v1/game/1991020866/feed/live,R,19911992,1992-04-15T16:00:00Z,2,49,25,5,3,New York Rangers,/api/v1/teams/3,4,30,43,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1991020867,/api/v1/game/1991020867/feed/live,R,19911992,1992-04-15T16:00:00Z,1,45,27,8,15,Washington Capitals,/api/v1/teams/15,4,39,31,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1991020872,/api/v1/game/1991020872/feed/live,R,19911992,1992-04-15T16:00:00Z,4,20,48,12,32,Quebec Nordiques,/api/v1/teams/32,3,31,37,12,7,Buffalo Sabres,/api/v1/teams/7
+1991020853,/api/v1/game/1991020853/feed/live,R,19911992,1992-04-16T16:00:00Z,5,33,32,15,33,Winnipeg Jets (1979),/api/v1/teams/33,3,17,58,15,28,San Jose Sharks,/api/v1/teams/28
+1991020857,/api/v1/game/1991020857/feed/live,R,19911992,1992-04-16T16:00:00Z,1,39,32,9,5,Pittsburgh Penguins,/api/v1/teams/5,7,50,25,9,3,New York Rangers,/api/v1/teams/3
+1991020859,/api/v1/game/1991020859/feed/live,R,19911992,1992-04-16T16:00:00Z,4,31,37,12,20,Calgary Flames,/api/v1/teams/20,4,42,26,12,23,Vancouver Canucks,/api/v1/teams/23
+1991020877,/api/v1/game/1991020877/feed/live,R,19911992,1992-04-16T16:00:00Z,3,32,42,6,31,Minnesota North Stars,/api/v1/teams/31,5,36,33,6,19,St. Louis Blues,/api/v1/teams/19
+1991030151,/api/v1/game/1991030151/feed/live,P,19911992,1992-04-18T16:00:00Z,4,1,0,,31,Minnesota North Stars,/api/v1/teams/31,3,0,1,,17,Detroit Red Wings,/api/v1/teams/17
+1991030161,/api/v1/game/1991030161/feed/live,P,19911992,1992-04-18T16:00:00Z,1,0,1,,19,St. Louis Blues,/api/v1/teams/19,3,1,0,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030171,/api/v1/game/1991030171/feed/live,P,19911992,1992-04-18T16:00:00Z,3,1,0,,33,Winnipeg Jets (1979),/api/v1/teams/33,2,0,1,,23,Vancouver Canucks,/api/v1/teams/23
+1991030181,/api/v1/game/1991030181/feed/live,P,19911992,1992-04-18T16:00:00Z,3,1,0,,22,Edmonton Oilers,/api/v1/teams/22,1,0,1,,26,Los Angeles Kings,/api/v1/teams/26
+1991030111,/api/v1/game/1991030111/feed/live,P,19911992,1992-04-19T16:00:00Z,0,0,1,,34,Hartford Whalers,/api/v1/teams/34,2,1,0,,8,Montréal Canadiens,/api/v1/teams/8
+1991030121,/api/v1/game/1991030121/feed/live,P,19911992,1992-04-19T16:00:00Z,3,1,0,,7,Buffalo Sabres,/api/v1/teams/7,2,0,1,,6,Boston Bruins,/api/v1/teams/6
+1991030131,/api/v1/game/1991030131/feed/live,P,19911992,1992-04-19T16:00:00Z,1,0,1,,1,New Jersey Devils,/api/v1/teams/1,2,1,0,,3,New York Rangers,/api/v1/teams/3
+1991030141,/api/v1/game/1991030141/feed/live,P,19911992,1992-04-19T16:00:00Z,1,0,1,,5,Pittsburgh Penguins,/api/v1/teams/5,3,1,0,,15,Washington Capitals,/api/v1/teams/15
+1991030152,/api/v1/game/1991030152/feed/live,P,19911992,1992-04-20T16:00:00Z,4,2,0,,31,Minnesota North Stars,/api/v1/teams/31,2,0,2,,17,Detroit Red Wings,/api/v1/teams/17
+1991030162,/api/v1/game/1991030162/feed/live,P,19911992,1992-04-20T16:00:00Z,5,1,1,,19,St. Louis Blues,/api/v1/teams/19,3,1,1,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030172,/api/v1/game/1991030172/feed/live,P,19911992,1992-04-20T16:00:00Z,2,1,1,,33,Winnipeg Jets (1979),/api/v1/teams/33,3,1,1,,23,Vancouver Canucks,/api/v1/teams/23
+1991030182,/api/v1/game/1991030182/feed/live,P,19911992,1992-04-20T16:00:00Z,5,1,1,,22,Edmonton Oilers,/api/v1/teams/22,8,1,1,,26,Los Angeles Kings,/api/v1/teams/26
+1991030112,/api/v1/game/1991030112/feed/live,P,19911992,1992-04-21T16:00:00Z,2,0,2,,34,Hartford Whalers,/api/v1/teams/34,5,2,0,,8,Montréal Canadiens,/api/v1/teams/8
+1991030122,/api/v1/game/1991030122/feed/live,P,19911992,1992-04-21T16:00:00Z,2,1,1,,7,Buffalo Sabres,/api/v1/teams/7,3,1,1,,6,Boston Bruins,/api/v1/teams/6
+1991030132,/api/v1/game/1991030132/feed/live,P,19911992,1992-04-21T16:00:00Z,7,1,1,,1,New Jersey Devils,/api/v1/teams/1,3,1,1,,3,New York Rangers,/api/v1/teams/3
+1991030142,/api/v1/game/1991030142/feed/live,P,19911992,1992-04-21T16:00:00Z,2,0,2,,5,Pittsburgh Penguins,/api/v1/teams/5,6,2,0,,15,Washington Capitals,/api/v1/teams/15
+1991030153,/api/v1/game/1991030153/feed/live,P,19911992,1992-04-22T16:00:00Z,5,1,2,,17,Detroit Red Wings,/api/v1/teams/17,4,2,1,,31,Minnesota North Stars,/api/v1/teams/31
+1991030163,/api/v1/game/1991030163/feed/live,P,19911992,1992-04-22T16:00:00Z,4,1,2,,16,Chicago Blackhawks,/api/v1/teams/16,5,2,1,,19,St. Louis Blues,/api/v1/teams/19
+1991030173,/api/v1/game/1991030173/feed/live,P,19911992,1992-04-22T16:00:00Z,2,1,2,,23,Vancouver Canucks,/api/v1/teams/23,4,2,1,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991030183,/api/v1/game/1991030183/feed/live,P,19911992,1992-04-22T16:00:00Z,3,1,2,,26,Los Angeles Kings,/api/v1/teams/26,4,2,1,,22,Edmonton Oilers,/api/v1/teams/22
+1991030113,/api/v1/game/1991030113/feed/live,P,19911992,1992-04-23T16:00:00Z,2,2,1,,8,Montréal Canadiens,/api/v1/teams/8,5,1,2,,34,Hartford Whalers,/api/v1/teams/34
+1991030123,/api/v1/game/1991030123/feed/live,P,19911992,1992-04-23T16:00:00Z,3,2,1,,6,Boston Bruins,/api/v1/teams/6,2,1,2,,7,Buffalo Sabres,/api/v1/teams/7
+1991030133,/api/v1/game/1991030133/feed/live,P,19911992,1992-04-23T16:00:00Z,1,1,2,,3,New York Rangers,/api/v1/teams/3,3,2,1,,1,New Jersey Devils,/api/v1/teams/1
+1991030143,/api/v1/game/1991030143/feed/live,P,19911992,1992-04-23T16:00:00Z,4,2,1,,15,Washington Capitals,/api/v1/teams/15,6,1,2,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030154,/api/v1/game/1991030154/feed/live,P,19911992,1992-04-24T16:00:00Z,4,1,3,,17,Detroit Red Wings,/api/v1/teams/17,5,3,1,,31,Minnesota North Stars,/api/v1/teams/31
+1991030164,/api/v1/game/1991030164/feed/live,P,19911992,1992-04-24T16:00:00Z,5,2,2,,16,Chicago Blackhawks,/api/v1/teams/16,3,2,2,,19,St. Louis Blues,/api/v1/teams/19
+1991030174,/api/v1/game/1991030174/feed/live,P,19911992,1992-04-24T16:00:00Z,1,1,3,,23,Vancouver Canucks,/api/v1/teams/23,3,3,1,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991030184,/api/v1/game/1991030184/feed/live,P,19911992,1992-04-24T16:00:00Z,4,2,2,,26,Los Angeles Kings,/api/v1/teams/26,3,2,2,,22,Edmonton Oilers,/api/v1/teams/22
+1991030114,/api/v1/game/1991030114/feed/live,P,19911992,1992-04-25T16:00:00Z,1,2,2,,8,Montréal Canadiens,/api/v1/teams/8,3,2,2,,34,Hartford Whalers,/api/v1/teams/34
+1991030124,/api/v1/game/1991030124/feed/live,P,19911992,1992-04-25T16:00:00Z,5,3,1,,6,Boston Bruins,/api/v1/teams/6,4,1,3,,7,Buffalo Sabres,/api/v1/teams/7
+1991030134,/api/v1/game/1991030134/feed/live,P,19911992,1992-04-25T16:00:00Z,3,2,2,,3,New York Rangers,/api/v1/teams/3,0,2,2,,1,New Jersey Devils,/api/v1/teams/1
+1991030144,/api/v1/game/1991030144/feed/live,P,19911992,1992-04-25T16:00:00Z,7,3,1,,15,Washington Capitals,/api/v1/teams/15,2,1,3,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030155,/api/v1/game/1991030155/feed/live,P,19911992,1992-04-26T16:00:00Z,0,3,2,,31,Minnesota North Stars,/api/v1/teams/31,3,2,3,,17,Detroit Red Wings,/api/v1/teams/17
+1991030165,/api/v1/game/1991030165/feed/live,P,19911992,1992-04-26T16:00:00Z,4,2,3,,19,St. Louis Blues,/api/v1/teams/19,6,3,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030175,/api/v1/game/1991030175/feed/live,P,19911992,1992-04-26T16:00:00Z,2,3,2,,33,Winnipeg Jets (1979),/api/v1/teams/33,8,2,3,,23,Vancouver Canucks,/api/v1/teams/23
+1991030185,/api/v1/game/1991030185/feed/live,P,19911992,1992-04-26T16:00:00Z,5,3,2,,22,Edmonton Oilers,/api/v1/teams/22,2,2,3,,26,Los Angeles Kings,/api/v1/teams/26
+1991030115,/api/v1/game/1991030115/feed/live,P,19911992,1992-04-27T16:00:00Z,4,2,3,,34,Hartford Whalers,/api/v1/teams/34,7,3,2,,8,Montréal Canadiens,/api/v1/teams/8
+1991030125,/api/v1/game/1991030125/feed/live,P,19911992,1992-04-27T16:00:00Z,2,2,3,,7,Buffalo Sabres,/api/v1/teams/7,0,3,2,,6,Boston Bruins,/api/v1/teams/6
+1991030135,/api/v1/game/1991030135/feed/live,P,19911992,1992-04-27T16:00:00Z,5,2,3,,1,New Jersey Devils,/api/v1/teams/1,8,3,2,,3,New York Rangers,/api/v1/teams/3
+1991030145,/api/v1/game/1991030145/feed/live,P,19911992,1992-04-27T16:00:00Z,5,2,3,,5,Pittsburgh Penguins,/api/v1/teams/5,2,3,2,,15,Washington Capitals,/api/v1/teams/15
+1991030156,/api/v1/game/1991030156/feed/live,P,19911992,1992-04-28T16:00:00Z,1,3,3,,17,Detroit Red Wings,/api/v1/teams/17,0,3,3,,31,Minnesota North Stars,/api/v1/teams/31
+1991030166,/api/v1/game/1991030166/feed/live,P,19911992,1992-04-28T16:00:00Z,2,4,2,,16,Chicago Blackhawks,/api/v1/teams/16,1,2,4,,19,St. Louis Blues,/api/v1/teams/19
+1991030176,/api/v1/game/1991030176/feed/live,P,19911992,1992-04-28T16:00:00Z,8,3,3,,23,Vancouver Canucks,/api/v1/teams/23,3,3,3,,33,Winnipeg Jets (1979),/api/v1/teams/33
+1991030186,/api/v1/game/1991030186/feed/live,P,19911992,1992-04-28T16:00:00Z,0,2,4,,26,Los Angeles Kings,/api/v1/teams/26,3,4,2,,22,Edmonton Oilers,/api/v1/teams/22
+1991030116,/api/v1/game/1991030116/feed/live,P,19911992,1992-04-29T16:00:00Z,1,3,3,,8,Montréal Canadiens,/api/v1/teams/8,2,3,3,,34,Hartford Whalers,/api/v1/teams/34
+1991030126,/api/v1/game/1991030126/feed/live,P,19911992,1992-04-29T16:00:00Z,3,3,3,,6,Boston Bruins,/api/v1/teams/6,9,3,3,,7,Buffalo Sabres,/api/v1/teams/7
+1991030136,/api/v1/game/1991030136/feed/live,P,19911992,1992-04-29T16:00:00Z,3,3,3,,3,New York Rangers,/api/v1/teams/3,5,3,3,,1,New Jersey Devils,/api/v1/teams/1
+1991030146,/api/v1/game/1991030146/feed/live,P,19911992,1992-04-29T16:00:00Z,4,3,3,,15,Washington Capitals,/api/v1/teams/15,6,3,3,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030157,/api/v1/game/1991030157/feed/live,P,19911992,1992-04-30T16:00:00Z,2,3,4,,31,Minnesota North Stars,/api/v1/teams/31,5,4,3,,17,Detroit Red Wings,/api/v1/teams/17
+1991030177,/api/v1/game/1991030177/feed/live,P,19911992,1992-04-30T16:00:00Z,0,3,4,,33,Winnipeg Jets (1979),/api/v1/teams/33,5,4,3,,23,Vancouver Canucks,/api/v1/teams/23
+1991030117,/api/v1/game/1991030117/feed/live,P,19911992,1992-05-01T16:00:00Z,2,3,4,,34,Hartford Whalers,/api/v1/teams/34,3,4,3,,8,Montréal Canadiens,/api/v1/teams/8
+1991030127,/api/v1/game/1991030127/feed/live,P,19911992,1992-05-01T16:00:00Z,2,3,4,,7,Buffalo Sabres,/api/v1/teams/7,3,4,3,,6,Boston Bruins,/api/v1/teams/6
+1991030137,/api/v1/game/1991030137/feed/live,P,19911992,1992-05-01T16:00:00Z,4,3,4,,1,New Jersey Devils,/api/v1/teams/1,8,4,3,,3,New York Rangers,/api/v1/teams/3
+1991030147,/api/v1/game/1991030147/feed/live,P,19911992,1992-05-01T16:00:00Z,3,4,3,,5,Pittsburgh Penguins,/api/v1/teams/5,1,3,4,,15,Washington Capitals,/api/v1/teams/15
+1991030231,/api/v1/game/1991030231/feed/live,P,19911992,1992-05-02T16:00:00Z,2,5,2,,16,Chicago Blackhawks,/api/v1/teams/16,1,4,4,,17,Detroit Red Wings,/api/v1/teams/17
+1991030211,/api/v1/game/1991030211/feed/live,P,19911992,1992-05-03T16:00:00Z,6,5,3,,6,Boston Bruins,/api/v1/teams/6,4,4,4,,8,Montréal Canadiens,/api/v1/teams/8
+1991030221,/api/v1/game/1991030221/feed/live,P,19911992,1992-05-03T16:00:00Z,4,5,3,,5,Pittsburgh Penguins,/api/v1/teams/5,2,4,4,,3,New York Rangers,/api/v1/teams/3
+1991030241,/api/v1/game/1991030241/feed/live,P,19911992,1992-05-03T16:00:00Z,4,5,2,,22,Edmonton Oilers,/api/v1/teams/22,3,4,4,,23,Vancouver Canucks,/api/v1/teams/23
+1991030232,/api/v1/game/1991030232/feed/live,P,19911992,1992-05-04T16:00:00Z,3,6,2,,16,Chicago Blackhawks,/api/v1/teams/16,1,4,5,,17,Detroit Red Wings,/api/v1/teams/17
+1991030242,/api/v1/game/1991030242/feed/live,P,19911992,1992-05-04T16:00:00Z,0,5,3,,22,Edmonton Oilers,/api/v1/teams/22,4,5,4,,23,Vancouver Canucks,/api/v1/teams/23
+1991030212,/api/v1/game/1991030212/feed/live,P,19911992,1992-05-05T16:00:00Z,3,6,3,,6,Boston Bruins,/api/v1/teams/6,2,4,5,,8,Montréal Canadiens,/api/v1/teams/8
+1991030222,/api/v1/game/1991030222/feed/live,P,19911992,1992-05-05T16:00:00Z,2,5,4,,5,Pittsburgh Penguins,/api/v1/teams/5,4,5,4,,3,New York Rangers,/api/v1/teams/3
+1991030233,/api/v1/game/1991030233/feed/live,P,19911992,1992-05-06T16:00:00Z,4,4,6,,17,Detroit Red Wings,/api/v1/teams/17,5,7,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030243,/api/v1/game/1991030243/feed/live,P,19911992,1992-05-06T16:00:00Z,2,5,5,,23,Vancouver Canucks,/api/v1/teams/23,5,6,3,,22,Edmonton Oilers,/api/v1/teams/22
+1991030213,/api/v1/game/1991030213/feed/live,P,19911992,1992-05-07T16:00:00Z,2,4,6,,8,Montréal Canadiens,/api/v1/teams/8,3,7,3,,6,Boston Bruins,/api/v1/teams/6
+1991030223,/api/v1/game/1991030223/feed/live,P,19911992,1992-05-07T16:00:00Z,6,6,4,,3,New York Rangers,/api/v1/teams/3,5,5,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030234,/api/v1/game/1991030234/feed/live,P,19911992,1992-05-08T16:00:00Z,0,4,7,,17,Detroit Red Wings,/api/v1/teams/17,1,8,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030244,/api/v1/game/1991030244/feed/live,P,19911992,1992-05-08T16:00:00Z,2,5,6,,23,Vancouver Canucks,/api/v1/teams/23,3,7,3,,22,Edmonton Oilers,/api/v1/teams/22
+1991030214,/api/v1/game/1991030214/feed/live,P,19911992,1992-05-09T16:00:00Z,0,4,7,,8,Montréal Canadiens,/api/v1/teams/8,2,8,3,,6,Boston Bruins,/api/v1/teams/6
+1991030224,/api/v1/game/1991030224/feed/live,P,19911992,1992-05-09T16:00:00Z,4,6,5,,3,New York Rangers,/api/v1/teams/3,5,6,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030245,/api/v1/game/1991030245/feed/live,P,19911992,1992-05-10T16:00:00Z,3,7,4,,22,Edmonton Oilers,/api/v1/teams/22,4,6,6,,23,Vancouver Canucks,/api/v1/teams/23
+1991030225,/api/v1/game/1991030225/feed/live,P,19911992,1992-05-11T16:00:00Z,3,7,5,,5,Pittsburgh Penguins,/api/v1/teams/5,2,6,6,,3,New York Rangers,/api/v1/teams/3
+1991030246,/api/v1/game/1991030246/feed/live,P,19911992,1992-05-12T16:00:00Z,0,6,7,,23,Vancouver Canucks,/api/v1/teams/23,3,8,4,,22,Edmonton Oilers,/api/v1/teams/22
+1991030226,/api/v1/game/1991030226/feed/live,P,19911992,1992-05-13T16:00:00Z,1,6,7,,3,New York Rangers,/api/v1/teams/3,5,8,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030321,/api/v1/game/1991030321/feed/live,P,19911992,1992-05-16T16:00:00Z,2,8,5,,22,Edmonton Oilers,/api/v1/teams/22,8,9,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030311,/api/v1/game/1991030311/feed/live,P,19911992,1992-05-17T16:00:00Z,3,8,4,,6,Boston Bruins,/api/v1/teams/6,4,9,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030322,/api/v1/game/1991030322/feed/live,P,19911992,1992-05-18T16:00:00Z,2,8,6,,22,Edmonton Oilers,/api/v1/teams/22,4,10,2,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030312,/api/v1/game/1991030312/feed/live,P,19911992,1992-05-19T16:00:00Z,2,8,5,,6,Boston Bruins,/api/v1/teams/6,5,10,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030323,/api/v1/game/1991030323/feed/live,P,19911992,1992-05-20T16:00:00Z,4,11,2,,16,Chicago Blackhawks,/api/v1/teams/16,3,8,7,,22,Edmonton Oilers,/api/v1/teams/22
+1991030313,/api/v1/game/1991030313/feed/live,P,19911992,1992-05-21T16:00:00Z,5,11,5,,5,Pittsburgh Penguins,/api/v1/teams/5,1,8,6,,6,Boston Bruins,/api/v1/teams/6
+1991030324,/api/v1/game/1991030324/feed/live,P,19911992,1992-05-22T16:00:00Z,5,12,2,,16,Chicago Blackhawks,/api/v1/teams/16,1,8,8,,22,Edmonton Oilers,/api/v1/teams/22
+1991030314,/api/v1/game/1991030314/feed/live,P,19911992,1992-05-23T16:00:00Z,5,12,5,,5,Pittsburgh Penguins,/api/v1/teams/5,1,8,7,,6,Boston Bruins,/api/v1/teams/6
+1991030411,/api/v1/game/1991030411/feed/live,P,19911992,1992-05-26T16:00:00Z,4,12,3,,16,Chicago Blackhawks,/api/v1/teams/16,5,13,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030412,/api/v1/game/1991030412/feed/live,P,19911992,1992-05-28T16:00:00Z,1,12,4,,16,Chicago Blackhawks,/api/v1/teams/16,3,14,5,,5,Pittsburgh Penguins,/api/v1/teams/5
+1991030413,/api/v1/game/1991030413/feed/live,P,19911992,1992-05-30T16:00:00Z,1,15,5,,5,Pittsburgh Penguins,/api/v1/teams/5,0,12,5,,16,Chicago Blackhawks,/api/v1/teams/16
+1991030414,/api/v1/game/1991030414/feed/live,P,19911992,1992-06-01T16:00:00Z,6,16,5,,5,Pittsburgh Penguins,/api/v1/teams/5,5,12,6,,16,Chicago Blackhawks,/api/v1/teams/16

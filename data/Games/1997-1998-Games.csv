@@ -1,0 +1,1138 @@
+gamePk,link,gameType,season,gameDate,awayGamePoints,awaywins,awaylosses,awayties,awayid,awayname,awaylink,homeGamePoints,homewins,homelosses,hometies,homeid,homename,homelink
+1997020012,/api/v1/game/1997020012/feed/live,R,19971998,1997-10-03T23:30:00Z,4,1,0,1,5,Pittsburgh Penguins,/api/v1/teams/5,3,0,2,1,12,Carolina Hurricanes,/api/v1/teams/12
+1997020013,/api/v1/game/1997020013/feed/live,R,19971998,1997-10-03T23:30:00Z,2,0,0,1,2,New York Islanders,/api/v1/teams/2,2,0,0,1,3,New York Rangers,/api/v1/teams/3
+1997020014,/api/v1/game/1997020014/feed/live,R,19971998,1997-10-03T23:30:00Z,3,0,1,1,9,Ottawa Senators,/api/v1/teams/9,5,2,0,1,4,Philadelphia Flyers,/api/v1/teams/4
+1997020015,/api/v1/game/1997020015/feed/live,R,19971998,1997-10-03T23:30:00Z,2,1,1,0,7,Buffalo Sabres,/api/v1/teams/7,6,2,0,0,15,Washington Capitals,/api/v1/teams/15
+1997020016,/api/v1/game/1997020016/feed/live,R,19971998,1997-10-03T23:30:00Z,4,1,0,0,1,New Jersey Devils,/api/v1/teams/1,3,1,1,0,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020017,/api/v1/game/1997020017/feed/live,R,19971998,1997-10-04T00:30:00Z,2,1,1,0,27,Phoenix Coyotes,/api/v1/teams/27,7,1,1,0,19,St. Louis Blues,/api/v1/teams/19
+1997020018,/api/v1/game/1997020018/feed/live,R,19971998,1997-10-04T01:00:00Z,4,1,0,1,21,Colorado Avalanche,/api/v1/teams/21,1,0,2,1,20,Calgary Flames,/api/v1/teams/20
+1997020019,/api/v1/game/1997020019/feed/live,R,19971998,1997-10-04T01:00:00Z,8,2,0,0,17,Detroit Red Wings,/api/v1/teams/17,2,1,1,0,22,Edmonton Oilers,/api/v1/teams/22
+1997020020,/api/v1/game/1997020020/feed/live,R,19971998,1997-10-04T03:00:00Z,2,0,1,0,24,Anaheim Ducks,/api/v1/teams/24,3,1,0,0,23,Vancouver Canucks,/api/v1/teams/23
+1997020022,/api/v1/game/1997020022/feed/live,R,19971998,1997-10-04T23:00:00Z,5,1,1,0,13,Florida Panthers,/api/v1/teams/13,3,1,1,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020025,/api/v1/game/1997020025/feed/live,R,19971998,1997-10-04T23:00:00Z,1,1,1,0,1,New Jersey Devils,/api/v1/teams/1,4,3,0,0,15,Washington Capitals,/api/v1/teams/15
+1997020021,/api/v1/game/1997020021/feed/live,R,19971998,1997-10-04T23:30:00Z,4,1,0,1,8,Montréal Canadiens,/api/v1/teams/8,1,1,1,1,6,Boston Bruins,/api/v1/teams/6
+1997020023,/api/v1/game/1997020023/feed/live,R,19971998,1997-10-04T23:30:00Z,2,0,3,0,12,Carolina Hurricanes,/api/v1/teams/12,3,1,1,0,9,Ottawa Senators,/api/v1/teams/9
+1997020024,/api/v1/game/1997020024/feed/live,R,19971998,1997-10-04T23:30:00Z,0,0,2,0,10,Toronto Maple Leafs,/api/v1/teams/10,3,1,0,0,2,New York Islanders,/api/v1/teams/2
+1997020026,/api/v1/game/1997020026/feed/live,R,19971998,1997-10-05T00:00:00Z,2,2,1,0,19,St. Louis Blues,/api/v1/teams/19,1,0,1,0,25,Dallas Stars,/api/v1/teams/25
+1997020027,/api/v1/game/1997020027/feed/live,R,19971998,1997-10-05T02:30:00Z,2,0,2,0,16,Chicago Blackhawks,/api/v1/teams/16,3,1,1,0,28,San Jose Sharks,/api/v1/teams/28
+1997020028,/api/v1/game/1997020028/feed/live,R,19971998,1997-10-05T03:00:00Z,2,1,1,0,23,Vancouver Canucks,/api/v1/teams/23,3,1,1,0,24,Anaheim Ducks,/api/v1/teams/24
+1997020029,/api/v1/game/1997020029/feed/live,R,19971998,1997-10-05T23:00:00Z,2,0,1,2,26,Los Angeles Kings,/api/v1/teams/26,2,0,0,2,3,New York Rangers,/api/v1/teams/3
+1997020030,/api/v1/game/1997020030/feed/live,R,19971998,1997-10-05T23:00:00Z,2,2,1,0,27,Phoenix Coyotes,/api/v1/teams/27,1,2,1,0,4,Philadelphia Flyers,/api/v1/teams/4
+1997020031,/api/v1/game/1997020031/feed/live,R,19971998,1997-10-05T23:00:00Z,1,1,1,1,7,Buffalo Sabres,/api/v1/teams/7,1,1,1,1,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020032,/api/v1/game/1997020032/feed/live,R,19971998,1997-10-06T00:00:00Z,3,2,0,1,21,Colorado Avalanche,/api/v1/teams/21,0,1,2,1,22,Edmonton Oilers,/api/v1/teams/22
+1997020034,/api/v1/game/1997020034/feed/live,R,19971998,1997-10-07T23:00:00Z,4,1,1,1,25,Dallas Stars,/api/v1/teams/25,2,1,2,1,7,Buffalo Sabres,/api/v1/teams/7
+1997020033,/api/v1/game/1997020033/feed/live,R,19971998,1997-10-07T23:30:00Z,3,0,1,3,26,Los Angeles Kings,/api/v1/teams/26,3,0,3,3,12,Carolina Hurricanes,/api/v1/teams/12
+1997020035,/api/v1/game/1997020035/feed/live,R,19971998,1997-10-08T01:00:00Z,2,1,2,0,6,Boston Bruins,/api/v1/teams/6,3,3,0,0,21,Colorado Avalanche,/api/v1/teams/21
+1997020036,/api/v1/game/1997020036/feed/live,R,19971998,1997-10-08T01:00:00Z,2,1,2,0,10,Toronto Maple Leafs,/api/v1/teams/10,1,0,3,0,20,Calgary Flames,/api/v1/teams/20
+1997020037,/api/v1/game/1997020037/feed/live,R,19971998,1997-10-08T02:30:00Z,1,2,1,1,9,Ottawa Senators,/api/v1/teams/9,0,1,2,1,28,San Jose Sharks,/api/v1/teams/28
+1997020038,/api/v1/game/1997020038/feed/live,R,19971998,1997-10-08T23:00:00Z,3,2,0,1,8,Montréal Canadiens,/api/v1/teams/8,0,1,2,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020039,/api/v1/game/1997020039/feed/live,R,19971998,1997-10-08T23:30:00Z,6,4,0,0,15,Washington Capitals,/api/v1/teams/15,3,1,1,0,2,New York Islanders,/api/v1/teams/2
+1997020040,/api/v1/game/1997020040/feed/live,R,19971998,1997-10-08T23:30:00Z,1,2,2,0,4,Philadelphia Flyers,/api/v1/teams/4,4,2,1,0,1,New Jersey Devils,/api/v1/teams/1
+1997020041,/api/v1/game/1997020041/feed/live,R,19971998,1997-10-08T23:30:00Z,1,1,2,1,25,Dallas Stars,/api/v1/teams/25,3,3,0,1,17,Detroit Red Wings,/api/v1/teams/17
+1997020043,/api/v1/game/1997020043/feed/live,R,19971998,1997-10-09T01:00:00Z,3,0,0,3,3,New York Rangers,/api/v1/teams/3,3,1,2,3,22,Edmonton Oilers,/api/v1/teams/22
+1997020042,/api/v1/game/1997020042/feed/live,R,19971998,1997-10-09T02:00:00Z,3,2,2,0,6,Boston Bruins,/api/v1/teams/6,2,2,2,0,27,Phoenix Coyotes,/api/v1/teams/27
+1997020044,/api/v1/game/1997020044/feed/live,R,19971998,1997-10-09T23:00:00Z,2,4,1,0,15,Washington Capitals,/api/v1/teams/15,5,2,2,0,7,Buffalo Sabres,/api/v1/teams/7
+1997020045,/api/v1/game/1997020045/feed/live,R,19971998,1997-10-09T23:30:00Z,1,1,3,1,5,Pittsburgh Penguins,/api/v1/teams/5,3,3,2,1,4,Philadelphia Flyers,/api/v1/teams/4
+1997020046,/api/v1/game/1997020046/feed/live,R,19971998,1997-10-10T00:30:00Z,4,2,1,1,14,Tampa Bay Lightning,/api/v1/teams/14,1,0,3,1,16,Chicago Blackhawks,/api/v1/teams/16
+1997020047,/api/v1/game/1997020047/feed/live,R,19971998,1997-10-10T00:30:00Z,2,0,2,3,26,Los Angeles Kings,/api/v1/teams/26,3,3,1,3,19,St. Louis Blues,/api/v1/teams/19
+1997020048,/api/v1/game/1997020048/feed/live,R,19971998,1997-10-10T01:00:00Z,2,1,3,0,28,San Jose Sharks,/api/v1/teams/28,3,4,0,0,21,Colorado Avalanche,/api/v1/teams/21
+1997020049,/api/v1/game/1997020049/feed/live,R,19971998,1997-10-10T01:00:00Z,1,0,0,4,3,New York Rangers,/api/v1/teams/3,1,0,3,4,20,Calgary Flames,/api/v1/teams/20
+1997020050,/api/v1/game/1997020050/feed/live,R,19971998,1997-10-10T03:00:00Z,2,1,2,1,10,Toronto Maple Leafs,/api/v1/teams/10,2,1,1,1,23,Vancouver Canucks,/api/v1/teams/23
+1997020051,/api/v1/game/1997020051/feed/live,R,19971998,1997-10-10T23:30:00Z,1,2,2,0,1,New Jersey Devils,/api/v1/teams/1,2,1,3,0,12,Carolina Hurricanes,/api/v1/teams/12
+1997020052,/api/v1/game/1997020052/feed/live,R,19971998,1997-10-10T23:30:00Z,0,2,2,1,14,Tampa Bay Lightning,/api/v1/teams/14,3,4,0,1,17,Detroit Red Wings,/api/v1/teams/17
+1997020053,/api/v1/game/1997020053/feed/live,R,19971998,1997-10-11T00:30:00Z,0,0,4,0,16,Chicago Blackhawks,/api/v1/teams/16,7,2,2,0,25,Dallas Stars,/api/v1/teams/25
+1997020054,/api/v1/game/1997020054/feed/live,R,19971998,1997-10-11T02:30:00Z,1,2,1,2,9,Ottawa Senators,/api/v1/teams/9,1,1,1,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020055,/api/v1/game/1997020055/feed/live,R,19971998,1997-10-11T23:00:00Z,1,1,4,1,12,Carolina Hurricanes,/api/v1/teams/12,4,2,3,1,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020058,/api/v1/game/1997020058/feed/live,R,19971998,1997-10-11T23:00:00Z,1,1,2,1,2,New York Islanders,/api/v1/teams/2,3,5,1,1,15,Washington Capitals,/api/v1/teams/15
+1997020061,/api/v1/game/1997020061/feed/live,R,19971998,1997-10-11T23:30:00Z,1,1,3,1,10,Toronto Maple Leafs,/api/v1/teams/10,2,2,2,1,22,Edmonton Oilers,/api/v1/teams/22
+1997020056,/api/v1/game/1997020056/feed/live,R,19971998,1997-10-11T23:30:00Z,6,4,2,0,4,Philadelphia Flyers,/api/v1/teams/4,2,2,1,0,8,Montréal Canadiens,/api/v1/teams/8
+1997020057,/api/v1/game/1997020057/feed/live,R,19971998,1997-10-11T23:30:00Z,2,2,3,1,7,Buffalo Sabres,/api/v1/teams/7,3,3,2,1,1,New Jersey Devils,/api/v1/teams/1
+1997020059,/api/v1/game/1997020059/feed/live,R,19971998,1997-10-12T00:30:00Z,3,1,2,0,13,Florida Panthers,/api/v1/teams/13,5,4,1,0,19,St. Louis Blues,/api/v1/teams/19
+1997020060,/api/v1/game/1997020060/feed/live,R,19971998,1997-10-12T01:00:00Z,3,2,2,1,27,Phoenix Coyotes,/api/v1/teams/27,3,4,0,1,21,Colorado Avalanche,/api/v1/teams/21
+1997020062,/api/v1/game/1997020062/feed/live,R,19971998,1997-10-12T02:30:00Z,6,1,0,4,3,New York Rangers,/api/v1/teams/3,3,1,2,4,23,Vancouver Canucks,/api/v1/teams/23
+1997020063,/api/v1/game/1997020063/feed/live,R,19971998,1997-10-12T02:30:00Z,2,2,3,0,6,Boston Bruins,/api/v1/teams/6,5,2,3,0,28,San Jose Sharks,/api/v1/teams/28
+1997020064,/api/v1/game/1997020064/feed/live,R,19971998,1997-10-12T22:00:00Z,4,0,3,2,20,Calgary Flames,/api/v1/teams/20,4,4,0,2,17,Detroit Red Wings,/api/v1/teams/17
+1997020065,/api/v1/game/1997020065/feed/live,R,19971998,1997-10-13T00:00:00Z,4,2,2,2,9,Ottawa Senators,/api/v1/teams/9,7,1,2,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020069,/api/v1/game/1997020069/feed/live,R,19971998,1997-10-13T21:00:00Z,0,2,3,1,22,Edmonton Oilers,/api/v1/teams/22,3,2,2,1,23,Vancouver Canucks,/api/v1/teams/23
+1997020066,/api/v1/game/1997020066/feed/live,R,19971998,1997-10-13T23:30:00Z,2,1,2,2,2,New York Islanders,/api/v1/teams/2,2,1,2,2,13,Florida Panthers,/api/v1/teams/13
+1997020067,/api/v1/game/1997020067/feed/live,R,19971998,1997-10-14T00:30:00Z,1,1,5,1,12,Carolina Hurricanes,/api/v1/teams/12,3,5,1,1,19,St. Louis Blues,/api/v1/teams/19
+1997020068,/api/v1/game/1997020068/feed/live,R,19971998,1997-10-14T02:00:00Z,1,0,5,0,16,Chicago Blackhawks,/api/v1/teams/16,2,3,2,0,27,Phoenix Coyotes,/api/v1/teams/27
+1997020070,/api/v1/game/1997020070/feed/live,R,19971998,1997-10-14T02:30:00Z,3,5,2,0,4,Philadelphia Flyers,/api/v1/teams/4,2,2,4,0,28,San Jose Sharks,/api/v1/teams/28
+1997020071,/api/v1/game/1997020071/feed/live,R,19971998,1997-10-14T02:30:00Z,3,3,3,0,6,Boston Bruins,/api/v1/teams/6,0,1,2,0,24,Anaheim Ducks,/api/v1/teams/24
+1997020073,/api/v1/game/1997020073/feed/live,R,19971998,1997-10-14T23:30:00Z,3,5,0,1,17,Detroit Red Wings,/api/v1/teams/17,2,1,4,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020072,/api/v1/game/1997020072/feed/live,R,19971998,1997-10-15T00:00:00Z,1,3,3,1,5,Pittsburgh Penguins,/api/v1/teams/5,0,1,1,1,3,New York Rangers,/api/v1/teams/3
+1997020074,/api/v1/game/1997020074/feed/live,R,19971998,1997-10-15T00:30:00Z,4,0,4,2,20,Calgary Flames,/api/v1/teams/20,5,3,2,2,25,Dallas Stars,/api/v1/teams/25
+1997020075,/api/v1/game/1997020075/feed/live,R,19971998,1997-10-15T23:30:00Z,3,2,3,2,7,Buffalo Sabres,/api/v1/teams/7,3,1,5,2,12,Carolina Hurricanes,/api/v1/teams/12
+1997020076,/api/v1/game/1997020076/feed/live,R,19971998,1997-10-15T23:30:00Z,1,1,2,4,3,New York Rangers,/api/v1/teams/3,5,3,2,4,9,Ottawa Senators,/api/v1/teams/9
+1997020077,/api/v1/game/1997020077/feed/live,R,19971998,1997-10-15T23:30:00Z,1,3,3,2,5,Pittsburgh Penguins,/api/v1/teams/5,1,2,1,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020078,/api/v1/game/1997020078/feed/live,R,19971998,1997-10-15T23:30:00Z,1,2,3,1,14,Tampa Bay Lightning,/api/v1/teams/14,2,2,2,1,13,Florida Panthers,/api/v1/teams/13
+1997020079,/api/v1/game/1997020079/feed/live,R,19971998,1997-10-15T23:30:00Z,4,2,4,1,10,Toronto Maple Leafs,/api/v1/teams/10,3,5,1,1,17,Detroit Red Wings,/api/v1/teams/17
+1997020080,/api/v1/game/1997020080/feed/live,R,19971998,1997-10-16T00:30:00Z,2,6,1,0,15,Washington Capitals,/api/v1/teams/15,0,0,6,0,16,Chicago Blackhawks,/api/v1/teams/16
+1997020081,/api/v1/game/1997020081/feed/live,R,19971998,1997-10-16T01:00:00Z,6,5,0,2,21,Colorado Avalanche,/api/v1/teams/21,2,2,4,2,22,Edmonton Oilers,/api/v1/teams/22
+1997020082,/api/v1/game/1997020082/feed/live,R,19971998,1997-10-16T02:30:00Z,5,4,3,0,6,Boston Bruins,/api/v1/teams/6,3,1,3,0,26,Los Angeles Kings,/api/v1/teams/26
+1997020083,/api/v1/game/1997020083/feed/live,R,19971998,1997-10-16T02:30:00Z,2,5,2,1,4,Philadelphia Flyers,/api/v1/teams/4,2,1,2,1,24,Anaheim Ducks,/api/v1/teams/24
+1997020084,/api/v1/game/1997020084/feed/live,R,19971998,1997-10-17T00:30:00Z,0,2,3,1,13,Florida Panthers,/api/v1/teams/13,4,4,2,1,25,Dallas Stars,/api/v1/teams/25
+1997020085,/api/v1/game/1997020085/feed/live,R,19971998,1997-10-17T02:30:00Z,5,2,2,2,2,New York Islanders,/api/v1/teams/2,2,2,5,2,28,San Jose Sharks,/api/v1/teams/28
+1997020086,/api/v1/game/1997020086/feed/live,R,19971998,1997-10-17T23:30:00Z,5,3,1,2,8,Montréal Canadiens,/api/v1/teams/8,1,2,4,2,7,Buffalo Sabres,/api/v1/teams/7
+1997020087,/api/v1/game/1997020087/feed/live,R,19971998,1997-10-17T23:30:00Z,2,3,3,0,1,New Jersey Devils,/api/v1/teams/1,4,4,2,0,9,Ottawa Senators,/api/v1/teams/9
+1997020088,/api/v1/game/1997020088/feed/live,R,19971998,1997-10-17T23:30:00Z,4,4,3,2,5,Pittsburgh Penguins,/api/v1/teams/5,1,2,4,2,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020089,/api/v1/game/1997020089/feed/live,R,19971998,1997-10-18T00:00:00Z,2,6,1,0,19,St. Louis Blues,/api/v1/teams/19,0,0,7,0,16,Chicago Blackhawks,/api/v1/teams/16
+1997020090,/api/v1/game/1997020090/feed/live,R,19971998,1997-10-18T01:00:00Z,5,5,1,2,21,Colorado Avalanche,/api/v1/teams/21,6,1,4,2,20,Calgary Flames,/api/v1/teams/20
+1997020091,/api/v1/game/1997020091/feed/live,R,19971998,1997-10-18T02:00:00Z,2,5,3,0,6,Boston Bruins,/api/v1/teams/6,0,2,3,0,23,Vancouver Canucks,/api/v1/teams/23
+1997020092,/api/v1/game/1997020092/feed/live,R,19971998,1997-10-18T02:30:00Z,1,5,3,1,4,Philadelphia Flyers,/api/v1/teams/4,5,2,3,1,26,Los Angeles Kings,/api/v1/teams/26
+1997020093,/api/v1/game/1997020093/feed/live,R,19971998,1997-10-18T02:30:00Z,1,2,5,1,22,Edmonton Oilers,/api/v1/teams/22,2,2,2,1,24,Anaheim Ducks,/api/v1/teams/24
+1997020097,/api/v1/game/1997020097/feed/live,R,19971998,1997-10-18T19:00:00Z,2,1,6,2,12,Carolina Hurricanes,/api/v1/teams/12,4,6,1,2,17,Detroit Red Wings,/api/v1/teams/17
+1997020094,/api/v1/game/1997020094/feed/live,R,19971998,1997-10-18T23:30:00Z,3,7,1,0,15,Washington Capitals,/api/v1/teams/15,2,3,2,0,8,Montréal Canadiens,/api/v1/teams/8
+1997020095,/api/v1/game/1997020095/feed/live,R,19971998,1997-10-18T23:30:00Z,0,2,5,1,14,Tampa Bay Lightning,/api/v1/teams/14,5,4,3,1,1,New Jersey Devils,/api/v1/teams/1
+1997020096,/api/v1/game/1997020096/feed/live,R,19971998,1997-10-18T23:30:00Z,5,5,2,1,25,Dallas Stars,/api/v1/teams/25,4,2,5,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020098,/api/v1/game/1997020098/feed/live,R,19971998,1997-10-19T00:30:00Z,3,1,3,4,3,New York Rangers,/api/v1/teams/3,5,7,1,4,19,St. Louis Blues,/api/v1/teams/19
+1997020099,/api/v1/game/1997020099/feed/live,R,19971998,1997-10-19T02:30:00Z,3,6,3,0,6,Boston Bruins,/api/v1/teams/6,0,1,5,0,20,Calgary Flames,/api/v1/teams/20
+1997020101,/api/v1/game/1997020101/feed/live,R,19971998,1997-10-19T17:00:00Z,4,5,3,2,5,Pittsburgh Penguins,/api/v1/teams/5,1,2,4,2,13,Florida Panthers,/api/v1/teams/13
+1997020102,/api/v1/game/1997020102/feed/live,R,19971998,1997-10-19T19:00:00Z,2,2,5,2,7,Buffalo Sabres,/api/v1/teams/7,5,1,7,2,16,Chicago Blackhawks,/api/v1/teams/16
+1997020104,/api/v1/game/1997020104/feed/live,R,19971998,1997-10-19T21:00:00Z,4,5,1,3,21,Colorado Avalanche,/api/v1/teams/21,4,2,3,3,23,Vancouver Canucks,/api/v1/teams/23
+1997020100,/api/v1/game/1997020100/feed/live,R,19971998,1997-10-19T23:30:00Z,1,5,3,1,25,Dallas Stars,/api/v1/teams/25,3,5,2,1,9,Ottawa Senators,/api/v1/teams/9
+1997020105,/api/v1/game/1997020105/feed/live,R,19971998,1997-10-20T00:00:00Z,3,3,5,1,22,Edmonton Oilers,/api/v1/teams/22,2,2,4,1,26,Los Angeles Kings,/api/v1/teams/26
+1997020106,/api/v1/game/1997020106/feed/live,R,19971998,1997-10-20T00:00:00Z,5,3,2,2,2,New York Islanders,/api/v1/teams/2,2,2,3,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020103,/api/v1/game/1997020103/feed/live,R,19971998,1997-10-20T02:00:00Z,3,2,6,0,28,San Jose Sharks,/api/v1/teams/28,5,4,2,0,27,Phoenix Coyotes,/api/v1/teams/27
+1997020107,/api/v1/game/1997020107/feed/live,R,19971998,1997-10-20T23:30:00Z,2,1,7,2,12,Carolina Hurricanes,/api/v1/teams/12,4,2,3,2,3,New York Rangers,/api/v1/teams/3
+1997020108,/api/v1/game/1997020108/feed/live,R,19971998,1997-10-20T23:30:00Z,3,7,1,1,19,St. Louis Blues,/api/v1/teams/19,3,6,1,1,17,Detroit Red Wings,/api/v1/teams/17
+1997020109,/api/v1/game/1997020109/feed/live,R,19971998,1997-10-21T23:30:00Z,1,2,6,1,14,Tampa Bay Lightning,/api/v1/teams/14,7,6,3,1,4,Philadelphia Flyers,/api/v1/teams/4
+1997020110,/api/v1/game/1997020110/feed/live,R,19971998,1997-10-22T00:30:00Z,5,3,3,2,23,Vancouver Canucks,/api/v1/teams/23,1,5,4,2,25,Dallas Stars,/api/v1/teams/25
+1997020112,/api/v1/game/1997020112/feed/live,R,19971998,1997-10-22T01:00:00Z,2,7,3,0,6,Boston Bruins,/api/v1/teams/6,1,3,6,0,22,Edmonton Oilers,/api/v1/teams/22
+1997020111,/api/v1/game/1997020111/feed/live,R,19971998,1997-10-22T02:00:00Z,4,3,3,2,24,Anaheim Ducks,/api/v1/teams/24,3,4,3,2,27,Phoenix Coyotes,/api/v1/teams/27
+1997020113,/api/v1/game/1997020113/feed/live,R,19971998,1997-10-22T02:30:00Z,2,3,3,2,2,New York Islanders,/api/v1/teams/2,3,3,4,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020115,/api/v1/game/1997020115/feed/live,R,19971998,1997-10-22T23:00:00Z,1,1,6,2,20,Calgary Flames,/api/v1/teams/20,4,3,5,2,7,Buffalo Sabres,/api/v1/teams/7
+1997020114,/api/v1/game/1997020114/feed/live,R,19971998,1997-10-22T23:30:00Z,3,7,2,1,19,St. Louis Blues,/api/v1/teams/19,4,2,7,1,12,Carolina Hurricanes,/api/v1/teams/12
+1997020116,/api/v1/game/1997020116/feed/live,R,19971998,1997-10-22T23:30:00Z,0,2,5,1,13,Florida Panthers,/api/v1/teams/13,3,4,2,1,8,Montréal Canadiens,/api/v1/teams/8
+1997020117,/api/v1/game/1997020117/feed/live,R,19971998,1997-10-22T23:30:00Z,1,2,7,0,16,Chicago Blackhawks,/api/v1/teams/16,0,2,4,0,3,New York Rangers,/api/v1/teams/3
+1997020118,/api/v1/game/1997020118/feed/live,R,19971998,1997-10-22T23:30:00Z,6,6,2,2,9,Ottawa Senators,/api/v1/teams/9,2,2,6,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020119,/api/v1/game/1997020119/feed/live,R,19971998,1997-10-23T01:00:00Z,3,7,2,0,15,Washington Capitals,/api/v1/teams/15,4,6,1,0,21,Colorado Avalanche,/api/v1/teams/21
+1997020120,/api/v1/game/1997020120/feed/live,R,19971998,1997-10-23T02:30:00Z,5,6,3,2,5,Pittsburgh Penguins,/api/v1/teams/5,2,2,7,2,28,San Jose Sharks,/api/v1/teams/28
+1997020121,/api/v1/game/1997020121/feed/live,R,19971998,1997-10-23T02:30:00Z,4,7,1,2,17,Detroit Red Wings,/api/v1/teams/17,1,3,4,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020122,/api/v1/game/1997020122/feed/live,R,19971998,1997-10-23T23:30:00Z,2,2,6,2,14,Tampa Bay Lightning,/api/v1/teams/14,2,7,3,2,6,Boston Bruins,/api/v1/teams/6
+1997020123,/api/v1/game/1997020123/feed/live,R,19971998,1997-10-23T23:30:00Z,2,2,5,2,13,Florida Panthers,/api/v1/teams/13,2,6,2,2,9,Ottawa Senators,/api/v1/teams/9
+1997020124,/api/v1/game/1997020124/feed/live,R,19971998,1997-10-23T23:30:00Z,1,4,3,2,8,Montréal Canadiens,/api/v1/teams/8,2,5,3,2,1,New Jersey Devils,/api/v1/teams/1
+1997020125,/api/v1/game/1997020125/feed/live,R,19971998,1997-10-23T23:30:00Z,3,1,7,2,20,Calgary Flames,/api/v1/teams/20,4,7,3,2,4,Philadelphia Flyers,/api/v1/teams/4
+1997020126,/api/v1/game/1997020126/feed/live,R,19971998,1997-10-24T00:30:00Z,1,3,4,2,23,Vancouver Canucks,/api/v1/teams/23,4,8,2,2,19,St. Louis Blues,/api/v1/teams/19
+1997020127,/api/v1/game/1997020127/feed/live,R,19971998,1997-10-24T02:00:00Z,3,7,2,1,15,Washington Capitals,/api/v1/teams/15,3,4,3,1,27,Phoenix Coyotes,/api/v1/teams/27
+1997020128,/api/v1/game/1997020128/feed/live,R,19971998,1997-10-24T02:30:00Z,4,8,1,2,17,Detroit Red Wings,/api/v1/teams/17,1,3,5,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020129,/api/v1/game/1997020129/feed/live,R,19971998,1997-10-24T23:30:00Z,3,2,7,2,14,Tampa Bay Lightning,/api/v1/teams/14,4,3,4,2,3,New York Rangers,/api/v1/teams/3
+1997020130,/api/v1/game/1997020130/feed/live,R,19971998,1997-10-25T00:00:00Z,2,6,4,1,25,Dallas Stars,/api/v1/teams/25,0,2,8,1,16,Chicago Blackhawks,/api/v1/teams/16
+1997020131,/api/v1/game/1997020131/feed/live,R,19971998,1997-10-25T01:00:00Z,3,2,7,3,12,Carolina Hurricanes,/api/v1/teams/12,3,6,1,3,21,Colorado Avalanche,/api/v1/teams/21
+1997020132,/api/v1/game/1997020132/feed/live,R,19971998,1997-10-25T01:00:00Z,3,6,4,2,5,Pittsburgh Penguins,/api/v1/teams/5,4,4,6,2,22,Edmonton Oilers,/api/v1/teams/22
+1997020135,/api/v1/game/1997020135/feed/live,R,19971998,1997-10-25T19:00:00Z,4,4,4,2,24,Anaheim Ducks,/api/v1/teams/24,2,3,4,2,2,New York Islanders,/api/v1/teams/2
+1997020133,/api/v1/game/1997020133/feed/live,R,19971998,1997-10-25T23:00:00Z,5,3,5,2,13,Florida Panthers,/api/v1/teams/13,4,7,4,2,6,Boston Bruins,/api/v1/teams/6
+1997020134,/api/v1/game/1997020134/feed/live,R,19971998,1997-10-25T23:30:00Z,4,5,3,2,8,Montréal Canadiens,/api/v1/teams/8,2,6,3,2,9,Ottawa Senators,/api/v1/teams/9
+1997020136,/api/v1/game/1997020136/feed/live,R,19971998,1997-10-25T23:30:00Z,4,3,7,0,28,San Jose Sharks,/api/v1/teams/28,3,5,4,0,1,New Jersey Devils,/api/v1/teams/1
+1997020137,/api/v1/game/1997020137/feed/live,R,19971998,1997-10-25T23:30:00Z,3,1,8,2,20,Calgary Flames,/api/v1/teams/20,4,3,6,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020139,/api/v1/game/1997020139/feed/live,R,19971998,1997-10-26T00:00:00Z,1,6,2,4,21,Colorado Avalanche,/api/v1/teams/21,3,7,4,4,25,Dallas Stars,/api/v1/teams/25
+1997020138,/api/v1/game/1997020138/feed/live,R,19971998,1997-10-26T00:30:00Z,2,7,3,1,15,Washington Capitals,/api/v1/teams/15,5,9,2,1,19,St. Louis Blues,/api/v1/teams/19
+1997020140,/api/v1/game/1997020140/feed/live,R,19971998,1997-10-26T02:30:00Z,3,7,4,2,5,Pittsburgh Penguins,/api/v1/teams/5,2,3,5,2,23,Vancouver Canucks,/api/v1/teams/23
+1997020141,/api/v1/game/1997020141/feed/live,R,19971998,1997-10-27T00:00:00Z,3,4,4,3,24,Anaheim Ducks,/api/v1/teams/24,3,3,4,3,3,New York Rangers,/api/v1/teams/3
+1997020142,/api/v1/game/1997020142/feed/live,R,19971998,1997-10-27T00:00:00Z,3,4,5,3,26,Los Angeles Kings,/api/v1/teams/26,1,2,8,3,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020145,/api/v1/game/1997020145/feed/live,R,19971998,1997-10-27T01:00:00Z,5,9,1,2,17,Detroit Red Wings,/api/v1/teams/17,1,3,6,2,23,Vancouver Canucks,/api/v1/teams/23
+1997020143,/api/v1/game/1997020143/feed/live,R,19971998,1997-10-27T01:00:00Z,3,3,7,3,12,Carolina Hurricanes,/api/v1/teams/12,2,2,9,3,16,Chicago Blackhawks,/api/v1/teams/16
+1997020144,/api/v1/game/1997020144/feed/live,R,19971998,1997-10-27T02:00:00Z,1,3,6,2,7,Buffalo Sabres,/api/v1/teams/7,6,5,3,2,27,Phoenix Coyotes,/api/v1/teams/27
+1997020146,/api/v1/game/1997020146/feed/live,R,19971998,1997-10-28T00:30:00Z,2,2,10,0,16,Chicago Blackhawks,/api/v1/teams/16,4,6,3,0,8,Montréal Canadiens,/api/v1/teams/8
+1997020147,/api/v1/game/1997020147/feed/live,R,19971998,1997-10-28T00:30:00Z,2,4,7,0,28,San Jose Sharks,/api/v1/teams/28,1,3,5,0,2,New York Islanders,/api/v1/teams/2
+1997020148,/api/v1/game/1997020148/feed/live,R,19971998,1997-10-28T00:30:00Z,5,6,4,0,1,New Jersey Devils,/api/v1/teams/1,0,7,4,0,4,Philadelphia Flyers,/api/v1/teams/4
+1997020149,/api/v1/game/1997020149/feed/live,R,19971998,1997-10-29T00:30:00Z,3,8,4,1,25,Dallas Stars,/api/v1/teams/25,2,3,5,1,3,New York Rangers,/api/v1/teams/3
+1997020150,/api/v1/game/1997020150/feed/live,R,19971998,1997-10-29T00:30:00Z,2,4,5,4,26,Los Angeles Kings,/api/v1/teams/26,2,3,5,4,13,Florida Panthers,/api/v1/teams/13
+1997020151,/api/v1/game/1997020151/feed/live,R,19971998,1997-10-29T00:30:00Z,2,4,4,4,24,Anaheim Ducks,/api/v1/teams/24,2,3,6,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020152,/api/v1/game/1997020152/feed/live,R,19971998,1997-10-29T01:00:00Z,2,3,7,2,7,Buffalo Sabres,/api/v1/teams/7,3,7,2,2,21,Colorado Avalanche,/api/v1/teams/21
+1997020153,/api/v1/game/1997020153/feed/live,R,19971998,1997-10-29T02:00:00Z,3,7,5,2,5,Pittsburgh Penguins,/api/v1/teams/5,6,2,8,2,20,Calgary Flames,/api/v1/teams/20
+1997020154,/api/v1/game/1997020154/feed/live,R,19971998,1997-10-30T00:30:00Z,5,4,5,2,2,New York Islanders,/api/v1/teams/2,2,6,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020155,/api/v1/game/1997020155/feed/live,R,19971998,1997-10-30T00:30:00Z,3,10,2,1,19,St. Louis Blues,/api/v1/teams/19,2,7,5,1,4,Philadelphia Flyers,/api/v1/teams/4
+1997020156,/api/v1/game/1997020156/feed/live,R,19971998,1997-10-30T00:30:00Z,4,9,4,1,25,Dallas Stars,/api/v1/teams/25,3,7,4,1,15,Washington Capitals,/api/v1/teams/15
+1997020157,/api/v1/game/1997020157/feed/live,R,19971998,1997-10-30T00:30:00Z,5,7,3,3,9,Ottawa Senators,/api/v1/teams/9,2,2,9,3,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020158,/api/v1/game/1997020158/feed/live,R,19971998,1997-10-30T00:30:00Z,3,4,8,0,28,San Jose Sharks,/api/v1/teams/28,4,10,1,0,17,Detroit Red Wings,/api/v1/teams/17
+1997020159,/api/v1/game/1997020159/feed/live,R,19971998,1997-10-30T01:30:00Z,0,3,7,2,23,Vancouver Canucks,/api/v1/teams/23,3,3,10,2,16,Chicago Blackhawks,/api/v1/teams/16
+1997020160,/api/v1/game/1997020160/feed/live,R,19971998,1997-10-30T02:00:00Z,2,5,4,2,27,Phoenix Coyotes,/api/v1/teams/27,3,5,6,2,22,Edmonton Oilers,/api/v1/teams/22
+1997020161,/api/v1/game/1997020161/feed/live,R,19971998,1997-10-31T00:30:00Z,3,5,4,4,24,Anaheim Ducks,/api/v1/teams/24,0,7,5,4,6,Boston Bruins,/api/v1/teams/6
+1997020162,/api/v1/game/1997020162/feed/live,R,19971998,1997-10-31T00:30:00Z,3,3,6,5,3,New York Rangers,/api/v1/teams/3,5,5,5,5,2,New York Islanders,/api/v1/teams/2
+1997020163,/api/v1/game/1997020163/feed/live,R,19971998,1997-10-31T00:30:00Z,1,3,8,2,23,Vancouver Canucks,/api/v1/teams/23,8,7,4,2,1,New Jersey Devils,/api/v1/teams/1
+1997020164,/api/v1/game/1997020164/feed/live,R,19971998,1997-10-31T00:30:00Z,5,8,3,3,9,Ottawa Senators,/api/v1/teams/9,2,3,6,3,13,Florida Panthers,/api/v1/teams/13
+1997020165,/api/v1/game/1997020165/feed/live,R,19971998,1997-10-31T01:30:00Z,2,7,2,5,21,Colorado Avalanche,/api/v1/teams/21,2,10,2,5,19,St. Louis Blues,/api/v1/teams/19
+1997020166,/api/v1/game/1997020166/feed/live,R,19971998,1997-10-31T02:00:00Z,2,5,5,2,27,Phoenix Coyotes,/api/v1/teams/27,4,3,8,2,20,Calgary Flames,/api/v1/teams/20
+1997020167,/api/v1/game/1997020167/feed/live,R,19971998,1997-11-01T00:30:00Z,3,4,7,2,7,Buffalo Sabres,/api/v1/teams/7,2,3,8,2,12,Carolina Hurricanes,/api/v1/teams/12
+1997020168,/api/v1/game/1997020168/feed/live,R,19971998,1997-11-01T00:30:00Z,2,7,5,2,4,Philadelphia Flyers,/api/v1/teams/4,2,7,4,2,15,Washington Capitals,/api/v1/teams/15
+1997020169,/api/v1/game/1997020169/feed/live,R,19971998,1997-11-01T00:30:00Z,5,5,5,4,26,Los Angeles Kings,/api/v1/teams/26,1,10,2,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020170,/api/v1/game/1997020170/feed/live,R,19971998,1997-11-01T01:30:00Z,3,4,9,0,28,San Jose Sharks,/api/v1/teams/28,5,4,10,0,16,Chicago Blackhawks,/api/v1/teams/16
+1997020171,/api/v1/game/1997020171/feed/live,R,19971998,1997-11-02T00:00:00Z,1,5,7,1,22,Edmonton Oilers,/api/v1/teams/22,3,8,5,1,6,Boston Bruins,/api/v1/teams/6
+1997020172,/api/v1/game/1997020172/feed/live,R,19971998,1997-11-02T00:00:00Z,6,3,9,2,23,Vancouver Canucks,/api/v1/teams/23,7,8,5,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020174,/api/v1/game/1997020174/feed/live,R,19971998,1997-11-02T00:00:00Z,2,5,6,4,26,Los Angeles Kings,/api/v1/teams/26,4,6,5,4,2,New York Islanders,/api/v1/teams/2
+1997020173,/api/v1/game/1997020173/feed/live,R,19971998,1997-11-02T00:30:00Z,1,3,7,2,10,Toronto Maple Leafs,/api/v1/teams/10,5,7,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020175,/api/v1/game/1997020175/feed/live,R,19971998,1997-11-02T00:30:00Z,1,7,5,2,15,Washington Capitals,/api/v1/teams/15,3,8,4,2,1,New Jersey Devils,/api/v1/teams/1
+1997020176,/api/v1/game/1997020176/feed/live,R,19971998,1997-11-02T00:30:00Z,4,5,7,2,7,Buffalo Sabres,/api/v1/teams/7,3,3,7,2,13,Florida Panthers,/api/v1/teams/13
+1997020177,/api/v1/game/1997020177/feed/live,R,19971998,1997-11-02T01:30:00Z,0,4,10,0,28,San Jose Sharks,/api/v1/teams/28,2,11,2,0,19,St. Louis Blues,/api/v1/teams/19
+1997020178,/api/v1/game/1997020178/feed/live,R,19971998,1997-11-02T03:30:00Z,3,3,8,3,20,Calgary Flames,/api/v1/teams/20,3,7,2,3,21,Colorado Avalanche,/api/v1/teams/21
+1997020180,/api/v1/game/1997020180/feed/live,R,19971998,1997-11-02T18:00:00Z,3,9,4,2,25,Dallas Stars,/api/v1/teams/25,3,7,5,2,4,Philadelphia Flyers,/api/v1/teams/4
+1997020181,/api/v1/game/1997020181/feed/live,R,19971998,1997-11-02T20:00:00Z,3,5,5,4,24,Anaheim Ducks,/api/v1/teams/24,4,11,2,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020179,/api/v1/game/1997020179/feed/live,R,19971998,1997-11-03T00:30:00Z,3,9,5,1,6,Boston Bruins,/api/v1/teams/6,1,8,4,1,9,Ottawa Senators,/api/v1/teams/9
+1997020182,/api/v1/game/1997020182/feed/live,R,19971998,1997-11-03T01:00:00Z,1,8,6,2,5,Pittsburgh Penguins,/api/v1/teams/5,3,5,10,2,16,Chicago Blackhawks,/api/v1/teams/16
+1997020183,/api/v1/game/1997020183/feed/live,R,19971998,1997-11-03T02:00:00Z,1,3,9,3,20,Calgary Flames,/api/v1/teams/20,3,6,5,3,27,Phoenix Coyotes,/api/v1/teams/27
+1997020184,/api/v1/game/1997020184/feed/live,R,19971998,1997-11-04T00:30:00Z,3,3,10,2,23,Vancouver Canucks,/api/v1/teams/23,5,4,8,2,12,Carolina Hurricanes,/api/v1/teams/12
+1997020185,/api/v1/game/1997020185/feed/live,R,19971998,1997-11-04T00:30:00Z,4,9,5,2,25,Dallas Stars,/api/v1/teams/25,6,8,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020186,/api/v1/game/1997020186/feed/live,R,19971998,1997-11-04T00:30:00Z,2,5,7,2,22,Edmonton Oilers,/api/v1/teams/22,2,3,6,2,3,New York Rangers,/api/v1/teams/3
+1997020187,/api/v1/game/1997020187/feed/live,R,19971998,1997-11-04T01:30:00Z,5,8,5,3,4,Philadelphia Flyers,/api/v1/teams/4,1,11,3,3,19,St. Louis Blues,/api/v1/teams/19
+1997020188,/api/v1/game/1997020188/feed/live,R,19971998,1997-11-05T00:30:00Z,3,6,6,4,26,Los Angeles Kings,/api/v1/teams/26,0,8,5,4,1,New Jersey Devils,/api/v1/teams/1
+1997020189,/api/v1/game/1997020189/feed/live,R,19971998,1997-11-05T00:30:00Z,1,3,11,2,23,Vancouver Canucks,/api/v1/teams/23,2,8,5,2,15,Washington Capitals,/api/v1/teams/15
+1997020190,/api/v1/game/1997020190/feed/live,R,19971998,1997-11-05T03:30:00Z,0,3,7,3,10,Toronto Maple Leafs,/api/v1/teams/10,0,4,10,3,28,San Jose Sharks,/api/v1/teams/28
+1997020192,/api/v1/game/1997020192/feed/live,R,19971998,1997-11-06T00:00:00Z,5,10,5,2,25,Dallas Stars,/api/v1/teams/25,2,8,7,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020191,/api/v1/game/1997020191/feed/live,R,19971998,1997-11-06T00:30:00Z,1,11,3,2,17,Detroit Red Wings,/api/v1/teams/17,3,5,8,2,12,Carolina Hurricanes,/api/v1/teams/12
+1997020193,/api/v1/game/1997020193/feed/live,R,19971998,1997-11-06T00:30:00Z,2,6,6,2,27,Phoenix Coyotes,/api/v1/teams/27,4,9,4,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020194,/api/v1/game/1997020194/feed/live,R,19971998,1997-11-06T00:30:00Z,4,5,7,3,22,Edmonton Oilers,/api/v1/teams/22,4,6,5,3,2,New York Islanders,/api/v1/teams/2
+1997020195,/api/v1/game/1997020195/feed/live,R,19971998,1997-11-06T00:30:00Z,4,9,5,0,1,New Jersey Devils,/api/v1/teams/1,2,3,8,0,13,Florida Panthers,/api/v1/teams/13
+1997020196,/api/v1/game/1997020196/feed/live,R,19971998,1997-11-06T02:00:00Z,4,4,6,6,3,New York Rangers,/api/v1/teams/3,2,7,3,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020197,/api/v1/game/1997020197/feed/live,R,19971998,1997-11-06T02:00:00Z,4,4,7,3,10,Toronto Maple Leafs,/api/v1/teams/10,3,3,10,3,20,Calgary Flames,/api/v1/teams/20
+1997020198,/api/v1/game/1997020198/feed/live,R,19971998,1997-11-06T03:30:00Z,2,2,10,2,14,Tampa Bay Lightning,/api/v1/teams/14,5,6,5,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020200,/api/v1/game/1997020200/feed/live,R,19971998,1997-11-07T00:00:00Z,4,4,8,3,13,Florida Panthers,/api/v1/teams/13,2,5,8,3,7,Buffalo Sabres,/api/v1/teams/7
+1997020199,/api/v1/game/1997020199/feed/live,R,19971998,1997-11-07T00:30:00Z,0,8,6,2,15,Washington Capitals,/api/v1/teams/15,2,10,5,2,6,Boston Bruins,/api/v1/teams/6
+1997020201,/api/v1/game/1997020201/feed/live,R,19971998,1997-11-07T00:30:00Z,1,6,7,2,27,Phoenix Coyotes,/api/v1/teams/27,4,9,4,2,9,Ottawa Senators,/api/v1/teams/9
+1997020202,/api/v1/game/1997020202/feed/live,R,19971998,1997-11-07T00:30:00Z,2,5,8,3,22,Edmonton Oilers,/api/v1/teams/22,6,9,5,3,4,Philadelphia Flyers,/api/v1/teams/4
+1997020203,/api/v1/game/1997020203/feed/live,R,19971998,1997-11-07T01:30:00Z,1,11,4,2,19,St. Louis Blues,/api/v1/teams/19,2,6,10,2,16,Chicago Blackhawks,/api/v1/teams/16
+1997020204,/api/v1/game/1997020204/feed/live,R,19971998,1997-11-07T03:30:00Z,2,2,11,2,14,Tampa Bay Lightning,/api/v1/teams/14,5,7,6,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020205,/api/v1/game/1997020205/feed/live,R,19971998,1997-11-08T00:30:00Z,3,7,5,3,2,New York Islanders,/api/v1/teams/2,2,5,9,3,12,Carolina Hurricanes,/api/v1/teams/12
+1997020206,/api/v1/game/1997020206/feed/live,R,19971998,1997-11-08T00:30:00Z,1,8,7,3,5,Pittsburgh Penguins,/api/v1/teams/5,1,11,3,3,17,Detroit Red Wings,/api/v1/teams/17
+1997020207,/api/v1/game/1997020207/feed/live,R,19971998,1997-11-08T01:30:00Z,2,4,6,7,3,New York Rangers,/api/v1/teams/3,2,10,5,7,25,Dallas Stars,/api/v1/teams/25
+1997020208,/api/v1/game/1997020208/feed/live,R,19971998,1997-11-08T02:00:00Z,4,7,5,4,24,Anaheim Ducks,/api/v1/teams/24,3,3,11,4,20,Calgary Flames,/api/v1/teams/20
+1997020209,/api/v1/game/1997020209/feed/live,R,19971998,1997-11-08T03:30:00Z,4,10,4,2,8,Montréal Canadiens,/api/v1/teams/8,3,4,11,2,28,San Jose Sharks,/api/v1/teams/28
+1997020216,/api/v1/game/1997020216/feed/live,R,19971998,1997-11-08T20:00:00Z,1,11,5,2,19,St. Louis Blues,/api/v1/teams/19,4,8,3,2,21,Colorado Avalanche,/api/v1/teams/21
+1997020210,/api/v1/game/1997020210/feed/live,R,19971998,1997-11-09T00:00:00Z,2,5,8,3,7,Buffalo Sabres,/api/v1/teams/7,2,8,7,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020212,/api/v1/game/1997020212/feed/live,R,19971998,1997-11-09T00:00:00Z,4,7,10,0,16,Chicago Blackhawks,/api/v1/teams/16,2,7,6,0,2,New York Islanders,/api/v1/teams/2
+1997020214,/api/v1/game/1997020214/feed/live,R,19971998,1997-11-09T00:00:00Z,1,5,9,3,22,Edmonton Oilers,/api/v1/teams/22,2,9,6,3,15,Washington Capitals,/api/v1/teams/15
+1997020211,/api/v1/game/1997020211/feed/live,R,19971998,1997-11-09T00:30:00Z,4,10,5,3,4,Philadelphia Flyers,/api/v1/teams/4,3,9,5,3,9,Ottawa Senators,/api/v1/teams/9
+1997020213,/api/v1/game/1997020213/feed/live,R,19971998,1997-11-09T00:30:00Z,0,10,6,1,6,Boston Bruins,/api/v1/teams/6,2,10,5,1,1,New Jersey Devils,/api/v1/teams/1
+1997020215,/api/v1/game/1997020215/feed/live,R,19971998,1997-11-09T00:30:00Z,3,7,7,2,27,Phoenix Coyotes,/api/v1/teams/27,0,4,8,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020217,/api/v1/game/1997020217/feed/live,R,19971998,1997-11-09T03:30:00Z,3,8,5,4,24,Anaheim Ducks,/api/v1/teams/24,2,3,12,4,23,Vancouver Canucks,/api/v1/teams/23
+1997020218,/api/v1/game/1997020218/feed/live,R,19971998,1997-11-09T03:30:00Z,1,2,12,2,14,Tampa Bay Lightning,/api/v1/teams/14,3,5,11,2,28,San Jose Sharks,/api/v1/teams/28
+1997020219,/api/v1/game/1997020219/feed/live,R,19971998,1997-11-09T03:30:00Z,4,11,4,2,8,Montréal Canadiens,/api/v1/teams/8,1,7,7,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020221,/api/v1/game/1997020221/feed/live,R,19971998,1997-11-09T23:00:00Z,2,9,7,2,15,Washington Capitals,/api/v1/teams/15,3,5,8,2,13,Florida Panthers,/api/v1/teams/13
+1997020222,/api/v1/game/1997020222/feed/live,R,19971998,1997-11-09T23:00:00Z,3,3,12,3,20,Calgary Flames,/api/v1/teams/20,6,12,3,3,17,Detroit Red Wings,/api/v1/teams/17
+1997020220,/api/v1/game/1997020220/feed/live,R,19971998,1997-11-10T00:00:00Z,1,9,6,3,9,Ottawa Senators,/api/v1/teams/9,4,6,9,3,12,Carolina Hurricanes,/api/v1/teams/12
+1997020223,/api/v1/game/1997020223/feed/live,R,19971998,1997-11-10T22:00:00Z,4,5,9,4,22,Edmonton Oilers,/api/v1/teams/22,4,5,8,4,7,Buffalo Sabres,/api/v1/teams/7
+1997020224,/api/v1/game/1997020224/feed/live,R,19971998,1997-11-11T00:30:00Z,3,11,5,0,1,New Jersey Devils,/api/v1/teams/1,1,7,7,0,2,New York Islanders,/api/v1/teams/2
+1997020225,/api/v1/game/1997020225/feed/live,R,19971998,1997-11-11T01:30:00Z,1,3,12,4,20,Calgary Flames,/api/v1/teams/20,1,7,10,4,16,Chicago Blackhawks,/api/v1/teams/16
+1997020226,/api/v1/game/1997020226/feed/live,R,19971998,1997-11-11T01:30:00Z,7,12,5,2,19,St. Louis Blues,/api/v1/teams/19,1,10,6,2,25,Dallas Stars,/api/v1/teams/25
+1997020227,/api/v1/game/1997020227/feed/live,R,19971998,1997-11-11T03:30:00Z,6,6,11,1,28,San Jose Sharks,/api/v1/teams/28,4,8,6,1,24,Anaheim Ducks,/api/v1/teams/24
+1997020228,/api/v1/game/1997020228/feed/live,R,19971998,1997-11-12T00:30:00Z,0,9,7,3,9,Ottawa Senators,/api/v1/teams/9,1,11,5,3,4,Philadelphia Flyers,/api/v1/teams/4
+1997020229,/api/v1/game/1997020229/feed/live,R,19971998,1997-11-12T00:30:00Z,2,7,11,1,16,Chicago Blackhawks,/api/v1/teams/16,5,5,8,1,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020230,/api/v1/game/1997020230/feed/live,R,19971998,1997-11-12T00:30:00Z,2,9,3,6,21,Colorado Avalanche,/api/v1/teams/21,0,12,4,6,17,Detroit Red Wings,/api/v1/teams/17
+1997020231,/api/v1/game/1997020231/feed/live,R,19971998,1997-11-12T02:00:00Z,2,2,13,2,14,Tampa Bay Lightning,/api/v1/teams/14,5,8,7,2,27,Phoenix Coyotes,/api/v1/teams/27
+1997020232,/api/v1/game/1997020232/feed/live,R,19971998,1997-11-12T03:30:00Z,2,3,13,2,23,Vancouver Canucks,/api/v1/teams/23,8,8,7,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020233,/api/v1/game/1997020233/feed/live,R,19971998,1997-11-13T00:00:00Z,4,10,7,2,15,Washington Capitals,/api/v1/teams/15,1,8,8,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020234,/api/v1/game/1997020234/feed/live,R,19971998,1997-11-13T00:30:00Z,3,12,5,0,1,New Jersey Devils,/api/v1/teams/1,2,4,7,0,3,New York Rangers,/api/v1/teams/3
+1997020235,/api/v1/game/1997020235/feed/live,R,19971998,1997-11-13T00:30:00Z,2,7,7,4,2,New York Islanders,/api/v1/teams/2,2,5,8,4,13,Florida Panthers,/api/v1/teams/13
+1997020236,/api/v1/game/1997020236/feed/live,R,19971998,1997-11-13T01:30:00Z,3,10,6,2,6,Boston Bruins,/api/v1/teams/6,3,10,6,2,25,Dallas Stars,/api/v1/teams/25
+1997020237,/api/v1/game/1997020237/feed/live,R,19971998,1997-11-13T02:00:00Z,6,7,9,3,12,Carolina Hurricanes,/api/v1/teams/12,4,5,10,3,22,Edmonton Oilers,/api/v1/teams/22
+1997020238,/api/v1/game/1997020238/feed/live,R,19971998,1997-11-13T03:30:00Z,5,4,13,2,23,Vancouver Canucks,/api/v1/teams/23,2,6,12,2,28,San Jose Sharks,/api/v1/teams/28
+1997020239,/api/v1/game/1997020239/feed/live,R,19971998,1997-11-13T03:30:00Z,4,12,4,2,8,Montréal Canadiens,/api/v1/teams/8,3,8,7,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020240,/api/v1/game/1997020240/feed/live,R,19971998,1997-11-14T00:00:00Z,3,11,7,2,15,Washington Capitals,/api/v1/teams/15,2,5,9,2,7,Buffalo Sabres,/api/v1/teams/7
+1997020241,/api/v1/game/1997020241/feed/live,R,19971998,1997-11-14T00:30:00Z,4,13,4,3,17,Detroit Red Wings,/api/v1/teams/17,2,9,8,3,9,Ottawa Senators,/api/v1/teams/9
+1997020242,/api/v1/game/1997020242/feed/live,R,19971998,1997-11-14T00:30:00Z,2,10,3,6,21,Colorado Avalanche,/api/v1/teams/21,1,11,6,6,4,Philadelphia Flyers,/api/v1/teams/4
+1997020243,/api/v1/game/1997020243/feed/live,R,19971998,1997-11-14T01:30:00Z,2,6,8,3,10,Toronto Maple Leafs,/api/v1/teams/10,1,7,12,3,16,Chicago Blackhawks,/api/v1/teams/16
+1997020244,/api/v1/game/1997020244/feed/live,R,19971998,1997-11-14T01:30:00Z,2,10,7,2,6,Boston Bruins,/api/v1/teams/6,4,13,5,2,19,St. Louis Blues,/api/v1/teams/19
+1997020245,/api/v1/game/1997020245/feed/live,R,19971998,1997-11-14T02:00:00Z,5,13,4,2,8,Montréal Canadiens,/api/v1/teams/8,2,8,8,2,27,Phoenix Coyotes,/api/v1/teams/27
+1997020246,/api/v1/game/1997020246/feed/live,R,19971998,1997-11-14T02:00:00Z,4,8,9,3,12,Carolina Hurricanes,/api/v1/teams/12,2,3,13,3,20,Calgary Flames,/api/v1/teams/20
+1997020247,/api/v1/game/1997020247/feed/live,R,19971998,1997-11-14T03:30:00Z,3,6,13,1,28,San Jose Sharks,/api/v1/teams/28,6,9,7,1,26,Los Angeles Kings,/api/v1/teams/26
+1997020248,/api/v1/game/1997020248/feed/live,R,19971998,1997-11-15T00:30:00Z,1,8,9,4,5,Pittsburgh Penguins,/api/v1/teams/5,3,5,7,4,3,New York Rangers,/api/v1/teams/3
+1997020249,/api/v1/game/1997020249/feed/live,R,19971998,1997-11-15T00:30:00Z,1,10,4,6,21,Colorado Avalanche,/api/v1/teams/21,4,13,5,6,1,New Jersey Devils,/api/v1/teams/1
+1997020250,/api/v1/game/1997020250/feed/live,R,19971998,1997-11-15T00:30:00Z,4,8,7,4,2,New York Islanders,/api/v1/teams/2,1,2,14,4,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020251,/api/v1/game/1997020251/feed/live,R,19971998,1997-11-15T00:30:00Z,5,12,6,3,4,Philadelphia Flyers,/api/v1/teams/4,2,5,9,3,13,Florida Panthers,/api/v1/teams/13
+1997020252,/api/v1/game/1997020252/feed/live,R,19971998,1997-11-15T03:30:00Z,3,4,13,3,23,Vancouver Canucks,/api/v1/teams/23,3,8,7,3,24,Anaheim Ducks,/api/v1/teams/24
+1997020253,/api/v1/game/1997020253/feed/live,R,19971998,1997-11-16T00:00:00Z,3,9,8,4,9,Ottawa Senators,/api/v1/teams/9,3,10,7,4,6,Boston Bruins,/api/v1/teams/6
+1997020256,/api/v1/game/1997020256/feed/live,R,19971998,1997-11-16T00:00:00Z,1,6,9,4,13,Florida Panthers,/api/v1/teams/13,0,8,8,4,2,New York Islanders,/api/v1/teams/2
+1997020254,/api/v1/game/1997020254/feed/live,R,19971998,1997-11-16T00:30:00Z,3,14,5,0,1,New Jersey Devils,/api/v1/teams/1,2,5,10,0,7,Buffalo Sabres,/api/v1/teams/7
+1997020255,/api/v1/game/1997020255/feed/live,R,19971998,1997-11-16T00:30:00Z,3,12,7,2,15,Washington Capitals,/api/v1/teams/15,2,13,5,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020257,/api/v1/game/1997020257/feed/live,R,19971998,1997-11-16T00:30:00Z,5,9,9,4,5,Pittsburgh Penguins,/api/v1/teams/5,0,6,9,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020258,/api/v1/game/1997020258/feed/live,R,19971998,1997-11-16T01:30:00Z,2,13,5,3,17,Detroit Red Wings,/api/v1/teams/17,5,14,5,3,19,St. Louis Blues,/api/v1/teams/19
+1997020260,/api/v1/game/1997020260/feed/live,R,19971998,1997-11-16T03:30:00Z,3,9,8,2,27,Phoenix Coyotes,/api/v1/teams/27,2,6,14,2,28,San Jose Sharks,/api/v1/teams/28
+1997020261,/api/v1/game/1997020261/feed/live,R,19971998,1997-11-16T03:30:00Z,5,11,6,4,25,Dallas Stars,/api/v1/teams/25,1,9,8,4,26,Los Angeles Kings,/api/v1/teams/26
+1997020259,/api/v1/game/1997020259/feed/live,R,19971998,1997-11-16T03:30:00Z,2,3,13,5,20,Calgary Flames,/api/v1/teams/20,2,5,10,5,22,Edmonton Oilers,/api/v1/teams/22
+1997020262,/api/v1/game/1997020262/feed/live,R,19971998,1997-11-16T18:30:00Z,1,10,5,6,21,Colorado Avalanche,/api/v1/teams/21,4,6,7,6,3,New York Rangers,/api/v1/teams/3
+1997020265,/api/v1/game/1997020265/feed/live,R,19971998,1997-11-16T22:00:00Z,1,8,10,3,12,Carolina Hurricanes,/api/v1/teams/12,4,5,13,3,23,Vancouver Canucks,/api/v1/teams/23
+1997020263,/api/v1/game/1997020263/feed/live,R,19971998,1997-11-17T00:00:00Z,2,2,15,2,14,Tampa Bay Lightning,/api/v1/teams/14,3,13,6,2,4,Philadelphia Flyers,/api/v1/teams/4
+1997020266,/api/v1/game/1997020266/feed/live,R,19971998,1997-11-17T01:00:00Z,4,12,6,4,25,Dallas Stars,/api/v1/teams/25,0,8,8,4,24,Anaheim Ducks,/api/v1/teams/24
+1997020264,/api/v1/game/1997020264/feed/live,R,19971998,1997-11-17T01:00:00Z,3,13,5,4,17,Detroit Red Wings,/api/v1/teams/17,3,7,12,4,16,Chicago Blackhawks,/api/v1/teams/16
+1997020267,/api/v1/game/1997020267/feed/live,R,19971998,1997-11-18T00:30:00Z,4,11,7,3,6,Boston Bruins,/api/v1/teams/6,2,9,9,3,9,Ottawa Senators,/api/v1/teams/9
+1997020268,/api/v1/game/1997020268/feed/live,R,19971998,1997-11-18T00:30:00Z,1,2,16,2,14,Tampa Bay Lightning,/api/v1/teams/14,4,14,5,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020269,/api/v1/game/1997020269/feed/live,R,19971998,1997-11-18T00:30:00Z,3,15,5,2,19,St. Louis Blues,/api/v1/teams/19,2,6,10,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020270,/api/v1/game/1997020270/feed/live,R,19971998,1997-11-18T02:00:00Z,3,5,11,5,22,Edmonton Oilers,/api/v1/teams/22,6,10,8,5,27,Phoenix Coyotes,/api/v1/teams/27
+1997020271,/api/v1/game/1997020271/feed/live,R,19971998,1997-11-19T00:30:00Z,1,3,14,5,20,Calgary Flames,/api/v1/teams/20,2,15,5,5,1,New Jersey Devils,/api/v1/teams/1
+1997020272,/api/v1/game/1997020272/feed/live,R,19971998,1997-11-19T00:30:00Z,6,10,5,7,21,Colorado Avalanche,/api/v1/teams/21,6,12,7,7,15,Washington Capitals,/api/v1/teams/15
+1997020273,/api/v1/game/1997020273/feed/live,R,19971998,1997-11-19T00:30:00Z,3,7,7,7,3,New York Rangers,/api/v1/teams/3,1,6,10,7,13,Florida Panthers,/api/v1/teams/13
+1997020274,/api/v1/game/1997020274/feed/live,R,19971998,1997-11-19T03:30:00Z,2,8,9,5,24,Anaheim Ducks,/api/v1/teams/24,4,7,14,5,28,San Jose Sharks,/api/v1/teams/28
+1997020276,/api/v1/game/1997020276/feed/live,R,19971998,1997-11-20T00:00:00Z,3,11,7,4,6,Boston Bruins,/api/v1/teams/6,3,9,9,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020275,/api/v1/game/1997020275/feed/live,R,19971998,1997-11-20T00:30:00Z,1,14,6,2,8,Montréal Canadiens,/api/v1/teams/8,2,9,10,2,12,Carolina Hurricanes,/api/v1/teams/12
+1997020277,/api/v1/game/1997020277/feed/live,R,19971998,1997-11-20T00:30:00Z,3,7,8,7,3,New York Rangers,/api/v1/teams/3,6,3,16,7,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020278,/api/v1/game/1997020278/feed/live,R,19971998,1997-11-20T00:30:00Z,1,13,7,3,4,Philadelphia Flyers,/api/v1/teams/4,3,7,10,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020279,/api/v1/game/1997020279/feed/live,R,19971998,1997-11-20T00:30:00Z,3,9,8,4,2,New York Islanders,/api/v1/teams/2,2,13,6,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020280,/api/v1/game/1997020280/feed/live,R,19971998,1997-11-20T01:30:00Z,2,5,12,5,22,Edmonton Oilers,/api/v1/teams/22,3,13,6,5,25,Dallas Stars,/api/v1/teams/25
+1997020281,/api/v1/game/1997020281/feed/live,R,19971998,1997-11-20T03:30:00Z,4,8,12,2,16,Chicago Blackhawks,/api/v1/teams/16,0,8,10,2,24,Anaheim Ducks,/api/v1/teams/24
+1997020282,/api/v1/game/1997020282/feed/live,R,19971998,1997-11-21T00:30:00Z,5,6,10,4,7,Buffalo Sabres,/api/v1/teams/7,0,11,8,4,6,Boston Bruins,/api/v1/teams/6
+1997020283,/api/v1/game/1997020283/feed/live,R,19971998,1997-11-21T00:30:00Z,2,10,9,5,5,Pittsburgh Penguins,/api/v1/teams/5,0,9,10,5,9,Ottawa Senators,/api/v1/teams/9
+1997020284,/api/v1/game/1997020284/feed/live,R,19971998,1997-11-21T00:30:00Z,1,9,9,4,2,New York Islanders,/api/v1/teams/2,5,16,5,4,1,New Jersey Devils,/api/v1/teams/1
+1997020285,/api/v1/game/1997020285/feed/live,R,19971998,1997-11-21T00:30:00Z,3,8,14,1,28,San Jose Sharks,/api/v1/teams/28,0,13,8,1,4,Philadelphia Flyers,/api/v1/teams/4
+1997020286,/api/v1/game/1997020286/feed/live,R,19971998,1997-11-21T00:30:00Z,2,4,14,5,20,Calgary Flames,/api/v1/teams/20,1,6,11,5,13,Florida Panthers,/api/v1/teams/13
+1997020287,/api/v1/game/1997020287/feed/live,R,19971998,1997-11-21T01:30:00Z,3,6,12,5,22,Edmonton Oilers,/api/v1/teams/22,0,15,6,5,19,St. Louis Blues,/api/v1/teams/19
+1997020288,/api/v1/game/1997020288/feed/live,R,19971998,1997-11-21T03:30:00Z,2,10,9,2,27,Phoenix Coyotes,/api/v1/teams/27,4,6,13,2,23,Vancouver Canucks,/api/v1/teams/23
+1997020289,/api/v1/game/1997020289/feed/live,R,19971998,1997-11-21T03:30:00Z,3,8,13,2,16,Chicago Blackhawks,/api/v1/teams/16,4,10,8,2,26,Los Angeles Kings,/api/v1/teams/26
+1997020290,/api/v1/game/1997020290/feed/live,R,19971998,1997-11-22T00:30:00Z,4,8,8,7,3,New York Rangers,/api/v1/teams/3,3,9,11,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020291,/api/v1/game/1997020291/feed/live,R,19971998,1997-11-22T00:30:00Z,2,13,7,4,25,Dallas Stars,/api/v1/teams/25,4,14,6,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020292,/api/v1/game/1997020292/feed/live,R,19971998,1997-11-22T02:00:00Z,1,7,11,3,10,Toronto Maple Leafs,/api/v1/teams/10,3,11,5,3,21,Colorado Avalanche,/api/v1/teams/21
+1997020298,/api/v1/game/1997020298/feed/live,R,19971998,1997-11-22T18:00:00Z,2,7,11,4,13,Florida Panthers,/api/v1/teams/13,1,16,6,4,1,New Jersey Devils,/api/v1/teams/1
+1997020295,/api/v1/game/1997020295/feed/live,R,19971998,1997-11-22T20:00:00Z,1,9,10,4,2,New York Islanders,/api/v1/teams/2,6,7,10,4,7,Buffalo Sabres,/api/v1/teams/7
+1997020293,/api/v1/game/1997020293/feed/live,R,19971998,1997-11-23T00:00:00Z,2,14,7,4,25,Dallas Stars,/api/v1/teams/25,0,11,9,4,6,Boston Bruins,/api/v1/teams/6
+1997020294,/api/v1/game/1997020294/feed/live,R,19971998,1997-11-23T00:00:00Z,3,8,9,7,3,New York Rangers,/api/v1/teams/3,4,11,9,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020299,/api/v1/game/1997020299/feed/live,R,19971998,1997-11-23T00:00:00Z,5,9,14,1,28,San Jose Sharks,/api/v1/teams/28,2,12,8,1,15,Washington Capitals,/api/v1/teams/15
+1997020300,/api/v1/game/1997020300/feed/live,R,19971998,1997-11-23T00:00:00Z,3,4,15,5,20,Calgary Flames,/api/v1/teams/20,4,4,16,5,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020296,/api/v1/game/1997020296/feed/live,R,19971998,1997-11-23T00:30:00Z,1,7,12,5,22,Edmonton Oilers,/api/v1/teams/22,0,9,11,5,9,Ottawa Senators,/api/v1/teams/9
+1997020297,/api/v1/game/1997020297/feed/live,R,19971998,1997-11-23T00:30:00Z,5,15,6,4,17,Detroit Red Wings,/api/v1/teams/17,2,14,7,4,8,Montréal Canadiens,/api/v1/teams/8
+1997020301,/api/v1/game/1997020301/feed/live,R,19971998,1997-11-23T01:30:00Z,2,9,10,5,24,Anaheim Ducks,/api/v1/teams/24,0,15,7,5,19,St. Louis Blues,/api/v1/teams/19
+1997020303,/api/v1/game/1997020303/feed/live,R,19971998,1997-11-23T03:30:00Z,5,9,13,2,16,Chicago Blackhawks,/api/v1/teams/16,4,6,14,2,23,Vancouver Canucks,/api/v1/teams/23
+1997020302,/api/v1/game/1997020302/feed/live,R,19971998,1997-11-23T03:30:00Z,0,7,12,3,10,Toronto Maple Leafs,/api/v1/teams/10,2,11,9,3,27,Phoenix Coyotes,/api/v1/teams/27
+1997020305,/api/v1/game/1997020305/feed/live,R,19971998,1997-11-23T23:00:00Z,5,13,8,3,15,Washington Capitals,/api/v1/teams/15,2,7,12,3,13,Florida Panthers,/api/v1/teams/13
+1997020304,/api/v1/game/1997020304/feed/live,R,19971998,1997-11-24T00:00:00Z,3,4,15,6,20,Calgary Flames,/api/v1/teams/20,3,9,11,6,12,Carolina Hurricanes,/api/v1/teams/12
+1997020309,/api/v1/game/1997020309/feed/live,R,19971998,1997-11-24T02:00:00Z,2,11,8,4,26,Los Angeles Kings,/api/v1/teams/26,1,11,6,4,21,Colorado Avalanche,/api/v1/teams/21
+1997020306,/api/v1/game/1997020306/feed/live,R,19971998,1997-11-25T00:00:00Z,1,7,11,4,7,Buffalo Sabres,/api/v1/teams/7,5,12,9,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020307,/api/v1/game/1997020307/feed/live,R,19971998,1997-11-25T00:30:00Z,2,9,14,2,28,San Jose Sharks,/api/v1/teams/28,2,14,7,2,8,Montréal Canadiens,/api/v1/teams/8
+1997020308,/api/v1/game/1997020308/feed/live,R,19971998,1997-11-25T01:30:00Z,0,9,11,5,24,Anaheim Ducks,/api/v1/teams/24,5,15,7,5,25,Dallas Stars,/api/v1/teams/25
+1997020310,/api/v1/game/1997020310/feed/live,R,19971998,1997-11-26T00:30:00Z,4,7,14,3,23,Vancouver Canucks,/api/v1/teams/23,2,8,10,3,3,New York Rangers,/api/v1/teams/3
+1997020311,/api/v1/game/1997020311/feed/live,R,19971998,1997-11-26T00:30:00Z,1,9,15,2,28,San Jose Sharks,/api/v1/teams/28,3,8,12,2,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020312,/api/v1/game/1997020312/feed/live,R,19971998,1997-11-26T02:00:00Z,2,15,8,2,19,St. Louis Blues,/api/v1/teams/19,3,12,9,2,27,Phoenix Coyotes,/api/v1/teams/27
+1997020313,/api/v1/game/1997020313/feed/live,R,19971998,1997-11-26T02:00:00Z,2,9,13,3,16,Chicago Blackhawks,/api/v1/teams/16,2,7,12,3,22,Edmonton Oilers,/api/v1/teams/22
+1997020314,/api/v1/game/1997020314/feed/live,R,19971998,1997-11-27T00:00:00Z,2,9,12,4,12,Carolina Hurricanes,/api/v1/teams/12,3,13,9,4,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020315,/api/v1/game/1997020315/feed/live,R,19971998,1997-11-27T00:00:00Z,3,14,8,3,4,Philadelphia Flyers,/api/v1/teams/4,1,7,12,3,7,Buffalo Sabres,/api/v1/teams/7
+1997020316,/api/v1/game/1997020316/feed/live,R,19971998,1997-11-27T00:30:00Z,1,8,11,7,3,New York Rangers,/api/v1/teams/3,4,10,10,7,2,New York Islanders,/api/v1/teams/2
+1997020317,/api/v1/game/1997020317/feed/live,R,19971998,1997-11-27T00:30:00Z,6,15,7,3,8,Montréal Canadiens,/api/v1/teams/8,5,13,9,3,15,Washington Capitals,/api/v1/teams/15
+1997020318,/api/v1/game/1997020318/feed/live,R,19971998,1997-11-27T00:30:00Z,3,11,6,8,21,Colorado Avalanche,/api/v1/teams/21,3,4,16,8,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020319,/api/v1/game/1997020319/feed/live,R,19971998,1997-11-27T00:30:00Z,5,11,10,4,6,Boston Bruins,/api/v1/teams/6,10,8,12,4,13,Florida Panthers,/api/v1/teams/13
+1997020320,/api/v1/game/1997020320/feed/live,R,19971998,1997-11-27T00:30:00Z,1,9,12,4,9,Ottawa Senators,/api/v1/teams/9,4,16,6,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020321,/api/v1/game/1997020321/feed/live,R,19971998,1997-11-27T01:30:00Z,1,11,9,4,26,Los Angeles Kings,/api/v1/teams/26,4,16,7,4,25,Dallas Stars,/api/v1/teams/25
+1997020322,/api/v1/game/1997020322/feed/live,R,19971998,1997-11-27T03:30:00Z,0,16,7,0,1,New Jersey Devils,/api/v1/teams/1,2,10,11,0,24,Anaheim Ducks,/api/v1/teams/24
+1997020323,/api/v1/game/1997020323/feed/live,R,19971998,1997-11-28T00:30:00Z,1,13,10,3,15,Washington Capitals,/api/v1/teams/15,3,10,12,3,9,Ottawa Senators,/api/v1/teams/9
+1997020324,/api/v1/game/1997020324/feed/live,R,19971998,1997-11-28T01:30:00Z,2,11,9,5,26,Los Angeles Kings,/api/v1/teams/26,2,15,8,5,19,St. Louis Blues,/api/v1/teams/19
+1997020326,/api/v1/game/1997020326/feed/live,R,19971998,1997-11-28T02:00:00Z,2,9,13,4,16,Chicago Blackhawks,/api/v1/teams/16,2,4,15,4,20,Calgary Flames,/api/v1/teams/20
+1997020325,/api/v1/game/1997020325/feed/live,R,19971998,1997-11-28T03:00:00Z,4,17,7,4,25,Dallas Stars,/api/v1/teams/25,1,12,10,4,27,Phoenix Coyotes,/api/v1/teams/27
+1997020327,/api/v1/game/1997020327/feed/live,R,19971998,1997-11-28T17:00:00Z,5,8,14,3,23,Vancouver Canucks,/api/v1/teams/23,2,11,11,3,6,Boston Bruins,/api/v1/teams/6
+1997020330,/api/v1/game/1997020330/feed/live,R,19971998,1997-11-28T18:00:00Z,1,10,11,4,2,New York Islanders,/api/v1/teams/2,4,15,8,4,4,Philadelphia Flyers,/api/v1/teams/4
+1997020331,/api/v1/game/1997020331/feed/live,R,19971998,1997-11-28T21:00:00Z,3,12,6,8,21,Colorado Avalanche,/api/v1/teams/21,2,8,13,8,13,Florida Panthers,/api/v1/teams/13
+1997020328,/api/v1/game/1997020328/feed/live,R,19971998,1997-11-29T00:30:00Z,0,4,17,3,14,Tampa Bay Lightning,/api/v1/teams/14,2,10,12,3,12,Carolina Hurricanes,/api/v1/teams/12
+1997020329,/api/v1/game/1997020329/feed/live,R,19971998,1997-11-29T00:30:00Z,3,8,11,8,3,New York Rangers,/api/v1/teams/3,3,7,12,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020332,/api/v1/game/1997020332/feed/live,R,19971998,1997-11-29T00:30:00Z,0,15,8,3,8,Montréal Canadiens,/api/v1/teams/8,2,17,6,3,17,Detroit Red Wings,/api/v1/teams/17
+1997020333,/api/v1/game/1997020333/feed/live,R,19971998,1997-11-29T02:00:00Z,3,11,11,5,24,Anaheim Ducks,/api/v1/teams/24,1,7,13,5,22,Edmonton Oilers,/api/v1/teams/22
+1997020334,/api/v1/game/1997020334/feed/live,R,19971998,1997-11-29T03:30:00Z,4,17,7,0,1,New Jersey Devils,/api/v1/teams/1,2,9,16,0,28,San Jose Sharks,/api/v1/teams/28
+1997020335,/api/v1/game/1997020335/feed/live,R,19971998,1997-11-30T00:00:00Z,1,13,10,4,15,Washington Capitals,/api/v1/teams/15,1,11,11,4,6,Boston Bruins,/api/v1/teams/6
+1997020336,/api/v1/game/1997020336/feed/live,R,19971998,1997-11-30T00:00:00Z,3,13,6,8,21,Colorado Avalanche,/api/v1/teams/21,2,10,13,8,12,Carolina Hurricanes,/api/v1/teams/12
+1997020339,/api/v1/game/1997020339/feed/live,R,19971998,1997-11-30T00:00:00Z,2,15,9,3,19,St. Louis Blues,/api/v1/teams/19,4,11,11,3,2,New York Islanders,/api/v1/teams/2
+1997020340,/api/v1/game/1997020340/feed/live,R,19971998,1997-11-30T00:00:00Z,3,15,8,4,4,Philadelphia Flyers,/api/v1/teams/4,3,4,17,4,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020337,/api/v1/game/1997020337/feed/live,R,19971998,1997-11-30T00:30:00Z,3,15,9,3,8,Montréal Canadiens,/api/v1/teams/8,6,14,9,3,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020338,/api/v1/game/1997020338/feed/live,R,19971998,1997-11-30T00:30:00Z,3,10,13,4,16,Chicago Blackhawks,/api/v1/teams/16,2,10,13,4,9,Ottawa Senators,/api/v1/teams/9
+1997020341,/api/v1/game/1997020341/feed/live,R,19971998,1997-11-30T00:30:00Z,4,9,14,3,23,Vancouver Canucks,/api/v1/teams/23,2,8,13,3,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020342,/api/v1/game/1997020342/feed/live,R,19971998,1997-11-30T01:00:00Z,2,12,11,2,27,Phoenix Coyotes,/api/v1/teams/27,5,18,7,2,25,Dallas Stars,/api/v1/teams/25
+1997020344,/api/v1/game/1997020344/feed/live,R,19971998,1997-11-30T03:30:00Z,1,17,8,0,1,New Jersey Devils,/api/v1/teams/1,4,12,9,0,26,Los Angeles Kings,/api/v1/teams/26
+1997020343,/api/v1/game/1997020343/feed/live,R,19971998,1997-11-30T03:30:00Z,2,11,12,5,24,Anaheim Ducks,/api/v1/teams/24,3,5,15,5,20,Calgary Flames,/api/v1/teams/20
+1997020345,/api/v1/game/1997020345/feed/live,R,19971998,1997-11-30T18:30:00Z,1,8,13,5,13,Florida Panthers,/api/v1/teams/13,1,8,11,5,3,New York Rangers,/api/v1/teams/3
+1997020346,/api/v1/game/1997020346/feed/live,R,19971998,1997-12-01T01:00:00Z,1,9,17,2,28,San Jose Sharks,/api/v1/teams/28,6,8,13,2,22,Edmonton Oilers,/api/v1/teams/22
+1997020347,/api/v1/game/1997020347/feed/live,R,19971998,1997-12-02T00:30:00Z,1,11,12,5,6,Boston Bruins,/api/v1/teams/6,3,11,13,5,12,Carolina Hurricanes,/api/v1/teams/12
+1997020348,/api/v1/game/1997020348/feed/live,R,19971998,1997-12-02T00:30:00Z,1,15,9,5,5,Pittsburgh Penguins,/api/v1/teams/5,0,15,10,5,8,Montréal Canadiens,/api/v1/teams/8
+1997020349,/api/v1/game/1997020349/feed/live,R,19971998,1997-12-02T00:30:00Z,1,7,12,6,7,Buffalo Sabres,/api/v1/teams/7,1,15,8,6,4,Philadelphia Flyers,/api/v1/teams/4
+1997020350,/api/v1/game/1997020350/feed/live,R,19971998,1997-12-02T00:30:00Z,3,13,11,2,27,Phoenix Coyotes,/api/v1/teams/27,2,8,14,2,13,Florida Panthers,/api/v1/teams/13
+1997020351,/api/v1/game/1997020351/feed/live,R,19971998,1997-12-02T02:00:00Z,2,9,18,2,28,San Jose Sharks,/api/v1/teams/28,3,6,15,2,20,Calgary Flames,/api/v1/teams/20
+1997020352,/api/v1/game/1997020352/feed/live,R,19971998,1997-12-02T03:00:00Z,3,17,6,5,17,Detroit Red Wings,/api/v1/teams/17,3,9,14,5,23,Vancouver Canucks,/api/v1/teams/23
+1997020353,/api/v1/game/1997020353/feed/live,R,19971998,1997-12-03T00:30:00Z,4,11,13,4,9,Ottawa Senators,/api/v1/teams/9,2,11,12,4,2,New York Islanders,/api/v1/teams/2
+1997020354,/api/v1/game/1997020354/feed/live,R,19971998,1997-12-03T00:30:00Z,3,14,10,4,15,Washington Capitals,/api/v1/teams/15,2,8,12,4,3,New York Rangers,/api/v1/teams/3
+1997020355,/api/v1/game/1997020355/feed/live,R,19971998,1997-12-03T00:30:00Z,3,16,9,3,19,St. Louis Blues,/api/v1/teams/19,1,17,9,3,1,New Jersey Devils,/api/v1/teams/1
+1997020356,/api/v1/game/1997020356/feed/live,R,19971998,1997-12-03T00:30:00Z,3,11,12,6,24,Anaheim Ducks,/api/v1/teams/24,3,8,13,6,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020357,/api/v1/game/1997020357/feed/live,R,19971998,1997-12-03T02:00:00Z,2,8,14,6,22,Edmonton Oilers,/api/v1/teams/22,4,14,6,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020359,/api/v1/game/1997020359/feed/live,R,19971998,1997-12-04T00:00:00Z,0,11,13,6,24,Anaheim Ducks,/api/v1/teams/24,4,8,12,6,7,Buffalo Sabres,/api/v1/teams/7
+1997020358,/api/v1/game/1997020358/feed/live,R,19971998,1997-12-04T00:30:00Z,3,11,13,4,2,New York Islanders,/api/v1/teams/2,5,12,13,4,12,Carolina Hurricanes,/api/v1/teams/12
+1997020360,/api/v1/game/1997020360/feed/live,R,19971998,1997-12-04T00:30:00Z,0,12,10,5,26,Los Angeles Kings,/api/v1/teams/26,2,16,10,5,8,Montréal Canadiens,/api/v1/teams/8
+1997020361,/api/v1/game/1997020361/feed/live,R,19971998,1997-12-04T00:30:00Z,3,12,12,5,6,Boston Bruins,/api/v1/teams/6,0,15,9,5,4,Philadelphia Flyers,/api/v1/teams/4
+1997020362,/api/v1/game/1997020362/feed/live,R,19971998,1997-12-04T00:30:00Z,1,13,12,2,27,Phoenix Coyotes,/api/v1/teams/27,2,5,17,2,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020363,/api/v1/game/1997020363/feed/live,R,19971998,1997-12-04T01:30:00Z,1,8,15,6,22,Edmonton Oilers,/api/v1/teams/22,4,19,7,6,25,Dallas Stars,/api/v1/teams/25
+1997020364,/api/v1/game/1997020364/feed/live,R,19971998,1997-12-04T02:00:00Z,4,18,6,5,17,Detroit Red Wings,/api/v1/teams/17,3,6,16,5,20,Calgary Flames,/api/v1/teams/20
+1997020365,/api/v1/game/1997020365/feed/live,R,19971998,1997-12-05T00:00:00Z,4,18,9,0,1,New Jersey Devils,/api/v1/teams/1,0,15,10,0,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020366,/api/v1/game/1997020366/feed/live,R,19971998,1997-12-05T00:30:00Z,2,12,11,5,26,Los Angeles Kings,/api/v1/teams/26,3,12,13,5,9,Ottawa Senators,/api/v1/teams/9
+1997020367,/api/v1/game/1997020367/feed/live,R,19971998,1997-12-05T01:30:00Z,2,15,6,8,21,Colorado Avalanche,/api/v1/teams/21,1,10,14,8,16,Chicago Blackhawks,/api/v1/teams/16
+1997020368,/api/v1/game/1997020368/feed/live,R,19971998,1997-12-05T01:30:00Z,3,8,14,4,10,Toronto Maple Leafs,/api/v1/teams/10,4,17,9,4,19,St. Louis Blues,/api/v1/teams/19
+1997020369,/api/v1/game/1997020369/feed/live,R,19971998,1997-12-05T03:00:00Z,3,10,18,2,28,San Jose Sharks,/api/v1/teams/28,2,9,15,2,23,Vancouver Canucks,/api/v1/teams/23
+1997020373,/api/v1/game/1997020373/feed/live,R,19971998,1997-12-06T00:00:00Z,2,8,15,5,13,Florida Panthers,/api/v1/teams/13,3,15,10,5,15,Washington Capitals,/api/v1/teams/15
+1997020370,/api/v1/game/1997020370/feed/live,R,19971998,1997-12-06T00:30:00Z,2,13,12,3,27,Phoenix Coyotes,/api/v1/teams/27,2,12,13,3,12,Carolina Hurricanes,/api/v1/teams/12
+1997020371,/api/v1/game/1997020371/feed/live,R,19971998,1997-12-06T00:30:00Z,0,5,18,4,14,Tampa Bay Lightning,/api/v1/teams/14,4,9,12,4,7,Buffalo Sabres,/api/v1/teams/7
+1997020372,/api/v1/game/1997020372/feed/live,R,19971998,1997-12-06T00:30:00Z,4,15,9,6,4,Philadelphia Flyers,/api/v1/teams/4,4,8,12,6,3,New York Rangers,/api/v1/teams/3
+1997020374,/api/v1/game/1997020374/feed/live,R,19971998,1997-12-06T01:30:00Z,1,6,17,7,20,Calgary Flames,/api/v1/teams/20,4,20,7,7,25,Dallas Stars,/api/v1/teams/25
+1997020375,/api/v1/game/1997020375/feed/live,R,19971998,1997-12-06T02:00:00Z,1,18,7,5,17,Detroit Red Wings,/api/v1/teams/17,3,9,15,5,22,Edmonton Oilers,/api/v1/teams/22
+1997020376,/api/v1/game/1997020376/feed/live,R,19971998,1997-12-07T00:00:00Z,1,12,14,5,12,Carolina Hurricanes,/api/v1/teams/12,4,13,12,5,6,Boston Bruins,/api/v1/teams/6
+1997020377,/api/v1/game/1997020377/feed/live,R,19971998,1997-12-07T00:00:00Z,2,11,14,6,24,Anaheim Ducks,/api/v1/teams/24,5,16,10,6,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020380,/api/v1/game/1997020380/feed/live,R,19971998,1997-12-07T00:00:00Z,0,13,13,3,27,Phoenix Coyotes,/api/v1/teams/27,4,12,13,3,2,New York Islanders,/api/v1/teams/2
+1997020378,/api/v1/game/1997020378/feed/live,R,19971998,1997-12-07T00:30:00Z,0,9,13,6,7,Buffalo Sabres,/api/v1/teams/7,3,13,13,6,9,Ottawa Senators,/api/v1/teams/9
+1997020379,/api/v1/game/1997020379/feed/live,R,19971998,1997-12-07T00:30:00Z,3,8,12,11,3,New York Rangers,/api/v1/teams/3,3,16,10,11,8,Montréal Canadiens,/api/v1/teams/8
+1997020381,/api/v1/game/1997020381/feed/live,R,19971998,1997-12-07T00:30:00Z,2,5,19,4,14,Tampa Bay Lightning,/api/v1/teams/14,4,19,9,4,1,New Jersey Devils,/api/v1/teams/1
+1997020382,/api/v1/game/1997020382/feed/live,R,19971998,1997-12-07T00:30:00Z,2,12,12,5,26,Los Angeles Kings,/api/v1/teams/26,7,9,14,5,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020383,/api/v1/game/1997020383/feed/live,R,19971998,1997-12-07T01:30:00Z,3,6,18,7,20,Calgary Flames,/api/v1/teams/20,4,18,9,7,19,St. Louis Blues,/api/v1/teams/19
+1997020384,/api/v1/game/1997020384/feed/live,R,19971998,1997-12-07T03:30:00Z,4,9,16,4,23,Vancouver Canucks,/api/v1/teams/23,6,16,6,4,21,Colorado Avalanche,/api/v1/teams/21
+1997020385,/api/v1/game/1997020385/feed/live,R,19971998,1997-12-07T18:30:00Z,4,15,11,4,15,Washington Capitals,/api/v1/teams/15,5,9,15,4,13,Florida Panthers,/api/v1/teams/13
+1997020386,/api/v1/game/1997020386/feed/live,R,19971998,1997-12-08T01:00:00Z,3,9,15,7,22,Edmonton Oilers,/api/v1/teams/22,3,10,14,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020387,/api/v1/game/1997020387/feed/live,R,19971998,1997-12-09T00:30:00Z,2,16,7,8,21,Colorado Avalanche,/api/v1/teams/21,4,17,10,8,8,Montréal Canadiens,/api/v1/teams/8
+1997020388,/api/v1/game/1997020388/feed/live,R,19971998,1997-12-09T00:30:00Z,1,13,14,3,27,Phoenix Coyotes,/api/v1/teams/27,3,9,12,3,3,New York Rangers,/api/v1/teams/3
+1997020389,/api/v1/game/1997020389/feed/live,R,19971998,1997-12-09T00:30:00Z,0,20,8,4,25,Dallas Stars,/api/v1/teams/25,3,10,14,4,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020390,/api/v1/game/1997020390/feed/live,R,19971998,1997-12-09T01:30:00Z,1,9,17,4,23,Vancouver Canucks,/api/v1/teams/23,5,19,9,4,19,St. Louis Blues,/api/v1/teams/19
+1997020391,/api/v1/game/1997020391/feed/live,R,19971998,1997-12-10T00:30:00Z,3,7,18,7,20,Calgary Flames,/api/v1/teams/20,1,12,14,7,2,New York Islanders,/api/v1/teams/2
+1997020392,/api/v1/game/1997020392/feed/live,R,19971998,1997-12-10T00:30:00Z,5,9,18,4,23,Vancouver Canucks,/api/v1/teams/23,7,19,7,4,17,Detroit Red Wings,/api/v1/teams/17
+1997020393,/api/v1/game/1997020393/feed/live,R,19971998,1997-12-10T03:30:00Z,2,17,10,5,5,Pittsburgh Penguins,/api/v1/teams/5,1,12,13,5,26,Los Angeles Kings,/api/v1/teams/26
+1997020394,/api/v1/game/1997020394/feed/live,R,19971998,1997-12-11T00:30:00Z,5,10,15,5,13,Florida Panthers,/api/v1/teams/13,2,12,15,5,12,Carolina Hurricanes,/api/v1/teams/12
+1997020395,/api/v1/game/1997020395/feed/live,R,19971998,1997-12-11T00:30:00Z,3,19,10,3,19,St. Louis Blues,/api/v1/teams/19,4,18,10,3,8,Montréal Canadiens,/api/v1/teams/8
+1997020396,/api/v1/game/1997020396/feed/live,R,19971998,1997-12-11T00:30:00Z,4,8,18,7,20,Calgary Flames,/api/v1/teams/20,1,9,13,7,3,New York Rangers,/api/v1/teams/3
+1997020397,/api/v1/game/1997020397/feed/live,R,19971998,1997-12-11T00:30:00Z,2,9,16,7,22,Edmonton Oilers,/api/v1/teams/22,4,20,9,7,1,New Jersey Devils,/api/v1/teams/1
+1997020398,/api/v1/game/1997020398/feed/live,R,19971998,1997-12-11T00:30:00Z,2,16,7,9,21,Colorado Avalanche,/api/v1/teams/21,2,10,14,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020399,/api/v1/game/1997020399/feed/live,R,19971998,1997-12-11T01:30:00Z,3,13,14,4,27,Phoenix Coyotes,/api/v1/teams/27,3,10,14,4,16,Chicago Blackhawks,/api/v1/teams/16
+1997020400,/api/v1/game/1997020400/feed/live,R,19971998,1997-12-11T01:30:00Z,0,5,20,4,14,Tampa Bay Lightning,/api/v1/teams/14,3,21,8,4,25,Dallas Stars,/api/v1/teams/25
+1997020401,/api/v1/game/1997020401/feed/live,R,19971998,1997-12-11T03:30:00Z,3,15,11,5,15,Washington Capitals,/api/v1/teams/15,3,10,18,5,28,San Jose Sharks,/api/v1/teams/28
+1997020402,/api/v1/game/1997020402/feed/live,R,19971998,1997-12-11T03:30:00Z,3,18,10,5,5,Pittsburgh Penguins,/api/v1/teams/5,0,11,15,5,24,Anaheim Ducks,/api/v1/teams/24
+1997020403,/api/v1/game/1997020403/feed/live,R,19971998,1997-12-12T00:30:00Z,1,9,14,6,7,Buffalo Sabres,/api/v1/teams/7,2,14,12,6,6,Boston Bruins,/api/v1/teams/6
+1997020404,/api/v1/game/1997020404/feed/live,R,19971998,1997-12-12T00:30:00Z,2,20,10,3,19,St. Louis Blues,/api/v1/teams/19,1,13,14,3,9,Ottawa Senators,/api/v1/teams/9
+1997020405,/api/v1/game/1997020405/feed/live,R,19971998,1997-12-12T00:30:00Z,3,12,15,4,2,New York Islanders,/api/v1/teams/2,4,16,9,4,4,Philadelphia Flyers,/api/v1/teams/4
+1997020406,/api/v1/game/1997020406/feed/live,R,19971998,1997-12-13T00:30:00Z,2,12,16,5,12,Carolina Hurricanes,/api/v1/teams/12,3,10,14,5,7,Buffalo Sabres,/api/v1/teams/7
+1997020407,/api/v1/game/1997020407/feed/live,R,19971998,1997-12-13T00:30:00Z,4,11,15,5,13,Florida Panthers,/api/v1/teams/13,3,9,14,5,3,New York Rangers,/api/v1/teams/3
+1997020408,/api/v1/game/1997020408/feed/live,R,19971998,1997-12-13T00:30:00Z,2,18,11,4,8,Montréal Canadiens,/api/v1/teams/8,5,21,9,4,1,New Jersey Devils,/api/v1/teams/1
+1997020409,/api/v1/game/1997020409/feed/live,R,19971998,1997-12-13T00:30:00Z,3,10,16,7,22,Edmonton Oilers,/api/v1/teams/22,2,19,8,7,17,Detroit Red Wings,/api/v1/teams/17
+1997020410,/api/v1/game/1997020410/feed/live,R,19971998,1997-12-13T01:30:00Z,3,17,9,6,4,Philadelphia Flyers,/api/v1/teams/4,2,10,15,6,16,Chicago Blackhawks,/api/v1/teams/16
+1997020411,/api/v1/game/1997020411/feed/live,R,19971998,1997-12-13T01:30:00Z,1,11,18,3,28,San Jose Sharks,/api/v1/teams/28,0,21,9,3,25,Dallas Stars,/api/v1/teams/25
+1997020412,/api/v1/game/1997020412/feed/live,R,19971998,1997-12-13T02:00:00Z,2,18,10,6,5,Pittsburgh Penguins,/api/v1/teams/5,2,13,14,6,27,Phoenix Coyotes,/api/v1/teams/27
+1997020413,/api/v1/game/1997020413/feed/live,R,19971998,1997-12-13T02:00:00Z,1,16,8,9,21,Colorado Avalanche,/api/v1/teams/21,3,9,18,9,20,Calgary Flames,/api/v1/teams/20
+1997020414,/api/v1/game/1997020414/feed/live,R,19971998,1997-12-13T03:30:00Z,4,15,12,5,15,Washington Capitals,/api/v1/teams/15,6,12,15,5,24,Anaheim Ducks,/api/v1/teams/24
+1997020417,/api/v1/game/1997020417/feed/live,R,19971998,1997-12-14T00:00:00Z,1,11,16,5,13,Florida Panthers,/api/v1/teams/13,4,13,15,5,2,New York Islanders,/api/v1/teams/2
+1997020415,/api/v1/game/1997020415/feed/live,R,19971998,1997-12-14T00:30:00Z,2,18,12,4,8,Montréal Canadiens,/api/v1/teams/8,4,15,12,4,6,Boston Bruins,/api/v1/teams/6
+1997020416,/api/v1/game/1997020416/feed/live,R,19971998,1997-12-14T00:30:00Z,3,6,20,4,14,Tampa Bay Lightning,/api/v1/teams/14,1,13,15,4,9,Ottawa Senators,/api/v1/teams/9
+1997020418,/api/v1/game/1997020418/feed/live,R,19971998,1997-12-14T00:30:00Z,3,22,9,0,1,New Jersey Devils,/api/v1/teams/1,0,10,15,0,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020419,/api/v1/game/1997020419/feed/live,R,19971998,1997-12-14T01:30:00Z,4,11,16,7,22,Edmonton Oilers,/api/v1/teams/22,1,20,11,7,19,St. Louis Blues,/api/v1/teams/19
+1997020420,/api/v1/game/1997020420/feed/live,R,19971998,1997-12-14T03:30:00Z,5,17,8,9,21,Colorado Avalanche,/api/v1/teams/21,2,9,19,9,23,Vancouver Canucks,/api/v1/teams/23
+1997020421,/api/v1/game/1997020421/feed/live,R,19971998,1997-12-14T03:30:00Z,2,15,12,6,15,Washington Capitals,/api/v1/teams/15,2,12,13,6,26,Los Angeles Kings,/api/v1/teams/26
+1997020423,/api/v1/game/1997020423/feed/live,R,19971998,1997-12-14T20:00:00Z,2,12,18,3,28,San Jose Sharks,/api/v1/teams/28,1,10,16,3,16,Chicago Blackhawks,/api/v1/teams/16
+1997020422,/api/v1/game/1997020422/feed/live,R,19971998,1997-12-15T00:00:00Z,0,6,21,4,14,Tampa Bay Lightning,/api/v1/teams/14,3,18,9,4,4,Philadelphia Flyers,/api/v1/teams/4
+1997020424,/api/v1/game/1997020424/feed/live,R,19971998,1997-12-15T02:00:00Z,3,19,8,6,17,Detroit Red Wings,/api/v1/teams/17,3,13,14,6,27,Phoenix Coyotes,/api/v1/teams/27
+1997020425,/api/v1/game/1997020425/feed/live,R,19971998,1997-12-16T00:30:00Z,3,19,9,6,4,Philadelphia Flyers,/api/v1/teams/4,1,18,13,6,8,Montréal Canadiens,/api/v1/teams/8
+1997020426,/api/v1/game/1997020426/feed/live,R,19971998,1997-12-16T00:30:00Z,6,16,12,5,6,Boston Bruins,/api/v1/teams/6,2,11,17,5,13,Florida Panthers,/api/v1/teams/13
+1997020427,/api/v1/game/1997020427/feed/live,R,19971998,1997-12-16T01:30:00Z,3,14,15,4,9,Ottawa Senators,/api/v1/teams/9,1,20,12,4,19,St. Louis Blues,/api/v1/teams/19
+1997020428,/api/v1/game/1997020428/feed/live,R,19971998,1997-12-16T01:30:00Z,4,10,15,6,7,Buffalo Sabres,/api/v1/teams/7,8,22,9,6,25,Dallas Stars,/api/v1/teams/25
+1997020429,/api/v1/game/1997020429/feed/live,R,19971998,1997-12-16T02:00:00Z,2,10,16,5,10,Toronto Maple Leafs,/api/v1/teams/10,3,18,8,5,21,Colorado Avalanche,/api/v1/teams/21
+1997020430,/api/v1/game/1997020430/feed/live,R,19971998,1997-12-16T03:00:00Z,0,12,14,6,26,Los Angeles Kings,/api/v1/teams/26,7,10,19,6,23,Vancouver Canucks,/api/v1/teams/23
+1997020432,/api/v1/game/1997020432/feed/live,R,19971998,1997-12-17T00:00:00Z,1,6,21,5,14,Tampa Bay Lightning,/api/v1/teams/14,1,18,10,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020434,/api/v1/game/1997020434/feed/live,R,19971998,1997-12-17T00:00:00Z,2,13,15,5,2,New York Islanders,/api/v1/teams/2,2,15,12,5,15,Washington Capitals,/api/v1/teams/15
+1997020431,/api/v1/game/1997020431/feed/live,R,19971998,1997-12-17T00:30:00Z,1,14,16,4,9,Ottawa Senators,/api/v1/teams/9,2,13,16,4,12,Carolina Hurricanes,/api/v1/teams/12
+1997020433,/api/v1/game/1997020433/feed/live,R,19971998,1997-12-17T00:30:00Z,3,9,15,11,3,New York Rangers,/api/v1/teams/3,4,23,9,11,1,New Jersey Devils,/api/v1/teams/1
+1997020435,/api/v1/game/1997020435/feed/live,R,19971998,1997-12-17T02:00:00Z,3,10,17,6,16,Chicago Blackhawks,/api/v1/teams/16,4,10,18,6,20,Calgary Flames,/api/v1/teams/20
+1997020436,/api/v1/game/1997020436/feed/live,R,19971998,1997-12-17T03:30:00Z,1,19,9,6,17,Detroit Red Wings,/api/v1/teams/17,5,13,18,6,28,San Jose Sharks,/api/v1/teams/28
+1997020437,/api/v1/game/1997020437/feed/live,R,19971998,1997-12-18T00:30:00Z,0,10,16,6,7,Buffalo Sabres,/api/v1/teams/7,4,14,15,6,2,New York Islanders,/api/v1/teams/2
+1997020438,/api/v1/game/1997020438/feed/live,R,19971998,1997-12-18T00:30:00Z,0,16,13,5,6,Boston Bruins,/api/v1/teams/6,2,7,21,5,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020439,/api/v1/game/1997020439/feed/live,R,19971998,1997-12-18T00:30:00Z,4,10,15,11,3,New York Rangers,/api/v1/teams/3,2,11,18,11,13,Florida Panthers,/api/v1/teams/13
+1997020440,/api/v1/game/1997020440/feed/live,R,19971998,1997-12-18T02:00:00Z,2,19,9,7,17,Detroit Red Wings,/api/v1/teams/17,2,18,8,7,21,Colorado Avalanche,/api/v1/teams/21
+1997020441,/api/v1/game/1997020441/feed/live,R,19971998,1997-12-18T02:00:00Z,5,11,19,4,23,Vancouver Canucks,/api/v1/teams/23,1,13,15,4,27,Phoenix Coyotes,/api/v1/teams/27
+1997020442,/api/v1/game/1997020442/feed/live,R,19971998,1997-12-18T02:00:00Z,0,10,17,7,16,Chicago Blackhawks,/api/v1/teams/16,0,11,16,7,22,Edmonton Oilers,/api/v1/teams/22
+1997020443,/api/v1/game/1997020443/feed/live,R,19971998,1997-12-18T03:30:00Z,6,11,16,5,10,Toronto Maple Leafs,/api/v1/teams/10,2,12,16,5,24,Anaheim Ducks,/api/v1/teams/24
+1997020446,/api/v1/game/1997020446/feed/live,R,19971998,1997-12-19T00:00:00Z,4,12,18,5,13,Florida Panthers,/api/v1/teams/13,0,15,13,5,15,Washington Capitals,/api/v1/teams/15
+1997020444,/api/v1/game/1997020444/feed/live,R,19971998,1997-12-19T00:30:00Z,2,13,17,5,12,Carolina Hurricanes,/api/v1/teams/12,3,15,16,5,9,Ottawa Senators,/api/v1/teams/9
+1997020445,/api/v1/game/1997020445/feed/live,R,19971998,1997-12-19T00:30:00Z,2,16,13,6,6,Boston Bruins,/api/v1/teams/6,2,19,9,6,4,Philadelphia Flyers,/api/v1/teams/4
+1997020447,/api/v1/game/1997020447/feed/live,R,19971998,1997-12-19T01:30:00Z,4,23,9,1,1,New Jersey Devils,/api/v1/teams/1,4,20,12,1,19,St. Louis Blues,/api/v1/teams/19
+1997020448,/api/v1/game/1997020448/feed/live,R,19971998,1997-12-19T02:00:00Z,2,23,9,4,25,Dallas Stars,/api/v1/teams/25,1,10,19,4,20,Calgary Flames,/api/v1/teams/20
+1997020449,/api/v1/game/1997020449/feed/live,R,19971998,1997-12-19T03:30:00Z,0,11,19,5,23,Vancouver Canucks,/api/v1/teams/23,0,13,18,5,28,San Jose Sharks,/api/v1/teams/28
+1997020450,/api/v1/game/1997020450/feed/live,R,19971998,1997-12-19T03:30:00Z,2,11,17,5,10,Toronto Maple Leafs,/api/v1/teams/10,5,13,14,5,26,Los Angeles Kings,/api/v1/teams/26
+1997020451,/api/v1/game/1997020451/feed/live,R,19971998,1997-12-20T00:30:00Z,0,18,14,4,8,Montréal Canadiens,/api/v1/teams/8,1,11,16,4,7,Buffalo Sabres,/api/v1/teams/7
+1997020452,/api/v1/game/1997020452/feed/live,R,19971998,1997-12-20T00:30:00Z,4,23,10,1,1,New Jersey Devils,/api/v1/teams/1,5,20,9,1,17,Detroit Red Wings,/api/v1/teams/17
+1997020453,/api/v1/game/1997020453/feed/live,R,19971998,1997-12-20T02:00:00Z,3,18,10,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,18,8,8,21,Colorado Avalanche,/api/v1/teams/21
+1997020454,/api/v1/game/1997020454/feed/live,R,19971998,1997-12-20T03:30:00Z,6,14,15,6,27,Phoenix Coyotes,/api/v1/teams/27,2,12,17,6,24,Anaheim Ducks,/api/v1/teams/24
+1997020458,/api/v1/game/1997020458/feed/live,R,19971998,1997-12-20T18:00:00Z,0,12,19,5,13,Florida Panthers,/api/v1/teams/13,2,20,9,5,4,Philadelphia Flyers,/api/v1/teams/4
+1997020459,/api/v1/game/1997020459/feed/live,R,19971998,1997-12-20T18:30:00Z,2,10,15,12,3,New York Rangers,/api/v1/teams/3,2,7,21,12,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020462,/api/v1/game/1997020462/feed/live,R,19971998,1997-12-20T20:00:00Z,4,14,14,6,26,Los Angeles Kings,/api/v1/teams/26,1,10,20,6,20,Calgary Flames,/api/v1/teams/20
+1997020455,/api/v1/game/1997020455/feed/live,R,19971998,1997-12-21T00:00:00Z,4,15,15,5,2,New York Islanders,/api/v1/teams/2,3,16,14,5,6,Boston Bruins,/api/v1/teams/6
+1997020456,/api/v1/game/1997020456/feed/live,R,19971998,1997-12-21T00:00:00Z,2,16,13,7,15,Washington Capitals,/api/v1/teams/15,1,13,18,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020457,/api/v1/game/1997020457/feed/live,R,19971998,1997-12-21T00:30:00Z,1,15,17,4,9,Ottawa Senators,/api/v1/teams/9,4,19,14,4,8,Montréal Canadiens,/api/v1/teams/8
+1997020463,/api/v1/game/1997020463/feed/live,R,19971998,1997-12-21T01:00:00Z,2,24,9,4,25,Dallas Stars,/api/v1/teams/25,1,11,17,4,22,Edmonton Oilers,/api/v1/teams/22
+1997020460,/api/v1/game/1997020460/feed/live,R,19971998,1997-12-21T01:30:00Z,1,18,11,8,5,Pittsburgh Penguins,/api/v1/teams/5,4,21,12,8,19,St. Louis Blues,/api/v1/teams/19
+1997020464,/api/v1/game/1997020464/feed/live,R,19971998,1997-12-21T03:30:00Z,5,11,17,7,16,Chicago Blackhawks,/api/v1/teams/16,0,11,20,7,23,Vancouver Canucks,/api/v1/teams/23
+1997020461,/api/v1/game/1997020461/feed/live,R,19971998,1997-12-21T03:30:00Z,3,12,17,5,10,Toronto Maple Leafs,/api/v1/teams/10,2,14,16,5,27,Phoenix Coyotes,/api/v1/teams/27
+1997020465,/api/v1/game/1997020465/feed/live,R,19971998,1997-12-22T00:00:00Z,2,12,16,6,7,Buffalo Sabres,/api/v1/teams/7,0,10,16,6,3,New York Rangers,/api/v1/teams/3
+1997020466,/api/v1/game/1997020466/feed/live,R,19971998,1997-12-22T01:00:00Z,4,14,18,4,28,San Jose Sharks,/api/v1/teams/28,2,12,18,4,24,Anaheim Ducks,/api/v1/teams/24
+1997020467,/api/v1/game/1997020467/feed/live,R,19971998,1997-12-23T00:30:00Z,4,21,9,7,17,Detroit Red Wings,/api/v1/teams/17,2,16,15,7,6,Boston Bruins,/api/v1/teams/6
+1997020468,/api/v1/game/1997020468/feed/live,R,19971998,1997-12-23T00:30:00Z,3,11,17,9,22,Edmonton Oilers,/api/v1/teams/22,3,19,14,9,8,Montréal Canadiens,/api/v1/teams/8
+1997020469,/api/v1/game/1997020469/feed/live,R,19971998,1997-12-23T00:30:00Z,4,16,17,4,9,Ottawa Senators,/api/v1/teams/9,1,15,16,4,2,New York Islanders,/api/v1/teams/2
+1997020470,/api/v1/game/1997020470/feed/live,R,19971998,1997-12-23T00:30:00Z,2,21,12,5,19,St. Louis Blues,/api/v1/teams/19,2,7,21,5,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020471,/api/v1/game/1997020471/feed/live,R,19971998,1997-12-23T01:30:00Z,1,15,14,6,26,Los Angeles Kings,/api/v1/teams/26,0,11,18,6,16,Chicago Blackhawks,/api/v1/teams/16
+1997020472,/api/v1/game/1997020472/feed/live,R,19971998,1997-12-23T03:30:00Z,1,10,21,7,20,Calgary Flames,/api/v1/teams/20,5,13,18,7,24,Anaheim Ducks,/api/v1/teams/24
+1997020473,/api/v1/game/1997020473/feed/live,R,19971998,1997-12-24T00:00:00Z,3,22,9,7,17,Detroit Red Wings,/api/v1/teams/17,1,12,17,7,7,Buffalo Sabres,/api/v1/teams/7
+1997020477,/api/v1/game/1997020477/feed/live,R,19971998,1997-12-24T00:00:00Z,1,23,10,2,1,New Jersey Devils,/api/v1/teams/1,1,16,13,2,15,Washington Capitals,/api/v1/teams/15
+1997020474,/api/v1/game/1997020474/feed/live,R,19971998,1997-12-24T00:30:00Z,3,19,15,5,8,Montréal Canadiens,/api/v1/teams/8,4,17,17,5,9,Ottawa Senators,/api/v1/teams/9
+1997020475,/api/v1/game/1997020475/feed/live,R,19971998,1997-12-24T00:30:00Z,1,7,22,7,14,Tampa Bay Lightning,/api/v1/teams/14,4,11,16,7,3,New York Rangers,/api/v1/teams/3
+1997020476,/api/v1/game/1997020476/feed/live,R,19971998,1997-12-24T00:30:00Z,2,13,19,5,12,Carolina Hurricanes,/api/v1/teams/12,4,21,9,5,4,Philadelphia Flyers,/api/v1/teams/4
+1997020478,/api/v1/game/1997020478/feed/live,R,19971998,1997-12-24T00:30:00Z,3,22,12,5,19,St. Louis Blues,/api/v1/teams/19,2,12,20,5,13,Florida Panthers,/api/v1/teams/13
+1997020479,/api/v1/game/1997020479/feed/live,R,19971998,1997-12-24T00:30:00Z,4,11,18,9,22,Edmonton Oilers,/api/v1/teams/22,5,13,17,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020480,/api/v1/game/1997020480/feed/live,R,19971998,1997-12-24T02:00:00Z,1,15,15,6,26,Los Angeles Kings,/api/v1/teams/26,5,19,8,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020481,/api/v1/game/1997020481/feed/live,R,19971998,1997-12-24T02:00:00Z,2,10,21,8,20,Calgary Flames,/api/v1/teams/20,2,14,16,8,27,Phoenix Coyotes,/api/v1/teams/27
+1997020482,/api/v1/game/1997020482/feed/live,R,19971998,1997-12-24T03:00:00Z,3,25,9,4,25,Dallas Stars,/api/v1/teams/25,1,11,21,4,23,Vancouver Canucks,/api/v1/teams/23
+1997020486,/api/v1/game/1997020486/feed/live,R,19971998,1997-12-27T00:00:00Z,4,19,11,8,5,Pittsburgh Penguins,/api/v1/teams/5,1,16,14,8,15,Washington Capitals,/api/v1/teams/15
+1997020483,/api/v1/game/1997020483/feed/live,R,19971998,1997-12-27T00:30:00Z,5,13,20,5,13,Florida Panthers,/api/v1/teams/13,2,13,20,5,12,Carolina Hurricanes,/api/v1/teams/12
+1997020484,/api/v1/game/1997020484/feed/live,R,19971998,1997-12-27T00:30:00Z,0,11,17,12,3,New York Rangers,/api/v1/teams/3,3,13,17,12,7,Buffalo Sabres,/api/v1/teams/7
+1997020485,/api/v1/game/1997020485/feed/live,R,19971998,1997-12-27T00:30:00Z,3,15,17,5,2,New York Islanders,/api/v1/teams/2,4,24,10,5,1,New Jersey Devils,/api/v1/teams/1
+1997020487,/api/v1/game/1997020487/feed/live,R,19971998,1997-12-27T00:30:00Z,1,13,18,5,10,Toronto Maple Leafs,/api/v1/teams/10,4,23,9,5,17,Detroit Red Wings,/api/v1/teams/17
+1997020488,/api/v1/game/1997020488/feed/live,R,19971998,1997-12-27T01:30:00Z,4,12,18,7,16,Chicago Blackhawks,/api/v1/teams/16,1,22,13,7,19,St. Louis Blues,/api/v1/teams/19
+1997020489,/api/v1/game/1997020489/feed/live,R,19971998,1997-12-27T03:30:00Z,4,15,16,7,27,Phoenix Coyotes,/api/v1/teams/27,0,14,19,7,28,San Jose Sharks,/api/v1/teams/28
+1997020494,/api/v1/game/1997020494/feed/live,R,19971998,1997-12-27T18:30:00Z,3,17,15,6,6,Boston Bruins,/api/v1/teams/6,1,7,23,6,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020490,/api/v1/game/1997020490/feed/live,R,19971998,1997-12-28T00:00:00Z,1,13,18,6,7,Buffalo Sabres,/api/v1/teams/7,4,14,20,6,12,Carolina Hurricanes,/api/v1/teams/12
+1997020492,/api/v1/game/1997020492/feed/live,R,19971998,1997-12-28T00:00:00Z,6,14,20,5,13,Florida Panthers,/api/v1/teams/13,2,15,18,5,2,New York Islanders,/api/v1/teams/2
+1997020493,/api/v1/game/1997020493/feed/live,R,19971998,1997-12-28T00:00:00Z,3,18,17,4,9,Ottawa Senators,/api/v1/teams/9,0,16,15,4,15,Washington Capitals,/api/v1/teams/15
+1997020491,/api/v1/game/1997020491/feed/live,R,19971998,1997-12-28T00:30:00Z,1,20,15,5,8,Montréal Canadiens,/api/v1/teams/8,0,19,12,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020495,/api/v1/game/1997020495/feed/live,R,19971998,1997-12-28T00:30:00Z,8,24,9,7,17,Detroit Red Wings,/api/v1/teams/17,1,13,19,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020499,/api/v1/game/1997020499/feed/live,R,19971998,1997-12-28T01:00:00Z,5,20,8,11,21,Colorado Avalanche,/api/v1/teams/21,1,11,19,11,22,Edmonton Oilers,/api/v1/teams/22
+1997020497,/api/v1/game/1997020497/feed/live,R,19971998,1997-12-28T01:00:00Z,3,11,21,6,23,Vancouver Canucks,/api/v1/teams/23,3,25,9,6,25,Dallas Stars,/api/v1/teams/25
+1997020496,/api/v1/game/1997020496/feed/live,R,19971998,1997-12-28T01:30:00Z,5,13,18,7,24,Anaheim Ducks,/api/v1/teams/24,5,22,13,7,19,St. Louis Blues,/api/v1/teams/19
+1997020500,/api/v1/game/1997020500/feed/live,R,19971998,1997-12-28T03:30:00Z,4,16,16,7,27,Phoenix Coyotes,/api/v1/teams/27,2,15,16,7,26,Los Angeles Kings,/api/v1/teams/26
+1997020498,/api/v1/game/1997020498/feed/live,R,19971998,1997-12-28T03:30:00Z,2,21,10,7,4,Philadelphia Flyers,/api/v1/teams/4,5,11,21,7,20,Calgary Flames,/api/v1/teams/20
+1997020501,/api/v1/game/1997020501/feed/live,R,19971998,1997-12-29T00:00:00Z,3,17,16,6,6,Boston Bruins,/api/v1/teams/6,4,12,17,6,3,New York Rangers,/api/v1/teams/3
+1997020502,/api/v1/game/1997020502/feed/live,R,19971998,1997-12-29T01:00:00Z,0,13,19,7,24,Anaheim Ducks,/api/v1/teams/24,2,13,18,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020503,/api/v1/game/1997020503/feed/live,R,19971998,1997-12-30T00:00:00Z,1,15,19,5,2,New York Islanders,/api/v1/teams/2,5,20,12,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020504,/api/v1/game/1997020504/feed/live,R,19971998,1997-12-30T00:00:00Z,3,25,10,2,1,New Jersey Devils,/api/v1/teams/1,1,13,19,2,7,Buffalo Sabres,/api/v1/teams/7
+1997020505,/api/v1/game/1997020505/feed/live,R,19971998,1997-12-30T00:00:00Z,2,22,14,6,19,St. Louis Blues,/api/v1/teams/19,4,17,15,6,15,Washington Capitals,/api/v1/teams/15
+1997020506,/api/v1/game/1997020506/feed/live,R,19971998,1997-12-30T00:30:00Z,1,14,20,4,28,San Jose Sharks,/api/v1/teams/28,2,8,23,4,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020507,/api/v1/game/1997020507/feed/live,R,19971998,1997-12-30T00:30:00Z,2,25,9,6,25,Dallas Stars,/api/v1/teams/25,2,24,9,6,17,Detroit Red Wings,/api/v1/teams/17
+1997020508,/api/v1/game/1997020508/feed/live,R,19971998,1997-12-30T02:00:00Z,1,20,15,6,8,Montréal Canadiens,/api/v1/teams/8,1,20,8,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020509,/api/v1/game/1997020509/feed/live,R,19971998,1997-12-30T02:00:00Z,5,17,16,7,27,Phoenix Coyotes,/api/v1/teams/27,3,11,22,7,20,Calgary Flames,/api/v1/teams/20
+1997020510,/api/v1/game/1997020510/feed/live,R,19971998,1997-12-30T03:30:00Z,2,11,22,6,23,Vancouver Canucks,/api/v1/teams/23,5,16,16,6,26,Los Angeles Kings,/api/v1/teams/26
+1997020511,/api/v1/game/1997020511/feed/live,R,19971998,1997-12-31T00:30:00Z,1,13,20,7,24,Anaheim Ducks,/api/v1/teams/24,2,15,20,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020512,/api/v1/game/1997020512/feed/live,R,19971998,1997-12-31T00:30:00Z,6,14,18,7,16,Chicago Blackhawks,/api/v1/teams/16,2,25,11,7,1,New Jersey Devils,/api/v1/teams/1
+1997020513,/api/v1/game/1997020513/feed/live,R,19971998,1997-12-31T00:30:00Z,2,14,20,5,28,San Jose Sharks,/api/v1/teams/28,2,14,20,5,13,Florida Panthers,/api/v1/teams/13
+1997020514,/api/v1/game/1997020514/feed/live,R,19971998,1997-12-31T02:00:00Z,3,22,10,7,4,Philadelphia Flyers,/api/v1/teams/4,1,11,20,7,22,Edmonton Oilers,/api/v1/teams/22
+1997020515,/api/v1/game/1997020515/feed/live,R,19971998,1997-12-31T23:00:00Z,2,15,21,5,12,Carolina Hurricanes,/api/v1/teams/12,3,21,12,5,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020516,/api/v1/game/1997020516/feed/live,R,19971998,1998-01-01T00:00:00Z,0,18,18,4,9,Ottawa Senators,/api/v1/teams/9,3,14,19,4,7,Buffalo Sabres,/api/v1/teams/7
+1997020517,/api/v1/game/1997020517/feed/live,R,19971998,1998-01-01T00:30:00Z,0,12,18,12,3,New York Rangers,/api/v1/teams/3,2,9,23,12,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020518,/api/v1/game/1997020518/feed/live,R,19971998,1998-01-01T00:30:00Z,2,17,16,7,6,Boston Bruins,/api/v1/teams/6,2,13,19,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020519,/api/v1/game/1997020519/feed/live,R,19971998,1998-01-01T00:30:00Z,2,22,15,6,19,St. Louis Blues,/api/v1/teams/19,5,25,9,6,17,Detroit Red Wings,/api/v1/teams/17
+1997020522,/api/v1/game/1997020522/feed/live,R,19971998,1998-01-01T01:00:00Z,3,21,15,6,8,Montréal Canadiens,/api/v1/teams/8,2,11,23,6,20,Calgary Flames,/api/v1/teams/20
+1997020520,/api/v1/game/1997020520/feed/live,R,19971998,1998-01-01T01:30:00Z,2,16,16,7,26,Los Angeles Kings,/api/v1/teams/26,2,25,9,7,25,Dallas Stars,/api/v1/teams/25
+1997020523,/api/v1/game/1997020523/feed/live,R,19971998,1998-01-01T02:00:00Z,8,23,10,7,4,Philadelphia Flyers,/api/v1/teams/4,0,11,23,7,23,Vancouver Canucks,/api/v1/teams/23
+1997020521,/api/v1/game/1997020521/feed/live,R,19971998,1998-01-01T02:00:00Z,1,15,20,5,2,New York Islanders,/api/v1/teams/2,3,21,8,5,21,Colorado Avalanche,/api/v1/teams/21
+1997020526,/api/v1/game/1997020526/feed/live,R,19971998,1998-01-01T17:00:00Z,1,25,12,2,1,New Jersey Devils,/api/v1/teams/1,2,15,20,2,13,Florida Panthers,/api/v1/teams/13
+1997020525,/api/v1/game/1997020525/feed/live,R,19971998,1998-01-01T18:30:00Z,2,13,21,7,24,Anaheim Ducks,/api/v1/teams/24,3,18,15,7,15,Washington Capitals,/api/v1/teams/15
+1997020524,/api/v1/game/1997020524/feed/live,R,19971998,1998-01-02T00:30:00Z,0,18,18,5,9,Ottawa Senators,/api/v1/teams/9,0,17,16,5,6,Boston Bruins,/api/v1/teams/6
+1997020527,/api/v1/game/1997020527/feed/live,R,19971998,1998-01-02T01:30:00Z,3,13,19,7,10,Toronto Maple Leafs,/api/v1/teams/10,3,14,18,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020528,/api/v1/game/1997020528/feed/live,R,19971998,1998-01-02T02:00:00Z,0,16,17,7,26,Los Angeles Kings,/api/v1/teams/26,4,18,16,7,27,Phoenix Coyotes,/api/v1/teams/27
+1997020529,/api/v1/game/1997020529/feed/live,R,19971998,1998-01-03T00:30:00Z,2,21,8,13,21,Colorado Avalanche,/api/v1/teams/21,2,14,19,13,7,Buffalo Sabres,/api/v1/teams/7
+1997020530,/api/v1/game/1997020530/feed/live,R,19971998,1998-01-03T00:30:00Z,2,15,20,7,13,Florida Panthers,/api/v1/teams/13,2,9,23,7,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020531,/api/v1/game/1997020531/feed/live,R,19971998,1998-01-03T00:30:00Z,4,15,20,5,28,San Jose Sharks,/api/v1/teams/28,1,25,10,5,17,Detroit Red Wings,/api/v1/teams/17
+1997020532,/api/v1/game/1997020532/feed/live,R,19971998,1998-01-03T01:30:00Z,1,15,21,5,2,New York Islanders,/api/v1/teams/2,2,26,9,5,25,Dallas Stars,/api/v1/teams/25
+1997020533,/api/v1/game/1997020533/feed/live,R,19971998,1998-01-03T02:00:00Z,5,22,15,6,8,Montréal Canadiens,/api/v1/teams/8,3,11,21,6,22,Edmonton Oilers,/api/v1/teams/22
+1997020534,/api/v1/game/1997020534/feed/live,R,19971998,1998-01-04T00:00:00Z,0,15,21,5,28,San Jose Sharks,/api/v1/teams/28,3,18,16,5,6,Boston Bruins,/api/v1/teams/6
+1997020535,/api/v1/game/1997020535/feed/live,R,19971998,1998-01-04T00:00:00Z,6,27,9,7,25,Dallas Stars,/api/v1/teams/25,1,15,22,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020536,/api/v1/game/1997020536/feed/live,R,19971998,1998-01-04T00:00:00Z,5,22,8,13,21,Colorado Avalanche,/api/v1/teams/21,4,21,13,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020539,/api/v1/game/1997020539/feed/live,R,19971998,1998-01-04T00:00:00Z,3,13,18,12,3,New York Rangers,/api/v1/teams/3,2,18,16,12,15,Washington Capitals,/api/v1/teams/15
+1997020540,/api/v1/game/1997020540/feed/live,R,19971998,1998-01-04T00:00:00Z,4,14,21,7,24,Anaheim Ducks,/api/v1/teams/24,1,9,24,7,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020537,/api/v1/game/1997020537/feed/live,R,19971998,1998-01-04T00:30:00Z,7,24,10,7,4,Philadelphia Flyers,/api/v1/teams/4,2,18,19,7,9,Ottawa Senators,/api/v1/teams/9
+1997020538,/api/v1/game/1997020538/feed/live,R,19971998,1998-01-04T00:30:00Z,2,13,20,7,10,Toronto Maple Leafs,/api/v1/teams/10,4,26,12,7,1,New Jersey Devils,/api/v1/teams/1
+1997020541,/api/v1/game/1997020541/feed/live,R,19971998,1998-01-04T01:30:00Z,3,11,24,8,20,Calgary Flames,/api/v1/teams/20,4,23,15,8,19,St. Louis Blues,/api/v1/teams/19
+1997020542,/api/v1/game/1997020542/feed/live,R,19971998,1998-01-04T02:00:00Z,1,15,22,5,2,New York Islanders,/api/v1/teams/2,2,19,16,5,27,Phoenix Coyotes,/api/v1/teams/27
+1997020543,/api/v1/game/1997020543/feed/live,R,19971998,1998-01-04T03:30:00Z,4,23,15,6,8,Montréal Canadiens,/api/v1/teams/8,2,11,24,6,23,Vancouver Canucks,/api/v1/teams/23
+1997020546,/api/v1/game/1997020546/feed/live,R,19971998,1998-01-04T21:00:00Z,3,17,17,7,26,Los Angeles Kings,/api/v1/teams/26,2,11,22,7,22,Edmonton Oilers,/api/v1/teams/22
+1997020544,/api/v1/game/1997020544/feed/live,R,19971998,1998-01-04T23:00:00Z,3,14,21,8,24,Anaheim Ducks,/api/v1/teams/24,3,15,20,8,13,Florida Panthers,/api/v1/teams/13
+1997020545,/api/v1/game/1997020545/feed/live,R,19971998,1998-01-05T01:00:00Z,1,25,11,8,17,Detroit Red Wings,/api/v1/teams/17,3,15,18,8,16,Chicago Blackhawks,/api/v1/teams/16
+1997020547,/api/v1/game/1997020547/feed/live,R,19971998,1998-01-06T00:30:00Z,1,18,20,5,9,Ottawa Senators,/api/v1/teams/9,4,16,22,5,12,Carolina Hurricanes,/api/v1/teams/12
+1997020548,/api/v1/game/1997020548/feed/live,R,19971998,1998-01-06T00:30:00Z,4,28,9,7,25,Dallas Stars,/api/v1/teams/25,3,26,13,7,1,New Jersey Devils,/api/v1/teams/1
+1997020549,/api/v1/game/1997020549/feed/live,R,19971998,1998-01-06T01:30:00Z,1,11,24,9,20,Calgary Flames,/api/v1/teams/20,1,15,18,9,16,Chicago Blackhawks,/api/v1/teams/16
+1997020550,/api/v1/game/1997020550/feed/live,R,19971998,1998-01-06T03:00:00Z,2,17,18,7,26,Los Angeles Kings,/api/v1/teams/26,3,12,24,7,23,Vancouver Canucks,/api/v1/teams/23
+1997020553,/api/v1/game/1997020553/feed/live,R,19971998,1998-01-07T00:00:00Z,3,13,21,7,10,Toronto Maple Leafs,/api/v1/teams/10,5,19,16,7,15,Washington Capitals,/api/v1/teams/15
+1997020551,/api/v1/game/1997020551/feed/live,R,19971998,1998-01-07T00:30:00Z,4,22,13,8,5,Pittsburgh Penguins,/api/v1/teams/5,2,15,23,8,2,New York Islanders,/api/v1/teams/2
+1997020552,/api/v1/game/1997020552/feed/live,R,19971998,1998-01-07T00:30:00Z,2,16,23,5,12,Carolina Hurricanes,/api/v1/teams/12,4,14,18,5,3,New York Rangers,/api/v1/teams/3
+1997020554,/api/v1/game/1997020554/feed/live,R,19971998,1998-01-07T00:30:00Z,0,19,17,7,27,Phoenix Coyotes,/api/v1/teams/27,2,26,11,7,17,Detroit Red Wings,/api/v1/teams/17
+1997020555,/api/v1/game/1997020555/feed/live,R,19971998,1998-01-07T02:00:00Z,3,12,24,9,20,Calgary Flames,/api/v1/teams/20,1,22,9,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020556,/api/v1/game/1997020556/feed/live,R,19971998,1998-01-07T03:30:00Z,5,24,15,6,19,St. Louis Blues,/api/v1/teams/19,1,15,22,6,28,San Jose Sharks,/api/v1/teams/28
+1997020557,/api/v1/game/1997020557/feed/live,R,19971998,1998-01-08T00:30:00Z,2,19,16,8,6,Boston Bruins,/api/v1/teams/6,1,23,16,8,8,Montréal Canadiens,/api/v1/teams/8
+1997020558,/api/v1/game/1997020558/feed/live,R,19971998,1998-01-08T00:30:00Z,1,22,14,8,5,Pittsburgh Penguins,/api/v1/teams/5,3,27,13,8,1,New Jersey Devils,/api/v1/teams/1
+1997020559,/api/v1/game/1997020559/feed/live,R,19971998,1998-01-08T00:30:00Z,5,14,21,7,10,Toronto Maple Leafs,/api/v1/teams/10,2,9,25,7,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020560,/api/v1/game/1997020560/feed/live,R,19971998,1998-01-08T01:30:00Z,2,19,20,5,9,Ottawa Senators,/api/v1/teams/9,0,28,10,5,25,Dallas Stars,/api/v1/teams/25
+1997020561,/api/v1/game/1997020561/feed/live,R,19971998,1998-01-08T02:00:00Z,2,15,21,8,13,Florida Panthers,/api/v1/teams/13,3,12,22,8,22,Edmonton Oilers,/api/v1/teams/22
+1997020562,/api/v1/game/1997020562/feed/live,R,19971998,1998-01-08T03:00:00Z,3,25,15,6,19,St. Louis Blues,/api/v1/teams/19,2,12,25,6,23,Vancouver Canucks,/api/v1/teams/23
+1997020563,/api/v1/game/1997020563/feed/live,R,19971998,1998-01-08T03:30:00Z,3,15,19,7,7,Buffalo Sabres,/api/v1/teams/7,2,14,22,7,24,Anaheim Ducks,/api/v1/teams/24
+1997020564,/api/v1/game/1997020564/feed/live,R,19971998,1998-01-09T00:30:00Z,2,19,18,7,27,Phoenix Coyotes,/api/v1/teams/27,5,20,16,7,6,Boston Bruins,/api/v1/teams/6
+1997020565,/api/v1/game/1997020565/feed/live,R,19971998,1998-01-09T00:30:00Z,3,24,10,8,4,Philadelphia Flyers,/api/v1/teams/4,3,16,23,8,12,Carolina Hurricanes,/api/v1/teams/12
+1997020566,/api/v1/game/1997020566/feed/live,R,19971998,1998-01-09T00:30:00Z,8,24,16,6,8,Montréal Canadiens,/api/v1/teams/8,2,15,24,6,2,New York Islanders,/api/v1/teams/2
+1997020567,/api/v1/game/1997020567/feed/live,R,19971998,1998-01-09T00:30:00Z,5,20,16,8,15,Washington Capitals,/api/v1/teams/15,3,14,19,8,3,New York Rangers,/api/v1/teams/3
+1997020568,/api/v1/game/1997020568/feed/live,R,19971998,1998-01-09T02:00:00Z,4,12,25,7,23,Vancouver Canucks,/api/v1/teams/23,4,22,9,7,21,Colorado Avalanche,/api/v1/teams/21
+1997020569,/api/v1/game/1997020569/feed/live,R,19971998,1998-01-09T03:30:00Z,2,15,19,8,7,Buffalo Sabres,/api/v1/teams/7,2,17,18,8,26,Los Angeles Kings,/api/v1/teams/26
+1997020571,/api/v1/game/1997020571/feed/live,R,19971998,1998-01-10T00:00:00Z,1,24,11,8,4,Philadelphia Flyers,/api/v1/teams/4,4,21,16,8,15,Washington Capitals,/api/v1/teams/15
+1997020570,/api/v1/game/1997020570/feed/live,R,19971998,1998-01-10T00:30:00Z,1,9,26,8,14,Tampa Bay Lightning,/api/v1/teams/14,4,28,13,8,1,New Jersey Devils,/api/v1/teams/1
+1997020572,/api/v1/game/1997020572/feed/live,R,19971998,1998-01-10T01:30:00Z,4,20,18,7,27,Phoenix Coyotes,/api/v1/teams/27,2,15,19,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020573,/api/v1/game/1997020573/feed/live,R,19971998,1998-01-10T01:30:00Z,3,26,11,9,17,Detroit Red Wings,/api/v1/teams/17,3,28,10,9,25,Dallas Stars,/api/v1/teams/25
+1997020574,/api/v1/game/1997020574/feed/live,R,19971998,1998-01-10T02:00:00Z,3,15,21,9,13,Florida Panthers,/api/v1/teams/13,3,12,24,9,20,Calgary Flames,/api/v1/teams/20
+1997020575,/api/v1/game/1997020575/feed/live,R,19971998,1998-01-10T03:30:00Z,5,13,22,9,22,Edmonton Oilers,/api/v1/teams/22,1,14,23,9,24,Anaheim Ducks,/api/v1/teams/24
+1997020578,/api/v1/game/1997020578/feed/live,R,19971998,1998-01-10T18:00:00Z,2,17,23,6,12,Carolina Hurricanes,/api/v1/teams/12,1,15,25,6,2,New York Islanders,/api/v1/teams/2
+1997020576,/api/v1/game/1997020576/feed/live,R,19971998,1998-01-11T00:00:00Z,1,28,14,2,1,New Jersey Devils,/api/v1/teams/1,4,23,14,2,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020579,/api/v1/game/1997020579/feed/live,R,19971998,1998-01-11T00:30:00Z,4,16,19,9,16,Chicago Blackhawks,/api/v1/teams/16,3,14,22,9,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020580,/api/v1/game/1997020580/feed/live,R,19971998,1998-01-11T02:00:00Z,3,19,20,6,9,Ottawa Senators,/api/v1/teams/9,3,22,9,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020581,/api/v1/game/1997020581/feed/live,R,19971998,1998-01-11T02:00:00Z,5,26,15,6,19,St. Louis Blues,/api/v1/teams/19,1,12,25,6,20,Calgary Flames,/api/v1/teams/20
+1997020582,/api/v1/game/1997020582/feed/live,R,19971998,1998-01-11T03:30:00Z,2,15,21,10,13,Florida Panthers,/api/v1/teams/13,2,12,25,10,23,Vancouver Canucks,/api/v1/teams/23
+1997020583,/api/v1/game/1997020583/feed/live,R,19971998,1998-01-11T03:30:00Z,2,15,20,8,7,Buffalo Sabres,/api/v1/teams/7,5,16,22,8,28,San Jose Sharks,/api/v1/teams/28
+1997020584,/api/v1/game/1997020584/feed/live,R,19971998,1998-01-11T03:30:00Z,4,14,22,9,22,Edmonton Oilers,/api/v1/teams/22,3,17,19,9,26,Los Angeles Kings,/api/v1/teams/26
+1997020586,/api/v1/game/1997020586/feed/live,R,19971998,1998-01-11T20:00:00Z,0,21,17,8,15,Washington Capitals,/api/v1/teams/15,2,27,11,8,17,Detroit Red Wings,/api/v1/teams/17
+1997020588,/api/v1/game/1997020588/feed/live,R,19971998,1998-01-12T01:00:00Z,1,28,11,8,25,Dallas Stars,/api/v1/teams/25,2,15,23,8,24,Anaheim Ducks,/api/v1/teams/24
+1997020585,/api/v1/game/1997020585/feed/live,R,19971998,1998-01-12T01:00:00Z,5,25,11,8,4,Philadelphia Flyers,/api/v1/teams/4,2,9,27,8,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020587,/api/v1/game/1997020587/feed/live,R,19971998,1998-01-12T02:00:00Z,4,19,20,7,9,Ottawa Senators,/api/v1/teams/9,4,20,18,7,27,Phoenix Coyotes,/api/v1/teams/27
+1997020589,/api/v1/game/1997020589/feed/live,R,19971998,1998-01-13T00:30:00Z,1,28,14,3,1,New Jersey Devils,/api/v1/teams/1,1,20,16,3,6,Boston Bruins,/api/v1/teams/6
+1997020590,/api/v1/game/1997020590/feed/live,R,19971998,1998-01-13T00:30:00Z,4,24,14,8,5,Pittsburgh Penguins,/api/v1/teams/5,1,17,24,8,12,Carolina Hurricanes,/api/v1/teams/12
+1997020591,/api/v1/game/1997020591/feed/live,R,19971998,1998-01-13T00:30:00Z,1,27,11,10,17,Detroit Red Wings,/api/v1/teams/17,1,15,25,10,2,New York Islanders,/api/v1/teams/2
+1997020592,/api/v1/game/1997020592/feed/live,R,19971998,1998-01-13T00:30:00Z,2,14,23,7,10,Toronto Maple Leafs,/api/v1/teams/10,3,15,19,7,3,New York Rangers,/api/v1/teams/3
+1997020593,/api/v1/game/1997020593/feed/live,R,19971998,1998-01-13T00:30:00Z,6,25,16,6,8,Montréal Canadiens,/api/v1/teams/8,3,9,28,6,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020594,/api/v1/game/1997020594/feed/live,R,19971998,1998-01-13T01:30:00Z,2,12,26,8,23,Vancouver Canucks,/api/v1/teams/23,3,17,19,8,16,Chicago Blackhawks,/api/v1/teams/16
+1997020595,/api/v1/game/1997020595/feed/live,R,19971998,1998-01-13T02:00:00Z,1,15,22,10,13,Florida Panthers,/api/v1/teams/13,3,23,9,10,21,Colorado Avalanche,/api/v1/teams/21
+1997020596,/api/v1/game/1997020596/feed/live,R,19971998,1998-01-13T02:00:00Z,1,26,16,6,19,St. Louis Blues,/api/v1/teams/19,2,15,22,6,22,Edmonton Oilers,/api/v1/teams/22
+1997020597,/api/v1/game/1997020597/feed/live,R,19971998,1998-01-13T03:30:00Z,3,29,11,8,25,Dallas Stars,/api/v1/teams/25,1,16,23,8,28,San Jose Sharks,/api/v1/teams/28
+1997020598,/api/v1/game/1997020598/feed/live,R,19971998,1998-01-13T03:30:00Z,2,15,24,8,24,Anaheim Ducks,/api/v1/teams/24,3,18,19,8,26,Los Angeles Kings,/api/v1/teams/26
+1997020599,/api/v1/game/1997020599/feed/live,R,19971998,1998-01-14T00:00:00Z,0,19,21,7,9,Ottawa Senators,/api/v1/teams/9,4,22,17,7,15,Washington Capitals,/api/v1/teams/15
+1997020600,/api/v1/game/1997020600/feed/live,R,19971998,1998-01-15T00:30:00Z,2,24,15,8,5,Pittsburgh Penguins,/api/v1/teams/5,5,21,16,8,6,Boston Bruins,/api/v1/teams/6
+1997020601,/api/v1/game/1997020601/feed/live,R,19971998,1998-01-15T00:30:00Z,4,18,19,9,16,Chicago Blackhawks,/api/v1/teams/16,1,17,25,9,12,Carolina Hurricanes,/api/v1/teams/12
+1997020602,/api/v1/game/1997020602/feed/live,R,19971998,1998-01-15T00:30:00Z,1,15,20,12,3,New York Rangers,/api/v1/teams/3,4,29,14,12,1,New Jersey Devils,/api/v1/teams/1
+1997020603,/api/v1/game/1997020603/feed/live,R,19971998,1998-01-15T00:30:00Z,3,25,16,7,8,Montréal Canadiens,/api/v1/teams/8,3,25,11,7,4,Philadelphia Flyers,/api/v1/teams/4
+1997020604,/api/v1/game/1997020604/feed/live,R,19971998,1998-01-15T00:30:00Z,7,16,25,6,2,New York Islanders,/api/v1/teams/2,1,9,29,6,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020605,/api/v1/game/1997020605/feed/live,R,19971998,1998-01-15T00:30:00Z,4,16,20,8,7,Buffalo Sabres,/api/v1/teams/7,1,14,24,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020606,/api/v1/game/1997020606/feed/live,R,19971998,1998-01-15T00:30:00Z,0,12,27,8,23,Vancouver Canucks,/api/v1/teams/23,4,28,11,8,17,Detroit Red Wings,/api/v1/teams/17
+1997020607,/api/v1/game/1997020607/feed/live,R,19971998,1998-01-15T01:30:00Z,2,30,11,8,25,Dallas Stars,/api/v1/teams/25,1,26,17,8,19,St. Louis Blues,/api/v1/teams/19
+1997020608,/api/v1/game/1997020608/feed/live,R,19971998,1998-01-15T02:00:00Z,2,15,23,10,13,Florida Panthers,/api/v1/teams/13,3,21,18,10,27,Phoenix Coyotes,/api/v1/teams/27
+1997020609,/api/v1/game/1997020609/feed/live,R,19971998,1998-01-15T02:00:00Z,2,12,26,10,20,Calgary Flames,/api/v1/teams/20,5,16,22,10,22,Edmonton Oilers,/api/v1/teams/22
+1997020610,/api/v1/game/1997020610/feed/live,R,19971998,1998-01-15T03:30:00Z,4,19,19,8,26,Los Angeles Kings,/api/v1/teams/26,2,16,24,8,28,San Jose Sharks,/api/v1/teams/28
+1997020611,/api/v1/game/1997020611/feed/live,R,19971998,1998-01-15T03:30:00Z,2,24,9,15,21,Colorado Avalanche,/api/v1/teams/21,0,15,25,15,24,Anaheim Ducks,/api/v1/teams/24
+1997020613,/api/v1/game/1997020613/feed/live,R,19971998,1998-01-16T00:00:00Z,2,18,20,9,16,Chicago Blackhawks,/api/v1/teams/16,3,23,17,9,15,Washington Capitals,/api/v1/teams/15
+1997020612,/api/v1/game/1997020612/feed/live,R,19971998,1998-01-16T00:30:00Z,2,12,28,8,23,Vancouver Canucks,/api/v1/teams/23,6,17,20,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020614,/api/v1/game/1997020614/feed/live,R,19971998,1998-01-16T02:00:00Z,2,16,24,6,28,San Jose Sharks,/api/v1/teams/28,2,24,9,6,21,Colorado Avalanche,/api/v1/teams/21
+1997020615,/api/v1/game/1997020615/feed/live,R,19971998,1998-01-21T00:00:00Z,0,19,21,8,9,Ottawa Senators,/api/v1/teams/9,0,24,15,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020616,/api/v1/game/1997020616/feed/live,R,19971998,1998-01-21T00:30:00Z,1,26,18,6,19,St. Louis Blues,/api/v1/teams/19,3,16,20,6,3,New York Rangers,/api/v1/teams/3
+1997020617,/api/v1/game/1997020617/feed/live,R,19971998,1998-01-21T00:30:00Z,1,28,12,10,17,Detroit Red Wings,/api/v1/teams/17,3,30,14,10,1,New Jersey Devils,/api/v1/teams/1
+1997020618,/api/v1/game/1997020618/feed/live,R,19971998,1998-01-21T00:30:00Z,0,17,21,8,7,Buffalo Sabres,/api/v1/teams/7,3,26,11,8,4,Philadelphia Flyers,/api/v1/teams/4
+1997020619,/api/v1/game/1997020619/feed/live,R,19971998,1998-01-21T01:30:00Z,2,16,26,6,2,New York Islanders,/api/v1/teams/2,5,19,20,6,16,Chicago Blackhawks,/api/v1/teams/16
+1997020620,/api/v1/game/1997020620/feed/live,R,19971998,1998-01-21T02:00:00Z,2,21,19,8,27,Phoenix Coyotes,/api/v1/teams/27,6,17,22,8,22,Edmonton Oilers,/api/v1/teams/22
+1997020621,/api/v1/game/1997020621/feed/live,R,19971998,1998-01-21T03:30:00Z,3,12,27,10,20,Calgary Flames,/api/v1/teams/20,4,20,19,10,26,Los Angeles Kings,/api/v1/teams/26
+1997020622,/api/v1/game/1997020622/feed/live,R,19971998,1998-01-22T00:00:00Z,1,17,26,6,12,Carolina Hurricanes,/api/v1/teams/12,2,18,21,6,7,Buffalo Sabres,/api/v1/teams/7
+1997020623,/api/v1/game/1997020623/feed/live,R,19971998,1998-01-22T00:30:00Z,2,21,17,9,6,Boston Bruins,/api/v1/teams/6,4,26,16,9,8,Montréal Canadiens,/api/v1/teams/8
+1997020624,/api/v1/game/1997020624/feed/live,R,19971998,1998-01-22T00:30:00Z,3,24,17,8,15,Washington Capitals,/api/v1/teams/15,2,9,30,8,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020625,/api/v1/game/1997020625/feed/live,R,19971998,1998-01-22T00:30:00Z,3,15,24,7,10,Toronto Maple Leafs,/api/v1/teams/10,0,28,13,7,17,Detroit Red Wings,/api/v1/teams/17
+1997020626,/api/v1/game/1997020626/feed/live,R,19971998,1998-01-22T01:30:00Z,2,24,10,16,21,Colorado Avalanche,/api/v1/teams/21,3,31,11,16,25,Dallas Stars,/api/v1/teams/25
+1997020627,/api/v1/game/1997020627/feed/live,R,19971998,1998-01-22T03:00:00Z,6,22,19,8,27,Phoenix Coyotes,/api/v1/teams/27,1,12,29,8,23,Vancouver Canucks,/api/v1/teams/23
+1997020628,/api/v1/game/1997020628/feed/live,R,19971998,1998-01-22T03:30:00Z,1,12,28,10,20,Calgary Flames,/api/v1/teams/20,7,17,24,10,28,San Jose Sharks,/api/v1/teams/28
+1997020629,/api/v1/game/1997020629/feed/live,R,19971998,1998-01-22T03:30:00Z,3,15,24,10,13,Florida Panthers,/api/v1/teams/13,8,16,25,10,24,Anaheim Ducks,/api/v1/teams/24
+1997020630,/api/v1/game/1997020630/feed/live,R,19971998,1998-01-23T00:30:00Z,4,18,26,6,12,Carolina Hurricanes,/api/v1/teams/12,2,19,22,6,9,Ottawa Senators,/api/v1/teams/9
+1997020631,/api/v1/game/1997020631/feed/live,R,19971998,1998-01-23T00:30:00Z,4,27,11,9,4,Philadelphia Flyers,/api/v1/teams/4,3,16,21,9,3,New York Rangers,/api/v1/teams/3
+1997020632,/api/v1/game/1997020632/feed/live,R,19971998,1998-01-23T00:30:00Z,3,25,15,9,5,Pittsburgh Penguins,/api/v1/teams/5,2,30,15,9,1,New Jersey Devils,/api/v1/teams/1
+1997020633,/api/v1/game/1997020633/feed/live,R,19971998,1998-01-23T01:30:00Z,3,16,24,7,10,Toronto Maple Leafs,/api/v1/teams/10,0,19,21,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020634,/api/v1/game/1997020634/feed/live,R,19971998,1998-01-23T01:30:00Z,3,16,26,7,2,New York Islanders,/api/v1/teams/2,3,26,18,7,19,St. Louis Blues,/api/v1/teams/19
+1997020635,/api/v1/game/1997020635/feed/live,R,19971998,1998-01-23T02:00:00Z,4,17,25,8,24,Anaheim Ducks,/api/v1/teams/24,3,24,11,8,21,Colorado Avalanche,/api/v1/teams/21
+1997020636,/api/v1/game/1997020636/feed/live,R,19971998,1998-01-23T03:30:00Z,1,15,25,10,13,Florida Panthers,/api/v1/teams/13,3,21,19,10,26,Los Angeles Kings,/api/v1/teams/26
+1997020637,/api/v1/game/1997020637/feed/live,R,19971998,1998-01-24T00:30:00Z,1,9,31,8,14,Tampa Bay Lightning,/api/v1/teams/14,4,19,21,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020638,/api/v1/game/1997020638/feed/live,R,19971998,1998-01-24T03:30:00Z,2,17,23,9,22,Edmonton Oilers,/api/v1/teams/22,3,18,24,9,28,San Jose Sharks,/api/v1/teams/28
+1997020641,/api/v1/game/1997020641/feed/live,R,19971998,1998-01-24T18:30:00Z,4,19,26,6,12,Carolina Hurricanes,/api/v1/teams/12,3,26,17,6,8,Montréal Canadiens,/api/v1/teams/8
+1997020650,/api/v1/game/1997020650/feed/live,R,19971998,1998-01-24T20:00:00Z,3,21,19,9,26,Los Angeles Kings,/api/v1/teams/26,3,17,25,9,24,Anaheim Ducks,/api/v1/teams/24
+1997020646,/api/v1/game/1997020646/feed/live,R,19971998,1998-01-24T20:00:00Z,3,32,11,8,25,Dallas Stars,/api/v1/teams/25,2,24,12,8,21,Colorado Avalanche,/api/v1/teams/21
+1997020645,/api/v1/game/1997020645/feed/live,R,19971998,1998-01-24T20:00:00Z,4,26,19,7,19,St. Louis Blues,/api/v1/teams/19,5,20,21,7,16,Chicago Blackhawks,/api/v1/teams/16
+1997020639,/api/v1/game/1997020639/feed/live,R,19971998,1998-01-24T20:00:00Z,2,21,18,9,6,Boston Bruins,/api/v1/teams/6,4,26,15,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020642,/api/v1/game/1997020642/feed/live,R,19971998,1998-01-24T20:00:00Z,3,30,15,4,1,New Jersey Devils,/api/v1/teams/1,3,16,21,4,3,New York Rangers,/api/v1/teams/3
+1997020644,/api/v1/game/1997020644/feed/live,R,19971998,1998-01-24T20:00:00Z,0,27,12,9,4,Philadelphia Flyers,/api/v1/teams/4,1,29,13,9,17,Detroit Red Wings,/api/v1/teams/17
+1997020640,/api/v1/game/1997020640/feed/live,R,19971998,1998-01-25T00:30:00Z,2,16,27,7,2,New York Islanders,/api/v1/teams/2,3,20,22,7,9,Ottawa Senators,/api/v1/teams/9
+1997020643,/api/v1/game/1997020643/feed/live,R,19971998,1998-01-25T00:30:00Z,2,9,32,8,14,Tampa Bay Lightning,/api/v1/teams/14,5,17,24,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020647,/api/v1/game/1997020647/feed/live,R,19971998,1998-01-25T02:00:00Z,5,18,23,9,22,Edmonton Oilers,/api/v1/teams/22,2,22,20,9,27,Phoenix Coyotes,/api/v1/teams/27
+1997020649,/api/v1/game/1997020649/feed/live,R,19971998,1998-01-25T03:30:00Z,1,15,25,11,13,Florida Panthers,/api/v1/teams/13,1,18,24,11,28,San Jose Sharks,/api/v1/teams/28
+1997020648,/api/v1/game/1997020648/feed/live,R,19971998,1998-01-25T03:30:00Z,2,12,30,8,23,Vancouver Canucks,/api/v1/teams/23,5,13,28,8,20,Calgary Flames,/api/v1/teams/20
+1997020651,/api/v1/game/1997020651/feed/live,R,19971998,1998-01-25T18:30:00Z,3,31,15,4,1,New Jersey Devils,/api/v1/teams/1,1,26,18,4,8,Montréal Canadiens,/api/v1/teams/8
+1997020652,/api/v1/game/1997020652/feed/live,R,19971998,1998-01-25T19:00:00Z,1,21,19,9,6,Boston Bruins,/api/v1/teams/6,4,25,17,9,15,Washington Capitals,/api/v1/teams/15
+1997020653,/api/v1/game/1997020653/feed/live,R,19971998,1998-01-27T00:00:00Z,2,26,20,7,19,St. Louis Blues,/api/v1/teams/19,4,27,15,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020654,/api/v1/game/1997020654/feed/live,R,19971998,1998-01-27T00:30:00Z,1,9,33,8,14,Tampa Bay Lightning,/api/v1/teams/14,2,21,22,8,9,Ottawa Senators,/api/v1/teams/9
+1997020655,/api/v1/game/1997020655/feed/live,R,19971998,1998-01-27T00:30:00Z,2,25,17,9,15,Washington Capitals,/api/v1/teams/15,2,16,21,9,3,New York Rangers,/api/v1/teams/3
+1997020656,/api/v1/game/1997020656/feed/live,R,19971998,1998-01-27T00:30:00Z,1,16,28,7,2,New York Islanders,/api/v1/teams/2,3,28,12,7,4,Philadelphia Flyers,/api/v1/teams/4
+1997020657,/api/v1/game/1997020657/feed/live,R,19971998,1998-01-27T01:30:00Z,1,17,25,7,10,Toronto Maple Leafs,/api/v1/teams/10,5,33,11,7,25,Dallas Stars,/api/v1/teams/25
+1997020658,/api/v1/game/1997020658/feed/live,R,19971998,1998-01-27T02:00:00Z,1,18,24,9,22,Edmonton Oilers,/api/v1/teams/22,2,25,12,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020659,/api/v1/game/1997020659/feed/live,R,19971998,1998-01-27T02:00:00Z,2,12,31,8,23,Vancouver Canucks,/api/v1/teams/23,4,23,20,8,27,Phoenix Coyotes,/api/v1/teams/27
+1997020661,/api/v1/game/1997020661/feed/live,R,19971998,1998-01-28T00:00:00Z,3,26,20,8,19,St. Louis Blues,/api/v1/teams/19,3,19,21,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020660,/api/v1/game/1997020660/feed/live,R,19971998,1998-01-28T00:30:00Z,1,21,23,8,9,Ottawa Senators,/api/v1/teams/9,6,22,19,8,6,Boston Bruins,/api/v1/teams/6
+1997020662,/api/v1/game/1997020662/feed/live,R,19971998,1998-01-28T00:30:00Z,0,19,27,6,12,Carolina Hurricanes,/api/v1/teams/12,3,16,25,6,13,Florida Panthers,/api/v1/teams/13
+1997020663,/api/v1/game/1997020663/feed/live,R,19971998,1998-01-28T03:30:00Z,2,17,26,9,24,Anaheim Ducks,/api/v1/teams/24,4,19,24,9,28,San Jose Sharks,/api/v1/teams/28
+1997020665,/api/v1/game/1997020665/feed/live,R,19971998,1998-01-29T00:00:00Z,2,27,15,10,5,Pittsburgh Penguins,/api/v1/teams/5,2,25,17,10,15,Washington Capitals,/api/v1/teams/15
+1997020664,/api/v1/game/1997020664/feed/live,R,19971998,1998-01-29T00:30:00Z,1,28,13,9,4,Philadelphia Flyers,/api/v1/teams/4,6,17,28,9,2,New York Islanders,/api/v1/teams/2
+1997020666,/api/v1/game/1997020666/feed/live,R,19971998,1998-01-29T00:30:00Z,3,20,27,6,12,Carolina Hurricanes,/api/v1/teams/12,2,9,34,6,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020667,/api/v1/game/1997020667/feed/live,R,19971998,1998-01-29T00:30:00Z,4,23,20,9,27,Phoenix Coyotes,/api/v1/teams/27,4,29,13,9,17,Detroit Red Wings,/api/v1/teams/17
+1997020668,/api/v1/game/1997020668/feed/live,R,19971998,1998-01-29T02:00:00Z,1,12,32,8,23,Vancouver Canucks,/api/v1/teams/23,6,26,12,8,21,Colorado Avalanche,/api/v1/teams/21
+1997020669,/api/v1/game/1997020669/feed/live,R,19971998,1998-01-29T02:00:00Z,1,31,15,5,1,New Jersey Devils,/api/v1/teams/1,1,18,24,5,22,Edmonton Oilers,/api/v1/teams/22
+1997020670,/api/v1/game/1997020670/feed/live,R,19971998,1998-01-29T03:30:00Z,5,14,28,10,20,Calgary Flames,/api/v1/teams/20,2,17,27,10,24,Anaheim Ducks,/api/v1/teams/24
+1997020671,/api/v1/game/1997020671/feed/live,R,19971998,1998-01-30T00:30:00Z,4,28,15,10,5,Pittsburgh Penguins,/api/v1/teams/5,2,22,20,10,6,Boston Bruins,/api/v1/teams/6
+1997020672,/api/v1/game/1997020672/feed/live,R,19971998,1998-01-30T00:30:00Z,2,16,21,15,3,New York Rangers,/api/v1/teams/3,2,21,23,15,9,Ottawa Senators,/api/v1/teams/9
+1997020673,/api/v1/game/1997020673/feed/live,R,19971998,1998-01-30T00:30:00Z,3,27,18,7,8,Montréal Canadiens,/api/v1/teams/8,2,28,14,7,4,Philadelphia Flyers,/api/v1/teams/4
+1997020674,/api/v1/game/1997020674/feed/live,R,19971998,1998-01-30T00:30:00Z,2,33,12,8,25,Dallas Stars,/api/v1/teams/25,3,17,25,8,13,Florida Panthers,/api/v1/teams/13
+1997020675,/api/v1/game/1997020675/feed/live,R,19971998,1998-01-30T01:30:00Z,0,17,26,7,10,Toronto Maple Leafs,/api/v1/teams/10,2,27,20,7,19,St. Louis Blues,/api/v1/teams/19
+1997020676,/api/v1/game/1997020676/feed/live,R,19971998,1998-01-30T03:30:00Z,3,21,21,9,16,Chicago Blackhawks,/api/v1/teams/16,0,19,25,9,28,San Jose Sharks,/api/v1/teams/28
+1997020677,/api/v1/game/1997020677/feed/live,R,19971998,1998-01-30T03:30:00Z,3,14,29,10,20,Calgary Flames,/api/v1/teams/20,5,22,19,10,26,Los Angeles Kings,/api/v1/teams/26
+1997020678,/api/v1/game/1997020678/feed/live,R,19971998,1998-01-31T00:30:00Z,3,23,20,10,27,Phoenix Coyotes,/api/v1/teams/27,3,19,21,10,7,Buffalo Sabres,/api/v1/teams/7
+1997020679,/api/v1/game/1997020679/feed/live,R,19971998,1998-01-31T00:30:00Z,0,20,28,6,12,Carolina Hurricanes,/api/v1/teams/12,2,18,28,6,2,New York Islanders,/api/v1/teams/2
+1997020680,/api/v1/game/1997020680/feed/live,R,19971998,1998-01-31T03:00:00Z,1,31,16,5,1,New Jersey Devils,/api/v1/teams/1,3,13,32,5,23,Vancouver Canucks,/api/v1/teams/23
+1997020684,/api/v1/game/1997020684/feed/live,R,19971998,1998-01-31T17:00:00Z,3,26,17,10,15,Washington Capitals,/api/v1/teams/15,2,28,15,10,4,Philadelphia Flyers,/api/v1/teams/4
+1997020690,/api/v1/game/1997020690/feed/live,R,19971998,1998-01-31T20:00:00Z,2,26,13,16,21,Colorado Avalanche,/api/v1/teams/21,5,20,25,16,28,San Jose Sharks,/api/v1/teams/28
+1997020691,/api/v1/game/1997020691/feed/live,R,19971998,1998-01-31T20:00:00Z,0,21,22,9,16,Chicago Blackhawks,/api/v1/teams/16,3,23,19,9,26,Los Angeles Kings,/api/v1/teams/26
+1997020687,/api/v1/game/1997020687/feed/live,R,19971998,1998-01-31T20:00:00Z,3,33,13,8,25,Dallas Stars,/api/v1/teams/25,6,28,20,8,19,St. Louis Blues,/api/v1/teams/19
+1997020681,/api/v1/game/1997020681/feed/live,R,19971998,1998-01-31T20:00:00Z,2,16,22,15,3,New York Rangers,/api/v1/teams/3,4,23,20,15,6,Boston Bruins,/api/v1/teams/6
+1997020682,/api/v1/game/1997020682/feed/live,R,19971998,1998-01-31T20:00:00Z,2,29,14,11,17,Detroit Red Wings,/api/v1/teams/17,4,29,15,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020685,/api/v1/game/1997020685/feed/live,R,19971998,1998-01-31T20:00:00Z,0,9,35,8,14,Tampa Bay Lightning,/api/v1/teams/14,2,18,25,8,13,Florida Panthers,/api/v1/teams/13
+1997020683,/api/v1/game/1997020683/feed/live,R,19971998,1998-02-01T00:30:00Z,4,22,23,9,9,Ottawa Senators,/api/v1/teams/9,3,27,19,9,8,Montréal Canadiens,/api/v1/teams/8
+1997020686,/api/v1/game/1997020686/feed/live,R,19971998,1998-02-01T00:30:00Z,5,24,20,10,27,Phoenix Coyotes,/api/v1/teams/27,2,17,27,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020688,/api/v1/game/1997020688/feed/live,R,19971998,1998-02-01T02:00:00Z,2,31,16,6,1,New Jersey Devils,/api/v1/teams/1,2,14,29,6,20,Calgary Flames,/api/v1/teams/20
+1997020689,/api/v1/game/1997020689/feed/live,R,19971998,1998-02-01T03:30:00Z,6,14,32,8,23,Vancouver Canucks,/api/v1/teams/23,3,18,25,8,22,Edmonton Oilers,/api/v1/teams/22
+1997020694,/api/v1/game/1997020694/feed/live,R,19971998,1998-02-01T18:30:00Z,4,30,14,11,17,Detroit Red Wings,/api/v1/teams/17,2,26,18,11,15,Washington Capitals,/api/v1/teams/15
+1997020693,/api/v1/game/1997020693/feed/live,R,19971998,1998-02-01T19:00:00Z,2,23,20,10,6,Boston Bruins,/api/v1/teams/6,2,18,28,10,2,New York Islanders,/api/v1/teams/2
+1997020695,/api/v1/game/1997020695/feed/live,R,19971998,1998-02-01T23:00:00Z,5,20,21,10,7,Buffalo Sabres,/api/v1/teams/7,2,18,26,10,13,Florida Panthers,/api/v1/teams/13
+1997020692,/api/v1/game/1997020692/feed/live,R,19971998,1998-02-02T00:00:00Z,6,28,19,7,8,Montréal Canadiens,/api/v1/teams/8,3,20,29,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020696,/api/v1/game/1997020696/feed/live,R,19971998,1998-02-02T01:00:00Z,3,21,23,9,16,Chicago Blackhawks,/api/v1/teams/16,4,18,27,9,24,Anaheim Ducks,/api/v1/teams/24
+1997020697,/api/v1/game/1997020697/feed/live,R,19971998,1998-02-03T00:00:00Z,4,19,28,8,2,New York Islanders,/api/v1/teams/2,2,29,16,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020698,/api/v1/game/1997020698/feed/live,R,19971998,1998-02-03T00:30:00Z,1,32,16,6,1,New Jersey Devils,/api/v1/teams/1,0,22,24,6,9,Ottawa Senators,/api/v1/teams/9
+1997020699,/api/v1/game/1997020699/feed/live,R,19971998,1998-02-03T00:30:00Z,7,21,21,10,7,Buffalo Sabres,/api/v1/teams/7,3,9,36,10,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020700,/api/v1/game/1997020700/feed/live,R,19971998,1998-02-03T00:30:00Z,5,34,13,8,25,Dallas Stars,/api/v1/teams/25,1,17,28,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020701,/api/v1/game/1997020701/feed/live,R,19971998,1998-02-03T02:00:00Z,0,23,20,9,26,Los Angeles Kings,/api/v1/teams/26,1,19,25,9,22,Edmonton Oilers,/api/v1/teams/22
+1997020702,/api/v1/game/1997020702/feed/live,R,19971998,1998-02-03T03:00:00Z,2,27,13,16,21,Colorado Avalanche,/api/v1/teams/21,1,14,33,16,23,Vancouver Canucks,/api/v1/teams/23
+1997020703,/api/v1/game/1997020703/feed/live,R,19971998,1998-02-03T03:30:00Z,3,17,22,15,3,New York Rangers,/api/v1/teams/3,2,20,26,15,28,San Jose Sharks,/api/v1/teams/28
+1997020704,/api/v1/game/1997020704/feed/live,R,19971998,1998-02-04T00:30:00Z,1,30,14,12,17,Detroit Red Wings,/api/v1/teams/17,1,18,26,12,13,Florida Panthers,/api/v1/teams/13
+1997020705,/api/v1/game/1997020705/feed/live,R,19971998,1998-02-04T02:00:00Z,4,22,23,9,16,Chicago Blackhawks,/api/v1/teams/16,2,24,21,9,27,Phoenix Coyotes,/api/v1/teams/27
+1997020706,/api/v1/game/1997020706/feed/live,R,19971998,1998-02-04T02:00:00Z,6,24,20,9,26,Los Angeles Kings,/api/v1/teams/26,3,14,30,9,20,Calgary Flames,/api/v1/teams/20
+1997020708,/api/v1/game/1997020708/feed/live,R,19971998,1998-02-05T00:00:00Z,2,26,18,11,15,Washington Capitals,/api/v1/teams/15,2,29,16,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020709,/api/v1/game/1997020709/feed/live,R,19971998,1998-02-05T00:00:00Z,2,23,20,11,6,Boston Bruins,/api/v1/teams/6,2,21,21,11,7,Buffalo Sabres,/api/v1/teams/7
+1997020707,/api/v1/game/1997020707/feed/live,R,19971998,1998-02-05T00:30:00Z,3,9,36,9,14,Tampa Bay Lightning,/api/v1/teams/14,3,20,29,9,12,Carolina Hurricanes,/api/v1/teams/12
+1997020710,/api/v1/game/1997020710/feed/live,R,19971998,1998-02-05T00:30:00Z,2,28,20,7,8,Montréal Canadiens,/api/v1/teams/8,4,20,28,7,2,New York Islanders,/api/v1/teams/2
+1997020711,/api/v1/game/1997020711/feed/live,R,19971998,1998-02-05T00:30:00Z,0,22,25,9,9,Ottawa Senators,/api/v1/teams/9,2,33,16,9,1,New Jersey Devils,/api/v1/teams/1
+1997020712,/api/v1/game/1997020712/feed/live,R,19971998,1998-02-05T00:30:00Z,2,28,21,8,19,St. Louis Blues,/api/v1/teams/19,3,18,28,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020713,/api/v1/game/1997020713/feed/live,R,19971998,1998-02-05T01:30:00Z,0,28,16,9,4,Philadelphia Flyers,/api/v1/teams/4,1,35,13,9,25,Dallas Stars,/api/v1/teams/25
+1997020714,/api/v1/game/1997020714/feed/live,R,19971998,1998-02-05T02:00:00Z,3,21,26,7,28,San Jose Sharks,/api/v1/teams/28,0,19,26,7,22,Edmonton Oilers,/api/v1/teams/22
+1997020715,/api/v1/game/1997020715/feed/live,R,19971998,1998-02-05T03:30:00Z,2,17,23,15,3,New York Rangers,/api/v1/teams/3,3,19,27,15,24,Anaheim Ducks,/api/v1/teams/24
+1997020716,/api/v1/game/1997020716/feed/live,R,19971998,1998-02-06T00:30:00Z,3,29,21,8,19,St. Louis Blues,/api/v1/teams/19,1,23,21,8,6,Boston Bruins,/api/v1/teams/6
+1997020717,/api/v1/game/1997020717/feed/live,R,19971998,1998-02-06T00:30:00Z,2,18,29,7,10,Toronto Maple Leafs,/api/v1/teams/10,3,23,25,7,9,Ottawa Senators,/api/v1/teams/9
+1997020718,/api/v1/game/1997020718/feed/live,R,19971998,1998-02-06T00:30:00Z,5,31,14,12,17,Detroit Red Wings,/api/v1/teams/17,4,9,37,12,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020719,/api/v1/game/1997020719/feed/live,R,19971998,1998-02-06T02:00:00Z,2,22,24,9,16,Chicago Blackhawks,/api/v1/teams/16,4,28,13,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020720,/api/v1/game/1997020720/feed/live,R,19971998,1998-02-06T02:00:00Z,6,29,16,9,4,Philadelphia Flyers,/api/v1/teams/4,2,24,22,9,27,Phoenix Coyotes,/api/v1/teams/27
+1997020721,/api/v1/game/1997020721/feed/live,R,19971998,1998-02-06T02:00:00Z,2,21,27,7,28,San Jose Sharks,/api/v1/teams/28,4,15,30,7,20,Calgary Flames,/api/v1/teams/20
+1997020722,/api/v1/game/1997020722/feed/live,R,19971998,1998-02-06T03:30:00Z,1,17,24,15,3,New York Rangers,/api/v1/teams/3,3,25,20,15,26,Los Angeles Kings,/api/v1/teams/26
+1997020723,/api/v1/game/1997020723/feed/live,R,19971998,1998-02-07T00:30:00Z,2,29,16,12,5,Pittsburgh Penguins,/api/v1/teams/5,2,21,21,12,7,Buffalo Sabres,/api/v1/teams/7
+1997020724,/api/v1/game/1997020724/feed/live,R,19971998,1998-02-07T03:00:00Z,4,19,27,10,22,Edmonton Oilers,/api/v1/teams/22,5,15,33,10,23,Vancouver Canucks,/api/v1/teams/23
+1997020737,/api/v1/game/1997020737/feed/live,R,19971998,1998-02-07T20:00:00Z,5,26,20,9,26,Los Angeles Kings,/api/v1/teams/26,2,19,28,9,24,Anaheim Ducks,/api/v1/teams/24
+1997020733,/api/v1/game/1997020733/feed/live,R,19971998,1998-02-07T20:00:00Z,2,29,17,9,4,Philadelphia Flyers,/api/v1/teams/4,3,29,13,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020731,/api/v1/game/1997020731/feed/live,R,19971998,1998-02-07T20:00:00Z,1,31,15,12,17,Detroit Red Wings,/api/v1/teams/17,4,30,21,12,19,St. Louis Blues,/api/v1/teams/19
+1997020732,/api/v1/game/1997020732/feed/live,R,19971998,1998-02-07T20:00:00Z,1,22,25,9,16,Chicago Blackhawks,/api/v1/teams/16,3,36,13,9,25,Dallas Stars,/api/v1/teams/25
+1997020725,/api/v1/game/1997020725/feed/live,R,19971998,1998-02-07T20:00:00Z,3,21,29,7,12,Carolina Hurricanes,/api/v1/teams/12,1,23,22,7,6,Boston Bruins,/api/v1/teams/6
+1997020728,/api/v1/game/1997020728/feed/live,R,19971998,1998-02-07T20:00:00Z,3,34,16,6,1,New Jersey Devils,/api/v1/teams/1,2,20,29,6,2,New York Islanders,/api/v1/teams/2
+1997020730,/api/v1/game/1997020730/feed/live,R,19971998,1998-02-07T21:00:00Z,2,18,27,12,13,Florida Panthers,/api/v1/teams/13,3,19,29,12,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020729,/api/v1/game/1997020729/feed/live,R,19971998,1998-02-08T00:00:00Z,4,10,37,9,14,Tampa Bay Lightning,/api/v1/teams/14,3,26,19,9,15,Washington Capitals,/api/v1/teams/15
+1997020726,/api/v1/game/1997020726/feed/live,R,19971998,1998-02-08T00:30:00Z,2,29,16,13,5,Pittsburgh Penguins,/api/v1/teams/5,2,23,25,13,9,Ottawa Senators,/api/v1/teams/9
+1997020727,/api/v1/game/1997020727/feed/live,R,19971998,1998-02-08T00:30:00Z,4,22,21,12,7,Buffalo Sabres,/api/v1/teams/7,1,28,21,12,8,Montréal Canadiens,/api/v1/teams/8
+1997020734,/api/v1/game/1997020734/feed/live,R,19971998,1998-02-08T01:00:00Z,1,17,24,16,3,New York Rangers,/api/v1/teams/3,1,24,22,16,27,Phoenix Coyotes,/api/v1/teams/27
+1997020735,/api/v1/game/1997020735/feed/live,R,19971998,1998-02-08T02:00:00Z,2,19,28,10,22,Edmonton Oilers,/api/v1/teams/22,4,16,30,10,20,Calgary Flames,/api/v1/teams/20
+1997020736,/api/v1/game/1997020736/feed/live,R,19971998,1998-02-08T03:30:00Z,3,21,28,7,28,San Jose Sharks,/api/v1/teams/28,6,16,33,7,23,Vancouver Canucks,/api/v1/teams/23
+1997020738,/api/v1/game/1997020738/feed/live,R,19971998,1998-02-26T00:00:00Z,2,19,29,8,10,Toronto Maple Leafs,/api/v1/teams/10,2,22,21,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020741,/api/v1/game/1997020741/feed/live,R,19971998,1998-02-26T00:00:00Z,4,11,37,9,14,Tampa Bay Lightning,/api/v1/teams/14,3,26,20,9,15,Washington Capitals,/api/v1/teams/15
+1997020739,/api/v1/game/1997020739/feed/live,R,19971998,1998-02-26T00:30:00Z,6,30,16,13,5,Pittsburgh Penguins,/api/v1/teams/5,2,28,22,13,8,Montréal Canadiens,/api/v1/teams/8
+1997020740,/api/v1/game/1997020740/feed/live,R,19971998,1998-02-26T00:30:00Z,4,37,13,8,25,Dallas Stars,/api/v1/teams/25,1,20,30,8,2,New York Islanders,/api/v1/teams/2
+1997020742,/api/v1/game/1997020742/feed/live,R,19971998,1998-02-26T00:30:00Z,3,35,16,6,1,New Jersey Devils,/api/v1/teams/1,2,18,28,6,13,Florida Panthers,/api/v1/teams/13
+1997020743,/api/v1/game/1997020743/feed/live,R,19971998,1998-02-26T00:30:00Z,1,26,20,10,26,Los Angeles Kings,/api/v1/teams/26,1,31,15,10,17,Detroit Red Wings,/api/v1/teams/17
+1997020744,/api/v1/game/1997020744/feed/live,R,19971998,1998-02-26T02:00:00Z,4,30,13,16,21,Colorado Avalanche,/api/v1/teams/21,2,24,23,16,27,Phoenix Coyotes,/api/v1/teams/27
+1997020745,/api/v1/game/1997020745/feed/live,R,19971998,1998-02-26T02:00:00Z,2,23,26,10,9,Ottawa Senators,/api/v1/teams/9,5,20,28,10,22,Edmonton Oilers,/api/v1/teams/22
+1997020746,/api/v1/game/1997020746/feed/live,R,19971998,1998-02-26T03:00:00Z,2,19,29,9,24,Anaheim Ducks,/api/v1/teams/24,5,17,33,9,23,Vancouver Canucks,/api/v1/teams/23
+1997020747,/api/v1/game/1997020747/feed/live,R,19971998,1998-02-27T00:30:00Z,1,22,21,14,7,Buffalo Sabres,/api/v1/teams/7,1,23,22,14,6,Boston Bruins,/api/v1/teams/6
+1997020748,/api/v1/game/1997020748/feed/live,R,19971998,1998-02-27T00:30:00Z,4,36,16,6,1,New Jersey Devils,/api/v1/teams/1,1,11,38,6,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020749,/api/v1/game/1997020749/feed/live,R,19971998,1998-02-27T00:30:00Z,5,18,24,16,3,New York Rangers,/api/v1/teams/3,2,19,30,16,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020750,/api/v1/game/1997020750/feed/live,R,19971998,1998-02-27T01:30:00Z,7,27,20,10,26,Los Angeles Kings,/api/v1/teams/26,4,22,26,10,16,Chicago Blackhawks,/api/v1/teams/16
+1997020751,/api/v1/game/1997020751/feed/live,R,19971998,1998-02-27T02:00:00Z,0,24,24,11,27,Phoenix Coyotes,/api/v1/teams/27,3,31,13,11,21,Colorado Avalanche,/api/v1/teams/21
+1997020752,/api/v1/game/1997020752/feed/live,R,19971998,1998-02-27T03:30:00Z,1,30,22,8,19,St. Louis Blues,/api/v1/teams/19,3,22,28,8,28,San Jose Sharks,/api/v1/teams/28
+1997020753,/api/v1/game/1997020753/feed/live,R,19971998,1998-02-28T00:30:00Z,1,18,29,12,13,Florida Panthers,/api/v1/teams/13,3,32,15,12,17,Detroit Red Wings,/api/v1/teams/17
+1997020754,/api/v1/game/1997020754/feed/live,R,19971998,1998-02-28T02:00:00Z,4,17,33,9,23,Vancouver Canucks,/api/v1/teams/23,4,16,30,9,20,Calgary Flames,/api/v1/teams/20
+1997020755,/api/v1/game/1997020755/feed/live,R,19971998,1998-02-28T02:00:00Z,4,20,29,9,24,Anaheim Ducks,/api/v1/teams/24,0,20,29,9,22,Edmonton Oilers,/api/v1/teams/22
+1997020765,/api/v1/game/1997020765/feed/live,R,19971998,1998-02-28T20:00:00Z,5,31,22,8,19,St. Louis Blues,/api/v1/teams/19,2,27,21,8,26,Los Angeles Kings,/api/v1/teams/26
+1997020762,/api/v1/game/1997020762/feed/live,R,19971998,1998-02-28T20:00:00Z,4,23,26,9,16,Chicago Blackhawks,/api/v1/teams/16,0,31,14,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020761,/api/v1/game/1997020761/feed/live,R,19971998,1998-02-28T20:00:00Z,0,24,25,11,27,Phoenix Coyotes,/api/v1/teams/27,4,38,13,11,25,Dallas Stars,/api/v1/teams/25
+1997020756,/api/v1/game/1997020756/feed/live,R,19971998,1998-02-28T20:00:00Z,2,30,17,13,5,Pittsburgh Penguins,/api/v1/teams/5,6,24,22,13,6,Boston Bruins,/api/v1/teams/6
+1997020757,/api/v1/game/1997020757/feed/live,R,19971998,1998-02-28T20:00:00Z,3,30,17,9,4,Philadelphia Flyers,/api/v1/teams/4,1,18,25,9,3,New York Rangers,/api/v1/teams/3
+1997020759,/api/v1/game/1997020759/feed/live,R,19971998,1998-02-28T20:00:00Z,2,26,21,11,15,Washington Capitals,/api/v1/teams/15,5,12,38,11,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020758,/api/v1/game/1997020758/feed/live,R,19971998,1998-03-01T00:30:00Z,3,21,30,7,12,Carolina Hurricanes,/api/v1/teams/12,4,37,16,7,1,New Jersey Devils,/api/v1/teams/1
+1997020760,/api/v1/game/1997020760/feed/live,R,19971998,1998-03-01T00:30:00Z,0,28,23,7,8,Montréal Canadiens,/api/v1/teams/8,4,20,30,7,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020763,/api/v1/game/1997020763/feed/live,R,19971998,1998-03-01T01:00:00Z,1,22,29,7,28,San Jose Sharks,/api/v1/teams/28,4,21,29,7,22,Edmonton Oilers,/api/v1/teams/22
+1997020764,/api/v1/game/1997020764/feed/live,R,19971998,1998-03-01T03:30:00Z,4,23,27,10,9,Ottawa Senators,/api/v1/teams/9,6,18,33,10,23,Vancouver Canucks,/api/v1/teams/23
+1997020767,/api/v1/game/1997020767/feed/live,R,19971998,1998-03-01T18:30:00Z,3,23,21,14,7,Buffalo Sabres,/api/v1/teams/7,0,26,22,14,15,Washington Capitals,/api/v1/teams/15
+1997020766,/api/v1/game/1997020766/feed/live,R,19971998,1998-03-01T19:00:00Z,5,25,22,12,6,Boston Bruins,/api/v1/teams/6,4,20,31,12,2,New York Islanders,/api/v1/teams/2
+1997020768,/api/v1/game/1997020768/feed/live,R,19971998,1998-03-01T20:00:00Z,2,38,13,9,25,Dallas Stars,/api/v1/teams/25,2,23,26,9,16,Chicago Blackhawks,/api/v1/teams/16
+1997020770,/api/v1/game/1997020770/feed/live,R,19971998,1998-03-02T01:00:00Z,6,32,22,8,19,St. Louis Blues,/api/v1/teams/19,2,20,30,8,24,Anaheim Ducks,/api/v1/teams/24
+1997020769,/api/v1/game/1997020769/feed/live,R,19971998,1998-03-02T01:00:00Z,1,23,28,10,9,Ottawa Senators,/api/v1/teams/9,2,17,30,10,20,Calgary Flames,/api/v1/teams/20
+1997020771,/api/v1/game/1997020771/feed/live,R,19971998,1998-03-03T00:00:00Z,1,20,31,8,10,Toronto Maple Leafs,/api/v1/teams/10,3,31,17,8,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020772,/api/v1/game/1997020772/feed/live,R,19971998,1998-03-03T00:30:00Z,1,24,21,14,7,Buffalo Sabres,/api/v1/teams/7,0,18,26,14,3,New York Rangers,/api/v1/teams/3
+1997020773,/api/v1/game/1997020773/feed/live,R,19971998,1998-03-03T00:30:00Z,3,30,18,9,4,Philadelphia Flyers,/api/v1/teams/4,4,38,16,9,1,New Jersey Devils,/api/v1/teams/1
+1997020774,/api/v1/game/1997020774/feed/live,R,19971998,1998-03-03T02:00:00Z,5,22,29,10,22,Edmonton Oilers,/api/v1/teams/22,4,31,15,10,21,Colorado Avalanche,/api/v1/teams/21
+1997020775,/api/v1/game/1997020775/feed/live,R,19971998,1998-03-03T02:00:00Z,3,33,15,13,17,Detroit Red Wings,/api/v1/teams/17,1,24,26,13,27,Phoenix Coyotes,/api/v1/teams/27
+1997020776,/api/v1/game/1997020776/feed/live,R,19971998,1998-03-03T03:30:00Z,3,22,30,7,12,Carolina Hurricanes,/api/v1/teams/12,1,22,30,7,28,San Jose Sharks,/api/v1/teams/28
+1997020777,/api/v1/game/1997020777/feed/live,R,19971998,1998-03-03T03:30:00Z,2,18,33,10,23,Vancouver Canucks,/api/v1/teams/23,2,27,21,10,26,Los Angeles Kings,/api/v1/teams/26
+1997020779,/api/v1/game/1997020779/feed/live,R,19971998,1998-03-04T00:00:00Z,3,26,22,12,6,Boston Bruins,/api/v1/teams/6,0,26,23,12,15,Washington Capitals,/api/v1/teams/15
+1997020778,/api/v1/game/1997020778/feed/live,R,19971998,1998-03-04T00:30:00Z,1,30,19,9,4,Philadelphia Flyers,/api/v1/teams/4,3,21,31,9,2,New York Islanders,/api/v1/teams/2
+1997020780,/api/v1/game/1997020780/feed/live,R,19971998,1998-03-04T01:30:00Z,3,23,27,10,16,Chicago Blackhawks,/api/v1/teams/16,5,33,22,10,19,St. Louis Blues,/api/v1/teams/19
+1997020781,/api/v1/game/1997020781/feed/live,R,19971998,1998-03-04T02:00:00Z,1,12,39,9,14,Tampa Bay Lightning,/api/v1/teams/14,2,18,30,9,20,Calgary Flames,/api/v1/teams/20
+1997020782,/api/v1/game/1997020782/feed/live,R,19971998,1998-03-05T00:30:00Z,4,19,26,16,3,New York Rangers,/api/v1/teams/3,3,18,30,16,13,Florida Panthers,/api/v1/teams/13
+1997020783,/api/v1/game/1997020783/feed/live,R,19971998,1998-03-05T00:30:00Z,5,32,15,16,21,Colorado Avalanche,/api/v1/teams/21,3,20,32,16,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020784,/api/v1/game/1997020784/feed/live,R,19971998,1998-03-05T01:30:00Z,3,29,23,7,8,Montréal Canadiens,/api/v1/teams/8,1,38,14,7,25,Dallas Stars,/api/v1/teams/25
+1997020785,/api/v1/game/1997020785/feed/live,R,19971998,1998-03-05T02:00:00Z,2,12,40,9,14,Tampa Bay Lightning,/api/v1/teams/14,4,23,29,9,22,Edmonton Oilers,/api/v1/teams/22
+1997020786,/api/v1/game/1997020786/feed/live,R,19971998,1998-03-05T03:30:00Z,2,34,15,13,17,Detroit Red Wings,/api/v1/teams/17,0,20,31,13,24,Anaheim Ducks,/api/v1/teams/24
+1997020787,/api/v1/game/1997020787/feed/live,R,19971998,1998-03-06T00:00:00Z,2,23,27,11,16,Chicago Blackhawks,/api/v1/teams/16,2,31,17,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020788,/api/v1/game/1997020788/feed/live,R,19971998,1998-03-06T00:30:00Z,2,32,16,16,21,Colorado Avalanche,/api/v1/teams/21,4,24,28,16,9,Ottawa Senators,/api/v1/teams/9
+1997020789,/api/v1/game/1997020789/feed/live,R,19971998,1998-03-06T00:30:00Z,1,26,22,13,6,Boston Bruins,/api/v1/teams/6,1,38,16,13,1,New Jersey Devils,/api/v1/teams/1
+1997020790,/api/v1/game/1997020790/feed/live,R,19971998,1998-03-06T00:30:00Z,2,26,24,11,15,Washington Capitals,/api/v1/teams/15,3,31,19,11,4,Philadelphia Flyers,/api/v1/teams/4
+1997020791,/api/v1/game/1997020791/feed/live,R,19971998,1998-03-06T01:30:00Z,0,29,24,7,8,Montréal Canadiens,/api/v1/teams/8,4,34,22,7,19,St. Louis Blues,/api/v1/teams/19
+1997020792,/api/v1/game/1997020792/feed/live,R,19971998,1998-03-06T03:00:00Z,6,19,30,12,20,Calgary Flames,/api/v1/teams/20,2,18,34,12,23,Vancouver Canucks,/api/v1/teams/23
+1997020793,/api/v1/game/1997020793/feed/live,R,19971998,1998-03-06T03:30:00Z,4,34,16,13,17,Detroit Red Wings,/api/v1/teams/17,5,23,30,13,28,San Jose Sharks,/api/v1/teams/28
+1997020794,/api/v1/game/1997020794/feed/live,R,19971998,1998-03-06T03:30:00Z,2,23,30,7,12,Carolina Hurricanes,/api/v1/teams/12,1,27,22,7,26,Los Angeles Kings,/api/v1/teams/26
+1997020795,/api/v1/game/1997020795/feed/live,R,19971998,1998-03-07T00:30:00Z,4,22,31,8,2,New York Islanders,/api/v1/teams/2,2,24,22,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020796,/api/v1/game/1997020796/feed/live,R,19971998,1998-03-07T02:00:00Z,5,24,30,7,12,Carolina Hurricanes,/api/v1/teams/12,4,24,27,7,27,Phoenix Coyotes,/api/v1/teams/27
+1997020797,/api/v1/game/1997020797/feed/live,R,19971998,1998-03-07T03:30:00Z,3,24,30,7,28,San Jose Sharks,/api/v1/teams/28,0,20,32,7,24,Anaheim Ducks,/api/v1/teams/24
+1997020808,/api/v1/game/1997020808/feed/live,R,19971998,1998-03-07T20:00:00Z,1,34,17,13,17,Detroit Red Wings,/api/v1/teams/17,2,28,22,13,26,Los Angeles Kings,/api/v1/teams/26
+1997020806,/api/v1/game/1997020806/feed/live,R,19971998,1998-03-07T20:00:00Z,1,38,15,9,25,Dallas Stars,/api/v1/teams/25,2,35,22,9,19,St. Louis Blues,/api/v1/teams/19
+1997020798,/api/v1/game/1997020798/feed/live,R,19971998,1998-03-07T20:00:00Z,2,24,27,11,16,Chicago Blackhawks,/api/v1/teams/16,1,26,23,11,6,Boston Bruins,/api/v1/teams/6
+1997020799,/api/v1/game/1997020799/feed/live,R,19971998,1998-03-07T20:00:00Z,4,31,20,9,4,Philadelphia Flyers,/api/v1/teams/4,6,32,17,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020803,/api/v1/game/1997020803/feed/live,R,19971998,1998-03-07T20:00:00Z,3,19,27,16,3,New York Rangers,/api/v1/teams/3,6,39,16,16,1,New Jersey Devils,/api/v1/teams/1
+1997020804,/api/v1/game/1997020804/feed/live,R,19971998,1998-03-07T20:00:00Z,3,18,31,12,13,Florida Panthers,/api/v1/teams/13,6,27,24,12,15,Washington Capitals,/api/v1/teams/15
+1997020802,/api/v1/game/1997020802/feed/live,R,19971998,1998-03-08T00:00:00Z,4,33,16,16,21,Colorado Avalanche,/api/v1/teams/21,2,22,32,16,2,New York Islanders,/api/v1/teams/2
+1997020800,/api/v1/game/1997020800/feed/live,R,19971998,1998-03-08T00:30:00Z,1,19,31,12,20,Calgary Flames,/api/v1/teams/20,2,25,28,12,9,Ottawa Senators,/api/v1/teams/9
+1997020801,/api/v1/game/1997020801/feed/live,R,19971998,1998-03-08T00:30:00Z,2,25,22,14,7,Buffalo Sabres,/api/v1/teams/7,1,29,25,14,8,Montréal Canadiens,/api/v1/teams/8
+1997020805,/api/v1/game/1997020805/feed/live,R,19971998,1998-03-08T00:30:00Z,1,23,30,10,22,Edmonton Oilers,/api/v1/teams/22,4,21,32,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020807,/api/v1/game/1997020807/feed/live,R,19971998,1998-03-08T03:30:00Z,2,12,41,9,14,Tampa Bay Lightning,/api/v1/teams/14,5,19,34,9,23,Vancouver Canucks,/api/v1/teams/23
+1997020811,/api/v1/game/1997020811/feed/live,R,19971998,1998-03-09T01:00:00Z,3,25,30,7,12,Carolina Hurricanes,/api/v1/teams/12,1,20,33,7,24,Anaheim Ducks,/api/v1/teams/24
+1997020810,/api/v1/game/1997020810/feed/live,R,19971998,1998-03-09T01:00:00Z,1,24,27,12,27,Phoenix Coyotes,/api/v1/teams/27,1,38,15,12,25,Dallas Stars,/api/v1/teams/25
+1997020809,/api/v1/game/1997020809/feed/live,R,19971998,1998-03-09T01:00:00Z,3,32,18,14,5,Pittsburgh Penguins,/api/v1/teams/5,4,32,20,14,4,Philadelphia Flyers,/api/v1/teams/4
+1997020814,/api/v1/game/1997020814/feed/live,R,19971998,1998-03-10T00:00:00Z,2,19,32,12,20,Calgary Flames,/api/v1/teams/20,5,28,24,12,15,Washington Capitals,/api/v1/teams/15
+1997020812,/api/v1/game/1997020812/feed/live,R,19971998,1998-03-10T00:30:00Z,1,18,32,12,13,Florida Panthers,/api/v1/teams/13,6,30,25,12,8,Montréal Canadiens,/api/v1/teams/8
+1997020813,/api/v1/game/1997020813/feed/live,R,19971998,1998-03-10T00:30:00Z,2,39,16,8,1,New Jersey Devils,/api/v1/teams/1,2,19,27,8,3,New York Rangers,/api/v1/teams/3
+1997020815,/api/v1/game/1997020815/feed/live,R,19971998,1998-03-10T01:30:00Z,4,24,30,10,22,Edmonton Oilers,/api/v1/teams/22,3,24,28,10,16,Chicago Blackhawks,/api/v1/teams/16
+1997020816,/api/v1/game/1997020816/feed/live,R,19971998,1998-03-10T02:00:00Z,2,13,41,9,14,Tampa Bay Lightning,/api/v1/teams/14,1,33,17,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020817,/api/v1/game/1997020817/feed/live,R,19971998,1998-03-10T03:00:00Z,4,36,22,8,19,St. Louis Blues,/api/v1/teams/19,0,19,35,8,23,Vancouver Canucks,/api/v1/teams/23
+1997020818,/api/v1/game/1997020818/feed/live,R,19971998,1998-03-10T03:30:00Z,2,21,33,8,10,Toronto Maple Leafs,/api/v1/teams/10,3,25,30,8,28,San Jose Sharks,/api/v1/teams/28
+1997020819,/api/v1/game/1997020819/feed/live,R,19971998,1998-03-10T03:30:00Z,3,20,34,9,24,Anaheim Ducks,/api/v1/teams/24,4,29,22,9,26,Los Angeles Kings,/api/v1/teams/26
+1997020820,/api/v1/game/1997020820/feed/live,R,19971998,1998-03-11T00:30:00Z,2,25,22,15,7,Buffalo Sabres,/api/v1/teams/7,2,22,32,15,2,New York Islanders,/api/v1/teams/2
+1997020821,/api/v1/game/1997020821/feed/live,R,19971998,1998-03-11T00:30:00Z,2,39,16,9,1,New Jersey Devils,/api/v1/teams/1,2,32,20,9,4,Philadelphia Flyers,/api/v1/teams/4
+1997020822,/api/v1/game/1997020822/feed/live,R,19971998,1998-03-11T00:30:00Z,6,27,23,13,6,Boston Bruins,/api/v1/teams/6,3,34,18,13,17,Detroit Red Wings,/api/v1/teams/17
+1997020823,/api/v1/game/1997020823/feed/live,R,19971998,1998-03-11T02:00:00Z,4,30,22,11,26,Los Angeles Kings,/api/v1/teams/26,3,24,28,11,27,Phoenix Coyotes,/api/v1/teams/27
+1997020824,/api/v1/game/1997020824/feed/live,R,19971998,1998-03-12T00:00:00Z,1,19,33,12,20,Calgary Flames,/api/v1/teams/20,4,33,18,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020825,/api/v1/game/1997020825/feed/live,R,19971998,1998-03-12T00:30:00Z,3,18,33,12,13,Florida Panthers,/api/v1/teams/13,5,26,28,12,9,Ottawa Senators,/api/v1/teams/9
+1997020826,/api/v1/game/1997020826/feed/live,R,19971998,1998-03-12T00:30:00Z,2,19,35,11,23,Vancouver Canucks,/api/v1/teams/23,2,30,25,11,8,Montréal Canadiens,/api/v1/teams/8
+1997020827,/api/v1/game/1997020827/feed/live,R,19971998,1998-03-12T00:30:00Z,3,25,31,7,28,San Jose Sharks,/api/v1/teams/28,5,20,27,7,3,New York Rangers,/api/v1/teams/3
+1997020828,/api/v1/game/1997020828/feed/live,R,19971998,1998-03-12T00:30:00Z,2,25,30,10,22,Edmonton Oilers,/api/v1/teams/22,0,13,42,10,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020829,/api/v1/game/1997020829/feed/live,R,19971998,1998-03-12T02:00:00Z,2,36,23,8,19,St. Louis Blues,/api/v1/teams/19,3,34,17,8,21,Colorado Avalanche,/api/v1/teams/21
+1997020830,/api/v1/game/1997020830/feed/live,R,19971998,1998-03-12T03:30:00Z,3,22,33,8,10,Toronto Maple Leafs,/api/v1/teams/10,1,20,35,8,24,Anaheim Ducks,/api/v1/teams/24
+1997020833,/api/v1/game/1997020833/feed/live,R,19971998,1998-03-13T00:00:00Z,1,25,32,7,28,San Jose Sharks,/api/v1/teams/28,3,26,22,7,7,Buffalo Sabres,/api/v1/teams/7
+1997020577,/api/v1/game/1997020577/feed/live,R,19971998,1998-03-13T00:30:00Z,1,20,28,17,3,New York Rangers,/api/v1/teams/3,4,31,25,17,8,Montréal Canadiens,/api/v1/teams/8
+1997020831,/api/v1/game/1997020831/feed/live,R,19971998,1998-03-13T00:30:00Z,5,20,33,12,20,Calgary Flames,/api/v1/teams/20,2,27,24,12,6,Boston Bruins,/api/v1/teams/6
+1997020832,/api/v1/game/1997020832/feed/live,R,19971998,1998-03-13T00:30:00Z,2,40,16,9,1,New Jersey Devils,/api/v1/teams/1,0,25,31,9,12,Carolina Hurricanes,/api/v1/teams/12
+1997020834,/api/v1/game/1997020834/feed/live,R,19971998,1998-03-13T00:30:00Z,2,29,24,11,15,Washington Capitals,/api/v1/teams/15,1,22,33,11,2,New York Islanders,/api/v1/teams/2
+1997020835,/api/v1/game/1997020835/feed/live,R,19971998,1998-03-13T00:30:00Z,2,19,36,11,23,Vancouver Canucks,/api/v1/teams/23,3,33,20,11,4,Philadelphia Flyers,/api/v1/teams/4
+1997020836,/api/v1/game/1997020836/feed/live,R,19971998,1998-03-13T00:30:00Z,0,24,29,11,16,Chicago Blackhawks,/api/v1/teams/16,3,35,18,11,17,Detroit Red Wings,/api/v1/teams/17
+1997020837,/api/v1/game/1997020837/feed/live,R,19971998,1998-03-13T02:00:00Z,4,38,16,10,25,Dallas Stars,/api/v1/teams/25,5,25,28,10,27,Phoenix Coyotes,/api/v1/teams/27
+1997020838,/api/v1/game/1997020838/feed/live,R,19971998,1998-03-13T03:30:00Z,2,23,33,8,10,Toronto Maple Leafs,/api/v1/teams/10,1,30,23,8,26,Los Angeles Kings,/api/v1/teams/26
+1997020839,/api/v1/game/1997020839/feed/live,R,19971998,1998-03-14T00:30:00Z,4,26,30,10,22,Edmonton Oilers,/api/v1/teams/22,0,18,34,10,13,Florida Panthers,/api/v1/teams/13
+1997020840,/api/v1/game/1997020840/feed/live,R,19971998,1998-03-14T01:30:00Z,3,20,36,9,24,Anaheim Ducks,/api/v1/teams/24,6,39,16,9,25,Dallas Stars,/api/v1/teams/25
+1997020851,/api/v1/game/1997020851/feed/live,R,19971998,1998-03-14T20:00:00Z,2,34,18,16,21,Colorado Avalanche,/api/v1/teams/21,5,31,23,16,26,Los Angeles Kings,/api/v1/teams/26
+1997020850,/api/v1/game/1997020850/feed/live,R,19971998,1998-03-14T20:00:00Z,2,26,28,12,27,Phoenix Coyotes,/api/v1/teams/27,0,36,24,12,19,St. Louis Blues,/api/v1/teams/19
+1997020841,/api/v1/game/1997020841/feed/live,R,19971998,1998-03-14T20:00:00Z,1,20,29,17,3,New York Rangers,/api/v1/teams/3,5,28,24,17,6,Boston Bruins,/api/v1/teams/6
+1997020843,/api/v1/game/1997020843/feed/live,R,19971998,1998-03-14T20:00:00Z,1,26,23,15,7,Buffalo Sabres,/api/v1/teams/7,2,34,18,15,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020847,/api/v1/game/1997020847/feed/live,R,19971998,1998-03-14T20:00:00Z,1,35,19,13,17,Detroit Red Wings,/api/v1/teams/17,6,34,20,13,4,Philadelphia Flyers,/api/v1/teams/4
+1997020848,/api/v1/game/1997020848/feed/live,R,19971998,1998-03-14T20:00:00Z,0,24,30,11,16,Chicago Blackhawks,/api/v1/teams/16,1,14,42,11,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020842,/api/v1/game/1997020842/feed/live,R,19971998,1998-03-15T00:00:00Z,2,26,32,7,28,San Jose Sharks,/api/v1/teams/28,1,25,32,7,12,Carolina Hurricanes,/api/v1/teams/12
+1997020846,/api/v1/game/1997020846/feed/live,R,19971998,1998-03-15T00:00:00Z,6,20,36,11,23,Vancouver Canucks,/api/v1/teams/23,2,22,34,11,2,New York Islanders,/api/v1/teams/2
+1997020844,/api/v1/game/1997020844/feed/live,R,19971998,1998-03-15T00:30:00Z,0,29,25,11,15,Washington Capitals,/api/v1/teams/15,4,27,28,11,9,Ottawa Senators,/api/v1/teams/9
+1997020845,/api/v1/game/1997020845/feed/live,R,19971998,1998-03-15T00:30:00Z,2,40,17,9,1,New Jersey Devils,/api/v1/teams/1,4,32,25,9,8,Montréal Canadiens,/api/v1/teams/8
+1997020849,/api/v1/game/1997020849/feed/live,R,19971998,1998-03-15T00:30:00Z,1,20,34,12,20,Calgary Flames,/api/v1/teams/20,2,24,33,12,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020853,/api/v1/game/1997020853/feed/live,R,19971998,1998-03-15T20:00:00Z,0,34,19,14,5,Pittsburgh Penguins,/api/v1/teams/5,3,27,23,14,7,Buffalo Sabres,/api/v1/teams/7
+1997020854,/api/v1/game/1997020854/feed/live,R,19971998,1998-03-15T23:00:00Z,8,25,30,11,16,Chicago Blackhawks,/api/v1/teams/16,4,18,35,11,13,Florida Panthers,/api/v1/teams/13
+1997020852,/api/v1/game/1997020852/feed/live,R,19971998,1998-03-16T00:00:00Z,1,26,31,10,22,Edmonton Oilers,/api/v1/teams/22,4,26,32,10,12,Carolina Hurricanes,/api/v1/teams/12
+1997020855,/api/v1/game/1997020855/feed/live,R,19971998,1998-03-16T01:00:00Z,3,34,19,16,21,Colorado Avalanche,/api/v1/teams/21,5,21,36,16,24,Anaheim Ducks,/api/v1/teams/24
+1997020860,/api/v1/game/1997020860/feed/live,R,19971998,1998-03-17T00:00:00Z,1,26,29,12,27,Phoenix Coyotes,/api/v1/teams/27,2,30,25,12,15,Washington Capitals,/api/v1/teams/15
+1997020856,/api/v1/game/1997020856/feed/live,R,19971998,1998-03-17T00:30:00Z,3,14,43,9,14,Tampa Bay Lightning,/api/v1/teams/14,4,29,24,9,6,Boston Bruins,/api/v1/teams/6
+1997020857,/api/v1/game/1997020857/feed/live,R,19971998,1998-03-17T00:30:00Z,3,20,34,13,20,Calgary Flames,/api/v1/teams/20,3,32,25,13,8,Montréal Canadiens,/api/v1/teams/8
+1997020858,/api/v1/game/1997020858/feed/live,R,19971998,1998-03-17T00:30:00Z,4,27,29,10,9,Ottawa Senators,/api/v1/teams/9,5,21,29,10,3,New York Rangers,/api/v1/teams/3
+1997020859,/api/v1/game/1997020859/feed/live,R,19971998,1998-03-17T00:30:00Z,1,24,34,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,35,20,8,4,Philadelphia Flyers,/api/v1/teams/4
+1997020861,/api/v1/game/1997020861/feed/live,R,19971998,1998-03-17T03:30:00Z,1,31,24,11,26,Los Angeles Kings,/api/v1/teams/26,2,27,32,11,28,San Jose Sharks,/api/v1/teams/28
+1997020862,/api/v1/game/1997020862/feed/live,R,19971998,1998-03-18T00:00:00Z,5,26,30,11,16,Chicago Blackhawks,/api/v1/teams/16,3,27,24,11,7,Buffalo Sabres,/api/v1/teams/7
+1997020863,/api/v1/game/1997020863/feed/live,R,19971998,1998-03-18T00:30:00Z,4,21,36,11,23,Vancouver Canucks,/api/v1/teams/23,2,18,36,11,13,Florida Panthers,/api/v1/teams/13
+1997020864,/api/v1/game/1997020864/feed/live,R,19971998,1998-03-18T00:30:00Z,3,26,32,10,22,Edmonton Oilers,/api/v1/teams/22,4,36,19,10,17,Detroit Red Wings,/api/v1/teams/17
+1997020865,/api/v1/game/1997020865/feed/live,R,19971998,1998-03-18T03:30:00Z,4,40,16,10,25,Dallas Stars,/api/v1/teams/25,3,31,25,10,26,Los Angeles Kings,/api/v1/teams/26
+1997020866,/api/v1/game/1997020866/feed/live,R,19971998,1998-03-19T00:00:00Z,2,26,33,10,22,Edmonton Oilers,/api/v1/teams/22,4,35,19,10,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020870,/api/v1/game/1997020870/feed/live,R,19971998,1998-03-19T00:00:00Z,0,26,33,7,12,Carolina Hurricanes,/api/v1/teams/12,1,31,25,7,15,Washington Capitals,/api/v1/teams/15
+1997020867,/api/v1/game/1997020867/feed/live,R,19971998,1998-03-19T00:30:00Z,4,22,34,10,2,New York Islanders,/api/v1/teams/2,4,27,29,10,9,Ottawa Senators,/api/v1/teams/9
+1997020868,/api/v1/game/1997020868/feed/live,R,19971998,1998-03-19T00:30:00Z,1,32,26,9,8,Montréal Canadiens,/api/v1/teams/8,2,22,29,9,3,New York Rangers,/api/v1/teams/3
+1997020869,/api/v1/game/1997020869/feed/live,R,19971998,1998-03-19T00:30:00Z,0,21,37,9,24,Anaheim Ducks,/api/v1/teams/24,3,41,17,9,1,New Jersey Devils,/api/v1/teams/1
+1997020871,/api/v1/game/1997020871/feed/live,R,19971998,1998-03-19T00:30:00Z,2,21,37,11,23,Vancouver Canucks,/api/v1/teams/23,4,15,43,11,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020872,/api/v1/game/1997020872/feed/live,R,19971998,1998-03-19T00:30:00Z,5,37,19,13,17,Detroit Red Wings,/api/v1/teams/17,2,24,35,13,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020873,/api/v1/game/1997020873/feed/live,R,19971998,1998-03-19T03:30:00Z,3,41,16,10,25,Dallas Stars,/api/v1/teams/25,1,27,33,10,28,San Jose Sharks,/api/v1/teams/28
+1997020875,/api/v1/game/1997020875/feed/live,R,19971998,1998-03-20T00:00:00Z,1,18,37,12,13,Florida Panthers,/api/v1/teams/13,6,28,24,12,7,Buffalo Sabres,/api/v1/teams/7
+1997020874,/api/v1/game/1997020874/feed/live,R,19971998,1998-03-20T00:30:00Z,0,24,36,8,10,Toronto Maple Leafs,/api/v1/teams/10,4,30,24,8,6,Boston Bruins,/api/v1/teams/6
+1997020876,/api/v1/game/1997020876/feed/live,R,19971998,1998-03-20T00:30:00Z,3,21,37,10,24,Anaheim Ducks,/api/v1/teams/24,3,35,20,10,4,Philadelphia Flyers,/api/v1/teams/4
+1997020877,/api/v1/game/1997020877/feed/live,R,19971998,1998-03-20T01:30:00Z,0,32,27,9,8,Montréal Canadiens,/api/v1/teams/8,1,27,30,9,16,Chicago Blackhawks,/api/v1/teams/16
+1997020878,/api/v1/game/1997020878/feed/live,R,19971998,1998-03-20T02:00:00Z,4,35,19,16,21,Colorado Avalanche,/api/v1/teams/21,3,26,30,16,27,Phoenix Coyotes,/api/v1/teams/27
+1997020880,/api/v1/game/1997020880/feed/live,R,19971998,1998-03-21T00:00:00Z,0,41,18,9,1,New Jersey Devils,/api/v1/teams/1,2,32,25,9,15,Washington Capitals,/api/v1/teams/15
+1997020879,/api/v1/game/1997020879/feed/live,R,19971998,1998-03-21T00:30:00Z,1,21,37,12,23,Vancouver Canucks,/api/v1/teams/23,1,27,29,12,9,Ottawa Senators,/api/v1/teams/9
+1997020881,/api/v1/game/1997020881/feed/live,R,19971998,1998-03-21T01:30:00Z,1,26,34,7,12,Carolina Hurricanes,/api/v1/teams/12,6,42,16,7,25,Dallas Stars,/api/v1/teams/25
+1997020882,/api/v1/game/1997020882/feed/live,R,19971998,1998-03-21T02:00:00Z,1,22,35,10,2,New York Islanders,/api/v1/teams/2,4,21,34,10,20,Calgary Flames,/api/v1/teams/20
+1997020891,/api/v1/game/1997020891/feed/live,R,19971998,1998-03-21T20:00:00Z,2,36,19,16,21,Colorado Avalanche,/api/v1/teams/21,0,27,34,16,28,San Jose Sharks,/api/v1/teams/28
+1997020892,/api/v1/game/1997020892/feed/live,R,19971998,1998-03-21T20:00:00Z,2,26,31,12,27,Phoenix Coyotes,/api/v1/teams/27,3,32,25,12,26,Los Angeles Kings,/api/v1/teams/26
+1997020883,/api/v1/game/1997020883/feed/live,R,19971998,1998-03-21T20:00:00Z,3,35,21,11,4,Philadelphia Flyers,/api/v1/teams/4,4,36,19,11,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020884,/api/v1/game/1997020884/feed/live,R,19971998,1998-03-21T20:00:00Z,2,31,24,13,6,Boston Bruins,/api/v1/teams/6,1,28,25,13,7,Buffalo Sabres,/api/v1/teams/7
+1997020886,/api/v1/game/1997020886/feed/live,R,19971998,1998-03-21T20:00:00Z,4,38,19,13,17,Detroit Red Wings,/api/v1/teams/17,3,22,30,13,3,New York Rangers,/api/v1/teams/3
+1997020888,/api/v1/game/1997020888/feed/live,R,19971998,1998-03-21T20:00:00Z,1,18,38,12,13,Florida Panthers,/api/v1/teams/13,5,16,43,12,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020885,/api/v1/game/1997020885/feed/live,R,19971998,1998-03-22T00:30:00Z,5,22,37,10,24,Anaheim Ducks,/api/v1/teams/24,4,32,28,10,8,Montréal Canadiens,/api/v1/teams/8
+1997020887,/api/v1/game/1997020887/feed/live,R,19971998,1998-03-22T00:30:00Z,2,32,26,11,15,Washington Capitals,/api/v1/teams/15,3,42,18,11,1,New Jersey Devils,/api/v1/teams/1
+1997020889,/api/v1/game/1997020889/feed/live,R,19971998,1998-03-22T00:30:00Z,1,21,37,13,23,Vancouver Canucks,/api/v1/teams/23,1,24,36,13,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020890,/api/v1/game/1997020890/feed/live,R,19971998,1998-03-22T03:30:00Z,0,36,25,8,19,St. Louis Blues,/api/v1/teams/19,2,27,33,8,22,Edmonton Oilers,/api/v1/teams/22
+1997020895,/api/v1/game/1997020895/feed/live,R,19971998,1998-03-22T20:00:00Z,0,31,25,13,6,Boston Bruins,/api/v1/teams/6,1,28,30,13,16,Chicago Blackhawks,/api/v1/teams/16
+1997020896,/api/v1/game/1997020896/feed/live,R,19971998,1998-03-22T20:00:00Z,0,36,19,15,5,Pittsburgh Penguins,/api/v1/teams/5,0,42,16,15,25,Dallas Stars,/api/v1/teams/25
+1997020893,/api/v1/game/1997020893/feed/live,R,19971998,1998-03-23T00:30:00Z,5,23,37,10,24,Anaheim Ducks,/api/v1/teams/24,2,27,30,10,9,Ottawa Senators,/api/v1/teams/9
+1997020899,/api/v1/game/1997020899/feed/live,R,19971998,1998-03-23T01:00:00Z,3,23,35,10,2,New York Islanders,/api/v1/teams/2,1,27,34,10,22,Edmonton Oilers,/api/v1/teams/22
+1997020894,/api/v1/game/1997020894/feed/live,R,19971998,1998-03-23T01:00:00Z,4,22,31,17,3,New York Rangers,/api/v1/teams/3,5,36,21,17,4,Philadelphia Flyers,/api/v1/teams/4
+1997020897,/api/v1/game/1997020897/feed/live,R,19971998,1998-03-23T02:00:00Z,1,27,35,7,28,San Jose Sharks,/api/v1/teams/28,3,27,31,7,27,Phoenix Coyotes,/api/v1/teams/27
+1997020898,/api/v1/game/1997020898/feed/live,R,19971998,1998-03-23T02:00:00Z,3,36,26,8,19,St. Louis Blues,/api/v1/teams/19,5,22,34,8,20,Calgary Flames,/api/v1/teams/20
+1997020900,/api/v1/game/1997020900/feed/live,R,19971998,1998-03-24T00:30:00Z,5,27,34,7,12,Carolina Hurricanes,/api/v1/teams/12,3,18,39,7,13,Florida Panthers,/api/v1/teams/13
+1997020901,/api/v1/game/1997020901/feed/live,R,19971998,1998-03-24T00:30:00Z,5,28,30,12,16,Chicago Blackhawks,/api/v1/teams/16,5,38,19,12,17,Detroit Red Wings,/api/v1/teams/17
+1997020902,/api/v1/game/1997020902/feed/live,R,19971998,1998-03-25T00:30:00Z,2,36,22,11,4,Philadelphia Flyers,/api/v1/teams/4,3,43,18,11,1,New Jersey Devils,/api/v1/teams/1
+1997020903,/api/v1/game/1997020903/feed/live,R,19971998,1998-03-25T02:00:00Z,2,24,37,9,10,Toronto Maple Leafs,/api/v1/teams/10,4,28,31,9,27,Phoenix Coyotes,/api/v1/teams/27
+1997020904,/api/v1/game/1997020904/feed/live,R,19971998,1998-03-25T02:00:00Z,2,29,25,15,7,Buffalo Sabres,/api/v1/teams/7,0,22,35,15,20,Calgary Flames,/api/v1/teams/20
+1997020905,/api/v1/game/1997020905/feed/live,R,19971998,1998-03-25T03:00:00Z,3,23,36,10,2,New York Islanders,/api/v1/teams/2,4,22,37,10,23,Vancouver Canucks,/api/v1/teams/23
+1997020906,/api/v1/game/1997020906/feed/live,R,19971998,1998-03-25T03:30:00Z,4,33,25,11,26,Los Angeles Kings,/api/v1/teams/26,3,27,36,11,28,San Jose Sharks,/api/v1/teams/28
+1997020907,/api/v1/game/1997020907/feed/live,R,19971998,1998-03-26T00:30:00Z,3,28,30,12,9,Ottawa Senators,/api/v1/teams/9,2,22,32,12,3,New York Rangers,/api/v1/teams/3
+1997020908,/api/v1/game/1997020908/feed/live,R,19971998,1998-03-26T00:30:00Z,2,33,28,9,8,Montréal Canadiens,/api/v1/teams/8,1,16,44,9,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020909,/api/v1/game/1997020909/feed/live,R,19971998,1998-03-26T01:30:00Z,3,24,37,10,24,Anaheim Ducks,/api/v1/teams/24,2,28,31,10,16,Chicago Blackhawks,/api/v1/teams/16
+1997020910,/api/v1/game/1997020910/feed/live,R,19971998,1998-03-26T02:00:00Z,2,32,27,11,15,Washington Capitals,/api/v1/teams/15,4,28,34,11,22,Edmonton Oilers,/api/v1/teams/22
+1997020911,/api/v1/game/1997020911/feed/live,R,19971998,1998-03-27T00:30:00Z,2,36,23,11,4,Philadelphia Flyers,/api/v1/teams/4,4,32,25,11,6,Boston Bruins,/api/v1/teams/6
+1997020912,/api/v1/game/1997020912/feed/live,R,19971998,1998-03-27T00:30:00Z,1,22,33,17,3,New York Rangers,/api/v1/teams/3,4,28,34,17,12,Carolina Hurricanes,/api/v1/teams/12
+1997020913,/api/v1/game/1997020913/feed/live,R,19971998,1998-03-27T00:30:00Z,3,36,20,15,5,Pittsburgh Penguins,/api/v1/teams/5,4,24,36,15,2,New York Islanders,/api/v1/teams/2
+1997020914,/api/v1/game/1997020914/feed/live,R,19971998,1998-03-27T00:30:00Z,4,33,29,9,8,Montréal Canadiens,/api/v1/teams/8,5,19,39,9,13,Florida Panthers,/api/v1/teams/13
+1997020915,/api/v1/game/1997020915/feed/live,R,19971998,1998-03-27T00:30:00Z,3,24,37,11,24,Anaheim Ducks,/api/v1/teams/24,3,38,19,11,17,Detroit Red Wings,/api/v1/teams/17
+1997020916,/api/v1/game/1997020916/feed/live,R,19971998,1998-03-27T01:30:00Z,2,16,45,9,14,Tampa Bay Lightning,/api/v1/teams/14,3,37,26,9,19,St. Louis Blues,/api/v1/teams/19
+1997020917,/api/v1/game/1997020917/feed/live,R,19971998,1998-03-27T01:30:00Z,1,25,37,9,10,Toronto Maple Leafs,/api/v1/teams/10,0,42,17,9,25,Dallas Stars,/api/v1/teams/25
+1997020918,/api/v1/game/1997020918/feed/live,R,19971998,1998-03-27T02:00:00Z,2,44,18,9,1,New Jersey Devils,/api/v1/teams/1,0,36,20,9,21,Colorado Avalanche,/api/v1/teams/21
+1997020919,/api/v1/game/1997020919/feed/live,R,19971998,1998-03-27T02:00:00Z,2,32,28,11,15,Washington Capitals,/api/v1/teams/15,3,23,35,11,20,Calgary Flames,/api/v1/teams/20
+1997020920,/api/v1/game/1997020920/feed/live,R,19971998,1998-03-27T03:00:00Z,5,30,25,15,7,Buffalo Sabres,/api/v1/teams/7,2,22,38,15,23,Vancouver Canucks,/api/v1/teams/23
+1997020921,/api/v1/game/1997020921/feed/live,R,19971998,1998-03-27T03:30:00Z,5,28,36,7,28,San Jose Sharks,/api/v1/teams/28,2,33,26,7,26,Los Angeles Kings,/api/v1/teams/26
+1997020922,/api/v1/game/1997020922/feed/live,R,19971998,1998-03-28T01:30:00Z,1,28,31,12,9,Ottawa Senators,/api/v1/teams/9,2,29,31,12,16,Chicago Blackhawks,/api/v1/teams/16
+1997020923,/api/v1/game/1997020923/feed/live,R,19971998,1998-03-28T02:00:00Z,1,31,25,15,7,Buffalo Sabres,/api/v1/teams/7,0,28,35,15,22,Edmonton Oilers,/api/v1/teams/22
+1997020931,/api/v1/game/1997020931/feed/live,R,19971998,1998-03-28T20:00:00Z,3,24,38,11,24,Anaheim Ducks,/api/v1/teams/24,5,37,20,11,21,Colorado Avalanche,/api/v1/teams/21
+1997020929,/api/v1/game/1997020929/feed/live,R,19971998,1998-03-28T20:00:00Z,2,38,20,15,17,Detroit Red Wings,/api/v1/teams/17,3,38,26,15,19,St. Louis Blues,/api/v1/teams/19
+1997020930,/api/v1/game/1997020930/feed/live,R,19971998,1998-03-28T20:00:00Z,4,29,36,7,28,San Jose Sharks,/api/v1/teams/28,1,42,18,7,25,Dallas Stars,/api/v1/teams/25
+1997020924,/api/v1/game/1997020924/feed/live,R,19971998,1998-03-28T20:00:00Z,3,20,39,12,13,Florida Panthers,/api/v1/teams/13,2,32,26,12,6,Boston Bruins,/api/v1/teams/6
+1997020925,/api/v1/game/1997020925/feed/live,R,19971998,1998-03-28T20:00:00Z,2,22,33,18,3,New York Rangers,/api/v1/teams/3,2,36,20,18,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020927,/api/v1/game/1997020927/feed/live,R,19971998,1998-03-28T20:00:00Z,4,29,34,7,12,Carolina Hurricanes,/api/v1/teams/12,2,36,24,7,4,Philadelphia Flyers,/api/v1/teams/4
+1997020933,/api/v1/game/1997020933/feed/live,R,19971998,1998-03-28T23:00:00Z,2,33,27,11,26,Los Angeles Kings,/api/v1/teams/26,5,24,35,11,20,Calgary Flames,/api/v1/teams/20
+1997020926,/api/v1/game/1997020926/feed/live,R,19971998,1998-03-29T00:30:00Z,2,16,46,9,14,Tampa Bay Lightning,/api/v1/teams/14,8,34,29,9,8,Montréal Canadiens,/api/v1/teams/8
+1997020928,/api/v1/game/1997020928/feed/live,R,19971998,1998-03-29T00:30:00Z,3,24,37,10,2,New York Islanders,/api/v1/teams/2,4,26,37,10,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020932,/api/v1/game/1997020932/feed/live,R,19971998,1998-03-29T02:00:00Z,3,45,18,9,1,New Jersey Devils,/api/v1/teams/1,0,28,32,9,27,Phoenix Coyotes,/api/v1/teams/27
+1997020934,/api/v1/game/1997020934/feed/live,R,19971998,1998-03-29T03:30:00Z,3,33,28,11,15,Washington Capitals,/api/v1/teams/15,2,22,39,11,23,Vancouver Canucks,/api/v1/teams/23
+1997020936,/api/v1/game/1997020936/feed/live,R,19971998,1998-03-29T19:00:00Z,1,28,31,13,9,Ottawa Senators,/api/v1/teams/9,1,36,20,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020938,/api/v1/game/1997020938/feed/live,R,19971998,1998-03-29T20:00:00Z,4,21,39,12,13,Florida Panthers,/api/v1/teams/13,0,29,32,12,16,Chicago Blackhawks,/api/v1/teams/16
+1997020935,/api/v1/game/1997020935/feed/live,R,19971998,1998-03-30T00:00:00Z,3,37,24,11,4,Philadelphia Flyers,/api/v1/teams/4,1,29,35,11,12,Carolina Hurricanes,/api/v1/teams/12
+1997020937,/api/v1/game/1997020937/feed/live,R,19971998,1998-03-30T00:00:00Z,2,31,26,15,7,Buffalo Sabres,/api/v1/teams/7,4,39,20,15,17,Detroit Red Wings,/api/v1/teams/17
+1997020939,/api/v1/game/1997020939/feed/live,R,19971998,1998-03-30T01:00:00Z,1,45,19,9,1,New Jersey Devils,/api/v1/teams/1,3,43,18,9,25,Dallas Stars,/api/v1/teams/25
+1997020940,/api/v1/game/1997020940/feed/live,R,19971998,1998-03-31T00:30:00Z,1,37,21,16,21,Colorado Avalanche,/api/v1/teams/21,4,33,26,16,6,Boston Bruins,/api/v1/teams/6
+1997020941,/api/v1/game/1997020941/feed/live,R,19971998,1998-03-31T00:30:00Z,3,17,46,9,14,Tampa Bay Lightning,/api/v1/teams/14,1,22,34,9,3,New York Rangers,/api/v1/teams/3
+1997020942,/api/v1/game/1997020942/feed/live,R,19971998,1998-03-31T00:30:00Z,3,34,27,11,26,Los Angeles Kings,/api/v1/teams/26,2,26,38,11,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020943,/api/v1/game/1997020943/feed/live,R,19971998,1998-03-31T01:30:00Z,2,29,37,7,28,San Jose Sharks,/api/v1/teams/28,6,39,26,7,19,St. Louis Blues,/api/v1/teams/19
+1997020944,/api/v1/game/1997020944/feed/live,R,19971998,1998-03-31T02:00:00Z,1,24,36,13,20,Calgary Flames,/api/v1/teams/20,3,29,35,13,22,Edmonton Oilers,/api/v1/teams/22
+1997020947,/api/v1/game/1997020947/feed/live,R,19971998,1998-04-01T00:00:00Z,2,24,38,10,2,New York Islanders,/api/v1/teams/2,5,34,28,10,15,Washington Capitals,/api/v1/teams/15
+1997020945,/api/v1/game/1997020945/feed/live,R,19971998,1998-04-01T00:30:00Z,3,34,29,10,8,Montréal Canadiens,/api/v1/teams/8,3,29,35,10,12,Carolina Hurricanes,/api/v1/teams/12
+1997020946,/api/v1/game/1997020946/feed/live,R,19971998,1998-04-01T00:30:00Z,2,29,33,12,16,Chicago Blackhawks,/api/v1/teams/16,3,38,24,12,4,Philadelphia Flyers,/api/v1/teams/4
+1997020948,/api/v1/game/1997020948/feed/live,R,19971998,1998-04-02T00:00:00Z,3,30,37,7,28,San Jose Sharks,/api/v1/teams/28,2,36,21,7,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020949,/api/v1/game/1997020949/feed/live,R,19971998,1998-04-02T00:00:00Z,0,34,28,11,26,Los Angeles Kings,/api/v1/teams/26,4,32,26,11,7,Buffalo Sabres,/api/v1/teams/7
+1997020950,/api/v1/game/1997020950/feed/live,R,19971998,1998-04-02T00:30:00Z,0,17,47,9,14,Tampa Bay Lightning,/api/v1/teams/14,4,25,38,9,2,New York Islanders,/api/v1/teams/2
+1997020951,/api/v1/game/1997020951/feed/live,R,19971998,1998-04-02T00:30:00Z,4,34,26,13,6,Boston Bruins,/api/v1/teams/6,2,22,35,13,3,New York Rangers,/api/v1/teams/3
+1997020952,/api/v1/game/1997020952/feed/live,R,19971998,1998-04-02T00:30:00Z,4,30,35,8,12,Carolina Hurricanes,/api/v1/teams/12,0,45,20,8,1,New Jersey Devils,/api/v1/teams/1
+1997020953,/api/v1/game/1997020953/feed/live,R,19971998,1998-04-02T00:30:00Z,4,35,29,10,8,Montréal Canadiens,/api/v1/teams/8,3,21,40,10,13,Florida Panthers,/api/v1/teams/13
+1997020954,/api/v1/game/1997020954/feed/live,R,19971998,1998-04-02T00:30:00Z,6,40,26,8,19,St. Louis Blues,/api/v1/teams/19,4,26,39,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020955,/api/v1/game/1997020955/feed/live,R,19971998,1998-04-02T00:30:00Z,0,37,22,16,21,Colorado Avalanche,/api/v1/teams/21,2,40,20,16,17,Detroit Red Wings,/api/v1/teams/17
+1997020956,/api/v1/game/1997020956/feed/live,R,19971998,1998-04-02T02:00:00Z,1,43,19,11,25,Dallas Stars,/api/v1/teams/25,3,25,36,11,20,Calgary Flames,/api/v1/teams/20
+1997020957,/api/v1/game/1997020957/feed/live,R,19971998,1998-04-02T03:00:00Z,2,29,36,10,22,Edmonton Oilers,/api/v1/teams/22,4,23,39,10,23,Vancouver Canucks,/api/v1/teams/23
+1997020958,/api/v1/game/1997020958/feed/live,R,19971998,1998-04-02T03:30:00Z,5,29,32,12,27,Phoenix Coyotes,/api/v1/teams/27,1,24,39,12,24,Anaheim Ducks,/api/v1/teams/24
+1997020961,/api/v1/game/1997020961/feed/live,R,19971998,1998-04-03T00:00:00Z,1,17,48,9,14,Tampa Bay Lightning,/api/v1/teams/14,4,35,28,9,15,Washington Capitals,/api/v1/teams/15
+1997020959,/api/v1/game/1997020959/feed/live,R,19971998,1998-04-03T00:30:00Z,3,30,37,8,28,San Jose Sharks,/api/v1/teams/28,3,28,31,8,9,Ottawa Senators,/api/v1/teams/9
+1997020960,/api/v1/game/1997020960/feed/live,R,19971998,1998-04-03T00:30:00Z,0,34,29,11,26,Los Angeles Kings,/api/v1/teams/26,3,39,24,11,4,Philadelphia Flyers,/api/v1/teams/4
+1997020962,/api/v1/game/1997020962/feed/live,R,19971998,1998-04-03T01:30:00Z,1,37,23,16,21,Colorado Avalanche,/api/v1/teams/21,2,30,33,16,16,Chicago Blackhawks,/api/v1/teams/16
+1997020963,/api/v1/game/1997020963/feed/live,R,19971998,1998-04-04T00:30:00Z,4,34,27,13,6,Boston Bruins,/api/v1/teams/6,5,33,26,13,7,Buffalo Sabres,/api/v1/teams/7
+1997020964,/api/v1/game/1997020964/feed/live,R,19971998,1998-04-04T00:30:00Z,3,29,31,14,9,Ottawa Senators,/api/v1/teams/9,2,45,21,14,1,New Jersey Devils,/api/v1/teams/1
+1997020965,/api/v1/game/1997020965/feed/live,R,19971998,1998-04-04T02:00:00Z,3,24,40,11,24,Anaheim Ducks,/api/v1/teams/24,6,30,32,11,27,Phoenix Coyotes,/api/v1/teams/27
+1997020966,/api/v1/game/1997020966/feed/live,R,19971998,1998-04-04T02:00:00Z,1,43,20,11,25,Dallas Stars,/api/v1/teams/25,4,30,36,11,22,Edmonton Oilers,/api/v1/teams/22
+1997020973,/api/v1/game/1997020973/feed/live,R,19971998,1998-04-04T19:00:00Z,3,41,20,15,17,Detroit Red Wings,/api/v1/teams/17,2,30,34,15,16,Chicago Blackhawks,/api/v1/teams/16
+1997020974,/api/v1/game/1997020974/feed/live,R,19971998,1998-04-04T19:00:00Z,1,37,24,16,21,Colorado Avalanche,/api/v1/teams/21,4,41,26,16,19,St. Louis Blues,/api/v1/teams/19
+1997020968,/api/v1/game/1997020968/feed/live,R,19971998,1998-04-04T19:00:00Z,0,22,36,18,3,New York Rangers,/api/v1/teams/3,3,26,38,18,2,New York Islanders,/api/v1/teams/2
+1997020969,/api/v1/game/1997020969/feed/live,R,19971998,1998-04-04T19:00:00Z,4,22,40,12,13,Florida Panthers,/api/v1/teams/13,1,39,25,12,4,Philadelphia Flyers,/api/v1/teams/4
+1997020970,/api/v1/game/1997020970/feed/live,R,19971998,1998-04-04T19:00:00Z,2,34,30,11,26,Los Angeles Kings,/api/v1/teams/26,3,36,28,11,15,Washington Capitals,/api/v1/teams/15
+1997020971,/api/v1/game/1997020971/feed/live,R,19971998,1998-04-04T19:00:00Z,4,37,21,17,5,Pittsburgh Penguins,/api/v1/teams/5,1,17,49,17,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020967,/api/v1/game/1997020967/feed/live,R,19971998,1998-04-05T00:30:00Z,1,31,35,8,12,Carolina Hurricanes,/api/v1/teams/12,0,35,30,8,8,Montréal Canadiens,/api/v1/teams/8
+1997020972,/api/v1/game/1997020972/feed/live,R,19971998,1998-04-05T00:30:00Z,5,31,37,8,28,San Jose Sharks,/api/v1/teams/28,3,26,40,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997020975,/api/v1/game/1997020975/feed/live,R,19971998,1998-04-05T03:30:00Z,3,43,21,11,25,Dallas Stars,/api/v1/teams/25,5,24,39,11,23,Vancouver Canucks,/api/v1/teams/23
+1997020979,/api/v1/game/1997020979/feed/live,R,19971998,1998-04-05T19:00:00Z,2,23,36,18,3,New York Rangers,/api/v1/teams/3,1,30,35,18,16,Chicago Blackhawks,/api/v1/teams/16
+1997020976,/api/v1/game/1997020976/feed/live,R,19971998,1998-04-05T19:00:00Z,1,30,31,14,9,Ottawa Senators,/api/v1/teams/9,0,33,27,14,7,Buffalo Sabres,/api/v1/teams/7
+1997020977,/api/v1/game/1997020977/feed/live,R,19971998,1998-04-05T21:00:00Z,2,30,33,12,27,Phoenix Coyotes,/api/v1/teams/27,3,46,21,12,1,New Jersey Devils,/api/v1/teams/1
+1997020978,/api/v1/game/1997020978/feed/live,R,19971998,1998-04-05T22:00:00Z,1,37,22,17,5,Pittsburgh Penguins,/api/v1/teams/5,3,23,40,17,13,Florida Panthers,/api/v1/teams/13
+1997020980,/api/v1/game/1997020980/feed/live,R,19971998,1998-04-06T00:00:00Z,3,25,36,14,20,Calgary Flames,/api/v1/teams/20,3,24,40,14,24,Anaheim Ducks,/api/v1/teams/24
+1997020982,/api/v1/game/1997020982/feed/live,R,19971998,1998-04-06T23:00:00Z,2,35,30,11,8,Montréal Canadiens,/api/v1/teams/8,2,36,28,11,15,Washington Capitals,/api/v1/teams/15
+1997020981,/api/v1/game/1997020981/feed/live,R,19971998,1998-04-06T23:30:00Z,3,32,35,8,12,Carolina Hurricanes,/api/v1/teams/12,0,34,28,8,6,Boston Bruins,/api/v1/teams/6
+1997020983,/api/v1/game/1997020983/feed/live,R,19971998,1998-04-06T23:30:00Z,3,27,38,10,2,New York Islanders,/api/v1/teams/2,0,17,50,10,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020984,/api/v1/game/1997020984/feed/live,R,19971998,1998-04-07T00:30:00Z,2,26,41,9,10,Toronto Maple Leafs,/api/v1/teams/10,4,44,21,9,25,Dallas Stars,/api/v1/teams/25
+1997020985,/api/v1/game/1997020985/feed/live,R,19971998,1998-04-07T01:00:00Z,3,35,30,11,26,Los Angeles Kings,/api/v1/teams/26,1,37,25,11,21,Colorado Avalanche,/api/v1/teams/21
+1997020986,/api/v1/game/1997020986/feed/live,R,19971998,1998-04-07T01:00:00Z,2,24,40,13,23,Vancouver Canucks,/api/v1/teams/23,3,31,36,13,22,Edmonton Oilers,/api/v1/teams/22
+1997020987,/api/v1/game/1997020987/feed/live,R,19971998,1998-04-07T23:30:00Z,2,31,33,12,27,Phoenix Coyotes,/api/v1/teams/27,1,37,23,12,5,Pittsburgh Penguins,/api/v1/teams/5
+1997020988,/api/v1/game/1997020988/feed/live,R,19971998,1998-04-07T23:30:00Z,4,35,28,13,6,Boston Bruins,/api/v1/teams/6,2,30,32,13,9,Ottawa Senators,/api/v1/teams/9
+1997020989,/api/v1/game/1997020989/feed/live,R,19971998,1998-04-07T23:30:00Z,3,36,30,11,8,Montréal Canadiens,/api/v1/teams/8,2,23,37,11,3,New York Rangers,/api/v1/teams/3
+1997020990,/api/v1/game/1997020990/feed/live,R,19971998,1998-04-07T23:30:00Z,3,27,41,9,10,Toronto Maple Leafs,/api/v1/teams/10,1,23,41,9,13,Florida Panthers,/api/v1/teams/13
+1997020991,/api/v1/game/1997020991/feed/live,R,19971998,1998-04-07T23:30:00Z,3,41,27,8,19,St. Louis Blues,/api/v1/teams/19,5,42,20,8,17,Detroit Red Wings,/api/v1/teams/17
+1997020992,/api/v1/game/1997020992/feed/live,R,19971998,1998-04-08T02:30:00Z,0,25,37,14,20,Calgary Flames,/api/v1/teams/20,6,32,37,14,28,San Jose Sharks,/api/v1/teams/28
+1997020993,/api/v1/game/1997020993/feed/live,R,19971998,1998-04-08T23:00:00Z,1,32,36,8,12,Carolina Hurricanes,/api/v1/teams/12,3,34,27,8,7,Buffalo Sabres,/api/v1/teams/7
+1997020994,/api/v1/game/1997020994/feed/live,R,19971998,1998-04-08T23:30:00Z,2,46,22,9,1,New Jersey Devils,/api/v1/teams/1,3,28,38,9,2,New York Islanders,/api/v1/teams/2
+1997020995,/api/v1/game/1997020995/feed/live,R,19971998,1998-04-08T23:30:00Z,6,40,25,11,4,Philadelphia Flyers,/api/v1/teams/4,1,17,51,11,14,Tampa Bay Lightning,/api/v1/teams/14
+1997020996,/api/v1/game/1997020996/feed/live,R,19971998,1998-04-09T00:30:00Z,1,36,29,12,15,Washington Capitals,/api/v1/teams/15,2,45,21,12,25,Dallas Stars,/api/v1/teams/25
+1997020997,/api/v1/game/1997020997/feed/live,R,19971998,1998-04-09T02:30:00Z,2,31,37,10,22,Edmonton Oilers,/api/v1/teams/22,4,25,40,10,24,Anaheim Ducks,/api/v1/teams/24
+1997021003,/api/v1/game/1997021003/feed/live,R,19971998,1998-04-09T23:30:00Z,2,30,36,12,16,Chicago Blackhawks,/api/v1/teams/16,3,42,27,12,19,St. Louis Blues,/api/v1/teams/19
+1997020998,/api/v1/game/1997020998/feed/live,R,19971998,1998-04-09T23:30:00Z,1,28,39,10,2,New York Islanders,/api/v1/teams/2,4,36,28,10,6,Boston Bruins,/api/v1/teams/6
+1997020999,/api/v1/game/1997020999/feed/live,R,19971998,1998-04-09T23:30:00Z,2,27,42,9,10,Toronto Maple Leafs,/api/v1/teams/10,5,33,36,9,12,Carolina Hurricanes,/api/v1/teams/12
+1997021000,/api/v1/game/1997021000/feed/live,R,19971998,1998-04-09T23:30:00Z,1,37,24,17,5,Pittsburgh Penguins,/api/v1/teams/5,4,31,32,17,9,Ottawa Senators,/api/v1/teams/9
+1997021001,/api/v1/game/1997021001/feed/live,R,19971998,1998-04-09T23:30:00Z,2,40,26,11,4,Philadelphia Flyers,/api/v1/teams/4,3,24,41,11,13,Florida Panthers,/api/v1/teams/13
+1997021002,/api/v1/game/1997021002/feed/live,R,19971998,1998-04-09T23:30:00Z,1,31,34,12,27,Phoenix Coyotes,/api/v1/teams/27,5,43,20,12,17,Detroit Red Wings,/api/v1/teams/17
+1997021004,/api/v1/game/1997021004/feed/live,R,19971998,1998-04-10T01:00:00Z,6,25,40,13,23,Vancouver Canucks,/api/v1/teams/23,3,25,38,13,20,Calgary Flames,/api/v1/teams/20
+1997021005,/api/v1/game/1997021005/feed/live,R,19971998,1998-04-10T02:30:00Z,2,25,41,12,24,Anaheim Ducks,/api/v1/teams/24,5,33,37,12,28,San Jose Sharks,/api/v1/teams/28
+1997021006,/api/v1/game/1997021006/feed/live,R,19971998,1998-04-10T02:30:00Z,4,32,37,10,22,Edmonton Oilers,/api/v1/teams/22,0,35,31,10,26,Los Angeles Kings,/api/v1/teams/26
+1997021007,/api/v1/game/1997021007/feed/live,R,19971998,1998-04-10T23:30:00Z,1,36,31,11,8,Montréal Canadiens,/api/v1/teams/8,2,35,27,11,7,Buffalo Sabres,/api/v1/teams/7
+1997021016,/api/v1/game/1997021016/feed/live,R,19971998,1998-04-11T17:00:00Z,4,32,34,12,27,Phoenix Coyotes,/api/v1/teams/27,3,42,28,12,19,St. Louis Blues,/api/v1/teams/19
+1997021009,/api/v1/game/1997021009/feed/live,R,19971998,1998-04-11T17:00:00Z,3,24,41,13,13,Florida Panthers,/api/v1/teams/13,3,37,24,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1997021012,/api/v1/game/1997021012/feed/live,R,19971998,1998-04-11T17:00:00Z,3,36,30,12,15,Washington Capitals,/api/v1/teams/15,4,41,26,12,4,Philadelphia Flyers,/api/v1/teams/4
+1997021013,/api/v1/game/1997021013/feed/live,R,19971998,1998-04-11T17:00:00Z,5,46,21,11,25,Dallas Stars,/api/v1/teams/25,1,17,52,11,14,Tampa Bay Lightning,/api/v1/teams/14
+1997021015,/api/v1/game/1997021015/feed/live,R,19971998,1998-04-11T17:00:00Z,2,23,38,18,3,New York Rangers,/api/v1/teams/3,5,44,20,18,17,Detroit Red Wings,/api/v1/teams/17
+1997021019,/api/v1/game/1997021019/feed/live,R,19971998,1998-04-11T22:00:00Z,3,37,26,16,21,Colorado Avalanche,/api/v1/teams/21,4,36,31,16,26,Los Angeles Kings,/api/v1/teams/26
+1997021008,/api/v1/game/1997021008/feed/live,R,19971998,1998-04-11T23:00:00Z,3,47,22,9,1,New Jersey Devils,/api/v1/teams/1,2,36,29,9,6,Boston Bruins,/api/v1/teams/6
+1997021010,/api/v1/game/1997021010/feed/live,R,19971998,1998-04-11T23:30:00Z,4,35,27,16,7,Buffalo Sabres,/api/v1/teams/7,4,31,32,16,9,Ottawa Senators,/api/v1/teams/9
+1997021011,/api/v1/game/1997021011/feed/live,R,19971998,1998-04-11T23:30:00Z,3,28,39,11,2,New York Islanders,/api/v1/teams/2,3,36,31,11,8,Montréal Canadiens,/api/v1/teams/8
+1997021014,/api/v1/game/1997021014/feed/live,R,19971998,1998-04-11T23:30:00Z,1,33,37,8,12,Carolina Hurricanes,/api/v1/teams/12,5,28,42,8,10,Toronto Maple Leafs,/api/v1/teams/10
+1997021018,/api/v1/game/1997021018/feed/live,R,19971998,1998-04-12T02:30:00Z,1,25,40,14,23,Vancouver Canucks,/api/v1/teams/23,1,33,37,14,28,San Jose Sharks,/api/v1/teams/28
+1997021017,/api/v1/game/1997021017/feed/live,R,19971998,1998-04-12T02:30:00Z,5,33,37,10,22,Edmonton Oilers,/api/v1/teams/22,4,25,39,10,20,Calgary Flames,/api/v1/teams/20
+1997021020,/api/v1/game/1997021020/feed/live,R,19971998,1998-04-12T21:00:00Z,5,24,41,14,13,Florida Panthers,/api/v1/teams/13,5,47,22,14,1,New Jersey Devils,/api/v1/teams/1
+1997021021,/api/v1/game/1997021021/feed/live,R,19971998,1998-04-13T00:00:00Z,2,33,34,12,27,Phoenix Coyotes,/api/v1/teams/27,1,30,37,12,16,Chicago Blackhawks,/api/v1/teams/16
+1997021022,/api/v1/game/1997021022/feed/live,R,19971998,1998-04-13T00:00:00Z,3,42,29,8,19,St. Louis Blues,/api/v1/teams/19,4,47,21,8,25,Dallas Stars,/api/v1/teams/25
+1997021024,/api/v1/game/1997021024/feed/live,R,19971998,1998-04-13T23:00:00Z,1,41,27,11,4,Philadelphia Flyers,/api/v1/teams/4,2,36,27,11,7,Buffalo Sabres,/api/v1/teams/7
+1997021023,/api/v1/game/1997021023/feed/live,R,19971998,1998-04-13T23:30:00Z,3,37,29,13,6,Boston Bruins,/api/v1/teams/6,2,33,38,13,12,Carolina Hurricanes,/api/v1/teams/12
+1997021025,/api/v1/game/1997021025/feed/live,R,19971998,1998-04-13T23:30:00Z,2,37,30,12,15,Washington Capitals,/api/v1/teams/15,0,28,40,12,2,New York Islanders,/api/v1/teams/2
+1997021026,/api/v1/game/1997021026/feed/live,R,19971998,1998-04-13T23:30:00Z,3,32,32,15,9,Ottawa Senators,/api/v1/teams/9,2,17,53,15,14,Tampa Bay Lightning,/api/v1/teams/14
+1997021027,/api/v1/game/1997021027/feed/live,R,19971998,1998-04-14T02:30:00Z,2,25,40,14,20,Calgary Flames,/api/v1/teams/20,4,37,31,14,26,Los Angeles Kings,/api/v1/teams/26
+1997021028,/api/v1/game/1997021028/feed/live,R,19971998,1998-04-14T02:30:00Z,2,37,26,17,21,Colorado Avalanche,/api/v1/teams/21,2,25,41,17,24,Anaheim Ducks,/api/v1/teams/24
+1997021029,/api/v1/game/1997021029/feed/live,R,19971998,1998-04-14T23:30:00Z,1,23,39,18,3,New York Rangers,/api/v1/teams/3,3,38,30,18,15,Washington Capitals,/api/v1/teams/15
+1997021030,/api/v1/game/1997021030/feed/live,R,19971998,1998-04-14T23:30:00Z,3,33,32,15,9,Ottawa Senators,/api/v1/teams/9,2,24,42,15,13,Florida Panthers,/api/v1/teams/13
+1997021031,/api/v1/game/1997021031/feed/live,R,19971998,1998-04-15T02:30:00Z,1,44,21,15,17,Detroit Red Wings,/api/v1/teams/17,2,34,34,15,27,Phoenix Coyotes,/api/v1/teams/27
+1997021032,/api/v1/game/1997021032/feed/live,R,19971998,1998-04-15T23:00:00Z,1,17,54,9,14,Tampa Bay Lightning,/api/v1/teams/14,5,38,24,9,5,Pittsburgh Penguins,/api/v1/teams/5
+1997021033,/api/v1/game/1997021033/feed/live,R,19971998,1998-04-15T23:30:00Z,6,38,29,13,6,Boston Bruins,/api/v1/teams/6,2,36,32,13,8,Montréal Canadiens,/api/v1/teams/8
+1997021034,/api/v1/game/1997021034/feed/live,R,19971998,1998-04-15T23:30:00Z,2,28,41,11,2,New York Islanders,/api/v1/teams/2,4,24,39,11,3,New York Rangers,/api/v1/teams/3
+1997021035,/api/v1/game/1997021035/feed/live,R,19971998,1998-04-15T23:30:00Z,4,36,28,16,7,Buffalo Sabres,/api/v1/teams/7,5,48,22,16,1,New Jersey Devils,/api/v1/teams/1
+1997021036,/api/v1/game/1997021036/feed/live,R,19971998,1998-04-15T23:30:00Z,2,30,38,12,16,Chicago Blackhawks,/api/v1/teams/16,3,29,42,12,10,Toronto Maple Leafs,/api/v1/teams/10
+1997021037,/api/v1/game/1997021037/feed/live,R,19971998,1998-04-16T00:30:00Z,1,44,22,15,17,Detroit Red Wings,/api/v1/teams/17,3,48,21,15,25,Dallas Stars,/api/v1/teams/25
+1997021038,/api/v1/game/1997021038/feed/live,R,19971998,1998-04-16T01:00:00Z,3,33,37,10,28,San Jose Sharks,/api/v1/teams/28,3,25,40,10,20,Calgary Flames,/api/v1/teams/20
+1997021039,/api/v1/game/1997021039/feed/live,R,19971998,1998-04-16T01:00:00Z,3,25,42,13,24,Anaheim Ducks,/api/v1/teams/24,5,34,37,13,22,Edmonton Oilers,/api/v1/teams/22
+1997021040,/api/v1/game/1997021040/feed/live,R,19971998,1998-04-16T02:00:00Z,2,38,31,11,26,Los Angeles Kings,/api/v1/teams/26,0,25,41,11,23,Vancouver Canucks,/api/v1/teams/23
+1997021041,/api/v1/game/1997021041/feed/live,R,19971998,1998-04-16T23:30:00Z,4,39,24,18,5,Pittsburgh Penguins,/api/v1/teams/5,1,33,39,18,12,Carolina Hurricanes,/api/v1/teams/12
+1997021042,/api/v1/game/1997021042/feed/live,R,19971998,1998-04-16T23:30:00Z,2,37,32,12,8,Montréal Canadiens,/api/v1/teams/8,0,33,33,12,9,Ottawa Senators,/api/v1/teams/9
+1997021043,/api/v1/game/1997021043/feed/live,R,19971998,1998-04-16T23:30:00Z,0,17,55,9,14,Tampa Bay Lightning,/api/v1/teams/14,4,29,41,9,2,New York Islanders,/api/v1/teams/2
+1997021044,/api/v1/game/1997021044/feed/live,R,19971998,1998-04-16T23:30:00Z,7,42,27,11,4,Philadelphia Flyers,/api/v1/teams/4,3,24,43,11,13,Florida Panthers,/api/v1/teams/13
+1997021045,/api/v1/game/1997021045/feed/live,R,19971998,1998-04-17T00:30:00Z,1,48,22,11,1,New Jersey Devils,/api/v1/teams/1,1,30,38,11,16,Chicago Blackhawks,/api/v1/teams/16
+1997021046,/api/v1/game/1997021046/feed/live,R,19971998,1998-04-17T01:00:00Z,1,33,38,10,28,San Jose Sharks,/api/v1/teams/28,4,38,26,10,21,Colorado Avalanche,/api/v1/teams/21
+1997021047,/api/v1/game/1997021047/feed/live,R,19971998,1998-04-17T02:00:00Z,2,48,22,11,25,Dallas Stars,/api/v1/teams/25,3,35,34,11,27,Phoenix Coyotes,/api/v1/teams/27
+1997021048,/api/v1/game/1997021048/feed/live,R,19971998,1998-04-17T02:30:00Z,7,43,29,8,19,St. Louis Blues,/api/v1/teams/19,3,38,32,8,26,Los Angeles Kings,/api/v1/teams/26
+1997021049,/api/v1/game/1997021049/feed/live,R,19971998,1998-04-18T02:00:00Z,4,26,40,15,20,Calgary Flames,/api/v1/teams/20,2,25,42,15,23,Vancouver Canucks,/api/v1/teams/23
+1997021050,/api/v1/game/1997021050/feed/live,R,19971998,1998-04-18T17:30:00Z,4,39,30,12,15,Washington Capitals,/api/v1/teams/15,3,33,40,12,12,Carolina Hurricanes,/api/v1/teams/12
+1997021061,/api/v1/game/1997021061/feed/live,R,19971998,1998-04-18T19:00:00Z,4,26,42,13,24,Anaheim Ducks,/api/v1/teams/24,1,38,33,13,26,Los Angeles Kings,/api/v1/teams/26
+1997021057,/api/v1/game/1997021057/feed/live,R,19971998,1998-04-18T19:00:00Z,3,44,23,15,17,Detroit Red Wings,/api/v1/teams/17,4,39,26,15,21,Colorado Avalanche,/api/v1/teams/21
+1997021056,/api/v1/game/1997021056/feed/live,R,19971998,1998-04-18T19:00:00Z,1,30,39,13,16,Chicago Blackhawks,/api/v1/teams/16,3,49,22,13,25,Dallas Stars,/api/v1/teams/25
+1997021051,/api/v1/game/1997021051/feed/live,R,19971998,1998-04-18T19:00:00Z,2,38,30,13,6,Boston Bruins,/api/v1/teams/6,5,40,24,13,5,Pittsburgh Penguins,/api/v1/teams/5
+1997021054,/api/v1/game/1997021054/feed/live,R,19971998,1998-04-18T19:00:00Z,2,25,39,18,3,New York Rangers,/api/v1/teams/3,1,42,28,18,4,Philadelphia Flyers,/api/v1/teams/4
+1997021055,/api/v1/game/1997021055/feed/live,R,19971998,1998-04-18T19:00:00Z,2,24,43,15,13,Florida Panthers,/api/v1/teams/13,2,17,55,15,14,Tampa Bay Lightning,/api/v1/teams/14
+1997021058,/api/v1/game/1997021058/feed/live,R,19971998,1998-04-18T23:30:00Z,5,44,29,8,19,St. Louis Blues,/api/v1/teams/19,4,35,35,8,27,Phoenix Coyotes,/api/v1/teams/27
+1997021052,/api/v1/game/1997021052/feed/live,R,19971998,1998-04-18T23:30:00Z,3,36,28,17,7,Buffalo Sabres,/api/v1/teams/7,3,37,32,17,8,Montréal Canadiens,/api/v1/teams/8
+1997021053,/api/v1/game/1997021053/feed/live,R,19971998,1998-04-18T23:30:00Z,2,30,41,11,2,New York Islanders,/api/v1/teams/2,1,48,23,11,1,New Jersey Devils,/api/v1/teams/1
+1997021060,/api/v1/game/1997021060/feed/live,R,19971998,1998-04-19T02:30:00Z,1,26,41,15,20,Calgary Flames,/api/v1/teams/20,4,34,38,15,28,San Jose Sharks,/api/v1/teams/28
+1997021059,/api/v1/game/1997021059/feed/live,R,19971998,1998-04-19T02:30:00Z,3,29,43,9,10,Toronto Maple Leafs,/api/v1/teams/10,4,35,37,9,22,Edmonton Oilers,/api/v1/teams/22
+1997021064,/api/v1/game/1997021064/feed/live,R,19971998,1998-04-19T17:30:00Z,1,33,41,8,12,Carolina Hurricanes,/api/v1/teams/12,2,40,30,8,15,Washington Capitals,/api/v1/teams/15
+1997021062,/api/v1/game/1997021062/feed/live,R,19971998,1998-04-19T19:00:00Z,1,42,29,11,4,Philadelphia Flyers,/api/v1/teams/4,2,39,30,11,6,Boston Bruins,/api/v1/teams/6
+1997021063,/api/v1/game/1997021063/feed/live,R,19971998,1998-04-19T23:00:00Z,2,34,33,15,9,Ottawa Senators,/api/v1/teams/9,1,36,29,15,7,Buffalo Sabres,/api/v1/teams/7
+1997021065,/api/v1/game/1997021065/feed/live,R,19971998,1998-04-20T00:00:00Z,2,30,43,9,10,Toronto Maple Leafs,/api/v1/teams/10,1,25,43,9,23,Vancouver Canucks,/api/v1/teams/23
+1997021066,/api/v1/game/1997021066/feed/live,R,19971998,1998-04-20T00:00:00Z,5,45,29,8,19,St. Louis Blues,/api/v1/teams/19,3,26,43,8,24,Anaheim Ducks,/api/v1/teams/24
+1997030141,/api/v1/game/1997030141/feed/live,P,19971998,1998-04-22T23:00:00Z,1,0,1,,6,Boston Bruins,/api/v1/teams/6,3,1,0,,15,Washington Capitals,/api/v1/teams/15
+1997030111,/api/v1/game/1997030111/feed/live,P,19971998,1998-04-22T23:30:00Z,2,1,0,,9,Ottawa Senators,/api/v1/teams/9,1,0,1,,1,New Jersey Devils,/api/v1/teams/1
+1997030131,/api/v1/game/1997030131/feed/live,P,19971998,1998-04-22T23:30:00Z,3,1,0,,7,Buffalo Sabres,/api/v1/teams/7,2,0,1,,4,Philadelphia Flyers,/api/v1/teams/4
+1997030171,/api/v1/game/1997030171/feed/live,P,19971998,1998-04-22T23:30:00Z,3,0,1,,27,Phoenix Coyotes,/api/v1/teams/27,6,1,0,,17,Detroit Red Wings,/api/v1/teams/17
+1997030151,/api/v1/game/1997030151/feed/live,P,19971998,1998-04-23T00:30:00Z,1,0,1,,28,San Jose Sharks,/api/v1/teams/28,4,1,0,,25,Dallas Stars,/api/v1/teams/25
+1997030161,/api/v1/game/1997030161/feed/live,P,19971998,1998-04-23T01:00:00Z,3,1,0,,22,Edmonton Oilers,/api/v1/teams/22,2,0,1,,21,Colorado Avalanche,/api/v1/teams/21
+1997030181,/api/v1/game/1997030181/feed/live,P,19971998,1998-04-23T23:30:00Z,3,0,1,,26,Los Angeles Kings,/api/v1/teams/26,8,1,0,,19,St. Louis Blues,/api/v1/teams/19
+1997030121,/api/v1/game/1997030121/feed/live,P,19971998,1998-04-23T23:30:00Z,3,1,0,,8,Montréal Canadiens,/api/v1/teams/8,2,0,1,,5,Pittsburgh Penguins,/api/v1/teams/5
+1997030142,/api/v1/game/1997030142/feed/live,P,19971998,1998-04-24T23:00:00Z,4,1,1,,6,Boston Bruins,/api/v1/teams/6,3,1,1,,15,Washington Capitals,/api/v1/teams/15
+1997030112,/api/v1/game/1997030112/feed/live,P,19971998,1998-04-24T23:30:00Z,1,1,1,,9,Ottawa Senators,/api/v1/teams/9,3,1,1,,1,New Jersey Devils,/api/v1/teams/1
+1997030132,/api/v1/game/1997030132/feed/live,P,19971998,1998-04-24T23:30:00Z,2,1,1,,7,Buffalo Sabres,/api/v1/teams/7,3,1,1,,4,Philadelphia Flyers,/api/v1/teams/4
+1997030172,/api/v1/game/1997030172/feed/live,P,19971998,1998-04-24T23:30:00Z,7,1,1,,27,Phoenix Coyotes,/api/v1/teams/27,4,1,1,,17,Detroit Red Wings,/api/v1/teams/17
+1997030152,/api/v1/game/1997030152/feed/live,P,19971998,1998-04-25T00:30:00Z,2,0,2,,28,San Jose Sharks,/api/v1/teams/28,5,2,0,,25,Dallas Stars,/api/v1/teams/25
+1997030162,/api/v1/game/1997030162/feed/live,P,19971998,1998-04-25T02:30:00Z,2,1,1,,22,Edmonton Oilers,/api/v1/teams/22,5,1,1,,21,Colorado Avalanche,/api/v1/teams/21
+1997030182,/api/v1/game/1997030182/feed/live,P,19971998,1998-04-25T23:30:00Z,1,0,2,,26,Los Angeles Kings,/api/v1/teams/26,2,2,0,,19,St. Louis Blues,/api/v1/teams/19
+1997030122,/api/v1/game/1997030122/feed/live,P,19971998,1998-04-25T23:30:00Z,1,1,1,,8,Montréal Canadiens,/api/v1/teams/8,4,1,1,,5,Pittsburgh Penguins,/api/v1/teams/5
+1997030113,/api/v1/game/1997030113/feed/live,P,19971998,1998-04-26T18:00:00Z,1,1,2,,1,New Jersey Devils,/api/v1/teams/1,2,2,1,,9,Ottawa Senators,/api/v1/teams/9
+1997030143,/api/v1/game/1997030143/feed/live,P,19971998,1998-04-26T18:00:00Z,3,2,1,,15,Washington Capitals,/api/v1/teams/15,2,1,2,,6,Boston Bruins,/api/v1/teams/6
+1997030153,/api/v1/game/1997030153/feed/live,P,19971998,1998-04-26T19:00:00Z,1,2,1,,25,Dallas Stars,/api/v1/teams/25,4,1,2,,28,San Jose Sharks,/api/v1/teams/28
+1997030173,/api/v1/game/1997030173/feed/live,P,19971998,1998-04-26T19:00:00Z,2,1,2,,17,Detroit Red Wings,/api/v1/teams/17,3,2,1,,27,Phoenix Coyotes,/api/v1/teams/27
+1997030163,/api/v1/game/1997030163/feed/live,P,19971998,1998-04-26T22:00:00Z,5,2,1,,21,Colorado Avalanche,/api/v1/teams/21,4,1,2,,22,Edmonton Oilers,/api/v1/teams/22
+1997030123,/api/v1/game/1997030123/feed/live,P,19971998,1998-04-27T23:30:00Z,1,1,2,,5,Pittsburgh Penguins,/api/v1/teams/5,3,2,1,,8,Montréal Canadiens,/api/v1/teams/8
+1997030133,/api/v1/game/1997030133/feed/live,P,19971998,1998-04-27T23:30:00Z,1,1,2,,4,Philadelphia Flyers,/api/v1/teams/4,6,2,1,,7,Buffalo Sabres,/api/v1/teams/7
+1997030183,/api/v1/game/1997030183/feed/live,P,19971998,1998-04-28T02:30:00Z,4,3,0,,19,St. Louis Blues,/api/v1/teams/19,3,0,3,,26,Los Angeles Kings,/api/v1/teams/26
+1997030114,/api/v1/game/1997030114/feed/live,P,19971998,1998-04-28T23:30:00Z,3,1,3,,1,New Jersey Devils,/api/v1/teams/1,4,3,1,,9,Ottawa Senators,/api/v1/teams/9
+1997030144,/api/v1/game/1997030144/feed/live,P,19971998,1998-04-28T23:30:00Z,3,3,1,,15,Washington Capitals,/api/v1/teams/15,0,1,3,,6,Boston Bruins,/api/v1/teams/6
+1997030164,/api/v1/game/1997030164/feed/live,P,19971998,1998-04-29T01:00:00Z,3,3,1,,21,Colorado Avalanche,/api/v1/teams/21,1,1,3,,22,Edmonton Oilers,/api/v1/teams/22
+1997030154,/api/v1/game/1997030154/feed/live,P,19971998,1998-04-29T02:30:00Z,0,2,2,,25,Dallas Stars,/api/v1/teams/25,1,2,2,,28,San Jose Sharks,/api/v1/teams/28
+1997030174,/api/v1/game/1997030174/feed/live,P,19971998,1998-04-29T02:30:00Z,4,2,2,,17,Detroit Red Wings,/api/v1/teams/17,2,2,2,,27,Phoenix Coyotes,/api/v1/teams/27
+1997030124,/api/v1/game/1997030124/feed/live,P,19971998,1998-04-29T23:30:00Z,6,2,2,,5,Pittsburgh Penguins,/api/v1/teams/5,3,2,2,,8,Montréal Canadiens,/api/v1/teams/8
+1997030134,/api/v1/game/1997030134/feed/live,P,19971998,1998-04-29T23:30:00Z,1,1,3,,4,Philadelphia Flyers,/api/v1/teams/4,4,3,1,,7,Buffalo Sabres,/api/v1/teams/7
+1997030184,/api/v1/game/1997030184/feed/live,P,19971998,1998-04-30T02:30:00Z,2,4,0,,19,St. Louis Blues,/api/v1/teams/19,1,0,4,,26,Los Angeles Kings,/api/v1/teams/26
+1997030155,/api/v1/game/1997030155/feed/live,P,19971998,1998-04-30T23:30:00Z,2,2,3,,28,San Jose Sharks,/api/v1/teams/28,3,3,2,,25,Dallas Stars,/api/v1/teams/25
+1997030115,/api/v1/game/1997030115/feed/live,P,19971998,1998-04-30T23:30:00Z,1,3,2,,9,Ottawa Senators,/api/v1/teams/9,3,2,3,,1,New Jersey Devils,/api/v1/teams/1
+1997030175,/api/v1/game/1997030175/feed/live,P,19971998,1998-04-30T23:30:00Z,1,2,3,,27,Phoenix Coyotes,/api/v1/teams/27,3,3,2,,17,Detroit Red Wings,/api/v1/teams/17
+1997030165,/api/v1/game/1997030165/feed/live,P,19971998,1998-05-01T01:00:00Z,3,2,3,,22,Edmonton Oilers,/api/v1/teams/22,1,3,2,,21,Colorado Avalanche,/api/v1/teams/21
+1997030125,/api/v1/game/1997030125/feed/live,P,19971998,1998-05-01T23:30:00Z,5,3,2,,8,Montréal Canadiens,/api/v1/teams/8,2,2,3,,5,Pittsburgh Penguins,/api/v1/teams/5
+1997030135,/api/v1/game/1997030135/feed/live,P,19971998,1998-05-01T23:30:00Z,3,4,1,,7,Buffalo Sabres,/api/v1/teams/7,2,1,4,,4,Philadelphia Flyers,/api/v1/teams/4
+1997030145,/api/v1/game/1997030145/feed/live,P,19971998,1998-05-01T23:30:00Z,4,2,3,,6,Boston Bruins,/api/v1/teams/6,0,3,2,,15,Washington Capitals,/api/v1/teams/15
+1997030116,/api/v1/game/1997030116/feed/live,P,19971998,1998-05-02T23:30:00Z,1,2,4,,1,New Jersey Devils,/api/v1/teams/1,3,4,2,,9,Ottawa Senators,/api/v1/teams/9
+1997030156,/api/v1/game/1997030156/feed/live,P,19971998,1998-05-03T01:00:00Z,3,4,2,,25,Dallas Stars,/api/v1/teams/25,2,2,4,,28,San Jose Sharks,/api/v1/teams/28
+1997030166,/api/v1/game/1997030166/feed/live,P,19971998,1998-05-03T02:30:00Z,0,3,3,,21,Colorado Avalanche,/api/v1/teams/21,2,3,3,,22,Edmonton Oilers,/api/v1/teams/22
+1997030146,/api/v1/game/1997030146/feed/live,P,19971998,1998-05-03T18:00:00Z,3,4,2,,15,Washington Capitals,/api/v1/teams/15,2,2,4,,6,Boston Bruins,/api/v1/teams/6
+1997030176,/api/v1/game/1997030176/feed/live,P,19971998,1998-05-03T19:00:00Z,5,4,2,,17,Detroit Red Wings,/api/v1/teams/17,2,2,4,,27,Phoenix Coyotes,/api/v1/teams/27
+1997030126,/api/v1/game/1997030126/feed/live,P,19971998,1998-05-03T23:30:00Z,0,2,4,,5,Pittsburgh Penguins,/api/v1/teams/5,3,4,2,,8,Montréal Canadiens,/api/v1/teams/8
+1997030167,/api/v1/game/1997030167/feed/live,P,19971998,1998-05-05T01:00:00Z,4,4,3,,22,Edmonton Oilers,/api/v1/teams/22,0,3,4,,21,Colorado Avalanche,/api/v1/teams/21
+1997030211,/api/v1/game/1997030211/feed/live,P,19971998,1998-05-07T23:00:00Z,2,4,3,,9,Ottawa Senators,/api/v1/teams/9,4,5,2,,15,Washington Capitals,/api/v1/teams/15
+1997030231,/api/v1/game/1997030231/feed/live,P,19971998,1998-05-08T00:00:00Z,1,4,4,,22,Edmonton Oilers,/api/v1/teams/22,3,5,2,,25,Dallas Stars,/api/v1/teams/25
+1997030221,/api/v1/game/1997030221/feed/live,P,19971998,1998-05-08T23:30:00Z,2,4,3,,8,Montréal Canadiens,/api/v1/teams/8,3,5,1,,7,Buffalo Sabres,/api/v1/teams/7
+1997030241,/api/v1/game/1997030241/feed/live,P,19971998,1998-05-08T23:30:00Z,4,5,0,,19,St. Louis Blues,/api/v1/teams/19,2,4,3,,17,Detroit Red Wings,/api/v1/teams/17
+1997030212,/api/v1/game/1997030212/feed/live,P,19971998,1998-05-09T23:00:00Z,1,4,4,,9,Ottawa Senators,/api/v1/teams/9,6,6,2,,15,Washington Capitals,/api/v1/teams/15
+1997030232,/api/v1/game/1997030232/feed/live,P,19971998,1998-05-09T23:30:00Z,2,5,4,,22,Edmonton Oilers,/api/v1/teams/22,0,5,3,,25,Dallas Stars,/api/v1/teams/25
+1997030222,/api/v1/game/1997030222/feed/live,P,19971998,1998-05-10T18:00:00Z,3,4,4,,8,Montréal Canadiens,/api/v1/teams/8,6,6,1,,7,Buffalo Sabres,/api/v1/teams/7
+1997030242,/api/v1/game/1997030242/feed/live,P,19971998,1998-05-10T18:00:00Z,1,5,1,,19,St. Louis Blues,/api/v1/teams/19,6,5,3,,17,Detroit Red Wings,/api/v1/teams/17
+1997030213,/api/v1/game/1997030213/feed/live,P,19971998,1998-05-11T23:00:00Z,3,6,3,,15,Washington Capitals,/api/v1/teams/15,4,5,4,,9,Ottawa Senators,/api/v1/teams/9
+1997030233,/api/v1/game/1997030233/feed/live,P,19971998,1998-05-12T00:30:00Z,1,6,3,,25,Dallas Stars,/api/v1/teams/25,0,5,5,,22,Edmonton Oilers,/api/v1/teams/22
+1997030243,/api/v1/game/1997030243/feed/live,P,19971998,1998-05-12T23:30:00Z,3,6,3,,17,Detroit Red Wings,/api/v1/teams/17,2,5,2,,19,St. Louis Blues,/api/v1/teams/19
+1997030223,/api/v1/game/1997030223/feed/live,P,19971998,1998-05-12T23:30:00Z,5,7,1,,7,Buffalo Sabres,/api/v1/teams/7,4,4,5,,8,Montréal Canadiens,/api/v1/teams/8
+1997030214,/api/v1/game/1997030214/feed/live,P,19971998,1998-05-13T23:00:00Z,2,7,3,,15,Washington Capitals,/api/v1/teams/15,0,5,5,,9,Ottawa Senators,/api/v1/teams/9
+1997030234,/api/v1/game/1997030234/feed/live,P,19971998,1998-05-14T01:30:00Z,3,7,3,,25,Dallas Stars,/api/v1/teams/25,1,5,6,,22,Edmonton Oilers,/api/v1/teams/22
+1997030244,/api/v1/game/1997030244/feed/live,P,19971998,1998-05-14T23:30:00Z,5,7,3,,17,Detroit Red Wings,/api/v1/teams/17,2,5,3,,19,St. Louis Blues,/api/v1/teams/19
+1997030224,/api/v1/game/1997030224/feed/live,P,19971998,1998-05-14T23:30:00Z,3,8,1,,7,Buffalo Sabres,/api/v1/teams/7,1,4,6,,8,Montréal Canadiens,/api/v1/teams/8
+1997030215,/api/v1/game/1997030215/feed/live,P,19971998,1998-05-15T23:00:00Z,0,5,6,,9,Ottawa Senators,/api/v1/teams/9,3,8,3,,15,Washington Capitals,/api/v1/teams/15
+1997030235,/api/v1/game/1997030235/feed/live,P,19971998,1998-05-16T23:30:00Z,1,5,7,,22,Edmonton Oilers,/api/v1/teams/22,2,8,3,,25,Dallas Stars,/api/v1/teams/25
+1997030245,/api/v1/game/1997030245/feed/live,P,19971998,1998-05-17T18:00:00Z,3,6,3,,19,St. Louis Blues,/api/v1/teams/19,1,7,4,,17,Detroit Red Wings,/api/v1/teams/17
+1997030246,/api/v1/game/1997030246/feed/live,P,19971998,1998-05-19T23:30:00Z,6,8,4,,17,Detroit Red Wings,/api/v1/teams/17,1,6,4,,19,St. Louis Blues,/api/v1/teams/19
+1997030311,/api/v1/game/1997030311/feed/live,P,19971998,1998-05-23T23:30:00Z,2,9,1,,7,Buffalo Sabres,/api/v1/teams/7,0,8,4,,15,Washington Capitals,/api/v1/teams/15
+1997030321,/api/v1/game/1997030321/feed/live,P,19971998,1998-05-24T19:00:00Z,2,9,4,,17,Detroit Red Wings,/api/v1/teams/17,0,8,4,,25,Dallas Stars,/api/v1/teams/25
+1997030312,/api/v1/game/1997030312/feed/live,P,19971998,1998-05-25T23:30:00Z,2,9,2,,7,Buffalo Sabres,/api/v1/teams/7,3,9,4,,15,Washington Capitals,/api/v1/teams/15
+1997030322,/api/v1/game/1997030322/feed/live,P,19971998,1998-05-27T01:00:00Z,1,9,5,,17,Detroit Red Wings,/api/v1/teams/17,3,9,4,,25,Dallas Stars,/api/v1/teams/25
+1997030313,/api/v1/game/1997030313/feed/live,P,19971998,1998-05-28T23:30:00Z,4,10,4,,15,Washington Capitals,/api/v1/teams/15,3,9,3,,7,Buffalo Sabres,/api/v1/teams/7
+1997030323,/api/v1/game/1997030323/feed/live,P,19971998,1998-05-29T23:30:00Z,3,9,5,,25,Dallas Stars,/api/v1/teams/25,5,10,5,,17,Detroit Red Wings,/api/v1/teams/17
+1997030314,/api/v1/game/1997030314/feed/live,P,19971998,1998-05-30T23:30:00Z,2,11,4,,15,Washington Capitals,/api/v1/teams/15,0,9,4,,7,Buffalo Sabres,/api/v1/teams/7
+1997030324,/api/v1/game/1997030324/feed/live,P,19971998,1998-05-31T18:00:00Z,2,9,6,,25,Dallas Stars,/api/v1/teams/25,3,11,5,,17,Detroit Red Wings,/api/v1/teams/17
+1997030315,/api/v1/game/1997030315/feed/live,P,19971998,1998-06-02T23:30:00Z,2,10,4,,7,Buffalo Sabres,/api/v1/teams/7,1,11,5,,15,Washington Capitals,/api/v1/teams/15
+1997030325,/api/v1/game/1997030325/feed/live,P,19971998,1998-06-04T00:30:00Z,2,11,6,,17,Detroit Red Wings,/api/v1/teams/17,3,10,6,,25,Dallas Stars,/api/v1/teams/25
+1997030316,/api/v1/game/1997030316/feed/live,P,19971998,1998-06-04T23:30:00Z,3,12,5,,15,Washington Capitals,/api/v1/teams/15,2,10,5,,7,Buffalo Sabres,/api/v1/teams/7
+1997030326,/api/v1/game/1997030326/feed/live,P,19971998,1998-06-05T23:30:00Z,0,10,7,,25,Dallas Stars,/api/v1/teams/25,2,12,6,,17,Detroit Red Wings,/api/v1/teams/17
+1997030411,/api/v1/game/1997030411/feed/live,P,19971998,1998-06-10T00:00:00Z,1,12,6,,15,Washington Capitals,/api/v1/teams/15,2,13,6,,17,Detroit Red Wings,/api/v1/teams/17
+1997030412,/api/v1/game/1997030412/feed/live,P,19971998,1998-06-12T00:00:00Z,4,12,7,,15,Washington Capitals,/api/v1/teams/15,5,14,6,,17,Detroit Red Wings,/api/v1/teams/17
+1997030413,/api/v1/game/1997030413/feed/live,P,19971998,1998-06-14T00:00:00Z,2,15,6,,17,Detroit Red Wings,/api/v1/teams/17,1,12,8,,15,Washington Capitals,/api/v1/teams/15
+1997030414,/api/v1/game/1997030414/feed/live,P,19971998,1998-06-17T00:00:00Z,4,16,6,,17,Detroit Red Wings,/api/v1/teams/17,1,12,9,,15,Washington Capitals,/api/v1/teams/15
